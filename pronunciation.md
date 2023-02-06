@@ -25,3 +25,24 @@ The letters that represent vowels are the same in Italian as in English, though 
 ### U
 
 **U** is pronounced like the _oo_ sound in _boot_, or as in the exclamation _ooh!_: **Ugo** (OOh-goh) _Hugh_ and _Hugo_.
+
+## Dipthongs
+
+The Italian letter **i** sounds similar to the English _y_ in _yes_ before a stressed vowel.
+
+The Italian letter **u** sounds similar to the English _w_ in _way_ before a stressed vowel.
+
+| Italian | Pronunciation | English |
+| --- | --- | --- |
+| B**ia**go | (byAh-joh) | _Blaise_ |
+| P**ie**tro | (pyEh-troh) | _Peter_ |
+| G**ui**do | (gwEEh-doh) | _Guy_ |
+| Pasq**ua**le | (pahs-kwAh-leh) | _Pascal_ |
+
+In some words **i** and **u** are pronounced as belonging to seperate syllables.  There is no accent in Italian to indicate this behavior.
+
+| Italian | Pronunciation | English |
+| --- | --- | --- |
+| Mar**ia** | (mah-rEEh-ah) | _Mary_ |
+| Vittor**io** | (veeht-tOh-reeh-oh) | _Victor_ |
+| L**ui**gi | (looh-EEh-jeeh) | _Louis_ |
