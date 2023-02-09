@@ -42,7 +42,9 @@ Words with an accent mark on the final vowel means that vowel must be stressed.
 
 ## Consonants
 
-Most Italian consonants are pronounced in the same way they are pronounced in English.
+Most Italian consonants are pronounced in the same way they are pronounced in English.  TheItalian alphabet contains many of the same characters, except for the letters **j, k, w, x,** and **y**.
+
+The letter **h** exists in Italian, but it is not pronounced.
 
 ### P
 
@@ -80,10 +82,26 @@ To pronounce the Italian letter **r**, roll your tounge a few times on the ridge
 
 ### K
 
-The hard **k** sound is spelled as **c** before consonants  and the vowels **a**, **o**, and **u**.  It is spelled **ch** before the vowels **e** and **i**.  
+The hard **k** sound is spelled as **c** before consonants and the vowels **a**, **o**, and **u**.  It is spelled **ch** before the vowels **e** and **i**.  
 
 The sound sequence **kw** is spelled (usually) as **qu**.
 
 ### CH
 
 The soft **ch** sound (as in _church_) is specced as **c** before the vowels **e** and **i**.  It is spelled as **ci** before the vowels **a**, **o**, and **u**.  
+
+### G
+
+The hard **g** sound is spelled as **g** before consonants and the vowels **a**, **o**, and **u**.  It is spelled **gh** before the vowels **e** and **i**. 
+
+The sound sequence **gw** is spelled (usually) as **gu**.
+
+### J
+
+The soft **j** sound is spelled as **g** before the vowels **e** and **i**.  It is spelled as **gi** before the vowels **a**, **o**, and **u**
+
+### SK
+
+The sound **sk** is spelled as **sc** before consonants and the vowels **a**, **o**, and **u**. It is spelled **sch** before the vowels **e** and **i**.
+
+The soft **sh** (as in _shoe_) is spelled as **sc** before the vowels **e** and **i**.  
