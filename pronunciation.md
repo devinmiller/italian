@@ -16,7 +16,7 @@ The letters that represent vowels are the same in Italian as in English, though 
 
 ### I
 
-**I** is pronounced like the _i_ sound in _machine_, or as in hte exclamation _eeh!_: **Ida** (EEh-dah) _Ida_.
+**I** is pronounced like the _i_ sound in _machine_, or as in the exclamation _eeh!_: **Ida** (EEh-dah) _Ida_.
 
 ### O
 
@@ -32,17 +32,58 @@ The Italian letter **i** sounds similar to the English _y_ in _yes_ before a str
 
 The Italian letter **u** sounds similar to the English _w_ in _way_ before a stressed vowel.
 
-| Italian | Pronunciation | English |
-| --- | --- | --- |
-| B**ia**go | (byAh-joh) | _Blaise_ |
-| P**ie**tro | (pyEh-troh) | _Peter_ |
-| G**ui**do | (gwEEh-doh) | _Guy_ |
-| Pasq**ua**le | (pahs-kwAh-leh) | _Pascal_ |
-
 In some words **i** and **u** are pronounced as belonging to seperate syllables.  There is no accent in Italian to indicate this behavior.
 
-| Italian | Pronunciation | English |
-| --- | --- | --- |
-| Mar**ia** | (mah-rEEh-ah) | _Mary_ |
-| Vittor**io** | (veeht-tOh-reeh-oh) | _Victor_ |
-| L**ui**gi | (looh-EEh-jeeh) | _Louis_ |
+In most words, the stress falls on the next-to-last syllable.
+
+However, that is not always the case.
+
+Words with an accent mark on the final vowel means that vowel must be stressed.
+
+## Consonants
+
+Most Italian consonants are pronounced in the same way they are pronounced in English.
+
+### P
+
+The Italian letter **p** is not accompanied by a puff of air as at the beginning of some English words.
+
+### T / D
+
+The sound of Italian letters **t** and **d** do not correspond directly to the sounds of the English letters.  The tounge is placed on the upper teeth, not just above them.  Like the letter **p** they should produce less air.
+
+### L
+
+The sound of Italian _l_ is the same as the English _l_ in _love_, but never like _l_ and the end of a syllable or word like _bill_ or _filler_.
+
+### GLI
+
+The sound represented by **gli** is similar to the English _lli_ in _million_, but much more forceful.
+
+### GN
+
+The sound represented by **gn** is similar to the English _ny_ in _canyon_, but much more forceful.
+
+### S
+
+The Italian **s** can be both the English _s_ sound in the word _sip_, or the _z_ sound in _zip_.
+
+The Italian **z** sound is used before **b, d, g, l, m, n, r, v** and between vowels; otherwise the **s** sound is used.
+
+### Z
+
+The letter **z** stands for the _ts_ sound as in the English word _cats_ or the _ds_ sound as in _lads_.
+
+### R
+
+To pronounce the Italian letter **r**, roll your tounge a few times on the ridge above your top front teeth.
+
+### K
+
+The hard **k** sound is spelled as **c** before consonants  and the vowels **a**, **o**, and **u**.  It is spelled **ch** before the vowels **e** and **i**.  
+
+The sound sequence **kw** is spelled (usually) as **qu**.
+
+### CH
+
+The soft **ch** sound (as in _church_) is specced as **c** before the vowels **e** and **i**.  It is spelled as **ci** before the vowels **a**, **o**, and **u**.  
