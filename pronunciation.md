@@ -88,7 +88,7 @@ The sound sequence **kw** is spelled (usually) as **qu**.
 
 ### CH
 
-The soft **ch** sound (as in _church_) is specced as **c** before the vowels **e** and **i**.  It is spelled as **ci** before the vowels **a**, **o**, and **u**.  
+The soft **ch** sound (as in _church_) is spelled as **c** before the vowels **e** and **i**.  It is spelled as **ci** before the vowels **a**, **o**, and **u**.  
 
 ### G
 
