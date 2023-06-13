@@ -85,3 +85,38 @@ che is more informal
 
 poco = few (quantity) (ho poco tempo) (I have little/few time)
 piccolo = size
+
+come va / come stai / tutto a posto = how are you
+hanno senso = make sense
+
+spesso = often
+tutte le mattine = every morning
+
+da = from (ongoing)
+per = for (completed)
+
+abitare = to live (geographical location of _your_ house)
+vivere = to live (geographical or in general)
+
+qualcosa da ... = something to ...
+presto = soon, early
+pronto = ready
+mezz'ora = half hour
+
+uscire = to leave (a place); go out;
+partire = to leave (on a trip)
+
+sentire = to hear
+sentirsi = to feel
+
+this = questo
+that = quel (changes ending like articles)
+
+novità = new / what's new
+
+a che ora = at what time
+
+time = article + number (no ora)
+article + day of the week = every (day of week)
+qualche volta = sometimes
+lo so = I know
