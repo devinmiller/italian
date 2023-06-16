@@ -120,3 +120,32 @@ time = article + number (no ora)
 article + day of the week = every (day of week)
 qualche volta = sometimes
 lo so = I know
+
+san gimignano
+
+estero = abroad
+
+finire + di + infinitive (to finish + something)
+iniziare + a + infinite (to start + something)
+
+reflexives
+
+mi lavo le mani
+
+quando = when
+quanto/a/e/i = how many / how much
+dove = where
+quale/i = which
+come = how
+chi = who
+perchè = why / because
+
+what = cosa, che cosa, che
+(more unknown)
+
+quali (which)
+
+cosa and che cosa are the same
+che is more informal
+
+learn fare conjugations
