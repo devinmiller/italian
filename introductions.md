@@ -126,7 +126,7 @@ san gimignano
 estero = abroad
 
 finire + di + infinitive (to finish + something)
-iniziare + a + infinite (to start + something)
+iniziare + a + infinitive (to start + something)
 
 reflexives
 
