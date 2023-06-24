@@ -126,7 +126,20 @@ san gimignano
 estero = abroad
 
 finire + di + infinitive (to finish + something)
-iniziare + a + infinitive (to start + something)
+iniziare + a + infinitive (to start + something) (standard and polite)
+mettersi + a + infinite (morei nformal)
+
+dare del lei = to speak informally
+
+trovarsi + bene/male = very common
+
+ti sei trovato bene a Venezia?
+ti sei trovato bene a usare queò servizio?
+
+ma = always at the start
+però = at the start of line or after (more common, less formal)
+
+tuttavia = more formal
 
 reflexives
 
@@ -149,3 +162,47 @@ cosa and che cosa are the same
 che is more informal
 
 learn fare conjugations
+
+a volte / qualche volta / ogni tanto = sometimes
+
+inverno = winter
+primavera = spring
+estate = summer
+autunno = fall
+preferita = favorite
+di solito = usually
+
+ci sono = there
+molte persona = many people
+
+mi piache = 3rd singular
+mi piacciono = 3rd plural
+
+words that end in -ma are masculine
+
+non mi va = I don't feel like it (informal)
+dare / fare (more common) una festa = to "throw a party"
+
+fare shopping = vestite
+fare la spesa = solo cibo
+valigie = bag / luggage
+borsa = bag (maybe purse)
+
+che invidia = I'm jealous / envious for thing (oggetti, vita, vacanze)
+geloso = jealous, but only people
+
+alcuni giorni = qualche giorno 
+qualche = always singular
+
+sentire = to hear
+sentirsi = to feel
+
+dopo = after 
+allora = well, then, so...
+
+fa male = does bad
+
+riposare = to rest
+restare = remain, stay
+
+ne = of these/them
