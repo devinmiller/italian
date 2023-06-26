@@ -31,7 +31,7 @@ A reflexive verb is identifiable by the ending **-si** / _oneself_.
 - riposarsi (to rest)
 - scusarsi (to apologize)
 - sentirsi (to feel)
-- spogliarsi
+- spogliarsi (to undress)
 - sposarsi (to get married)
 - svegliarsi (to wake up)
 - vergognarsi (to be ashamed)
