@@ -11,7 +11,7 @@ A reflexive verb is identifiable by the ending **-si** / _oneself_.
 
 ## Common Reflexive Verbs
 
-- addormentarsi (to fall asleep)
+- addormentarsi (to go to sleep, fall asleep)
 - alzarsi (to get up, stand up)
 - ammalarsi (to get sick, fall ill)
 - annoiarsi (to get bored)
