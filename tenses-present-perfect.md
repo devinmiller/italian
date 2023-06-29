@@ -103,3 +103,43 @@ There are, of course, many irregular past participles in Italian.
 | stendere | steso | spread out |
 | fondere | fuso | melted |
 | confondere | confuso | confused |
+| correre | corso | run |
+| occorrere | occorso | needed, required |
+| scorrere | scorso | passed (time) |
+| soccorrere | soccorso | helped |
+| ardere | arso | burned |
+| mordere | morso | bitten |
+| perdere | perso | lost |
+| espellere | espulso | expelled |
+| mettere | messo | put |
+| ammettere | ammesso | admitted |
+| commettere | commesso | committed |
+| compromettere | compromesso | jeopardized |
+| omettere | omesso | omitted |
+| permettere | permesso | permitted |
+| promettere | promesso | promised |
+| rimettere | rimesso | put back, replaced |
+| scommettere | scommesso | bet |
+| smettere | smesso | stopped |
+| connettere | connesso | connected |
+| riconnettere | riconnesso | reconnected |
+| sconnettere | sconnesso | disconnected |
+| muovere | mosso | moved |
+| commuovere | commosso | moved, touched (emotionally) |
+| rimuovere | rimosso | removed |
+| scuotere | scosso | shaken |
+| riscuotere | riscosso | collected (money) |
+| discutere | discusso | discussed |
+| esprimere | espresso | expressed |
+| opprimere | oppresso | oppressed |
+| reprimere | represso | repressed |
+| consistere | consistito | consisted |
+| esistere | esistito | existed |
+| resistere | resistito | resisted |
+| aprire | aperto | opened |
+| coprire | coperto | covered |
+| morire | morto | died |
+| offrire | offerto | offered |
+| soffrire | sofferto | suffered |
+| apparire | apparso | appeared, came into view |
+| comparire | comparso | appeared, showed up |
