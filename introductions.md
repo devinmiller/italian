@@ -206,3 +206,19 @@ riposare = to rest
 restare = remain, stay
 
 ne = of these/them
+
+Memorize ordinal numbers. (1st, 2nd, 3rd, etc.)
+
+quando fa bello = quando il tempo è bello (more common) = the weather is nice
+
+fa caldo (it (the weather) is hot)
+fa freddo (it (the weather) is cold)
+
+o / oppure = or
+invece = instead
+ogni tanto = sometimes/every now and then
+
+passato prossimo
+
+to be = change past participle
+to have = don't change past participle

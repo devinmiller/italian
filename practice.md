@@ -6,4 +6,4 @@ Where I try to find the right words.
 
 1. Com'è l'isola di Tenerife?
 1. Ti trovi bene lì?
-1. Da quanto tempo 
+1. Da quanto tempo ti fermi?
