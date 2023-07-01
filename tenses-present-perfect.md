@@ -18,10 +18,36 @@ There are, of course, many irregular past participles in Italian.
 
 | Infinitive | Participle | Meaning |
 | --- | --- | --- |
+| essere | stato | been |
+| fare | fatto | done |
+| dire | detto | said, spoken |
+| vedere | visto | seen |
+| prendere | preso | taken |
+| leggere | letto | read |
+| scrivere | scritto | written |
+| mettere | messo | put |
+| rimanere | rimasto | stayed, remained |
+| vivere | vissuto | lived |
+| chiedere | chiesto | closed |
+| aprire | aperto | opened |
+| correre | corso | run |
+| morire | morto | died |
+| perdere | perso | lost |
+| chiudere | chiuso | closed |
+| scegliere | scelto | chosen |
+| rispondere | risposto | answered |
+| ridere | riso | laughed |
+| scendere | sceso | gone down |
+| offrire | offerto | offered |
+| spegnere | spento | extinguished, put out, shut off |
+| apparire | apparso | appeared, came into view |
+| vincere | vinto | beaten, won |
+
+| Infinitive | Participle | Meaning |
+| --- | --- | --- |
 | accogliere | accolto | welcomed, received |
 | aggiungere | aggiunto | added |
 | avvolgere | avvolto | added |
-| chiedere | chiesto | closed |
 | convincere | convinto | convinced |
 | correggere | corretto | corrected |
 | descrivere | descritto | described |
@@ -33,7 +59,6 @@ There are, of course, many irregular past participles in Italian.
 | friggere | fritto | fried |
 | giungere | giunto | arrived |
 | interrompere | interrotto | interrupted |
-| leggere | letto | read |
 | nascondere | nascosto | hidden |
 | piangere | pianto | cried |
 | porgere | porto | handed, given |
@@ -43,35 +68,23 @@ There are, of course, many irregular past participles in Italian.
 | raggiungere | raggiunto | reached, gotten to |
 | riassumere | riassunto | summarized |
 | risolvere | risolto | solved |
-| rispondere | risposto | answered |
 | rivolgere | rivolto | turned, directed; addressed (a person) |
 | rompere | rotto | broken |
-| scegliere | scelto | chosen |
 | sciogliere | sciolto | melted |
 | sconfiggere | sconfitto | defeated |
 | sconvolgere | sconvolto | upset, disturbed |
-| scrivere | scritto | written |
-| spegnere | spento | extinguished, put out, shut off |
 | spingere | spinto | pushed |
 | storcere | storto | twisted, distorted |
 | svolgere | svolto | unwound, unrolled; carried out (a plan, study, reform, etc.) |
 | togliere | tolto | taken away/off, removed |
 | torcere | torto | twisted |
-| vincere | vinto | beaten, won |
 | volgere | volto | turned toward |
 | dirigere | diretto | directed, managed |
 | erigere | eretto | erected, built |
 | esigere | esatto | demanded, required |
 | redigere | redatto | drafted, compiled |
 | stringere | stretto | gripped; tightened |
-| dire | detto | said, spoken |
-| essere | stato | been |
-| fare | fatto | done |
-| rimanere | rimasto | stayed, remained |
 | sopravvivere | sopravvissuto | survived |
-| vedere | visto | seen |
-| vivere | vissuto | lived |
-| chiudere | chiuso | closed |
 | concludere | concluso | concluded |
 | condividere | condiviso | shared |
 | deludere | deluso | disappointed |
@@ -80,7 +93,6 @@ There are, of course, many irregular past participles in Italian.
 | includere | incluso | included |
 | invadere | invaso | invaded |
 | radere | raso | shaven |
-| ridere | riso | laughed |
 | sorridere | sorriso | smiled |
 | uccidere | ucciso | killed |
 | accendere | acceso | lit |
@@ -93,25 +105,20 @@ There are, of course, many irregular past participles in Italian.
 | estendere | esteso | extended |
 | intendere | inteso | meant, intended |
 | offendere | offeso | offended |
-| prendere | preso | taken |
 | pretendere | preteso | demanded, required |
 | rendere | reso | given back |
-| scendere | sceso | gone down |
 | soprintendere | soprinteso | supervised |
 | sorprendere | sorpreso | surprised |
 | spendere | speso | spent |
 | stendere | steso | spread out |
 | fondere | fuso | melted |
 | confondere | confuso | confused |
-| correre | corso | run |
 | occorrere | occorso | needed, required |
 | scorrere | scorso | passed (time) |
 | soccorrere | soccorso | helped |
 | ardere | arso | burned |
 | mordere | morso | bitten |
-| perdere | perso | lost |
 | espellere | espulso | expelled |
-| mettere | messo | put |
 | ammettere | ammesso | admitted |
 | commettere | commesso | committed |
 | compromettere | compromesso | jeopardized |
@@ -136,10 +143,58 @@ There are, of course, many irregular past participles in Italian.
 | consistere | consistito | consisted |
 | esistere | esistito | existed |
 | resistere | resistito | resisted |
-| aprire | aperto | opened |
 | coprire | coperto | covered |
-| morire | morto | died |
-| offrire | offerto | offered |
 | soffrire | sofferto | suffered |
-| apparire | apparso | appeared, came into view |
 | comparire | comparso | appeared, showed up |
+
+## Auxiliary Verbs
+
+The _present perfect_ tense is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the present indicative.  
+
+### Avere
+
+| Pronoun | Auxiliary | Participle | Meaning |
+| --- | --- | --- | --- |
+| (io) | ho | parlato | I have spoken, I spoke |
+| (tu) | hai | parlato | You have spoken, you spoke |
+| (lui/lei/Lei) | ha | parlato | He/She/You has/have spoken, he/she/you spoke |
+| (noi) | abbiamo | parlato | We have spoken, we spoke |
+| (voi) | avete | parlato | You have spoken, you spoke |
+| (loro) | hanno | parlato | They have spoken, they spoke |
+
+### Essere
+
+The past participle of verbs conjugated with _essere_ agrees in number and gender with the subject.
+
+| Pronoun | Auxiliary | Participle | Meaning |
+| --- | --- | --- | --- |
+| (io) | sono | uscito/a | I have gone out, I went out |
+| (tu) | sei | uscito/a | You have gone out, you went out |
+| (lui/lei/Lei) | è | uscito/a | He/She/You has/have gone out, he/she/you went out |
+| (noi) | siamo | usciti/e | We have gone out, we went out |
+| (voi) | siete | usciti/e | You have gone out, you went out |
+| (loro) | sono | usciti/e | They have gone out, they went out |
+
+The most common verbs conjugated with _essere_ are as follows:
+
+| Infinitive | Participle | Meaning |
+| --- | --- | --- |
+| andare | andato | to go |
+| apparire | apparso | to appear |
+| arrivare | arrivato | to arrive |
+| cadere | caduto | to fall |
+| correre | corso | to run |
+| diventare | diventato | to become |
+| entrare | entrato | to enter |
+| essere | stato | to be |
+| morire | morto | to die |
+| nascere | nato | to be born |
+| partire | partito | to leave
+| salire | salito | to climb, to go up |
+| sembrare | sembrato | to seem |
+| scendere | sceso | to go down (stairs) |
+| stare | stato | to stay |
+| tornare | tornato | to go back, to return |
+| uscire | uscito | to go out |
+| venire | venuto | to come |
+| vivere | vissuto | to live |
