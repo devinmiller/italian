@@ -16,6 +16,8 @@ To form the past participle of regular verbs, drop the infinitive ending and add
 
 There are, of course, many irregular past participles in Italian.
 
+#### 
+
 | Infinitive | Participle | Meaning |
 | --- | --- | --- |
 | essere | stato | been |

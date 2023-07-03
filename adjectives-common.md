@@ -68,7 +68,8 @@
 | divertente, -i | amusing |
 | pericoloso, -a | dangerous |
 | gentile, -i | kind |
-| simpatico, -a | friendly |
+| simpatico, -a | pleasant, nice (person) |
+| antipatico, -a | unpleasant, disagreeable (person) |
 | comico, -a | comic(al) |
 | contento, -a | happy, glad |
 | importante, -i | important |
@@ -81,24 +82,23 @@
 | disordinato, -a | messy |
 | grasso, -a | fat |
 | magro, -a | thin |
-
-| benvenuto, -a | welcome |
-| crudo, -a | raw |
-| giusto, -a | just, fair |
 | intelligente, -i | intelligent |
 | negligente, -i | negligent |
-| rosso, -a | red |
-| rotto, -a | broken |
-| stanco, -a | tired |
-| verde, -i | green |
-| vivace, -i | lively, vibrant |
 | assurdo, -a | absurd |
-
 | distrutto, -a | destroyed |
 | famoso, -a | famous |
-| caro, -a | dear |
-| inferiore, -i | lower |
+| caro, -a | dear, expensive |
+| rotto, -a | broken |
+| stanco, -a | tired |
+| chiaro, -a | clear |
+| sbagliato, -a | wrong |
+| giusto, -a | just, fair |
+| vivace, -i | lively |
 | pronto, -a | ready |
+| antico, -a | ancient, old |
+| costoso, -a |	expensive |
+| economico, -a |	inexpensive |
+| allegro, -a | cheerful |
 | alcuni, -e | some, a few [always plural] |
 | ogni | each [invariable + singular]
 | qualche | some, a few [invariable + singular]

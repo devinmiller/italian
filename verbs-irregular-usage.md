@@ -33,7 +33,6 @@ Typically, _avere_ with a noun is used to express _physical_ sensations or feeli
 | avere torto | to be wrong |
 | avere vergogna | to be ashamed |
 
-
 ## BERE
 
 ## DARE
@@ -45,6 +44,8 @@ Typically, _avere_ with a noun is used to express _physical_ sensations or feeli
 ## ESSERE
 
 ## FARE
+
+The verb _fare_ is used to form many expressions.
 
 ## POTERE
 

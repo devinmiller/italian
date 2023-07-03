@@ -222,3 +222,12 @@ passato prossimo
 
 to be = change past participle
 to have = don't change past participle
+
+troppo
+
+avere = physical sensations
+essere = physical/personality traits
+
+da = when/from depending on context
+
+litigare = fight (with words)/argue
