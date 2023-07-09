@@ -60,17 +60,17 @@ Here are the indirect object pronouns in Italian:
 
 Several verbs that take a direct object of the person in English take an indirect object in Italian. 
 
-| English Verb | Italian Equivalent |
+| Italian Equivalent | English Verb |
 | --- | --- |
-| to ask someone | chiedere a qlcu |
-| to suit someone | convenire a qlcu |
-| to disobey someone | disobbedire a qlcu |
-| to ask someone | domandare a qlcu |
-| to teach someone | insegnare a qlcu |
-| to obey someone | obbedire a qlcu |
-| to pay someone | pagare a qlcu |
-| to please someone | piacere a qlcu |
-| to answer someone | rispondere a qlcu |
+| chiedere a qlcu | to ask someone |
+| convenire a qlcu | to suit someone |
+| disobbedire a qlcu | to disobey someone |
+| domandare a qlcu | to ask someone |
+| insegnare a qlcu | to teach someone |
+| obbedire a qlcu | to obey someone |
+| pagare a qlcu | to pay someone |
+| piacere a qlcu | to please someone |
+| rispondere a qlcu | to answer someone |
 
 Many Italian verbs take two objects: a direct object (a thing) and an indirect object (a person). 
 
@@ -101,10 +101,6 @@ Many Italian verbs take two objects: a direct object (a thing) and an indirect o
 | suggerire qlco a qlcu | to suggest something to someone |
 | vendere qlco a qlcu | to sell something to someone |
 
-[Report an issue or leave feedback](https://speak.com/chatgpt?rid=coodwuokc7lceybouvmcyodc)
-
-Here are some examples in a three-column markdown table:
-
 | Italian | English | Concept Highlighted |
 | --- | --- | --- |
 | Mi ha detto che Giuseppe é nei guai. | They told me Giuseppe is in trouble. | Use of `mi` as an indirect object pronoun replacing "to me". |
@@ -134,59 +130,59 @@ Here are some examples:
 
 | Italian | English |
 | --- | --- |
-| Me lo puoi restituire? | Can you give it back to me? |
-| Puoi restituirmelo? | Can you give it back to me? |
+| Me lo puoi restituire? | Can you give it back to me? | Use of `me lo` as double object pronouns replacing "it to me". |
+| Puoi restituirmelo? | Can you give it back to me? | Use of `melo` attached to the infinitive `restituire` to indicate "it to me". |
 
 Note that the incorrect form would be "Me puoi restituirlo?"
 
 In sentences, these double object pronouns can be used to express actions done for someone else. For example:
 
-| Italian | English |
-| --- | --- |
-| Glielo dico io. | I'll tell him/her. |
-| Glielo mandiamo subito. | We're sending it off to them right away. |
-| Non ve le ha spiegate il direttore vendite? | Didn't the sales manager explain them to you? |
-| Perché non me le mostri? | Why don't you show them to me? |
-| Domani gliela restituisco. | I'll give it back to her tomorrow. |
-| Perché ce li hanno chiesti. | Because they asked us for them. |
-| Glieli sto copiando adesso. | I'm copying them for you right now. |
-| Portameli, per favore. | Bring them to me, please. |
-| Si, e oggi voglio darglieli. | Yes, and I want to give them to them today. |
+| Italian | English | Concept Highlighted |
+| --- | --- | --- |
+| Glielo dico io. | I'll tell him/her. | Use of `glielo` as double object pronouns replacing "it to him/her". |
+| Glielo mandiamo subito. | We're sending it off to them right away. | Use of `glielo` as double object pronouns replacing "it to them". |
+| Non ve le ha spiegate il direttore vendite? | Didn't the sales manager explain them to you? | Use of `ve le` as double object pronouns replacing "them to you". |
+| Perché non me le mostri? | Why don't you show them to me? | Use of `me le` as double object pronouns replacing "them to me". |
+| Domani gliela restituisco. | I'll give it back to her tomorrow. | Use of `gliela` as double object pronouns replacing "it to her". |
+| Perché ce li hanno chiesti. | Because they asked us for them. | Use of `ce li` as double object pronouns replacing "them to us". |
+| Glieli sto copiando adesso. | I'm copying them for you right now. | Use of `glieli` as double object pronouns replacing "them to him/her". |
+| Portameli, per favore. | Bring them to me, please. | Use of `meli` attached to the command `porta` to indicate "them to me". |
+| Si, e oggi voglio darglieli. | Yes, and I want to give them to them today. | Use of `glieli` as double object pronouns replacing "them to them". |
 
 ## Summary of Placement
 
 In Italian, object pronouns (single or double) are typically placed before the conjugated verb. For example:
 
-| Italian | English |
-| --- | --- |
-| Cerco il disco rigido esterno, ma non lo trovo. | I'm looking for the portable hard drive, but I can't find it. |
-| Vedo che hai comprato il libro di chimica. Me lo presti? | I see you've bought the chemistry book. Will you lend it to me? |
+| Italian | English | Concept Highlighted |
+| --- | --- | --- |
+| Cerco il disco rigido esterno, ma non lo trovo. | I'm looking for the portable hard drive, but I can't find it. | Placement of `lo` before the conjugated verb `trovo`. |
+| Vedo che hai comprato il libro di chimica. Me lo presti? | I see you've bought the chemistry book. Will you lend it to me? | Placement of `me lo` before the conjugated verb `presti`. |
 
 In verb + infinitive constructions, single or double object pronouns can be attached to the infinitive. For example:
 
-| Italian | English |
-| --- | --- |
-| Giada ha il mio smartphone. Non so quando intende restituirmelo. | Giada has my smartphone. I don't know when she intends to give it back to me. |
+| Italian | English | Concept Highlighted |
+| --- | --- | --- |
+| Giada ha il mio smartphone. Non so quando intende restituirmelo. | Giada has my smartphone. I don't know when she intends to give it back to me. | Placement of `melo` attached to the infinitive `restituire`. |
 
 If the first verb of a verb + infinitive construction is dovere, potere, preferire, volere, or cominciare a, the object pronoun (single or double) may be either attached to the infinitive or placed before the first verb. For example:
 
-| Italian | English |
-| --- | --- |
-| Hai preso appunti in riunione? Me li vuoi mostrare? / Vuoi mostrarmeli? | Did you take notes at the meeting? Will you show them to me? |
+| Italian | English | Concept Highlighted |
+| --- | --- | --- |
+| Hai preso appunti in riunione? Me li vuoi mostrare? / Vuoi mostrarmeli? | Did you take notes at the meeting? Will you show them to me? | Placement of `me li` before the conjugated verb `vuoi` or attached to the infinitive `mostrare`. |
 
 With a command form for tu, voi, or noi, an object pronoun follows an affirmative command and is attached to it in writing. For example:
 
-| Italian | English |
-| --- | --- |
-| Voglio quelle forbici. Portamele. | I want those scissors. Bring them to me. |
-| Avete la macchina? Prestatecela. | Do you have your car? Lend it to us. |
+| Italian | English | Concept Highlighted |
+| --- | --- | --- |
+| Voglio quelle forbici. Portamele. | I want those scissors. Bring them to me. | Placement of `mele` attached to the command `porta`. |
+| Avete la macchina? Prestatecela. | Do you have your car? Lend it to us. | Placement of `cela` attached to the command `prestate`. |
 
 In a negative command for tu, voi, or noi, an object pronoun usually precedes the verb. For example:
 
-| Italian | English |
-| --- | --- |
-| Ho bisogno del telefonino. Non me lo togliere. | I need my cell phone. Don’t take it away from me. |
-| Non voglio vedere l'ammontare delle vendite. Non me lo domandate. | I don't want to see the sales figures. Don't ask me for them. |
+| Italian | English | Concept Highlighted |
+| --- | --- | --- |
+| Ho bisogno del telefonino. Non me lo togliere. | I need my cell phone. Don’t take it away from me. | Placement of `me lo` before the negative command `togliere`. |
+| Non voglio vedere l'ammontare delle vendite. Non me lo domandate. | I don't want to see the sales figures. Don't ask me for them. | Placement of `me lo` before the negative command `domandate`. |
 
 An object pronoun can also follow a negative command; in this case, it is attached to the command form. For example:
 
@@ -197,22 +193,22 @@ An object pronoun can also follow a negative command; in this case, it is attach
 
 An object pronoun precedes a formal command, whether it is affirmative or negative. For example:
 
-| Italian | English |
-| --- | --- |
-| Melo dia, per favore. | Give it to me, please. |
-| Non me lo dia. | Don't give it to me. |
+| Italian | English | Concept Highlighted |
+| --- | --- | --- |
+| Melo dia, per favore. | Give it to me, please. | Placement of `melo` before the formal command `dia`. |
+| Non me lo dia. | Don't give it to me. | Placement of `me lo` before the negative formal command `dia`. |
 
 When an object pronoun is added to a one-syllable command form, the first consonant of the pronoun is doubled. For example:
 
-| Italian | English |
-| --- | --- |
-| Fallo. | Do it. |
-| Dammi i soldi. | Give me the money. |
-| Dicci la verita. | Tell us the truth. |
+| Italian | English | Concept Highlighted |
+| --- | --- | --- |
+| Fallo. | Do it. | Placement of `lo` attached to the one-syllable command `fa`. |
+| Dammi i soldi. | Give me the money. | Placement of `mmi` attached to the one-syllable command `da`. |
+| Dicci la verita. | Tell us the truth. | Placement of `cci` attached to the one-syllable command `di`. |
 
 When it is necessary to highlight a direct object pronoun, it is replaced by a stressed pronoun. These stressed pronouns are usually placed after the verb form. For example:
 
-| Italian | English |
-| --- | --- |
-| Voglio vedere lui, non lei. | I want to see him, not her. |
-| Loro cercano me, non voi. | They're looking for me, not you. |
+| Italian | English | Concept Highlighted |
+| --- | --- | --- |
+| Voglio vedere lui, non lei. | I want to see him, not her. | Use of stressed pronouns `lui` and `lei` after the verb `vedere`. |
+| Loro cercano me, non voi. | They're looking for me, not you. | Use of stressed pronouns `me` and `voi` after the verb `cercano`. |
