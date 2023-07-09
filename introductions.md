@@ -231,3 +231,8 @@ essere = physical/personality traits
 da = when/from depending on context
 
 litigare = fight (with words)/argue
+
+what = cosa (interrogative pronoun)
+what = quello que (already known)
+fare schifo = to suck
+subj. -> dir. -> indir. -> verb

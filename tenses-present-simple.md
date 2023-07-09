@@ -152,3 +152,125 @@ Useful first conjugation verbs.
 | volare | to fly |
 | votare | to vote |
 
+## First Conjugation Verbs Ending In -care and -gare
+
+| Italian Verb | English Translation |
+| --- | --- |
+| annegare | to drown |
+| bloccare | to block |
+| caricare (io carico) | to load |
+| cercare | to look for |
+| comunicare | to communicate |
+| dedicare | to dedicate |
+| dimenticare (io dimentico) | to forget |
+| distaccare | to detach |
+| divulgare | to divulge |
+| drogare | to drug |
+| educare | to bring up; to educate |
+| elencare | to list (names); to enumerate |
+| fabbricare | to manufacture |
+| fantasticare | to daydream |
+| giocare | to play |
+| giudicare | to judge |
+| identificare | to identify |
+| imbarcare | to board; to put on board |
+| impiegare | to use; to hire |
+| interrogare | to question |
+| investigare | to investigate |
+| lastricare | to pave |
+| leccare | to lick |
+| legare | to tie (up) |
+| litigare | to quarrel, argue |
+| lusingare | to flatter |
+| mancare | to be lacking |
+| masticare | to chew |
+| navigare | to sail, navigate |
+| obbligare | to force, oblige |
+| pagare | to pay |
+| peccare | to sin |
+| pescare | to fish |
+| pregare | to pray, ask, beg |
+| pubblicare | to publish |
+| recare | to bring about, cause |
+| sbarcare | to land, disembark |
+| sbrigare | to accomplish, finish (a task) |
+| scaricare | to download |
+| seccare | to dry; to annoy |
+| slogare | to dislocate, sprain |
+| soffocare | to suffocate |
+| stancare | to tire |
+| toccare | to touch |
+| traslocare | to move (change residence) |
+| truccare | to apply makeup (to someone) |
+| zoppicare (io zoppico) | to limp |
+
+## First Conjugation Verbs Ending In -ciare, -giare, and -sciare
+
+Useful first conjugation verbs ending in -ciare, -giare, and -sciare.
+
+| Italian Verb | English Translation |
+| --- | --- |
+| abbracciare | to hug, embrace |
+| allacciare | to tie, fasten |
+| annunciare | to announce |
+| appoggiare | to support; to lean (something) against |
+| arrangiare | to arrange |
+| assaggiare | to try, taste |
+| associare | to associate |
+| baciare | to kiss |
+| bocciare | to reject, fail |
+| cacciare | to hunt; to expel |
+| cominciare | to begin |
+| danneggiare | to damage, hurt |
+| ghiacciare | to freeze, turn to ice |
+| incominciare | to begin |
+| incoraggiare | to encourage |
+| intrecciare | to weave, intertwine |
+| lanciare | to throw, toss; to launch |
+| lasciare | to let; to leave (behind) |
+| mangiare | to eat |
+| noleggiare | to rent |
+| parcheggiare | to park |
+| pareggiare | to balance, make even |
+| passeggiare | to walk, take a walk |
+| rinunciare | to renounce, quit |
+| rovesciare | to knock over |
+| scacciare | to chase/drive away |
+| schiacciare | to crush |
+| scocciare | to bother, annoy |
+| sciare | to ski |
+| viaggiare | to travel |
+
+## First Conjugation Verbs Ending In -iare
+
+Useful first conjugation verbs ending in -iare.
+
+| Italian Verb | English Translation |
+| --- | --- |
+| affiliare | to affiliate |
+| alleviare | to alleviate |
+| arrabbiare | to make angry |
+| assomigliare | to resemble, look like |
+| avviare | to start up, set in motion |
+| copiare | to copy |
+| fischiare | to whistle; to boo, hiss |
+| incendiare | to set on fire |
+| iniziare | to begin |
+| inviare | to send |
+| licenziare | to fire, dismiss, discharge |
+| macchiare | to stain, spot |
+| negoziare | to negotiate |
+| odiare | to hate |
+| picchiare | to hit, beat |
+| raddoppiare | to double |
+| rimorchiare | to tow |
+| ringraziare | to thank |
+| rischiare | to risk |
+| risparmiare | to save (money, time) |
+| sbagliare | to make a mistake |
+| sparecchiare | to clear the table |
+| studiare | to study |
+| svegliare | to awaken |
+| tagliare | to cut |
+| umiliare | to humiliate |
+| viziare | to spoil (a child) |

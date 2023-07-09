@@ -47,6 +47,34 @@ Typically, _avere_ with a noun is used to express _physical_ sensations or feeli
 
 The verb _fare_ is used to form many expressions.
 
+### Weather Expressions
+
+| Italian | English |
+| --- | --- |
+| Che tempo fa? | What's the weather like? |
+| Fa bel tempo. / Fa bello. | The weather's good. |
+| Fa brutto tempo. | The weather's bad. |
+| Fa (molto) caldo. | It's (very) warm. |
+| Fa (molto) freddo. | It's (very) cold. |
+| Fa un freddo cane. | It's bitterly cold. |
+| Fa un tempo da cani/lupi. | The weather's lousy. |
+
+### Other Expressions
+
+| Italian | English |
+| --- | --- |
+| fare una bella figura | to make a good impression |
+| fare una brutta/cattiva figura | to make a bad impression |
+| fare un sogno | to have a dream |
+| fare sport | to play sports |
+| fare una passeggiata | to take a walk |
+| fare cinque chilometri a piedi | to walk five kilometers |
+| fare un giro in bicicletta | to take a bike ride |
+| fare un giro in macchina | to take a ride by car |
+| fare le valige | to pack |
+| fare un viaggio | to take a trip |
+| fare colazione | to have breakfast |
+
 ## POTERE
 
 ## RIMANERE
