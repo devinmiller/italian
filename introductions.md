@@ -175,7 +175,7 @@ di solito = usually
 ci sono = there
 molte persona = many people
 
-mi piache = 3rd singular
+mi piace = 3rd singular
 mi piacciono = 3rd plural
 
 words that end in -ma are masculine
@@ -236,3 +236,11 @@ what = cosa (interrogative pronoun)
 what = quello que (already known)
 fare schifo = to suck
 subj. -> dir. -> indir. -> verb
+
+ti amo (I love you) = wife, girlfriend, lover, etc. (big love, very romantic)
+ti voglio bene (I love you) = friends, family, people (little love, not romantic)
+
+giornata = whole day, 24 hour period
+giorno = daylight (always right)
+
+fare fatica = to struggle
