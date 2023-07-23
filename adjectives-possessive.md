@@ -2,83 +2,17 @@
 
 Like any other adjective, possessive adjectives agree in number and gender with the noun they modify.
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="5">Possessive Adjectives</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-      <td colspan="2">Before Masculine Nouns</td>
-      <td colspan="2">Before Feminine Nouns</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Singular</td>
-      <td>Plural</td>
-      <td>Singular</td>
-      <td>Plural</td>
-    </tr>
-    <tr>
-      <td>my</td>
-      <td>il mio</td>
-      <td>i miei</td>
-      <td>la mia</td>
-      <td>le mie</td>
-    </tr>
-    <tr>
-      <td>your (fam., sg.)</td>
-      <td>il tuo</td>
-      <td>i tuoi</td>
-      <td>la tua</td>
-      <td>le tue</td>
-    </tr>
-    <tr>
-      <td>his, her, its</td>
-      <td>il suo</td>
-      <td>i suoi</td>
-      <td>la sua</td>
-      <td>le sue</td>
-    </tr>
-    <tr>
-      <td>your (pol. sg.)</td>
-      <td>il Suo</td>
-      <td>i Suoi</td>
-      <td>la Sua</td>
-      <td>le Sue</td>
-    </tr>
-    <tr>
-      <td>our</td>
-      <td>il nostro</td>
-      <td>i nostri</td>
-      <td>la nostra</td>
-      <td>le nostre</td>
-    </tr>
-    <tr>
-      <td>your (fam. pl.)</td>
-      <td>il vostro</td>
-      <td>i vostri</td>
-      <td>la vostra</td>
-      <td>le vostre</td>
-    </tr>
-    <tr>
-      <td>their</td>
-      <td>il loro</td>
-      <td>i loro</td>
-      <td>la loro</td>
-      <td>le loro</td>
-    </tr>
-    <tr>
-      <td>Your (pol. pl.)</td>
-      <td>il Loro</td>
-      <td>i Loro</td>
-      <td>la Loro</td>
-      <td>le Loro</td>
-    </tr>
-  </tbody>
-</table>
+|               | Singular M. / F.      | Plural M. / F.       |
+|---------------|-----------------------|----------------------|
+| my            | il mio / la mia       | i miei / le mie      |
+| your (fam)    | il tuo / la tua       | i tuoi / le tue      |
+| his, her, its | il suo / la sua       | i suoi / le sue      |
+| your (pol)    | il Suo / la Sua       | i Suoi / le Sue      |
+| our           | il nostro / la nostra | i nostri / le nostre |
+| your (fam)    | il vostro / la vostra | i vostri / le vostre |
+| their         | il loro / la loro     | i loro / le loro     |
+| your (pol)    | il Loro / la Loro     | i Loro / le Loro     |
+
 
 Notice that the definite article is part of the possessive adjective.  It is dropped for all forms except _loro_ when the noun modified has the following characteristics.
 

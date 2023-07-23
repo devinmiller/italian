@@ -20,14 +20,20 @@ Shock, expressions about memory!
 
 ### Expressions
 
-| Italian | English |
-| --- | --- |
-| dimenticarsi di *qualcosa* | to forget (about) *something* |
-| dimenticarsi di fare *qualcosa* | to forget to do *something |
+| Italian                         | English                       |
+|---------------------------------|-------------------------------|
+| dimenticarsi di *qualcosa*      | to forget (about) *something* |
+| dimenticarsi di fare *qualcosa* | to forget to do *something    |
 
 ## DIVERTIRSI
 
 ## FARSI
+
+| Italian         | English          |
+|-----------------|------------------|
+| farsi il bagno  | to take a bath   |
+| farsi la barbo  | to shave         |
+| farsi la doccia | to take a shower |
 
 ## FERMARSI
 

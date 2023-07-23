@@ -1,6 +1,5 @@
 # Demonstrative Adjectives
 
-|-------------------------------------------|------------|------------|
 | Demonstrative Adjectives (_that_)         | Singular   | Plural     |
 |-------------------------------------------|------------|------------|
 | **Before Masculine Nouns**                |            |            |
@@ -10,4 +9,3 @@
 | **Before Feminine Nouns**                 |            |            |
 | Beginning with any consonant              | **quella** | **quelle** |
 | Beginning with any vowel                  | **quell'** | **quelle** |
-|-------------------------------------------|------------|------------|

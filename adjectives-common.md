@@ -1,6 +1,5 @@
 # Common Adjectives
 
-|------------------|-------------------------------------|
 | Italian          | English                             |
 |------------------|-------------------------------------|
 | altro, -a        | other                               |
@@ -103,4 +102,3 @@
 | alcuni, -e       | some, a few [always plural]         |
 | ogni             | each [invariable + singular]        |
 | qualche          | some, a few [invariable + singular] |
-|------------------|-------------------------------------|
