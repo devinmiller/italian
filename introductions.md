@@ -244,3 +244,7 @@ giornata = whole day, 24 hour period
 giorno = daylight (always right)
 
 fare fatica = to struggle
+
+ci metto = it takes me
+ci metti = it takes you
+ci mette = it takes him/her

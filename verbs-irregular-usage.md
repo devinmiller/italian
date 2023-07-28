@@ -4,6 +4,10 @@ The many varied uses of irregular verbs in Italian.
 
 ## ANDARE
 
+| Italian                | English        |
+|------------------------|----------------|
+| andare a fare shopping | to go shopping | pf
+
 ## AVERE
 
 The verb **avere** is used in many expressions.
@@ -75,6 +79,8 @@ The verb _fare_ is used to form many expressions.
 | fare un viaggio                | to take a trip            |
 | fare colazione                 | to have breakfast         |
 | fare una pausa                 | to take a break           |
+| fare le pulizie                | to do the cleaning        |
+| fare palestra                  | to work out               |
 
 ## POTERE
 
