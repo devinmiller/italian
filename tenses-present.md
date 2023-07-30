@@ -1,24 +1,63 @@
-# Irregular Verbs
+# Present Tense
+
+The present indicative tense is used to express facts or convery information.  It is used for ordinary statements and questions.
+
+## Regular Verbs
+
+To conjugate verbs in the _present_ tense drop **-are**, **-ere**, and **-ire** infinitive endings.
+
+| Infinitive | Stem  |
+|------------|-------|
+| parlare    | parl- |
+| mettere    | mett- |
+| dormire    | dorm- |
+| finire     | fin-  |
+
+Then add the following to the stem:
+
+| Pronoun   | First (-are) | Second (-ere) | Third (1) (-ire) | Third (2) (-ire) |
+|-----------|--------------|---------------|------------------|------------------|
+| (io)      | -o           | -o            | -o               | -isco            |
+| (tu)      | -i           | -i            | -i               | -isci            |
+| (lui/lei) | -a           | -e            | -e               | -isce            |
+| (noi)     | -iamo        | -iamo         | -iamo            | -iamo            |
+| (voi)     | -ate         | -ete          | -ite             | -ite             |
+| (loro)    | -ano         | -ono          | -ono             | -iscono          |
+
+Here are the results:
+
+| Pronoun   | First (-are) | Second (-ere) | Third (1) (-ire) | Third (2) (-ire) |
+|-----------|--------------|---------------|------------------|------------------|
+| (io)      | parlo        | metto         | -o               | -isco            |
+| (tu)      | parli        | metti         | -i               | -isci            |
+| (lui/lei) | parla        | mette         | -e               | -isce            |
+| (noi)     | parliamo     | mettiamo      | -iamo            | -iamo            |
+| (voi)     | parlate      | mettete       | -ite             | -ite             |
+| (loro)    | parlano      | mettono       | -ono             | -iscono          |
+
+## Irregular Verbs
 
 These verbs do not follow standard patterns and must be memorized.
 
-- ANDARE (to go)
-- AVERE (to have)
-- BERE (to drink)
-- DARE (to give)
-- DIRE (to say)
-- DOVERE (to have to)
-- ESSERE (to be)
-- FARE (to make, do)
-- POTERE (can, to be able to)
-- RIMANERE (to stay, remain)
-- SAPERE (to know)
-- SCEGLIERE (to choose)
-- USCIRE (to go out, leave)
-- VENIRE (to come, arrive)
-- VOLERE (to want)
+| Italian   | English            |
+|-----------|--------------------|
+| ANDARE    | to go              |
+| AVERE     | to have            |
+| BERE      | to drink           |
+| DARE      | to give            |
+| DIRE      | to say             |
+| DOVERE    | to have to         |
+| ESSERE    | to be              |
+| FARE      | to make, do        |
+| POTERE    | can, to be able to |
+| RIMANERE  | to stay, remain    |
+| SAPERE    | to know            |
+| SCEGLIERE | to choose          |
+| USCIRE    | to go out, leave   |
+| VENIRE    | to come, arrive    |
+| VOLERE    | to want            |
 
-## ANDARE
+### ANDARE
 
 | Conjugation Form          | Pronoun | Conjugated Verb |
 |---------------------------|---------|-----------------|
@@ -31,7 +70,7 @@ These verbs do not follow standard patterns and must be memorized.
 | andare pres. 2nd pl. pol. | Loro    | vanno           |
 | andare pres. 3rd pl.      | loro    | vanno           |
 
-## AVERE
+### AVERE
 
 | Conjugation Form         | Pronoun | Conjugated Verb |
 |--------------------------|---------|-----------------|
@@ -44,7 +83,7 @@ These verbs do not follow standard patterns and must be memorized.
 | avere pres. 2nd pl. pol. | Loro    | hanno           |
 | avere pres. 3rd pl.      | loro    | hanno           |
 
-## BERE
+### BERE
 
 | Conjugation Form        | Pronoun | Conjugated Verb |
 |-------------------------|---------|-----------------|
@@ -57,7 +96,7 @@ These verbs do not follow standard patterns and must be memorized.
 | bere pres. 2nd pl. pol. | Loro    | bevono          |
 | bere pres. 3rd pl.      | loro    | bevono          |
 
-## DARE
+### DARE
 
 | Conjugation Form        | Pronoun | Conjugated Verb |
 |-------------------------|---------|-----------------|
@@ -70,7 +109,7 @@ These verbs do not follow standard patterns and must be memorized.
 | dare pres. 2nd pl. pol. | Loro    | danno           |
 | dare pres. 3rd pl.      | loro    | danno           |
 
-## DIRE
+### DIRE
 
 | Conjugation Form        | Pronoun | Conjugated Verb |
 |-------------------------|---------|-----------------|
@@ -83,7 +122,7 @@ These verbs do not follow standard patterns and must be memorized.
 | dire pres. 2nd pl. pol. | Loro    | dicono          |
 | dire pres. 3rd pl.      | loro    | dicono          |
 
-## DOVERE
+### DOVERE
 
 | Conjugation Form          | Pronoun | Conjugated Verb |
 |---------------------------|---------|-----------------|
@@ -96,7 +135,7 @@ These verbs do not follow standard patterns and must be memorized.
 | dovere pres. 2nd pl. pol. | Loro    | devono          |
 | dovere pres. 3rd pl.      | loro    | devono          |
 
-## ESSERE
+### ESSERE
 
 | Conjugation Form          | Pronoun | Conjugated Verb |
 |---------------------------|---------|-----------------|
@@ -109,7 +148,7 @@ These verbs do not follow standard patterns and must be memorized.
 | essere pres. 2nd pl. pol. | Loro    | sono            |
 | essere pres. 3rd pl.      | loro    | sono            |
 
-## FARE
+### FARE
 
 | Conjugation Form        | Pronoun | Conjugated Verb |
 |-------------------------|---------|-----------------|
@@ -122,7 +161,7 @@ These verbs do not follow standard patterns and must be memorized.
 | fare pres. 2nd pl. pol. | Loro    | fanno           |
 | fare pres. 3rd pl.      | loro    | fanno           |
 
-## POTERE
+### POTERE
 
 | Conjugation Form          | Pronoun | Conjugated Verb |
 |---------------------------|---------|-----------------|
@@ -135,7 +174,7 @@ These verbs do not follow standard patterns and must be memorized.
 | potere pres. 2nd pl. pol. | Loro    | possono         |
 | potere pres. 3rd pl.      | loro    | possono         |
 
-## RIMANERE
+### RIMANERE
 
 | Conjugation Form            | Pronoun | Conjugated Verb |
 |-----------------------------|---------|-----------------|
@@ -148,7 +187,7 @@ These verbs do not follow standard patterns and must be memorized.
 | rimanere pres. 2nd pl. pol. | Loro    | rimangono       |
 | rimanere pres. 3rd pl.      | loro    | rimangono       |
 
-## SAPERE
+### SAPERE
 
 | Conjugation Form          | Pronoun | Conjugated Verb |
 |---------------------------|---------|-----------------|
@@ -161,7 +200,7 @@ These verbs do not follow standard patterns and must be memorized.
 | sapere pres. 2nd pl. pol. | Loro    | sanno           |
 | sapere pres. 3rd pl.      | loro    | sanno           |
 
-## SCEGLIERE
+### SCEGLIERE
 
 | Conjugation Form             | Pronoun | Conjugated Verb |
 |------------------------------|---------|-----------------|
@@ -174,7 +213,7 @@ These verbs do not follow standard patterns and must be memorized.
 | scegliere pres. 2nd pl. pol. | Loro    | scelgono        |
 | scegliere pres. 3rd pl.      | loro    | scelgono        |
 
-## USCIRE
+### USCIRE
 
 | Conjugation Form          | Pronoun | Conjugated Verb |
 |---------------------------|---------|-----------------|
@@ -187,7 +226,7 @@ These verbs do not follow standard patterns and must be memorized.
 | uscire pres. 2nd pl. pol. | Loro    | escono          |
 | uscire pres. 3rd pl.      | loro    | escono          |
 
-## VENIRE
+### VENIRE
 
 | Conjugation Form          | Pronoun | Conjugated Verb |
 |---------------------------|---------|-----------------|
@@ -200,7 +239,7 @@ These verbs do not follow standard patterns and must be memorized.
 | venire pres. 2nd pl. pol. | Loro    | vengono         |
 | venire pres. 3rd pl.      | loro    | vengono         |
 
-## VOLERE
+### VOLERE
 
 | Conjugation Form          | Pronoun | Conjugated Verb |
 |---------------------------|---------|-----------------|

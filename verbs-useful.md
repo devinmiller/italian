@@ -1,15 +1,6 @@
-# Present Simple
+# Useful Verbs
 
-To conjugate verbs in the _present simple_ tense drop **-are**, **-ere**, and **-ire** infinitive endings and add the following:
-
-|           | First (-are) | Second (-ere) | Third (1) (-ire) | Third (2) (-ire) |
-|-----------|--------------|---------------|------------------|------------------|
-| (io)      | -o           | -o            | -o               | -isco            |
-| (tu)      | -i           | -i            | -i               | -isci            |
-| (lui/lei) | -a           | -e            | -e               | -isce            |
-| (noi)     | -iamo        | -iamo         | -iamo            | -iamo            |
-| (voi)     | -ate         | -ete          | -ite             | -ite             |
-| (loro)    | -ano         | -ono          | -ono             | -iscono          |
+Useful verbs!
 
 ## First Conjugation Verbs
 

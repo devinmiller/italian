@@ -1,104 +1,108 @@
 # Common Adverbs
 
+cioè - that is (to say)
+mi piace un sacco - I like it a lot
+
+
 | Italian                  | English                            |
 |--------------------------|------------------------------------|
-| non                      | not; don't                         |
-| lentamente               | slowly                             |
-| seriamente               | seriously                          |
-| spesso                   | often                              |
-| appena                   | hardly, scarcely; conj. as soon as |
-| davvero                  | really                             |
-| neanche                  | adv./conj. not even                |
-| certo                    | certainly, of course               |
-| ancora                   | still, again                       |
-| allora                   | (well) then, in that case          |
-| apposta                  | on purpose                         |
-| bene                     | well                               |
-| così                     | thus                               |
-| forse                    | maybe, perhaps                     |
-| ieri                     | yesterday                          |
-| magari                   | what if; and how!                  |
-| male                     | badly                              |
-| meglio                   | better                             |
-| molto                    | a lot                              |
-| oggi                     | today                              |
-| peggio                   | worse                              |
-| poco                     | not much                           |
-| presto                   | quickly                            |
-| pure                     | even                               |
-| quasi                    | almost                             |
-| sempre                   | always                             |
-| tanto                    | too much                           |
-| volentieri               | gladly, willing                    |
+| a lungo                  | for a long time                    |
 | adesso                   | now                                |
+| all'improvviso           | suddenly                           |
+| alla fine                | eventually                         |
+| alla stessa ora          | at the same time                   |
+| allora                   | (well) then, in that case          |
+| almeno                   | at least                           |
+| altrove                  | elsewhere, somewhere else          |
+| ancora                   | still, again                       |
+| appena                   | hardly, scarcely; conj. as soon as |
+| apposta                  | on purpose                         |
+| appunto                  | exactely, just                     |
+| assolutamente            | absolutely                         |
 | attualmente              | at present                         |
+| bene                     | well                               |
+| certo                    | certainly, of course               |
+| chiaramente              | clearly                            |
+| ci                       | there                              |
+| completamente            | completely                         |
+| così                     | thus, (like) so, like this/that    |
+| da allora                | since then                         |
+| da nessuna parte         | nowhere                            |
+| da qualche altra parte   | elswhere, somewhere else           |
+| da qualche parte         | somewhere                          |
+| da qualsiasi altra parte | anywhere else, everywhere else     |
+| da quando?               | since when?                        |
+| da un momento all'altro  | at any moment                      |
 | dapprima                 | at first                           |
+| davvero                  | really                             |
+| dentro                   | inside                             |
+| di nuovo                 | again                              |
+| di solito                | usually                            |
 | domani                   | tomorrow                           |
 | dopo                     | afterwards                         |
 | dopodomani               | the day after tomorrow             |
+| dove                     | where                              |
+| fa                       | ago                                |
+| facilmente               | easily                             |
 | finora                   | so far, up to now                  |
+| forse                    | maybe, perhaps                     |
 | frequentemente           | frequently                         |
+| fuori                    | outside, out                       |
+| generalmente             | generally                          |
 | già                      | already                            |
+| ieri                     | yesterday                          |
+| in futuro                | in the future                      |
+| in passato               | in the past                        |
+| insieme                  | together                           |
+| invece                   | instead                            |
+| laggiù                   | down there                         |
+| lentamente               | slowly                             |
+| lontano                  | far away                           |
+| làssù                    | up there                           |
+| lì, là                   | there                              |
+| magari                   | what if; and how!                  |
 | mai                      | never                              |
+| male                     | badly                              |
+| meglio                   | better                             |
+| meno                     | less                               |
+| molto                    | a lot                              |
+| neanche                  | adv./conj. not even                |
+| non                      | not; don't                         |
+| oggi                     | today                              |
 | ogni giorno              | every day                          |
 | ora                      | now                                |
+| particolarmente          | particularly                       |
+| peggio                   | worse                              |
+| piuttosto                | rather                             |
+| poco                     | not much                           |
 | poi                      | then                               |
+| presto                   | quickly                            |
 | prima                    | first; before, previously          |
+| probabilmente            | probably                           |
+| proprio                  | exactely                           |
+| pure                     | even                               |
+| quaggiù                  | down here                          |
+| quando                   | when                               |
+| quasi                    | almost                             |
+| quassù                   | up here                            |
+| qui, qua                 | here                               |
 | raramente                | rarely                             |
 | recentemente             | recently, lately                   |
+| sempre                   | always                             |
+| seriamente               | seriously                          |
+| spesso                   | often                              |
 | stamattina               | this morning                       |
 | stanotte                 | tonight                            |
 | stasera                  | this evening                       |
+| stavolta                 | this time                          |
 | subito                   | immediately, right away            |
 | talora                   | sometimes                          |
 | talvolta                 | sometimes                          |
+| tanto                    | too much                           |
 | tardi                    | late                               |
+| troppo                   | too, too much                      |
 | tutti i giorni           | every day                          |
 | ultimamente              | lately                             |
-| qui, qua                 | here                               |
-| lì, là                   | there                              |
-| altrove                  | elsewhere, somewhere else          |
-| quando                   | when                               |
-| meno                     | less                               |
-| dove                     | where                              |
-| stavolta                 | this time                          |
-| invece                   | instead                            |
-| ci                       | there                              |
-| proprio                  | exactely                           |
-| almeno                   | at least                           |
-| troppo                   | too, too much                      |
-| insieme                  | together                           |
-| fuori                    | outside, out                       |
-| dentro                   | inside                             |
-| appunto                  | exactely, just                     |
-| piuttosto                | rather                             |
-| vicino                   | nearby                             |
-| lontano                  | far away                           |
-| fa                       | ago                                |
-| in futuro                | in the future                      |
-| in passato               | in the past                        |
-| da allora                | since then                         |
-| da quando?               | since when?                        |
-| da qualche parte         | somewhere                          |
-| da qualche altra parte   | elswhere, somewhere else           |
-| da qualsiasi altra parte | anywhere else, everywhere else     |
-| da nessuna parte         | nowhere                            |
-| a lungo                  | for a long time                    |
-| alla stessa ora          | at the same time                   |
-| da un momento all'altro  | at any moment                      |
-| all'improvviso           | suddenly                           |
-| alla fine                | eventually                         |
-| di nuovo                 | again                              |
-| di solito                | usually                            |
-| quassù                   | up here                            |
-| quaggiù                  | down here                          |
-| làssù                    | up there                           |
-| laggiù                   | down there                         |
 | veramente                | really                             |
-| particolarmente          | particularly                       |
-| chiaramente              | clearly                            |
-| assolutamente            | absolutely                         |
-| probabilmente            | probably                           |
-| generalmente             | generally                          |
-| facilmente               | easily                             |
-| completamente            | completely                         |
+| vicino                   | nearby                             |
+| volentieri               | gladly, willing                    |
