@@ -19,9 +19,11 @@ A reflexive verb is identifiable by the ending **-si** / _oneself_.
 | ammalarsi       | to get sick, fall ill       |
 | annoiarsi       | to get bored                |
 | arrabbiarsi     | to get angry                |
+| aspettarsi      | to expect                   |
 | chiamarsi       | to call oneself, be named   |
 | dimenticarsi    | to forget                   |
 | divertirsi      | to have fun                 |
+| domandarsi      | to wonder                   |
 | farsi il bagno  | to bathe                    |
 | farsi la barba  | to shave                    |
 | farsi la doccia | to shower                   |

@@ -70,3 +70,136 @@ There are only a few irregular verbs in the _imperfect_ tense.
 | tradurre pres. 2nd pl. fam. | voi     | traducevate     |
 | tradurre pres. 2nd pl. pol. | Loro    | traducevano     |
 | tradurre pres. 3rd pl.      | loro    | traducevano     |
+
+## Participles
+
+There are, of course, many irregular past participles in Italian. 
+
+| Infinitive    | Participle    | Meaning                                                      |
+|---------------|---------------|--------------------------------------------------------------|
+| accendere     | acceso        | lit                                                          |
+| accogliere    | accolto       | welcomed, received                                           |
+| aggiungere    | aggiunto      | added                                                        |
+| ammettere     | ammesso       | admitted                                                     |
+| apparire      | apparso       | appeared, came into view                                     |
+| apprendere    | appreso       | learned, found out                                           |
+| aprire        | aperto        | opened                                                       |
+| ardere        | arso          | burned                                                       |
+| attendere     | atteso        | waited                                                       |
+| avvolgere     | avvolto       | added                                                        |
+| chiedere      | chiesto       | closed                                                       |
+| chiudere      | chiuso        | closed                                                       |
+| commettere    | commesso      | committed                                                    |
+| commuovere    | commosso      | moved, touched (emotionally)                                 |
+| comparire     | comparso      | appeared, showed up                                          |
+| comprendere   | compreso      | understood                                                   |
+| compromettere | compromesso   | jeopardized                                                  |
+| concludere    | concluso      | concluded                                                    |
+| condividere   | condiviso     | shared                                                       |
+| confondere    | confuso       | confused                                                     |
+| connettere    | connesso      | connected                                                    |
+| consistere    | consistito    | consisted                                                    |
+| convincere    | convinto      | convinced                                                    |
+| coprire       | coperto       | covered                                                      |
+| correggere    | corretto      | corrected                                                    |
+| correre       | corso         | run                                                          |
+| deludere      | deluso        | disappointed                                                 |
+| descrivere    | descritto     | described                                                    |
+| difendere     | difeso        | defended                                                     |
+| dipendere     | dipeso        | depended                                                     |
+| dipingere     | dipinto       | painted                                                      |
+| dire          | detto         | said, spoken                                                 |
+| dirigere      | diretto       | directed, managed                                            |
+| discutere     | discusso      | discussed                                                    |
+| distinguere   | distinto      | distinguished                                                |
+| distruggere   | distrutto     | destroyed                                                    |
+| dividere      | diviso        | divided                                                      |
+| eleggere      | eletto        | elected                                                      |
+| erigere       | eretto        | erected, built                                               |
+| esigere       | esatto        | demanded, required                                           |
+| esistere      | esistito      | existed                                                      |
+| espellere     | espulso       | expelled                                                     |
+| esplodere     | esploso       | exploded                                                     |
+| esprimere     | espresso      | expressed                                                    |
+| essere        | stato         | been                                                         |
+| estendere     | esteso        | extended                                                     |
+| fare          | fatto         | done                                                         |
+| fingere       | finto         | pretended, feigned                                           |
+| fondere       | fuso          | melted                                                       |
+| friggere      | fritto        | fried                                                        |
+| giungere      | giunto        | arrived                                                      |
+| incidere      | inciso        | cut, carved                                                  |
+| includere     | incluso       | included                                                     |
+| intendere     | inteso        | meant, intended                                              |
+| interrompere  | interrotto    | interrupted                                                  |
+| invadere      | invaso        | invaded                                                      |
+| leggere       | letto         | read                                                         |
+| mettere       | messo         | put                                                          |
+| mordere       | morso         | bitten                                                       |
+| morire        | morto         | died                                                         |
+| muovere       | mosso         | moved                                                        |
+| nascondere    | nascosto      | hidden                                                       |
+| occorrere     | occorso       | needed, required                                             |
+| offendere     | offeso        | offended                                                     |
+| offrire       | offerto       | offered                                                      |
+| omettere      | omesso        | omitted                                                      |
+| opprimere     | oppresso      | oppressed                                                    |
+| perdere       | perso         | lost                                                         |
+| permettere    | permesso      | permitted                                                    |
+| piangere      | pianto        | cried                                                        |
+| porgere       | porto         | handed, given                                                |
+| prendere      | preso         | taken                                                        |
+| pretendere    | preteso       | demanded, required                                           |
+| promettere    | promesso      | promised                                                     |
+| proteggere    | protetto      | protected                                                    |
+| pungere       | punto         | pricked, stung                                               |
+| raccogliere   | raccolto      | picked up, collected                                         |
+| radere        | raso          | shaven                                                       |
+| raggiungere   | raggiunto     | reached, gotten to                                           |
+| redigere      | redatto       | drafted, compiled                                            |
+| rendere       | reso          | given back                                                   |
+| reprimere     | represso      | repressed                                                    |
+| resistere     | resistito     | resisted                                                     |
+| riassumere    | riassunto     | summarized                                                   |
+| riconnettere  | riconnesso    | reconnected                                                  |
+| ridere        | riso          | laughed                                                      |
+| rimanere      | rimasto       | stayed, remained                                             |
+| rimettere     | rimesso       | put back, replaced                                           |
+| rimuovere     | rimosso       | removed                                                      |
+| riscuotere    | riscosso      | collected (money)                                            |
+| risolvere     | risolto       | solved                                                       |
+| rispondere    | risposto      | answered                                                     |
+| rivolgere     | rivolto       | turned, directed; addressed (a person)                       |
+| rompere       | rotto         | broken                                                       |
+| scegliere     | scelto        | chosen                                                       |
+| scendere      | sceso         | gone down                                                    |
+| sciogliere    | sciolto       | melted                                                       |
+| scommettere   | scommesso     | bet                                                          |
+| sconfiggere   | sconfitto     | defeated                                                     |
+| sconnettere   | sconnesso     | disconnected                                                 |
+| sconvolgere   | sconvolto     | upset, disturbed                                             |
+| scorrere      | scorso        | passed (time)                                                |
+| scrivere      | scritto       | written                                                      |
+| scuotere      | scosso        | shaken                                                       |
+| smettere      | smesso        | stopped                                                      |
+| soccorrere    | soccorso      | helped                                                       |
+| soffrire      | sofferto      | suffered                                                     |
+| sopravvivere  | sopravvissuto | survived                                                     |
+| soprintendere | soprinteso    | supervised                                                   |
+| sorprendere   | sorpreso      | surprised                                                    |
+| sorridere     | sorriso       | smiled                                                       |
+| spegnere      | spento        | extinguished, put out, shut off                              |
+| spendere      | speso         | spent                                                        |
+| spingere      | spinto        | pushed                                                       |
+| stendere      | steso         | spread out                                                   |
+| storcere      | storto        | twisted, distorted                                           |
+| stringere     | stretto       | gripped; tightened                                           |
+| svolgere      | svolto        | unwound, unrolled; carried out (a plan, study, reform, etc.) |
+| togliere      | tolto         | taken away/off, removed                                      |
+| torcere       | torto         | twisted                                                      |
+| uccidere      | ucciso        | killed                                                       |
+| vedere        | visto         | seen                                                         |
+| vincere       | vinto         | beaten, won                                                  |
+| vivere        | vissuto       | lived                                                        |
+| volgere       | volto         | turned toward                                                |
+

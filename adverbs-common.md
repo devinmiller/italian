@@ -1,8 +1,5 @@
 # Common Adverbs
 
-cioè - that is (to say)
-mi piace un sacco - I like it a lot
-
 
 | Italian                  | English                            |
 |--------------------------|------------------------------------|

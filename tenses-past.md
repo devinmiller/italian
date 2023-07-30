@@ -40,6 +40,41 @@ The past participle of verbs conjugated with _essere_ agrees in number and gende
 | (voi)     | siete     | usciti/e   | You have gone out, you went out           |
 | (loro)    | sono      | usciti/e   | They have gone out, they went out         |
 
+Verbs conjugated with _essere_:
+
+![la casa di essere](images/la-casa-di-essere.png)
+
+| Infinitive  | Participle  | Meaning                 |
+|-------------|-------------|-------------------------|
+| andare      | andato      | to go                   |
+| apparire    | apparso     | to appear               |
+| arrivare    | arrivato    | to arrive               |
+| cadere      | caduto      | to fall                 |
+| correre     | corso       | to run                  |
+| crescere    | cresciuto   | to grow                 |
+| dimagrire   | dimagrito   | to lose wight           |
+| diventare   | diventato   | to become               |
+| entrare     | entrato     | to enter                |
+| essere      | stato       | to be                   |
+| lavarsi     | lavato      | to wash (oneself)       |
+| morire      | morto       | to die                  |
+| nascere     | nato        | to be born              |
+| ingrassare  | ingrassato  | to fatten, gain wieght  |
+| invecchiare | invecchiato | to age, grow old        |
+| partire     | partito     | to leave                |
+| restare     | restato     | to stay, remain (place) |
+| rimanere    | rimasto     | to stay, remain (time)  |
+| salire      | salito      | to climb, to go up      |
+| sembrare    | sembrato    | to seem                 |
+| scendere    | sceso       | to go down (stairs)     |
+| sorgere     | sorto       | to arise, rise          |
+| stare       | stato       | to stay                 |
+| tornare     | tornato     | to go back, to return   |
+| tramontare  | tramontato  | to set, go down         |
+| uscire      | uscito      | to go out               |
+| venire      | venuto      | to come                 |
+| vivere      | vissuto     | to live                 |
+
 ## Imperfect
 
 The _imperfect_ tense is used to express:
