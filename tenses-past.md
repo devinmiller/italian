@@ -113,4 +113,4 @@ Here are the results:
 | (voi)     | parlavate    | scrivevate    | finivate     |
 | (loro)    | parlavano    | scrivevano    | finivano     |
 
-[Past Tense Irregular Conjugations](tenses-past-irregular.mdF)
+[Past Tense Irregular Conjugations](tenses-past-irregular.md)
