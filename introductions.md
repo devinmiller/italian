@@ -308,3 +308,39 @@ ovvero
 
 una cosa del genere - something like that
 emotions - passare (they pass)
+
+More phrases from that Netflix show:
+come mai - how come?
+m'hanno cacciate - they kicked me out
+rimanere o rimanerci male - to be hurt or offended
+tutto tranne - anything but/except
+nulla - nothing/anything
+basta - enough
+com'è andata - how did it go?
+insomma - in short/summary
+tutti e tre - all three
+pioggia - rain
+sotto - under
+ehilà - hey there
+calcola che - reckon
+non ti rende felice
+a me è andato tutto una merda, oggi - Everything went shit for me today
+non vale - it's not fair
+scelta - choice
+pensiamoci - let's think about it
+
+more words I need to look up:
+
+convenire
+apparire
+ravvivare
+rendere
+rompere
+certo
+servire
+mancare
+rimanere
+mandare
+detestare
+sennò
+cacciare
