@@ -6,7 +6,7 @@ The many varied uses of irregular verbs in Italian.
 
 | Italian                | English        |
 |------------------------|----------------|
-| andare a fare shopping | to go shopping | pf
+| andare a fare shopping | to go shopping |
 
 ## AVERE
 
