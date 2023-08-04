@@ -47,6 +47,13 @@ Typically, _avere_ with a noun is used to express _physical_ sensations or feeli
 
 ## ESSERE
 
+### Feelings
+
+| Italian           | English     |
+|-------------------|-------------|
+| essere arrabbiata | to be angry |
+| essere triste     | to be sad   |
+
 ## FARE
 
 The verb _fare_ is used to form many expressions.
@@ -81,6 +88,7 @@ The verb _fare_ is used to form many expressions.
 | fare una pausa                 | to take a break           |
 | fare le pulizie                | to do the cleaning        |
 | fare palestra                  | to work out               |
+| fare fatica                    | to struggle               |
 
 ## POTERE
 

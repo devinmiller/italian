@@ -83,14 +83,10 @@ quali (which)
 cosa and che cosa are the same
 che is more informal
 
-poco = few (quantity) (ho poco tempo) (I have little/few time)
 piccolo = size
 
 come va / come stai / tutto a posto = how are you
 hanno senso = make sense
-
-spesso = often
-tutte le mattine = every morning
 
 da = from (ongoing)
 per = for (completed)
@@ -99,9 +95,6 @@ abitare = to live (geographical location of _your_ house)
 vivere = to live (geographical or in general)
 
 qualcosa da ... = something to ...
-presto = soon, early
-pronto = ready
-mezz'ora = half hour
 
 uscire = to leave (a place); go out;
 partire = to leave (on a trip)
@@ -114,11 +107,8 @@ that = quel (changes ending like articles)
 
 novità = new / what's new
 
-a che ora = at what time
-
 time = article + number (no ora)
 article + day of the week = every (day of week)
-qualche volta = sometimes
 lo so = I know
 
 san gimignano
@@ -161,10 +151,6 @@ quali (which)
 cosa and che cosa are the same
 che is more informal
 
-learn fare conjugations
-
-a volte / qualche volta / ogni tanto = sometimes
-
 inverno = winter
 primavera = spring
 estate = summer
@@ -197,26 +183,19 @@ qualche = always singular
 sentire = to hear
 sentirsi = to feel
 
-dopo = after 
 allora = well, then, so...
 
 fa male = does bad
 
 riposare = to rest
-restare = remain, stay
-
 ne = of these/them
 
 Memorize ordinal numbers. (1st, 2nd, 3rd, etc.)
 
 quando fa bello = quando il tempo è bello (more common) = the weather is nice
 
-fa caldo (it (the weather) is hot)
-fa freddo (it (the weather) is cold)
-
 o / oppure = or
 invece = instead
-ogni tanto = sometimes/every now and then
 
 passato prossimo
 
@@ -243,8 +222,6 @@ ti voglio bene (I love you) = friends, family, people (little love, not romantic
 giornata = whole day, 24 hour period
 giorno = daylight (always right)
 
-fare fatica = to struggle
-
 ci metto = it takes me
 ci metti = it takes you
 ci mette = it takes him/her
@@ -253,7 +230,6 @@ From that trashy Netflix show:
 cioè - that is (to say)
 come minimo - at (the very) least
 mi piace un sacco - I like it a lot
-tra un po' - in a while (soon)
 chissà - (who) knows
 è stato raggiunto - has been achieved
 quel che è certo - what is certain
@@ -261,7 +237,6 @@ spiaggia - beach
 sogni d'oro - sweet dreams
 fai la brava - behave, be good, be a good girl
 intanto - meanwhile
-a breve - shortly
 ognuno - each of you
 cosa succederà - what is going to happen
 settimana lorativa - working week
@@ -271,7 +246,6 @@ io non ce la faccio - no I can't
 soprattutto - above all
 meno male - that's good
 perder tempo - waste time
-ogni volta - every time
 alcune cose - some things
 come se foste - as if you were
 almeno - at least
@@ -344,3 +318,45 @@ mandare
 detestare
 sennò
 cacciare
+
+Show words:
+tempo scaduto - time is up?
+non badare a spese - to spare no expense
+cambiare idea - to change one's mind
+ma si - but you?
+non mi sono resa conto (di) - I didn't realize (that)
+mi sento giù - I am feeling down
+ti giuro - I swear
+un attimo - a moment
+almeno - at least
+(non) ce l'ho - I (don't) have it
+che meraviglia - wonderful
+non vedo l'ora - I can't wait
+facciamo pena - we suck
+ancora una volta - once again
+eccoci qua (ancora) - here we are (again)
+arrivare in anticipo - to arrive early
+innanzitutto - first of all
+
+Even more words to look up again:
+
+capirsi
+cacciare
+comportamento
+accadere
+badare
+partire (usage)
+cambiare (usage) - cambiare idea
+ormai
+rifiutare
+restare (vs remanere)
+fregare
+interessare
+trasmettere
+sbandierare
+offendersi
+trasformarsi
+
+comparisons, different things, people, numbers = di
+comparisons, two infinitive verbs + adjective, two adjectives an a single noun, preposition before a noun or pronoun, between two nouns or pronouns = che
+

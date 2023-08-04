@@ -105,5 +105,23 @@ The periods of the day
 
 ## Time Expressions
 
-| Italian | English |
-|---------|---------|
+| Italian          | English             |
+|------------------|---------------------|
+| a che ora        | at what time        |
+| avere poco temp  | to have little time |
+| mezz'ora         | half hour           |
+| presto           | soon, early         |
+| pronto           | ready               |
+| qualche volta    | sometimes           |
+| a volta          | sometimes           |
+| ogni tanto       | occasionally        |
+| di solito        | usually             |
+| spesso           | often               |
+| tutte le mattine | every morning       |
+| tutte le sere    | every evening       |
+| tra un po'       | in a while          |
+| ogni volta       | every time          |
+| a breve          | shortly             |
+| dopo             | after               |
+| prima            | before              |
+
