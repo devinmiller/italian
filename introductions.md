@@ -151,12 +151,7 @@ quali (which)
 cosa and che cosa are the same
 che is more informal
 
-inverno = winter
-primavera = spring
-estate = summer
-autunno = fall
 preferita = favorite
-di solito = usually
 
 ci sono = there
 molte persona = many people
@@ -177,13 +172,10 @@ borsa = bag (maybe purse)
 che invidia = I'm jealous / envious for thing (oggetti, vita, vacanze)
 geloso = jealous, but only people
 
-alcuni giorni = qualche giorno 
 qualche = always singular
 
 sentire = to hear
 sentirsi = to feel
-
-allora = well, then, so...
 
 fa male = does bad
 
@@ -193,9 +185,6 @@ ne = of these/them
 Memorize ordinal numbers. (1st, 2nd, 3rd, etc.)
 
 quando fa bello = quando il tempo è bello (more common) = the weather is nice
-
-o / oppure = or
-invece = instead
 
 passato prossimo
 
@@ -222,10 +211,6 @@ ti voglio bene (I love you) = friends, family, people (little love, not romantic
 giornata = whole day, 24 hour period
 giorno = daylight (always right)
 
-ci metto = it takes me
-ci metti = it takes you
-ci mette = it takes him/her
-
 From that trashy Netflix show:
 cioè - that is (to say)
 come minimo - at (the very) least
@@ -243,7 +228,7 @@ settimana lorativa - working week
 non credo proprio - I don't think so
 secondo me - in my opinion
 io non ce la faccio - no I can't
-soprattutto - above all
+soprattutto - above all, especially
 meno male - that's good
 perder tempo - waste time
 alcune cose - some things
@@ -316,7 +301,7 @@ mancare
 rimanere
 mandare
 detestare
-sennò
+sennò - or else, otherwise
 cacciare
 
 Show words:
@@ -360,3 +345,43 @@ trasformarsi
 comparisons, different things, people, numbers = di
 comparisons, two infinitive verbs + adjective, two adjectives an a single noun, preposition before a noun or pronoun, between two nouns or pronouns = che
 
+non ci posso credere - I can't believe it
+ce la facciamo? - Can we make it?
+ce ti fa piachere - if it makes you happy
+fare una mala figura - to make a bad impression
+regalare - to give away
+regalare qualcosa - to give something away (as a present)
+mi tocca lavare - I have to wash
+il lavoro va preso sul serio - the work should be taken seriously
+devo riposare le braccia - I have to rest my arms
+non ci si ferma mai - there is no stopping / there is not time to stop
+forza - come on
+te l'ho detto - I told you
+uno di qua, uno di là - one this way, one that way
+fatica - effort
+la busta paga - pycheck
+nonstante - despite
+la giornata si chiude - the day comes to a close    
+sono abituata a essere trattata come - I am used to being treated like
+non ho mai fatto una cosa del genere - I have never done such a thing
+là sopra - up there
+sai qual è la cosa che fa più ridere - You know what's the funniest thing?
+Pretendo delle scuse - I demand an apology
+incubo - nightmare
+ve lo dico - I tell you (all)
+com'è andata - how did it go?
+mi sono anche scocciato di sentirla parlare - I also got tired of hearing her speak
+sveglia = alarm (clock)
+mi prenda in giro - make fun of me
+mi stai prendendo in giro - are you making fun of me
+pure - even?
+compiti - tasks
+compiere gli anni - to have one's birthday
+come mai - how come
+sono dell'idea - I am of the idea
+qui succede sempre qualcosa
+Sembrano passati anni da quando - it seems like years since
+via il dente, via il dolore - away the tooth, away the pain
+darsi da fare - to get busy, to make efforts
+dover abbandonare - have to give up
+di sicuro - surely

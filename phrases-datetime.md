@@ -47,13 +47,13 @@ The rest.
 
 In Italian, season are usually preceded by an article.
 
-| Italian      | English |
-|--------------|---------|
-| stagioni     | seasons |
-| l'estate     | summer  |
-| l'autunno    | fall    |
-| l'inverno    | winter  |
-| la primavera | spring  |
+| Italian   | English |
+|-----------|---------|
+| stagioni  | seasons |
+| estate    | summer  |
+| autunno   | fall    |
+| inverno   | winter  |
+| primavera | spring  |
 
 ## Time of Day
 
@@ -107,21 +107,22 @@ The periods of the day
 
 | Italian          | English             |
 |------------------|---------------------|
+| a breve          | shortly             |
 | a che ora        | at what time        |
-| avere poco temp  | to have little time |
-| mezz'ora         | half hour           |
-| presto           | soon, early         |
-| pronto           | ready               |
-| qualche volta    | sometimes           |
-| a volta          | sometimes           |
-| ogni tanto       | occasionally        |
+| a volte          | sometimes           |
+| alcuni giorni    | some days           |
+| avere poco tempo | to have little time |
 | di solito        | usually             |
+| dopo             | after               |
+| mezz'ora         | half hour           |
+| ogni tanto       | occasionally        |
+| ogni volta       | every time          |
+| presto           | soon, early         |
+| prima            | before              |
+| pronto           | ready               |
+| qualche giorno   | some days           |
+| qualche volta    | sometimes           |
 | spesso           | often               |
+| tra un po'       | in a while          |
 | tutte le mattine | every morning       |
 | tutte le sere    | every evening       |
-| tra un po'       | in a while          |
-| ogni volta       | every time          |
-| a breve          | shortly             |
-| dopo             | after               |
-| prima            | before              |
-

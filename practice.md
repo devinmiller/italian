@@ -2,6 +2,15 @@
 
 Where I try to find the right words.
 
+## Per Agosto 6
+
+- mi piace giocare più che lavorare
+- la mia piccola gatta è meno socievole di mio grande gatto
+- sono molto più timido di mia moglie
+- sono più vecchio che saggio
+- ho più di quarant'anni adesso!
+
+
 ## For July 18th, 2023
 
 (How was your weekend?)

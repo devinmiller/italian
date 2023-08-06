@@ -18,6 +18,8 @@ The verb **avere** is used in many expressions.
 |-------------------------------|--------------------------|
 | avere bisogno (di) *qualcosa* | to need *something*      |
 | avere voglia (di) *qualcosa*  | to feel like *something* |
+| avere la testa dura           | to be stubborn           |
+| avere la testa vuota          | to be empty-headed       |
 
 ### Sensations
 
@@ -89,6 +91,7 @@ The verb _fare_ is used to form many expressions.
 | fare le pulizie                | to do the cleaning        |
 | fare palestra                  | to work out               |
 | fare fatica                    | to struggle               |
+| fare un corso                  | to take a course          |
 
 ## POTERE
 
