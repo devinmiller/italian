@@ -17,6 +17,29 @@ _essere caduto/a_
 | cadere a terra | to fall down (on the ground) |
 | far cadere     | to make fall, drop           |
 
+
+## CONTINUARE
+
+to continue (with), carry on with, go on with
+
+_avere continuato_
+
+| Italian                | English                               |
+|------------------------|---------------------------------------|
+| continuare a fare _qc_ | to go on/keep on/continue doing _sth_ |
+
+## IMPEGNARE
+
+to pawn, bind, keep busy
+
+_essere impegnato_
+
+| Italian                | English                    |
+|------------------------|----------------------------|
+| impegnarsi             | to bind oneself            |
+| imepgnarsi a fare _qc_ | to commit to do _sth_      |
+| impegnarsi in _qc_     | to devote oneself to _sth_ |
+
 ## METTERE
 
 Transitive - to put, put on, wear
@@ -53,6 +76,28 @@ to lost, get out of
 | perdere tempo         | to lose (waste) time    |
 | perdere la testa      | to lose one's head/mind |
 
+## PORTARE
+
+to carry, take
+
+_avere portato_
+
+| Italian                    | English                       |
+|----------------------------|-------------------------------|
+| portare via                | to take (away/up)             |
+| portare _qc_ (a _qn_)      | to take/bring _sth_ (to _sb_) |
+| portare _qn_ a (fare) _qc_ | to lead _sb_ to (do) _sth_    |
+
+## PROVARE
+
+to try (out), attempt, taste, feel (emotions)
+
+_avere provato_
+
+| Italian             | English                    |
+|---------------------|----------------------------|
+| provare a fare _qc_ | to try/attempt to do _sth_ |
+
 ## RACCOGLIERE
 
 Transitive - to pick up, gather, collect
@@ -62,24 +107,6 @@ _avere raccolto_
 | Italian             | English                          |
 |---------------------|----------------------------------|
 | raccogliere le idee | to gather/collect one's thoughts |
-
-## RIMANERE
-
-Intransitive - to stay, remain (implies time)
-
-_essere rimasto/a_
-
-| Italian               | English                          |
-|-----------------------|----------------------------------|
-| rimanere a casa       | to stay/remain at home           |
-| rimanere a letto      | to stay/remain in bed            |
-| rimanere a cena       | to stay for dinner               |
-| rimanere zitto        | to to stay/remain silent         |
-| rimanere sorpreso     | to be surprised                  |
-| rimanere senza parole | to be left speechless            |
-| rimanere male         | to be hurt/offended              |
-| rimanerci male        | to be _personally_ hurt/offended |
-| rimanere confuso      | to be confused                   |
 
 ## REGALARE
 
@@ -107,6 +134,66 @@ _essere restato/a_
 | restare sorpreso     | to be surprised          |
 | restare senza parole | to be left speechless    |
 
+## RIDERE
+
+to laugh
+
+_avere riso_
+
+| Italian         | English                  |
+|-----------------|--------------------------|
+| ridere di       | to laugh at, make fun of |
+| far ridere _qn_ | to make _sb_ laugh       |
+
+## RIMANERE
+
+Intransitive - to stay, remain (implies time)
+
+_essere rimasto/a_
+
+| Italian               | English                          |
+|-----------------------|----------------------------------|
+| rimanere a casa       | to stay/remain at home           |
+| rimanere a letto      | to stay/remain in bed            |
+| rimanere a cena       | to stay for dinner               |
+| rimanere zitto        | to to stay/remain silent         |
+| rimanere sorpreso     | to be surprised                  |
+| rimanere senza parole | to be left speechless            |
+| rimanere male         | to be hurt/offended              |
+| rimanerci male        | to be _personally_ hurt/offended |
+| rimanere confuso      | to be confused                   |
+
+## RIUSCIRE
+
+to be able, manage
+
+_essere riuscito_
+
+| Italian                        | English                                            |
+|--------------------------------|----------------------------------------------------|
+| riuscire (in _qc_/a fare _qc_) | to succeed/be successful (in _sth_/in doing _sth_) |
+| riuscire a fare _qc_           | to manage/be able to do _sth_                      |
+
+## RIVEDERE
+
+to see again, meet again
+
+_avere rivisto_
+
+| Italian   | English                               |
+|-----------|---------------------------------------|
+| rivedersi | to see each other again, meet (again) |
+
+## ROMPERE
+
+to break, smash up
+
+_avere rotto_
+
+| Italian                   | English                 |
+|---------------------------|-------------------------|
+| rompere le scatole a _qn_ | to get on _sb_’s nerves |
+
 ## SCENDERE
 
 to go/come down, descend
@@ -122,3 +209,27 @@ _essere sceso/a_
 | scendere dal treno      | to get off the train       |
 | scendere dal letto      | to get out of bed          |
 | scendere dalle scale    | to go/come down the stairs |
+
+## TIRARE
+
+to pull, drag
+
+_avere tirato_
+
+| Italian             | English               |
+|---------------------|-----------------------|
+| tirare fuori        | to pull/take out      |
+| tirare giù          | to pull down          |
+| tirare su _qn_/_qc_ | to pull _sb_/_sth_ up |
+
+## TOCCARE
+
+to touch, feel
+
+_essere toccato/a_
+
+| Italian          | English                 |
+|------------------|-------------------------|
+| toccare con mano | to find out for oneself |
+| toccare a        | to be the turn of       |
+

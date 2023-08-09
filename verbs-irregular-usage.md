@@ -45,6 +45,13 @@ Typically, _avere_ with a noun is used to express _physical_ sensations or feeli
 
 ## DIRE
 
+| Italian                  | English                               |
+|--------------------------|---------------------------------------|
+| dire _qc_ a _qn_         | to say _sth_ to _sb_, tell _sb_ _sth_ |
+| dire di sì/no            | to say yes/no                         |
+| dire a _qn_ _qc_         | to tell _sb_ _sth_                    |
+| dire a _qn_ di fare _qc_ | to tell _sb_ to do _sth_              |
+
 ## DOVERE
 
 ## ESSERE

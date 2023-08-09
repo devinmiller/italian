@@ -385,3 +385,26 @@ via il dente, via il dolore - away the tooth, away the pain
 darsi da fare - to get busy, to make efforts
 dover abbandonare - have to give up
 di sicuro - surely
+
+More from that show:
+
+affrontare il discorso - address the issue?
+Ora dice di essere astemia - Now she says she is teetotal?
+alla grande - great?
+mi fa piacere - I am glad/pleased?
+è una romana bora che mi fa morire dalle risate - ? morire dalle risate
+C'è un'altra boss precisina. - There is another ? boss?
+Faccio fare tutto agli altri due - I will let the other two do everything
+questo la dice lunga - that says a lot
+se c'è da aiutare per facilitare il lavoro, io aiuto - If there is help to facilitate the work, I help?
+
+Notes:
+devo resistere ancora un giorno
+morire dalle risate
+astemia = teetotaler
+rompere le scatole
+rompere le palle
+rompere le balle
+rompere i coglioni
+se c'è da - If there is the/a necessity/need
+innanzitutto - first of all
