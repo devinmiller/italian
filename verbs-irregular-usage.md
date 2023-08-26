@@ -7,6 +7,7 @@ The many varied uses of irregular verbs in Italian.
 | Italian                | English        |
 |------------------------|----------------|
 | andare a fare shopping | to go shopping |
+| com'è andata?          | how did it go? |
 
 ## AVERE
 
@@ -99,6 +100,7 @@ The verb _fare_ is used to form many expressions.
 | fare palestra                  | to work out               |
 | fare fatica                    | to struggle               |
 | fare un corso                  | to take a course          |
+| fare la vittima                | to play the victim        |
 
 ## POTERE
 

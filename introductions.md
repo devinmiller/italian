@@ -111,8 +111,6 @@ time = article + number (no ora)
 article + day of the week = every (day of week)
 lo so = I know
 
-san gimignano
-
 estero = abroad
 
 finire + di + infinitive (to finish + something)
@@ -228,7 +226,6 @@ settimana lorativa - working week
 non credo proprio - I don't think so
 secondo me - in my opinion
 io non ce la faccio - no I can't
-soprattutto - above all, especially
 meno male - that's good
 perder tempo - waste time
 alcune cose - some things
@@ -251,7 +248,6 @@ sistemare
 rovinarsi
 termine (examples)
 succedere (examples)
-sopra
 accomodarsi
 guadagnare
 licenziare
@@ -271,38 +267,18 @@ emotions - passare (they pass)
 More phrases from that Netflix show:
 come mai - how come?
 m'hanno cacciate - they kicked me out
-rimanere o rimanerci male - to be hurt or offended
 tutto tranne - anything but/except
 nulla - nothing/anything
 basta - enough
-com'è andata - how did it go?
 insomma - in short/summary
 tutti e tre - all three
 pioggia - rain
-sotto - under
 ehilà - hey there
-calcola che - reckon
 non ti rende felice
 a me è andato tutto una merda, oggi - Everything went shit for me today
 non vale - it's not fair
 scelta - choice
 pensiamoci - let's think about it
-
-more words I need to look up:
-
-convenire
-apparire
-ravvivare
-rendere
-rompere
-certo
-servire
-mancare
-rimanere
-mandare
-detestare
-sennò - or else, otherwise
-cacciare
 
 Show words:
 tempo scaduto - time is up?
@@ -318,7 +294,6 @@ almeno - at least
 che meraviglia - wonderful
 non vedo l'ora - I can't wait
 facciamo pena - we suck
-ancora una volta - once again
 eccoci qua (ancora) - here we are (again)
 arrivare in anticipo - to arrive early
 innanzitutto - first of all
@@ -369,7 +344,6 @@ sai qual è la cosa che fa più ridere - You know what's the funniest thing?
 Pretendo delle scuse - I demand an apology
 incubo - nightmare
 ve lo dico - I tell you (all)
-com'è andata - how did it go?
 mi sono anche scocciato di sentirla parlare - I also got tired of hearing her speak
 sveglia = alarm (clock)
 mi prenda in giro - make fun of me
@@ -384,15 +358,11 @@ Sembrano passati anni da quando - it seems like years since
 via il dente, via il dolore - away the tooth, away the pain
 darsi da fare - to get busy, to make efforts
 dover abbandonare - have to give up
-di sicuro - surely
 
 More from that show:
 
 affrontare il discorso - address the issue?
-Ora dice di essere astemia - Now she says she is teetotal?
-alla grande - great?
 mi fa piacere - I am glad/pleased?
-è una romana bora che mi fa morire dalle risate - ? morire dalle risate
 C'è un'altra boss precisina. - There is another ? boss?
 Faccio fare tutto agli altri due - I will let the other two do everything
 questo la dice lunga - that says a lot
@@ -407,4 +377,94 @@ rompere le palle
 rompere le balle
 rompere i coglioni
 se c'è da - If there is the/a necessity/need
-innanzitutto - first of all
+
+More from the show:
+
+Tutti sanno che lei pensa solo al suo ombelico.  Basta quello.
+sei d'accordo con me? - do you agree with me?
+mi ha spiazzata - it surprised me?
+sa di bruciato - it tastes burnt?
+mi raccomando a prescindere - ?
+non mi viene da svegliarmi - I don't feel like waking up? "it doesn't come from me - non mi viene"
+hanno raggiunto - they have reached
+Mi fanno male i muscoli - my muscles hurt
+Spero che ti mangi uno squalo - I hope you get eaten by a shark
+ma devi far andare anche le mani - but you also have to get your hands going?
+
+after di - infinitive
+
+dare fastidio - to bother
+niente da fare - nothing to do
+troppo da fare - too much to do
+mi racommando - way to say please
+qualcuno - someone
+qualcun altro - someone else
+far perdere - to waste
+far scendere - to bring down
+
+però farsi le serate è sempre molto meglio. Cos'è farsi le serate?
+Mi sono proprio rotta il cazzo?  I know it is vulgar!
+Mi ha fatto piacere parlare con te - I enjoyed speaking with you...
+
+spedire - to send (physical package/letter)
+mandare/inviare - about the same
+
+andaresene
+sono io - it's me (emphasis on the person)
+io sono - I am (emphasis on what I am)
+
+Perché "è arrivato il momento" invece di "il momento è arrivato"?
+Perché "sono stato l'ultima volta" invece di "l'ultima volta sono stato"?
+
+Qualcun altro, invece, la sveglia non l'ha proprio sentita suonare, 
+ed è arrivato al lavoro più di una volta, con ritardi imperdonabili.
+
+Perché "l'ha"? - Common to put the object first for emphasis, then use the pronoun.
+
+Cos'è la differenza tra "è il mio turn" e "tocca a me"?
+
+ne/ci examples:
+
+(afraid of getting into the water)
+Ci sono coccodrilli?  Ho paura di entrare in acqua, 
+perche non so cosa c'è sotto e magari c'è un coccodrillo.
+Che ne so?  Io non entro.
+
+che ne so? - Informal "I don't know"
+
+(swimming in a pool)
+Mi bruciavano le spalle, mi sono rinfrescato un attimo.  Ci sta.
+
+Ci sta - slang "It's ok"/not excited/meh
+
+(no paycheck received)
+- Ve l'aspettavate
+- ci può stare, dai
+- Sono stati i ritardi che ci hanno fregato, in questo caso.
+
+sono rimasta fregato - I was screwed
+il ritardo - late, but really "delay"
+
+(more empty paychecks)
+io il mio impegno ce l'ho messo.
+
+la mia tastiera = my keyboard
+ho comprato un tastiera nuova ieri.  Ho spesso troppo.  
+
+ne - replaces of/from
+ci - all the other prepositions, in this place, "a questo cosa", con "qualcuno", su "qualcosa"
+
+contare - to count
+puoi contarci
+
+volerci - it takes (everyone), "have to put something", required for everyone 
+metterci - it takes (personal), "don't have to", but you like to, you do it
+
+sentirci - ci just makes the meaning stronger
+vedereci - ci just makes the meaning stronger
+
+sei bello ma non invisibile, spostati - you are beautiful but not invisible
+scegli tu - you choose
+vai tu - you go
+
+pronoun after to emphasis the most important thing is the person

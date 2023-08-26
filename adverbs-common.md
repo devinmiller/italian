@@ -103,3 +103,9 @@
 | veramente                | really                             |
 | vicino                   | nearby                             |
 | volentieri               | gladly, willing                    |
+| sennò                    | otherwise, or else                 |
+| sotto                    | down, underneath, below            |
+| di sicuro                | surely                             |
+| innanzitutto             | first of all                       |
+| soprattutto              | above all, especially              |
+| sopra                    | up, on top; above                  |

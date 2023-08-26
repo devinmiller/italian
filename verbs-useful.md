@@ -265,3 +265,120 @@ Useful first conjugation verbs ending in -iare.
 | tagliare     | to cut                      |
 | umiliare     | to humiliate                |
 | viziare      | to spoil (a child)          |
+
+## Second Conjugation Verbs
+
+Useful second conjugation verbs.
+
+| Italian       | English                                          |
+|---------------|--------------------------------------------------|
+| accendere     | to light, turn on                                |
+| ammettere     | to admit                                         |
+| apprendere    | to learn, find out                               |
+| ardere        | to burn                                          |
+| attendere     | to wait for; to attend to                        |
+| battere       | to hit                                           |
+| chiedere      | to ask                                           |
+| chiudere      | to close, shut; to quit (a computer application) |
+| coincidere    | to coincide                                      |
+| combattere    | to fight                                         |
+| commettere    | to commit                                        |
+| commuovere    | to move (emotionally); to touch                  |
+| comprendere   | to understand; include                           |
+| compromettere | to jeopardize                                    |
+| concludere    | to conclude, finish                              |
+| condividere   | to share                                         |
+| confondere    | to confuse                                       |
+| connettere    | to connect                                       |
+| consistere    | to consist                                       |
+| credere       | to believe                                       |
+| deludere      | to disappoint                                    |
+| descrivere    | to describe                                      |
+| dibattere     | to debate                                        |
+| difendere     | to defend                                        |
+| dipendere     | to depend                                        |
+| discutere     | to discuss; to quarrel                           |
+| distinguere   | to distinguish                                   |
+| dividere      | to divide                                        |
+| esistere      | to exist                                         |
+| espellere     | to expel                                         |
+| esplodere     | to explode                                       |
+| esprimere     | to express                                       |
+| estendere     | to extend                                        |
+| fondere       | to melt; to blend, fuse                          |
+| incidere      | to cut into, carve; to affect                    |
+| includere     | to include                                       |
+| intendere     | to intend, mean; to understand                   |
+| interrompere  | to interrupt                                     |
+| invadere      | to invade                                        |
+| iscrivere     | to enroll, register                              |
+| mettere       | to put                                           |
+| mordere       | to bite                                          |
+| muovere       | to move                                          |
+| nascondere    | to hide                                          |
+| offendere     | to offend, insult                                |
+| omettere      | to omit                                          |
+| opprimere     | to oppress                                       |
+| perdere       | to lose                                          |
+| permettere    | to permit, allow                                 |
+| prendere      | to take                                          |
+| pretendere    | to claim, demand                                 |
+| procedere     | to proceed                                       |
+| promettere    | to promise                                       |
+| proscrivere   | to ban proscribe                                 |
+| radere        | to shave                                         |
+| rendere       | to give back                                     |
+| reprimere     | to repress                                       |
+| resistere     | to resist                                        |
+| riassumere    | to summarize                                     |
+| ricevere      | to receive                                       |
+| ridere        | to laugh                                         |
+| riflettere    | to reflect, think over                           |
+| rimettere     | to put back                                      |
+| rimuovere     | to remove                                        |
+| ripetere      | to repeat                                        |
+| riscuotere    | to collect (money)                               |
+| risolvere     | to solve                                         |
+| rispondere    | to answer                                        |
+| rompere       | to break                                         |
+| scendere      | to go down (stairs)                              |
+| scommettere   | to bet                                           |
+| sconnettere   | to disconnect                                    |
+| scorrere      | to glide, flow; to pass (time)                   |
+| scrivere      | to write                                         |
+| scuotere      | to shake                                         |
+| smettere      | to stop                                          |
+| soccorrere    | to help, come to the aid of                      |
+| sopravvivere  | to survive                                       |
+| sorprendere   | to surprise                                      |
+| sorridere     | to smile                                         |
+| sospendere    | to call off, stop; to suspend                    |
+| sovrintendere | to supervise                                     |
+| spegnere      | to extinguish, put out                           |
+| spendere      | to spend                                         |
+| spremere      | to squeeze                                       |
+| stendere      | to extend, spread out                            |
+| temere        | to fear                                          |
+| trascrivere   | to transcribe                                    |
+| uccidere      | to kill                                          |
+| vivere        | to live, be alive                                |
+
+
+## Words I've Encountered
+
+| Italian                   | English                    |
+|---------------------------|----------------------------|
+| devastare (devastato)     | to devastate, ravage       |
+| perdere (perso)           | to lose                    |
+| mancare (mancato)         | to be lacking, missing     |
+| risposare (riposato)      | to rest, put down again    |
+| raggiungere (raggiunto)   | to reach, achieve          |
+| scontrarsi (sontrato)     | to collide, crash          |
+| godere (goduto)           | to enjoy, benefit from     |
+| interrogare (interrogato) | to questio, examine        |
+| ammazzare (ammazzato)     | to kill, exhaust           |
+| esaurire (esaurito)       | to exhaust, expend, use up |
+| provare (provato)         | to try, attempt            |
+| guadagnare (guadagnato)   | to earn, win, gain         |
+| decurtare (decurtato)     | to reduce                  |
+| raggiungere (raggiunto)   | to reach, join, achieve    |

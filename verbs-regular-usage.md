@@ -6,9 +6,20 @@ The many varied uses of regular verbs in Italian.
 
 A verb can be described as _transitive_ or _intransitive_ based on whether or not it requires an object to express a complete thought. A transitive verb is one that makes sense only if it exerts its action on an object. An intransitive verb will make sense without an object. Some verbs can be used both ways.
 
+## APARIRE
+
+to appear, seem
+
+_essere apparso/a_
+
+| Italian   | English                   |
+|-----------|---------------------------|
+| apare che | it appears/turns out that |
+
+
 ## CADERE
 
-Intransitive - to fall, crash, drop
+to fall, crash, drop
 
 _essere caduto/a_
 
@@ -28,6 +39,28 @@ _avere continuato_
 |------------------------|---------------------------------------|
 | continuare a fare _qc_ | to go on/keep on/continue doing _sth_ |
 
+## FREGARE
+
+to rub, polish
+
+_avere fregato_
+
+| Italian                   | English                               |
+|---------------------------|---------------------------------------|
+| fregarsene (di _qc_/_qn_) | not to give a damn (about _sth_/_sb_) |
+
+## GODERE
+
+to enjoy, benefit from
+
+_avere goduto_
+
+| Italian              | English                                  |
+|----------------------|------------------------------------------|
+| godere di            | to enjoy, rejoice at/in, be delighted at |
+| godere nel fare _qc_ | to enjoy/delight in doing _sth_          |
+| godersi la vita      | to enjoy life                            |
+
 ## IMPEGNARE
 
 to pawn, bind, keep busy
@@ -40,9 +73,20 @@ _essere impegnato_
 | imepgnarsi a fare _qc_ | to commit to do _sth_      |
 | impegnarsi in _qc_     | to devote oneself to _sth_ |
 
+## MANDARE
+
+to send
+
+_avere mandato_
+
+| Italian                 | English                |
+|-------------------------|------------------------|
+| mandare _qc_ a _qn_     | to send _sb_ _sth_     |
+| mandare a dire (a _qn_) | to send word (to _sb_) |
+
 ## METTERE
 
-Transitive - to put, put on, wear
+to put, put on, wear
 
 | Italian                    | English                      |
 |----------------------------|------------------------------|
@@ -100,7 +144,7 @@ _avere provato_
 
 ## RACCOGLIERE
 
-Transitive - to pick up, gather, collect
+to pick up, gather, collect
 
 _avere raccolto_
 
@@ -110,7 +154,7 @@ _avere raccolto_
 
 ## REGALARE
 
-Transitive - to give (away)
+to give (away)
 
 _avere regalato_
 
@@ -119,9 +163,23 @@ _avere regalato_
 | regalare _qc_ | to give _sth_ (as a present) |
 | regalare _qc_ | to give _sth_ away           |
 
+## RENDERE
+
+to give back, return; make
+
+_avere reso_
+
+| Italian                    | English                 |
+|----------------------------|-------------------------|
+| rendere grazie a _qn_      | to thank _sb_           |
+| rendere un servizio a _qn_ | to do _sb_ a service    |
+| rendersi                   | to make oneself         |
+| rendersi conto di _qc_     | to realize _sth_        |
+| rendersi utile             | to make oneself useful  |
+
 ## RESTARE
 
-Intransitive - to stay, remain (implies place)
+to stay, remain (implies place)
 
 _essere restato/a_
 
@@ -147,7 +205,7 @@ _avere riso_
 
 ## RIMANERE
 
-Intransitive - to stay, remain (implies time)
+to stay, remain (implies time)
 
 _essere rimasto/a_
 
@@ -193,6 +251,7 @@ _avere rotto_
 | Italian                   | English                 |
 |---------------------------|-------------------------|
 | rompere le scatole a _qn_ | to get on _sb_’s nerves |
+| rompersi                  | to break onself         |
 
 ## SCENDERE
 
@@ -209,6 +268,19 @@ _essere sceso/a_
 | scendere dal treno      | to get off the train       |
 | scendere dal letto      | to get out of bed          |
 | scendere dalle scale    | to go/come down the stairs |
+
+## SERVIRE
+
+to serve, be useful
+
+_essere servito/a_
+
+Similar to _piacere_ in conjugation and use.
+
+| Italian                | English          |
+|------------------------|------------------|
+| mi serve una penne     | I need a pen     |
+| mi servono delle penne | I need some pens |
 
 ## TIRARE
 
@@ -232,4 +304,6 @@ _essere toccato/a_
 |------------------|-------------------------|
 | toccare con mano | to find out for oneself |
 | toccare a        | to be the turn of       |
+| a chi tocca?     | whose turn is it?       |
+| 
 

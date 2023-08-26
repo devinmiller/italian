@@ -111,6 +111,7 @@ The periods of the day
 | a che ora        | at what time        |
 | a volte          | sometimes           |
 | alcuni giorni    | some days           |
+| ancora una volta | once again          |
 | avere poco tempo | to have little time |
 | di solito        | usually             |
 | dopo             | after               |
@@ -120,9 +121,11 @@ The periods of the day
 | presto           | soon, early         |
 | prima            | before              |
 | pronto           | ready               |
-| qualche giorno   | some days           |
+| qualche giorno   | a few (some) days   |
 | qualche volta    | sometimes           |
 | spesso           | often               |
+| stavolta         | this time           |
 | tra un po'       | in a while          |
 | tutte le mattine | every morning       |
 | tutte le sere    | every evening       |
+| tempo scaduto    | time up             |
