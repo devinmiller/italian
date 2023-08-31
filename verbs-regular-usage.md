@@ -39,28 +39,6 @@ _avere continuato_
 |------------------------|---------------------------------------|
 | continuare a fare _qc_ | to go on/keep on/continue doing _sth_ |
 
-## FREGARE
-
-to rub, polish
-
-_avere fregato_
-
-| Italian                   | English                               |
-|---------------------------|---------------------------------------|
-| fregarsene (di _qc_/_qn_) | not to give a damn (about _sth_/_sb_) |
-
-## GODERE
-
-to enjoy, benefit from
-
-_avere goduto_
-
-| Italian              | English                                  |
-|----------------------|------------------------------------------|
-| godere di            | to enjoy, rejoice at/in, be delighted at |
-| godere nel fare _qc_ | to enjoy/delight in doing _sth_          |
-| godersi la vita      | to enjoy life                            |
-
 ## IMPEGNARE
 
 to pawn, bind, keep busy
@@ -79,10 +57,9 @@ to send
 
 _avere mandato_
 
-| Italian                 | English                |
-|-------------------------|------------------------|
-| mandare _qc_ a _qn_     | to send _sb_ _sth_     |
-| mandare a dire (a _qn_) | to send word (to _sb_) |
+| Italian             | English            |
+|---------------------|--------------------|
+| mandare _qc_ a _qn_ | to send _sb_ _sth_ |
 
 ## METTERE
 
@@ -108,6 +85,18 @@ to put, put on, wear
 | mettersi a piangere        | to start/begin to cry        |
 | mettersi a ridere          | to start/begin to laugh      |
 | mettersi a lavoro          | to set to work               |
+
+## PENSARE
+
+to think
+
+_avere pensato_
+
+| Italian     | English           |
+|-------------|-------------------|
+| pensare a   | to think of/about |
+| penso di sì | I think so        |
+| penso di no | I don't think so  |
 
 ## PERDERE
 

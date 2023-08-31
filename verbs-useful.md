@@ -27,6 +27,7 @@ Useful first conjugation verbs.
 | attraversare  | to cross                                                     |
 | aumentare     | to increase                                                  |
 | ballare       | to dance                                                     |
+| bastare       | to be enough, sufficient                                     |
 | brindare      | to propose, make a toast                                     |
 | buttare       | to throw                                                     |
 | camminare     | to walk                                                      |
@@ -183,12 +184,14 @@ Useful first conjugation verbs.
 | pregare                    | to pray, ask, beg              |
 | pubblicare                 | to publish                     |
 | recare                     | to bring about, cause          |
+| rovinare                   | to ruin, spoil                 |
 | sbarcare                   | to land, disembark             |
 | sbrigare                   | to accomplish, finish (a task) |
 | scaricare                  | to download                    |
 | seccare                    | to dry; to annoy               |
 | slogare                    | to dislocate, sprain           |
 | soffocare                  | to suffocate                   |
+| spiagare                   | to explain                     |
 | stancare                   | to tire                        |
 | toccare                    | to touch                       |
 | traslocare                 | to move (change residence)     |
@@ -276,6 +279,7 @@ Useful second conjugation verbs.
 | ammettere     | to admit                                         |
 | apprendere    | to learn, find out                               |
 | ardere        | to burn                                          |
+| assumere      | to take on, assume                               |
 | attendere     | to wait for; to attend to                        |
 | battere       | to hit                                           |
 | chiedere      | to ask                                           |
@@ -363,22 +367,71 @@ Useful second conjugation verbs.
 | uccidere      | to kill                                          |
 | vivere        | to live, be alive                                |
 
+## Second Conjugation Verbs Ending In -cere, -gere, -gliere, and -gnere
+
+Useful second conjugation verbs ending in -cere, -gere, -gliere, and -gnere.
+
+| Italian     | English                                        |
+|-------------|------------------------------------------------|
+| accogliere  | to welcome, receive                            |
+| aggiungere  | to add                                         |
+| avvolgere   | to wrap up                                     |
+| cingere     | to surround, encircle                          |
+| cogliere    | to pick, gather                                |
+| coinvolgere | to involve, implicate                          |
+| convincere  | to convince                                    |
+| correggere  | to correct                                     |
+| crescere    | to grow                                        |
+| dipingere   | to paint                                       |
+| dirigere    | to direct, manage                              |
+| distruggere | to destroy                                     |
+| eleggere    | to elect                                       |
+| emergere    | to emerge                                      |
+| erigere     | to erect, build                                |
+| esigere     | to demand, require                             |
+| fingere     | to pretend, feign                              |
+| giungere    | to arrive                                      |
+| leggere     | to read                                        |
+| piangere    | to cry                                         |
+| porgere     | to extend (one's hand, etc.)                   |
+| proteggere  | to protect                                     |
+| pungere     | to prick, sting                                |
+| raccogliere | to pick up, collect                            |
+| raggiungere | to reach, get to                               |
+| redigere    | to draft, compile                              |
+| rivolgere   | to turn, direct to; to address (someone)       |
+| scegliere   | to choose                                      |
+| sconfiggere | to defeat                                      |
+| sconvolgere | to upset, disturb                              |
+| spargere    | to scatter, sprinkle                           |
+| spegnere    | to extinguish, put out, shut off               |
+| spingere    | to push                                        |
+| sporgere    | to jut/stick out                               |
+| storcere    | to twist, distort                              |
+| stringere   | to grip; to tighten                            |
+| svolgere    | to unwind, unroll; to carry out (a plan, etc.) |
+| togliere    | to take away/off, remove                       |
+| torcere     | to twise                                       |
+| volgere     | to turn toward                                 |
 
 ## Words I've Encountered
 
-| Italian                   | English                    |
-|---------------------------|----------------------------|
-| devastare (devastato)     | to devastate, ravage       |
-| perdere (perso)           | to lose                    |
-| mancare (mancato)         | to be lacking, missing     |
-| risposare (riposato)      | to rest, put down again    |
-| raggiungere (raggiunto)   | to reach, achieve          |
-| scontrarsi (sontrato)     | to collide, crash          |
-| godere (goduto)           | to enjoy, benefit from     |
-| interrogare (interrogato) | to questio, examine        |
-| ammazzare (ammazzato)     | to kill, exhaust           |
-| esaurire (esaurito)       | to exhaust, expend, use up |
-| provare (provato)         | to try, attempt            |
-| guadagnare (guadagnato)   | to earn, win, gain         |
-| decurtare (decurtato)     | to reduce                  |
-| raggiungere (raggiunto)   | to reach, join, achieve    |
+| Italian                   | English                          |
+|---------------------------|----------------------------------|
+| devastare (devastato)     | to devastate, ravage             |
+| perdere (perso)           | to lose                          |
+| mancare (mancato)         | to be lacking, missing           |
+| risposare (riposato)      | to rest, put down again          |
+| raggiungere (raggiunto)   | to reach, achieve                |
+| scontrarsi (sontrato)     | to collide, crash                |
+| godere (goduto)           | to enjoy, benefit from           |
+| interrogare (interrogato) | to questio, examine              |
+| ammazzare (ammazzato)     | to kill, exhaust                 |
+| esaurire (esaurito)       | to exhaust, expend, use up       |
+| provare (provato)         | to try, attempt                  |
+| guadagnare (guadagnato)   | to earn, win, gain               |
+| decurtare (decurtato)     | to reduce                        |
+| raggiungere (raggiunto)   | to reach, join, achieve          |
+| eliminare (elininato)     | to eliminate                     |
+| richiedere (richiesto)    | to ask again, apply for, require |
+| gestire (gestiva)         | to manage, run                   |

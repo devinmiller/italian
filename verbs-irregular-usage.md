@@ -44,6 +44,10 @@ Typically, _avere_ with a noun is used to express _physical_ sensations or feeli
 
 ## DARE
 
+| Italian       | English             |
+|---------------|---------------------|
+| darsi da fare | to get busy, hustle |
+
 ## DIRE
 
 | Italian                  | English                               |
@@ -101,6 +105,8 @@ The verb _fare_ is used to form many expressions.
 | fare fatica                    | to struggle               |
 | fare un corso                  | to take a course          |
 | fare la vittima                | to play the victim        |
+| farsi compagnia                | to keep company           |
+| fare in modo                   | to make sure              |
 
 ## POTERE
 

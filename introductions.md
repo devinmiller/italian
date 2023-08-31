@@ -468,3 +468,31 @@ scegli tu - you choose
 vai tu - you go
 
 pronoun after to emphasis the most important thing is the person
+
+show:
+buon proseguimento - good continuation, enjoy the rest
+ci vediamo poi a Torino - Reflexive, we will see each other in Torino
+sei una donzella - compliment or insult? (princess, sarcastic?)
+datti una svegliata - wake up, snap out of it? - can't see something obvious, don't do something because (rude, for friends)
+
+sono molto fiera di me per essere sempre rimasta fedele a me stessa, nonostante tutto.
+ di me - of myself
+a me stessa - of myself (more common at end of phrase)
+
+speriamo di no - let's hope not.
+embè - and so what
+che avete combinato? - what have you done?
+oggi è una vera giornata da baronetto - ?
+Pensateci due minuti - Think about it for two minutes?
+addesso ci penso - Now I think about it.
+mi viene da piangere - I feel like crying (not apparent, something coming from inside of a person).
+mi raccomando, puntate le sveglie - I beg/implore you, set the alarms. 
+mi sono fatta male - I hurt myself
+Ve ne mancano circa 100-120. - You have around 100-120 of them left.
+eravamo là a divertirci, poi comunque ci è arrivato lo spumante in testa, ci è arrivato negli occhi, e ci ha dato fastidio.
+funzionare - work, function
+mancare - missing, "left"
+
+ma io sono disposto ad aiutarlo ad aprirsi con tutti quanti.
+Più, se ci mette la parola Matthias e penso che mi lasci proprio stare
+io so che, quando mi piace una persona, non ci capisco un cazzo.

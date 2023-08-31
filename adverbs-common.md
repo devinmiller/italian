@@ -34,11 +34,13 @@
 | davvero                  | really                             |
 | dentro                   | inside                             |
 | di nuovo                 | again                              |
+| di sicuro                | surely                             |
 | di solito                | usually                            |
 | domani                   | tomorrow                           |
 | dopo                     | afterwards                         |
 | dopodomani               | the day after tomorrow             |
 | dove                     | where                              |
+| dovunque                 | wherever, everywhere               |
 | fa                       | ago                                |
 | facilmente               | easily                             |
 | finora                   | so far, up to now                  |
@@ -50,6 +52,7 @@
 | ieri                     | yesterday                          |
 | in futuro                | in the future                      |
 | in passato               | in the past                        |
+| innanzitutto             | first of all                       |
 | insieme                  | together                           |
 | invece                   | instead                            |
 | laggiù                   | down there                         |
@@ -68,6 +71,8 @@
 | oggi                     | today                              |
 | ogni giorno              | every day                          |
 | ora                      | now                                |
+| ormai                    | by now, by this time               |
+| ovunque                  | wherever, everywhere               |
 | particolarmente          | particularly                       |
 | peggio                   | worse                              |
 | piuttosto                | rather                             |
@@ -86,7 +91,11 @@
 | raramente                | rarely                             |
 | recentemente             | recently, lately                   |
 | sempre                   | always                             |
+| sennò                    | otherwise, or else                 |
 | seriamente               | seriously                          |
+| sopra                    | up, on top; above                  |
+| soprattutto              | above all, especially              |
+| sotto                    | down, underneath, below            |
 | spesso                   | often                              |
 | stamattina               | this morning                       |
 | stanotte                 | tonight                            |
@@ -103,9 +112,5 @@
 | veramente                | really                             |
 | vicino                   | nearby                             |
 | volentieri               | gladly, willing                    |
-| sennò                    | otherwise, or else                 |
-| sotto                    | down, underneath, below            |
-| di sicuro                | surely                             |
-| innanzitutto             | first of all                       |
-| soprattutto              | above all, especially              |
-| sopra                    | up, on top; above                  |
+| di/per conseguenza       | consequently                       |
+| insomma                  | in short, all in all               |
