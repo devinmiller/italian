@@ -39,17 +39,69 @@ _avere continuato_
 |------------------------|---------------------------------------|
 | continuare a fare _qc_ | to go on/keep on/continue doing _sth_ |
 
+## DIMENTICARE
+
+to forget (about), leave out
+
+_avere dimenticato_
+
+## DIMENTICARSI
+
+to forget about, leave out
+
+_si essere dimenticato_
+
+| Italian                         | English                       |
+|---------------------------------|-------------------------------|
+| dimenticarsi di *qualcosa*      | to forget (about) *something* |
+| dimenticarsi di fare *qualcosa* | to forget to do *something    |
+
+## FINIRE
+
+to finish, end; to stop
+
+_essere finito_
+
+| Italian             | English             |
+|---------------------|---------------------|
+| finire di _qc_      | to stop _sth_       |
+| finire di fare _qc_ | to stop doing _sth_ |
+
+## IMPAZZIRE
+
+to go mad
+
+_essere impazzito_
+
+| Italian            | English            |
+|--------------------|--------------------|
+| far impazzire _qn_ | to drive _smb_ mad |
+
 ## IMPEGNARE
 
 to pawn, bind, keep busy
 
-_essere impegnato_
+_avere impegnato_
+
+## IMPEGNARSI
+
+to bind oneself, commit oneself
 
 | Italian                | English                    |
 |------------------------|----------------------------|
-| impegnarsi             | to bind oneself            |
 | imepgnarsi a fare _qc_ | to commit to do _sth_      |
 | impegnarsi in _qc_     | to devote oneself to _sth_ |
+
+## INIZIARE
+
+to begin, start
+
+_essere iniziato_
+
+| Italian              | English              |
+|----------------------|----------------------|
+| iniziare a _qc_      | to start _sth_       |
+| iniziare a fare _qc_ | to start doing _sth_ |
 
 ## MANDARE
 
@@ -75,28 +127,32 @@ to put, put on, wear
 | mettere a tacere _qn_/_qc_ | to keep _sb_/_sth_ quiet     |
 | mettere via                | to put away                  |
 | mettere la sveglia         | to set the alarm             |
-| metterci                   | to take (time/effort)        |
-| metterci molto cura        | to take a lot of care        |
-| metterci molto cura        | to take a lot of time        |
-| mettersi                   | to put (oneself)             |
-| mettersi a sedere          | to sit down                  |
-| mettersi a letto           | to go to bed                 |
-| mattersi a fare _qc_       | to start to do _sth_         |
-| mettersi a piangere        | to start/begin to cry        |
-| mettersi a ridere          | to start/begin to laugh      |
-| mettersi a lavoro          | to set to work               |
 
-## PENSARE
+## METTERSI
 
-to think
+to put (oneself)
 
-_avere pensato_
+_si essere messo_
 
-| Italian     | English           |
-|-------------|-------------------|
-| pensare a   | to think of/about |
-| penso di sì | I think so        |
-| penso di no | I don't think so  |
+| Italian              | English                 |
+|----------------------|-------------------------|
+| mettersi a sedere    | to sit down             |
+| mettersi a letto     | to go to bed            |
+| mattersi a fare _qc_ | to start to do _sth_    |
+| mettersi a piangere  | to start/begin to cry   |
+| mettersi a ridere    | to start/begin to laugh |
+| mettersi a lavoro    | to set to work          |
+
+## METTERCI
+
+to take (personal) time/effort
+
+_ci essere voluto_
+
+| Italian             | English               |
+|---------------------|-----------------------|
+| metterci molto cura | to take a lot of care |
+| metterci molto cura | to take a lot of time |
 
 ## PERDERE
 
@@ -158,13 +214,21 @@ to give back, return; make
 
 _avere reso_
 
-| Italian                    | English                 |
-|----------------------------|-------------------------|
-| rendere grazie a _qn_      | to thank _sb_           |
-| rendere un servizio a _qn_ | to do _sb_ a service    |
-| rendersi                   | to make oneself         |
-| rendersi conto di _qc_     | to realize _sth_        |
-| rendersi utile             | to make oneself useful  |
+| Italian                    | English                |
+|----------------------------|------------------------|
+| rendere grazie a _qn_      | to thank _sb_          |
+| rendere un servizio a _qn_ | to do _sb_ a service   |
+
+## RENDERSI
+
+to make oneself
+
+_si essere reso_
+
+| Italian                | English                |
+|------------------------|------------------------|
+| rendersi conto di _qc_ | to realize _sth_       |
+| rendersi utile         | to make oneself useful |
 
 ## RESTARE
 
@@ -227,9 +291,11 @@ to see again, meet again
 
 _avere rivisto_
 
-| Italian   | English                               |
-|-----------|---------------------------------------|
-| rivedersi | to see each other again, meet (again) |
+## RIVEDERSI
+
+to see (each other) again, meet (again)
+
+_si essere rivisto_
 
 ## ROMPERE
 
@@ -240,7 +306,16 @@ _avere rotto_
 | Italian                   | English                 |
 |---------------------------|-------------------------|
 | rompere le scatole a _qn_ | to get on _sb_’s nerves |
-| rompersi                  | to break onself         |
+
+## ROMPERSI
+
+to break oneself
+
+_si essere rotto_
+
+| Italian             | English      |
+|---------------------|--------------|
+| rompersi la schiena | to work hard |
 
 ## SCENDERE
 
@@ -294,5 +369,19 @@ _essere toccato/a_
 | toccare con mano | to find out for oneself |
 | toccare a        | to be the turn of       |
 | a chi tocca?     | whose turn is it?       |
-| 
 
+## TROVARE
+
+to find, come upon/across
+
+_avere trovato_
+
+## TROVARSI
+
+to be, find oneself
+
+_si essere trovato_
+
+| Italian            | English              |
+|--------------------|----------------------|
+| trovarsi bene/male | to get on well/badly |

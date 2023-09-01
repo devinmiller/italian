@@ -91,21 +91,7 @@ hanno senso = make sense
 da = from (ongoing)
 per = for (completed)
 
-abitare = to live (geographical location of _your_ house)
-vivere = to live (geographical or in general)
-
 qualcosa da ... = something to ...
-
-uscire = to leave (a place); go out;
-partire = to leave (on a trip)
-
-sentire = to hear
-sentirsi = to feel
-
-this = questo
-that = quel (changes ending like articles)
-
-novità = new / what's new
 
 time = article + number (no ora)
 article + day of the week = every (day of week)
@@ -113,16 +99,7 @@ lo so = I know
 
 estero = abroad
 
-finire + di + infinitive (to finish + something)
-iniziare + a + infinitive (to start + something) (standard and polite)
-mettersi + a + infinite (morei nformal)
-
 dare del lei = to speak informally
-
-trovarsi + bene/male = very common
-
-ti sei trovato bene a Venezia?
-ti sei trovato bene a usare queò servizio?
 
 ma = always at the start
 però = at the start of line or after (more common, less formal)
@@ -162,8 +139,6 @@ words that end in -ma are masculine
 non mi va = I don't feel like it (informal)
 dare / fare (more common) una festa = to "throw a party"
 
-fare shopping = vestite
-fare la spesa = solo cibo
 valigie = bag / luggage
 borsa = bag (maybe purse)
 
@@ -172,9 +147,6 @@ geloso = jealous, but only people
 
 qualche = always singular
 
-sentire = to hear
-sentirsi = to feel
-
 fa male = does bad
 
 riposare = to rest
@@ -182,7 +154,6 @@ ne = of these/them
 
 Memorize ordinal numbers. (1st, 2nd, 3rd, etc.)
 
-quando fa bello = quando il tempo è bello (more common) = the weather is nice
 
 passato prossimo
 
@@ -200,7 +171,6 @@ litigare = fight (with words)/argue
 
 what = cosa (interrogative pronoun)
 what = quello que (already known)
-fare schifo = to suck
 subj. -> dir. -> indir. -> verb
 
 ti amo (I love you) = wife, girlfriend, lover, etc. (big love, very romantic)
@@ -218,7 +188,6 @@ chissà - (who) knows
 quel che è certo - what is certain
 spiaggia - beach
 sogni d'oro - sweet dreams
-fai la brava - behave, be good, be a good girl
 intanto - meanwhile
 ognuno - each of you
 cosa succederà - what is going to happen
@@ -495,4 +464,10 @@ mancare - missing, "left"
 
 ma io sono disposto ad aiutarlo ad aprirsi con tutti quanti.
 Più, se ci mette la parola Matthias e penso che mi lasci proprio stare
-io so che, quando mi piace una persona, non ci capisco un cazzo.
+io so che, quando mi piace una persona, non ci capisco un cazzo. non ci capisco niente - I don't shit "on/about" them.
+La schiena non ne parliamo, perché ormai non me la sento più.
+ce ne deve avere meno - there must be less?
+
+ci tengo - I care
+ce l'ho - I have it
+non ce l'ho - I don't have it

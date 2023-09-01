@@ -10,6 +10,7 @@ Useful first conjugation verbs.
 |---------------|--------------------------------------------------------------|
 | abbandonare   | to abandon                                                   |
 | abbassare     | to lower, pull down; to turn down (the radio), dim (a light) |
+| abitare       | to live (in), inhabit                                        |
 | accelerare    | to accelerate                                                |
 | aiutare       | to help                                                      |
 | allenare      | to exercise, train                                           |
@@ -413,6 +414,104 @@ Useful second conjugation verbs ending in -cere, -gere, -gliere, and -gnere.
 | togliere    | to take away/off, remove                       |
 | torcere     | to twise                                       |
 | volgere     | to turn toward                                 |
+
+## Third Conjugation Group I Verbs
+
+Useful third conjugation group 1 verbs.
+
+| Italian      | English                                   |
+|--------------|-------------------------------------------|
+| abolire      | to abolish                                |
+| acuire       | to stimulate; to sharpen                  |
+| aderire      | to adhere, stick; to join, be a member of |
+| agire        | to act                                    |
+| approfondire | to deepen                                 |
+| arrossire    | to blush                                  |
+| arrugginire  | to rust                                   |
+| attribuire   | to attribute, assign; to award            |
+| brandire     | to brandish                               |
+| capire       | to understand                             |
+| colpire      | to hit, strike, knock                     |
+| condire      | to season, flavor, spice                  |
+| contribuire  | to contibute                              |
+| costruire    | to build                                  |
+| digerire     | to digest                                 |
+| dimagrire    | to get thin                               |
+| diminuire    | to diminish                               |
+| distribuire  | to distribute, give/hand out              |
+| disubbidire  | to disobey                                |
+| esaurire     | to exhaust, use up                        |
+| esibire      | to show, exhibit, display                 |
+| fallire      | to fail; to go bankrupt                   |
+| favorire     | to favor, support                         |
+| ferire       | to wound                                  |
+| finire       | to finish                                 |
+| fiorire      | to flourish, bloom                        |
+| fornire      | to supply, furnish, give                  |
+| garantire    | to guarantee                              |
+| gestire      | to manage, run, conduct                   |
+| gradire      | to like, appreciate                       |
+| guarire      | to cure, heal                             |
+| impallidire  | to turn pale                              |
+| impartire    | to impart, give                           |
+| impazzire    | to go crazy                               |
+| impedire     | to prevent, obstruct                      |
+| infastidire  | to annoy, bother, vex                     |
+| ingelosire   | to make jealous                           |
+| inghiottire  | to swallow                                |
+| intimidire   | to intimidate                             |
+| istruire     | to instruct                               |
+| marcire      | to rot                                    |
+| nutrire      | to feed, nourish                          |
+| obbedire     | to obey                                   |
+| preferire    | to prefer                                 |
+| proibire     | to prohibit, forbid                       |
+| pulire       | to clean                                  |
+| punire       | to punish                                 |
+| raddolcire   | to sweeten                                |
+| rammollire   | to soften                                 |
+| reagire      | to react                                  |
+| restituire   | to give back, restore                     |
+| riunire      | to gather, collect                        |
+| sbalordire   | to astonish                               |
+| scaturire    | to gush/spring (from)                     |
+| smagrire     | to make thinner                           |
+| smentire     | to deny; to belie                         |
+| spedire      | to send, mail, ship                       |
+| stabilire    | to set, fix, establish                    |
+| starnutire   | to sneeze                                 |
+| stupire      | to amaze, astonish                        |
+| suggerire    | to suggest                                |
+| tossire      | to cough                                  |
+| tradire      | to betray                                 |
+| trasferire   | to transfer                               |
+
+## Third Conjugation Group II Verbs
+
+Useful third conjugation gorup 2 verbs
+
+| Italian    | English                            |
+|------------|------------------------------------|
+| avvertire  | to warn, notify                    |
+| bollire    | to boil; to feel uncomfortably hot |
+| conseguire | to obtain, reach, get              |
+| convertire | to convert                         |
+| cucire     | to sew                             |
+| divertire  | to amuse                           |
+| dormire    | to sleep                           |
+| fuggire    | to flee                            |
+| inseguire  | to run after, chase                |
+| investire  | to invest; to hit, run over        |
+| offrire    | to offer                           |
+| partire    | to leave (on a trip), depart       |
+| riempire   | to fill                            |
+| scomparire | to disappear                       |
+| seguire    | to follow                          |
+| sentire    | to feel; to hear                   |
+| servire    | to serve                           |
+| soffrire   | to suffer                          |
+| uscire     | to go (out), leave (a place)       |
+| vestire    | to dress                           |
 
 ## Words I've Encountered
 

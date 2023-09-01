@@ -114,3 +114,5 @@
 | volentieri               | gladly, willing                    |
 | di/per conseguenza       | consequently                       |
 | insomma                  | in short, all in all               |
+| persino                  | even                               |
+| perfino                  | even                               |

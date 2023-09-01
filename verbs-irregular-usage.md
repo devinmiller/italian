@@ -86,27 +86,34 @@ The verb _fare_ is used to form many expressions.
 
 ### Other Expressions
 
-| Italian                        | English                   |
-|--------------------------------|---------------------------|
-| fare una bella figura          | to make a good impression |
-| fare una brutta/cattiva figura | to make a bad impression  |
-| fare un sogno                  | to have a dream           |
-| fare sport                     | to play sports            |
-| fare una passeggiata           | to take a walk            |
-| fare cinque chilometri a piedi | to walk five kilometers   |
-| fare un giro in bicicletta     | to take a bike ride       |
-| fare un giro in macchina       | to take a ride by car     |
-| fare le valige                 | to pack                   |
-| fare un viaggio                | to take a trip            |
-| fare colazione                 | to have breakfast         |
-| fare una pausa                 | to take a break           |
-| fare le pulizie                | to do the cleaning        |
-| fare palestra                  | to work out               |
-| fare fatica                    | to struggle               |
-| fare un corso                  | to take a course          |
-| fare la vittima                | to play the victim        |
-| farsi compagnia                | to keep company           |
-| fare in modo                   | to make sure              |
+| Italian                        | English                        |
+|--------------------------------|--------------------------------|
+| fare cinque chilometri a piedi | to walk five kilometers        |
+| fare colazione                 | to have breakfast              |
+| fare fatica                    | to struggle                    |
+| fare in modo                   | to make sure                   |
+| fare la spesa                  | to do the shopping (groceries) |
+| fare la vittima                | to play the victim             |
+| fare le pulizie                | to do the cleaning             |
+| fare le valige                 | to pack                        |
+| fare palestra                  | to work out                    |
+| fare schifo                    | to be gross; to suck           |
+| fare shopping                  | to do the shopping (general)   |
+| fare sport                     | to play sports                 |
+| fare un corso                  | to take a course               |
+| fare un giro in bicicletta     | to take a bike ride            |
+| fare un giro in macchina       | to take a ride by car          |
+| fare un sogno                  | to have a dream                |
+| fare un viaggio                | to take a trip                 |
+| fare una bella figura          | to make a good impression      |
+| fare una brutta/cattiva figura | to make a bad impression       |
+| fare una passeggiata           | to take a walk                 |
+| fare una pausa                 | to take a break                |
+| farsi compagnia                | to keep company                |
+| farsi il bagno                 | to take a bath                 |
+| farsi la barbo                 | to shave                       |
+| farsi la doccia                | to take a shower               |
+| farsi schifo                   | to disgust oneself             |
 
 ## POTERE
 
