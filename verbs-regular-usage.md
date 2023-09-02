@@ -103,6 +103,28 @@ _essere iniziato_
 | iniziare a _qc_      | to start _sth_       |
 | iniziare a fare _qc_ | to start doing _sth_ |
 
+## LASCIARE
+
+to leave
+
+_avere lasciato_
+
+| Italian              | English                          |
+|----------------------|----------------------------------|
+| lasciare _qc_ a _qn_ | to leave _sb_ _sth_              |
+| lasciare stare _qn_  | to let _sb_ be, leave _sb_ alone |
+| lasciare stare _qc_  | to leave _sth_ alone             |
+
+## LASCIARSI
+
+to part from/leave each other, split up
+
+_si essere lasciato_
+
+| Italian                 | English |
+|-------------------------|---------|
+| lasciarsi trascinare da |         |
+
 ## MANDARE
 
 to send
@@ -196,6 +218,17 @@ _avere raccolto_
 | Italian             | English                          |
 |---------------------|----------------------------------|
 | raccogliere le idee | to gather/collect one's thoughts |
+
+## RACCONTARE
+
+to tell (a story), tell about
+
+_avere raccontato_
+
+| Italian                | english                  |
+|------------------------|--------------------------|
+| raccontare _qc_ a _qn_ | to tell _sb_ about _sth_ |
+
 
 ## REGALARE
 
