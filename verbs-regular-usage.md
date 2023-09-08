@@ -28,6 +28,15 @@ _essere caduto/a_
 | cadere a terra | to fall down (on the ground) |
 | far cadere     | to make fall, drop           |
 
+## CHIEDERE
+
+to ask (for), request
+
+_avere chiesto_
+
+| Italian              | English                               |
+|----------------------|---------------------------------------|
+| chiedere _qc_ a _qn_ | to ask _sb_ for _sth_, ask _sb_ _sth_ |
 
 ## CONTINUARE
 
@@ -121,9 +130,9 @@ to part from/leave each other, split up
 
 _si essere lasciato_
 
-| Italian                 | English |
-|-------------------------|---------|
-| lasciarsi trascinare da |         |
+| Italian                 | English                |
+|-------------------------|------------------------|
+| lasciarsi trascinare da | to get carried away by |
 
 ## MANDARE
 

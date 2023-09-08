@@ -4,6 +4,7 @@
 | Italian                  | English                            |
 |--------------------------|------------------------------------|
 | a lungo                  | for a long time                    |
+| abbastanza               | enough, quite                      |
 | adesso                   | now                                |
 | all'improvviso           | suddenly                           |
 | alla fine                | eventually                         |
@@ -36,6 +37,7 @@
 | di nuovo                 | again                              |
 | di sicuro                | surely                             |
 | di solito                | usually                            |
+| di/per conseguenza       | consequently                       |
 | domani                   | tomorrow                           |
 | dopo                     | afterwards                         |
 | dopodomani               | the day after tomorrow             |
@@ -54,6 +56,7 @@
 | in passato               | in the past                        |
 | innanzitutto             | first of all                       |
 | insieme                  | together                           |
+| insomma                  | in short, all in all               |
 | invece                   | instead                            |
 | laggiù                   | down there                         |
 | lentamente               | slowly                             |
@@ -63,6 +66,7 @@
 | magari                   | what if; and how!                  |
 | mai                      | never                              |
 | male                     | badly                              |
+| manco                    | not even                           |
 | meglio                   | better                             |
 | meno                     | less                               |
 | molto                    | a lot                              |
@@ -75,6 +79,8 @@
 | ovunque                  | wherever, everywhere               |
 | particolarmente          | particularly                       |
 | peggio                   | worse                              |
+| perfino                  | even                               |
+| persino                  | even                               |
 | piuttosto                | rather                             |
 | poco                     | not much                           |
 | poi                      | then                               |
@@ -112,7 +118,3 @@
 | veramente                | really                             |
 | vicino                   | nearby                             |
 | volentieri               | gladly, willing                    |
-| di/per conseguenza       | consequently                       |
-| insomma                  | in short, all in all               |
-| persino                  | even                               |
-| perfino                  | even                               |

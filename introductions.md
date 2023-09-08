@@ -471,3 +471,6 @@ ce ne deve avere meno - there must be less?
 ci tengo - I care
 ce l'ho - I have it
 non ce l'ho - I don't have it
+
+me la farà pagare - he will make me pay for it.
+mi sono dato da fare io - I've been busy
