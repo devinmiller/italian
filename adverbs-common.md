@@ -118,3 +118,6 @@
 | veramente                | really                             |
 | vicino                   | nearby                             |
 | volentieri               | gladly, willing                    |
+| davanti                  | in front, at the front             |
+| quindi                   | then; conj. therefore, so          |
+| avanti                   | forward, before                    |

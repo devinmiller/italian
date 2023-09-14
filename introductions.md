@@ -474,3 +474,15 @@ non ce l'ho - I don't have it
 
 me la farà pagare - he will make me pay for it.
 mi sono dato da fare io - I've been busy
+
+ho dormito male - I slept badly
+brutta posizione - bad position
+da un lato - 
+dappertutto/ovunque = everywhere
+qualcos'altro =something
+
+appena - just (time)
+ogni quanto - how often
+qualche - some (when you can count)
+pochino (more of an answer) not countable? just pochino.
+un po' di - a bit of (something)
