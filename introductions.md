@@ -101,11 +101,6 @@ estero = abroad
 
 dare del lei = to speak informally
 
-ma = always at the start
-però = at the start of line or after (more common, less formal)
-
-tuttavia = more formal
-
 reflexives
 
 mi lavo le mani
@@ -151,10 +146,6 @@ fa male = does bad
 
 riposare = to rest
 ne = of these/them
-
-Memorize ordinal numbers. (1st, 2nd, 3rd, etc.)
-
-
 passato prossimo
 
 to be = change past participle
@@ -239,7 +230,6 @@ m'hanno cacciate - they kicked me out
 tutto tranne - anything but/except
 nulla - nothing/anything
 basta - enough
-insomma - in short/summary
 tutti e tre - all three
 pioggia - rain
 ehilà - hey there
@@ -371,8 +361,6 @@ qualcun altro - someone else
 far perdere - to waste
 far scendere - to bring down
 
-però farsi le serate è sempre molto meglio. Cos'è farsi le serate?
-Mi sono proprio rotta il cazzo?  I know it is vulgar!
 Mi ha fatto piacere parlare con te - I enjoyed speaking with you...
 
 spedire - to send (physical package/letter)
@@ -417,9 +405,6 @@ il ritardo - late, but really "delay"
 (more empty paychecks)
 io il mio impegno ce l'ho messo.
 
-la mia tastiera = my keyboard
-ho comprato un tastiera nuova ieri.  Ho spesso troppo.  
-
 ne - replaces of/from
 ci - all the other prepositions, in this place, "a questo cosa", con "qualcuno", su "qualcosa"
 
@@ -441,7 +426,6 @@ pronoun after to emphasis the most important thing is the person
 show:
 buon proseguimento - good continuation, enjoy the rest
 ci vediamo poi a Torino - Reflexive, we will see each other in Torino
-sei una donzella - compliment or insult? (princess, sarcastic?)
 datti una svegliata - wake up, snap out of it? - can't see something obvious, don't do something because (rude, for friends)
 
 sono molto fiera di me per essere sempre rimasta fedele a me stessa, nonostante tutto.
@@ -486,3 +470,57 @@ ogni quanto - how often
 qualche - some (when you can count)
 pochino (more of an answer) not countable? just pochino.
 un po' di - a bit of (something)
+
+non ha niente a che vedere con
+rumore - noise
+una persona alla mano - an easy-going person
+più di una volta - more than once
+
+vergogna - shame, disgrace (stronger, angry)
+peccato - pity (not angry, sad)
+una piccola tassa - a small fee
+
+avvicinarsi - to get close
+non so cos'altro
+prenotare
+fa niente - doesn't matter
+una della 
+
+appena - hardly, scarcely; just
+appunto - exactely, just
+ancora - still; again
+già - already
+solo - only, just
+proprio - only, just; really
+
+per niente - at all
+depende da - it depends on
+andare via - to go away
+casino - mess
+impiegati - employees
+nonostante - despite
+più di prima - more than before
+
+
+sono al settimo cielo = sono felicissima
+prezzi = prices
+a caccia di = hunting for
+non è detto che = not sure/certain
+all'aperto = outside?
+confine = border
+sulla strada = on the way
+beato te = lucky you
+tuttavia = however
+
+sia / sia = both ... and
+sia / che = both ... and
+
+nè / nè = neither ... nor (always negative)
+
+ma / però = but
+o / oppure = or
+perciò = for this / because of this
+magari = maybe / i wish
+
+buona continuzaione
+
