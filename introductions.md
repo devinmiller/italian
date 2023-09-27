@@ -501,7 +501,6 @@ impiegati - employees
 nonostante - despite
 più di prima - more than before
 
-
 sono al settimo cielo = sono felicissima
 prezzi = prices
 a caccia di = hunting for
@@ -523,4 +522,12 @@ perciò = for this / because of this
 magari = maybe / i wish
 
 buona continuzaione
+stranamente - strangely
+fare un giro - take a tour, take trip
+fare un giro in moto - take a drive on the motorcycle
+intorne a me - around
+ultimamente - lately
+sottotitoli - subtitles
 
+mettere in dubbio vs dubitare
+mettere in confronto vs confrontare
