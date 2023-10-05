@@ -151,8 +151,6 @@ passato prossimo
 to be = change past participle
 to have = don't change past participle
 
-troppo
-
 avere = physical sensations
 essere = physical/personality traits
 
@@ -521,13 +519,64 @@ o / oppure = or
 perciò = for this / because of this
 magari = maybe / i wish
 
-buona continuzaione
+buona continuazione
 stranamente - strangely
 fare un giro - take a tour, take trip
 fare un giro in moto - take a drive on the motorcycle
-intorne a me - around
+intorno a me - around
 ultimamente - lately
 sottotitoli - subtitles
 
 mettere in dubbio vs dubitare
 mettere in confronto vs confrontare
+
+guadagnare - to earn
+impegnare - to commit
+ripagare - to repay
+funzionare - to work, function
+riposare - to rest
+svoltare - to turn
+valutare - to value; assess, evaluate
+segnalare - to indicate, be a sign of
+fidarsi - to trust, confide in, rely on
+lasciar andare - to let go of, stop holding
+decurtare - to reduce
+raggiungere - to reach, achieve
+far vedere - to show
+consegnare - to give, hand over
+sentire parlare - to hear about, hear of
+
+mi viene da piangere - I feel like crying
+
+
+di prima mattina - early/first thing in the morning
+finire con molto anticipo - to finish well in advance
+così come - as well as
+fino a qua - up to here
+
+visto che - given that
+abitudine - habit?
+ogni quanto - how often
+
+forse - maybe
+impegnato - busy
+e proprio ieri ha piovuto - just yesterday 
+
+che + noun = exclamation!  How ...
+parrucchiere - hairdresser 
+
+così tanto - so much
+favolosa - fabulous
+soltanto - only; but, only
+serietà - seriousness
+
+soltanto - busy; conj. but, only
+di quanto - of what, how much
+
+pure = anche (affirmative)
+neanche = neppure = nemmeno (negative)
+
+ovvero = that is, namely (explain what you just said)
+tuttavia = however (comunque more common)
+
+anzi (change of mind) 
