@@ -24,11 +24,7 @@
 "filosofia","philosophy","filosofia"
 "storia","history, story","storia"
 "narrativa","fiction","narrativa"
-"narrativa di genere","genre fiction","narrativa di genere"
-"narrativa letteraria","literary fiction","narrativa letteraria"
-"narrativa storica","historical fiction","narrativa storica"
-"storia antica","ancient history","storia antica"
-"storia medioevale","medieval history","storia medioevale"
+"saggistica","nonfiction","saggistica"
 "fumetto","comic","fumetto"
 "mitologia","mythology","mitologia"
 "umorismo","humor","umorismo"
@@ -36,8 +32,11 @@
 "guerra","war","guerra"
 "polizieschi","detective stories","polizieschi"
 "commedia","comedy","commedia"
+
 "classico","classical, classic","classico"
 "culturale","cultural","culturale"
+"sociale","social","sociele"
+
 "console di videogiochi","game console","console di videogiochi"
 "copertina flessibile","soft cover","copertina flessibile"
 "copertina rigida","hard cover","copertina rigida"
@@ -56,7 +55,7 @@
 
 "scaffale","shelf, set of shelves","scaffale"
 
-"sociale","social","sociele"
+
 "spada","sword","spada"
 "spazio","space","spazio"
 "stanza","room","stanza"
