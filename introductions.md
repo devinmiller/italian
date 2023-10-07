@@ -143,8 +143,6 @@ geloso = jealous, but only people
 qualche = always singular
 
 fa male = does bad
-
-riposare = to rest
 ne = of these/them
 passato prossimo
 
@@ -177,7 +175,6 @@ chissà - (who) knows
 quel che è certo - what is certain
 spiaggia - beach
 sogni d'oro - sweet dreams
-intanto - meanwhile
 ognuno - each of you
 cosa succederà - what is going to happen
 settimana lorativa - working week
@@ -205,7 +202,6 @@ scuotere
 sistemare
 rovinarsi
 termine (examples)
-succedere (examples)
 accomodarsi
 guadagnare
 licenziare
@@ -214,7 +210,6 @@ riuscire (examples)
 capitare
 intuire
 sguardo
-venire (examples, mi viene da piangere)
 trattare
 oddio
 ovvero
@@ -350,9 +345,6 @@ ma devi far andare anche le mani - but you also have to get your hands going?
 
 after di - infinitive
 
-dare fastidio - to bother
-niente da fare - nothing to do
-troppo da fare - too much to do
 mi racommando - way to say please
 qualcuno - someone
 qualcun altro - someone else
@@ -441,7 +433,7 @@ mi raccomando, puntate le sveglie - I beg/implore you, set the alarms.
 mi sono fatta male - I hurt myself
 Ve ne mancano circa 100-120. - You have around 100-120 of them left.
 eravamo là a divertirci, poi comunque ci è arrivato lo spumante in testa, ci è arrivato negli occhi, e ci ha dato fastidio.
-funzionare - work, function
+
 mancare - missing, "left"
 
 ma io sono disposto ad aiutarlo ad aprirsi con tutti quanti.
@@ -464,10 +456,8 @@ dappertutto/ovunque = everywhere
 qualcos'altro =something
 
 appena - just (time)
-ogni quanto - how often
 qualche - some (when you can count)
 pochino (more of an answer) not countable? just pochino.
-un po' di - a bit of (something)
 
 non ha niente a che vedere con
 rumore - noise
@@ -491,13 +481,11 @@ già - already
 solo - only, just
 proprio - only, just; really
 
-per niente - at all
 depende da - it depends on
 andare via - to go away
 casino - mess
 impiegati - employees
 nonostante - despite
-più di prima - more than before
 
 sono al settimo cielo = sono felicissima
 prezzi = prices
@@ -524,39 +512,31 @@ stranamente - strangely
 fare un giro - take a tour, take trip
 fare un giro in moto - take a drive on the motorcycle
 intorno a me - around
-ultimamente - lately
 sottotitoli - subtitles
 
 mettere in dubbio vs dubitare
 mettere in confronto vs confrontare
 
-guadagnare - to earn
 impegnare - to commit
 ripagare - to repay
-funzionare - to work, function
-riposare - to rest
 svoltare - to turn
 valutare - to value; assess, evaluate
 segnalare - to indicate, be a sign of
 fidarsi - to trust, confide in, rely on
 lasciar andare - to let go of, stop holding
 decurtare - to reduce
-raggiungere - to reach, achieve
 far vedere - to show
 consegnare - to give, hand over
 sentire parlare - to hear about, hear of
 
 mi viene da piangere - I feel like crying
 
-
 di prima mattina - early/first thing in the morning
 finire con molto anticipo - to finish well in advance
 così come - as well as
 fino a qua - up to here
 
-visto che - given that
 abitudine - habit?
-ogni quanto - how often
 
 forse - maybe
 impegnato - busy
@@ -565,18 +545,19 @@ e proprio ieri ha piovuto - just yesterday
 che + noun = exclamation!  How ...
 parrucchiere - hairdresser 
 
-così tanto - so much
 favolosa - fabulous
-soltanto - only; but, only
 serietà - seriousness
 
-soltanto - busy; conj. but, only
 di quanto - of what, how much
-
-pure = anche (affirmative)
-neanche = neppure = nemmeno (negative)
 
 ovvero = that is, namely (explain what you just said)
 tuttavia = however (comunque more common)
 
 anzi (change of mind) 
+
+cioè (more common) - I mean (filler) = ovvero (less common)
+
+lingua - human spoken language
+linguaggio - language in general (animal, body, programming)
+
+infatti - in fact, that's why

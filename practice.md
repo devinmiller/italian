@@ -37,3 +37,12 @@ primo = first
 prima = before
 
 pullman = bus (more common in north)
+
+da qualche altra parte - somewhere else
+da qualche parte - somewhere
+da nessuna parte - nowhere, anywhere (negative)
+
+ovunque - anywhere (positive)
+qualunque qc - anywhere (positive)
+
+altrove - not common da - un'altra parte (more common)
