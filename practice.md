@@ -45,4 +45,4 @@ da nessuna parte - nowhere, anywhere (negative)
 ovunque - anywhere (positive)
 qualunque qc - anywhere (positive)
 
-altrove - not common da - un'altra parte (more common)
+altrove - not common - da un'altra parte (more common)

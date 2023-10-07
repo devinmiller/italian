@@ -113,14 +113,6 @@ come = how
 chi = who
 perchè = why / because
 
-what = cosa, che cosa, che
-(more unknown)
-
-quali (which)
-
-cosa and che cosa are the same
-che is more informal
-
 preferita = favorite
 
 ci sono = there
@@ -171,48 +163,14 @@ cioè - that is (to say)
 come minimo - at (the very) least
 mi piace un sacco - I like it a lot
 chissà - (who) knows
-è stato raggiunto - has been achieved
-quel che è certo - what is certain
-spiaggia - beach
 sogni d'oro - sweet dreams
 ognuno - each of you
 cosa succederà - what is going to happen
-settimana lorativa - working week
 non credo proprio - I don't think so
 secondo me - in my opinion
 io non ce la faccio - no I can't
-meno male - that's good
-perder tempo - waste time
-alcune cose - some things
-come se foste - as if you were
-almeno - at least
 non c'è male - (it is) not bad
 non ce la faccio a fare tutto questo - I can't do all this
-
-(22:30)
-un piccolo obbiettivo, diciamo, è stato raggiunto - a small goal, let's say, has been achieved
-
-Words I need to look up again:
-
-partire (usage examples)
-comunque
-chiacchiera
-beccare/beccarsi
-scuotere
-sistemare
-rovinarsi
-termine (examples)
-accomodarsi
-guadagnare
-licenziare
-proseguire
-riuscire (examples)
-capitare
-intuire
-sguardo
-trattare
-oddio
-ovvero
 
 una cosa del genere - something like that
 emotions - passare (they pass)
@@ -257,14 +215,9 @@ cacciare
 comportamento
 accadere
 badare
-partire (usage)
-cambiare (usage) - cambiare idea
-ormai
-rifiutare
+
 restare (vs remanere)
 fregare
-interessare
-trasmettere
 sbandierare
 offendersi
 trasformarsi
