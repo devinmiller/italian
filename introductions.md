@@ -503,7 +503,7 @@ serietà - seriousness
 
 di quanto - of what, how much
 
-ovvero = that is, namely (explain what you just said)
+ovvero / cioè (more common) = that is, namely (explain what you just said)
 tuttavia = however (comunque more common)
 
 anzi (change of mind) 
@@ -514,3 +514,20 @@ lingua - human spoken language
 linguaggio - language in general (animal, body, programming)
 
 infatti - in fact, that's why
+
+Come faccio a uscire di casa?
+
+fare un passeggiata
+fare un giro
+
+vicinato - neighbors (in total)
+quartiere - neighborhood 
+
+"venire a trovare qn","to come and see sb","venire a trovare qn"
+
+dimagrire - to lose weight
+ingrassare - to gain weight
+
+poi lo farò
+
+rafforzare - stengthen
