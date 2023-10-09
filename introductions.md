@@ -476,9 +476,7 @@ svoltare - to turn
 valutare - to value; assess, evaluate
 segnalare - to indicate, be a sign of
 fidarsi - to trust, confide in, rely on
-lasciar andare - to let go of, stop holding
 decurtare - to reduce
-far vedere - to show
 consegnare - to give, hand over
 sentire parlare - to hear about, hear of
 
@@ -514,11 +512,6 @@ lingua - human spoken language
 linguaggio - language in general (animal, body, programming)
 
 infatti - in fact, that's why
-
-Come faccio a uscire di casa?
-
-fare un passeggiata
-fare un giro
 
 vicinato - neighbors (in total)
 quartiere - neighborhood 

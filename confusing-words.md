@@ -1,3 +1,20 @@
+# Confusing Words
+
+Words I can't quite get correct.
+
+## Short Version
+
+| Italian | English            | Usage                                                              |
+| ------- | ------------------ | ------------------------------------------------------------------ |
+| solo    | only, just         | indicate "only" or "just" in terms of limitation or a small amount |
+| appena  | just, recently     | indicate something has "just" or "recently" happened               |
+| appunto | exactly, just      | to agree or to emphasize "exactly" or "just" as stated.            |
+| proprio | only, just; really | emphasize the truth or intensity of a statement                    |
+| ancora  | still, again       | indicate continuation, repetition, or negative "not yet"           |
+| davvero | really             | general way to say "really" or "truly" without connotations        |
+
+## Long Version
+
 In Italian, the words "solo," "appena," "appunto," and "proprio" can all translate to "just" in English, but they are used in different contexts and can convey slightly different meanings. Let's look at each one and see when to use them:
 
 ### 1. Solo (Just/Only)

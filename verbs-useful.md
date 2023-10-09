@@ -7,7 +7,7 @@ Useful verbs!
 Useful first conjugation verbs.
 
 | Italian       | English                                                      |
-|---------------|--------------------------------------------------------------|
+| ------------- | ------------------------------------------------------------ |
 | abbandonare   | to abandon                                                   |
 | abbassare     | to lower, pull down; to turn down (the radio), dim (a light) |
 | abitare       | to live (in), inhabit                                        |
@@ -116,7 +116,7 @@ Useful first conjugation verbs.
 | ritornare     | to return                                                    |
 | rubare        | to steal                                                     |
 | saltare       | to jump                                                      |
-| salutare      | to gree, say hello to                                        |
+| salutare      | to greet, say hello to                                       |
 | scherzare     | to joke, jest                                                |
 | scusare       | to excuse, forgive                                           |
 | sembrare      | to seem                                                      |
@@ -148,7 +148,7 @@ Useful first conjugation verbs.
 ## First Conjugation Verbs Ending In -care and -gare
 
 | Italian Verb               | English Translation            |
-|----------------------------|--------------------------------|
+| -------------------------- | ------------------------------ |
 | annegare                   | to drown                       |
 | bloccare                   | to block                       |
 | caricare (io carico)       | to load                        |
@@ -192,7 +192,7 @@ Useful first conjugation verbs.
 | seccare                    | to dry; to annoy               |
 | slogare                    | to dislocate, sprain           |
 | soffocare                  | to suffocate                   |
-| spiagare                   | to explain                     |
+| spiegare                   | to explain                     |
 | stancare                   | to tire                        |
 | toccare                    | to touch                       |
 | traslocare                 | to move (change residence)     |
@@ -204,7 +204,7 @@ Useful first conjugation verbs.
 Useful first conjugation verbs ending in -ciare, -giare, and -sciare.
 
 | Italian Verb | English Translation                     |
-|--------------|-----------------------------------------|
+| ------------ | --------------------------------------- |
 | abbracciare  | to hug, embrace                         |
 | allacciare   | to tie, fasten                          |
 | annunciare   | to announce                             |
@@ -241,7 +241,7 @@ Useful first conjugation verbs ending in -ciare, -giare, and -sciare.
 Useful first conjugation verbs ending in -iare.
 
 | Italian Verb | English Translation         |
-|--------------|-----------------------------|
+| ------------ | --------------------------- |
 | affiliare    | to affiliate                |
 | alleviare    | to alleviate                |
 | arrabbiare   | to make angry               |
@@ -275,7 +275,7 @@ Useful first conjugation verbs ending in -iare.
 Useful second conjugation verbs.
 
 | Italian       | English                                          |
-|---------------|--------------------------------------------------|
+| ------------- | ------------------------------------------------ |
 | accendere     | to light, turn on                                |
 | ammettere     | to admit                                         |
 | apprendere    | to learn, find out                               |
@@ -373,7 +373,7 @@ Useful second conjugation verbs.
 Useful second conjugation verbs ending in -cere, -gere, -gliere, and -gnere.
 
 | Italian     | English                                        |
-|-------------|------------------------------------------------|
+| ----------- | ---------------------------------------------- |
 | accogliere  | to welcome, receive                            |
 | aggiungere  | to add                                         |
 | avvolgere   | to wrap up                                     |
@@ -412,7 +412,7 @@ Useful second conjugation verbs ending in -cere, -gere, -gliere, and -gnere.
 | stringere   | to grip; to tighten                            |
 | svolgere    | to unwind, unroll; to carry out (a plan, etc.) |
 | togliere    | to take away/off, remove                       |
-| torcere     | to twise                                       |
+| torcere     | to twist                                       |
 | volgere     | to turn toward                                 |
 
 ## Third Conjugation Group I Verbs
@@ -420,7 +420,7 @@ Useful second conjugation verbs ending in -cere, -gere, -gliere, and -gnere.
 Useful third conjugation group 1 verbs.
 
 | Italian      | English                                   |
-|--------------|-------------------------------------------|
+| ------------ | ----------------------------------------- |
 | abolire      | to abolish                                |
 | acuire       | to stimulate; to sharpen                  |
 | aderire      | to adhere, stick; to join, be a member of |
@@ -491,7 +491,7 @@ Useful third conjugation group 1 verbs.
 Useful third conjugation gorup 2 verbs
 
 | Italian    | English                            |
-|------------|------------------------------------|
+| ---------- | ---------------------------------- |
 | avvertire  | to warn, notify                    |
 | bollire    | to boil; to feel uncomfortably hot |
 | conseguire | to obtain, reach, get              |
@@ -516,7 +516,7 @@ Useful third conjugation gorup 2 verbs
 ## Words I've Encountered
 
 | Italian                   | English                          |
-|---------------------------|----------------------------------|
+| ------------------------- | -------------------------------- |
 | devastare (devastato)     | to devastate, ravage             |
 | perdere (perso)           | to lose                          |
 | mancare (mancato)         | to be lacking, missing           |
