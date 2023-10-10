@@ -7,7 +7,7 @@ A guide to help with the time of day, days of the week, and months of the year.
 The days.
 
 | Italian   | English   |
-|-----------|-----------|
+| --------- | --------- |
 | lunedì    | Monday    |
 | martedì   | Tuesday   |
 | mercoledì | Wednesday |
@@ -19,7 +19,7 @@ The days.
 The rest.
 
 | Italian        | English   |
-|----------------|-----------|
+| -------------- | --------- |
 | oggi           | today     |
 | ieri           | yesterday |
 | domani         | tomorrow  |
@@ -29,7 +29,7 @@ The rest.
 ## Months of the Year
 
 | Italian   | English   |
-|-----------|-----------|
+| --------- | --------- |
 | gennaio   | January   |
 | febbraio  | February  |
 | marzo     | March     |
@@ -48,7 +48,7 @@ The rest.
 In Italian, season are usually preceded by an article.
 
 | Italian   | English |
-|-----------|---------|
+| --------- | ------- |
 | stagioni  | seasons |
 | estate    | summer  |
 | autunno   | fall    |
@@ -60,7 +60,7 @@ In Italian, season are usually preceded by an article.
 The hours of the day.
 
 | Italian                                                   | English                |
-|-----------------------------------------------------------|------------------------|
+| --------------------------------------------------------- | ---------------------- |
 | mezzanotte / A mezzanotte                                 | midnight / at midnight |
 | l’una (di notte) / all’una (di notte)                     | 1 AM / at 1 AM         |
 | le due (di notte) / alle due (di notte)                   | 2 AM / at 2 AM         |
@@ -89,7 +89,7 @@ The hours of the day.
 The periods of the day
 
 | Italian              | English             |
-|----------------------|---------------------|
+| -------------------- | ------------------- |
 | l'alba               | sunrise             |
 | la mattina           | morning             |
 | stamattina           | this morning        |
@@ -106,7 +106,7 @@ The periods of the day
 ## Time Expressions
 
 | Italian          | English             |
-|------------------|---------------------|
+| ---------------- | ------------------- |
 | a breve          | shortly             |
 | a che ora        | at what time        |
 | a volte          | sometimes           |
@@ -129,3 +129,4 @@ The periods of the day
 | tutte le mattine | every morning       |
 | tutte le sere    | every evening       |
 | tempo scaduto    | time up             |
+| quotidiana       | daily               |
