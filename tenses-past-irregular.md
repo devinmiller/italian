@@ -9,20 +9,20 @@ There are only a few irregular verbs in the _imperfect_ tense.
 ### ESSERE
 
 | Conjugation Form          | Pronoun | Conjugated Verb |
-|---------------------------|---------|-----------------|
+| ------------------------- | ------- | --------------- |
 | essere pres. 1st sg.      | io      | ero             |
 | essere pres. 2nd sg. fam. | tu      | eri             |
 | essere pres. 2nd sg. pol. | Lei     | era             |
 | essere pres. 3rd sg.      | lui/lei | era             |
 | essere pres. 1st pl.      | noi     | eravamo         |
 | essere pres. 2nd pl. fam. | voi     | eravate         |
-| essere pres. 2nd pl. pol. | Loro    | eravano         |
-| essere pres. 3rd pl.      | loro    | eravano         |
+| essere pres. 2nd pl. pol. | Loro    | erano           |
+| essere pres. 3rd pl.      | loro    | erano           |
 
 ### BERE
 
 | Conjugation Form        | Pronoun | Conjugated Verb |
-|-------------------------|---------|-----------------|
+| ----------------------- | ------- | --------------- |
 | bere pres. 1st sg.      | io      | bevevo          |
 | bere pres. 2nd sg. fam. | tu      | bevevi          |
 | bere pres. 2nd sg. pol. | Lei     | beveva          |
@@ -35,7 +35,7 @@ There are only a few irregular verbs in the _imperfect_ tense.
 ### DIRE
 
 | Conjugation Form        | Pronoun | Conjugated Verb |
-|-------------------------|---------|-----------------|
+| ----------------------- | ------- | --------------- |
 | dire pres. 1st sg.      | io      | dicevo          |
 | dire pres. 2nd sg. fam. | tu      | dicevi          |
 | dire pres. 2nd sg. pol. | Lei     | diceva          |
@@ -48,7 +48,7 @@ There are only a few irregular verbs in the _imperfect_ tense.
 ### FARE
 
 | Conjugation Form        | Pronoun | Conjugated Verb |
-|-------------------------|---------|-----------------|
+| ----------------------- | ------- | --------------- |
 | fare pres. 1st sg.      | io      | facevo          |
 | fare pres. 2nd sg. fam. | tu      | facevi          |
 | fare pres. 2nd sg. pol. | Lei     | faceva          |
@@ -61,7 +61,7 @@ There are only a few irregular verbs in the _imperfect_ tense.
 ### TRADURRE
 
 | Conjugation Form            | Pronoun | Conjugated Verb |
-|-----------------------------|---------|-----------------|
+| --------------------------- | ------- | --------------- |
 | tradurre pres. 1st sg.      | io      | traducevo       |
 | tradurre pres. 2nd sg. fam. | tu      | traducevi       |
 | tradurre pres. 2nd sg. pol. | Lei     | traduceva       |
@@ -76,7 +76,7 @@ There are only a few irregular verbs in the _imperfect_ tense.
 There are, of course, many irregular past participles in Italian. 
 
 | Infinitive    | Participle    | Meaning                                                      |
-|---------------|---------------|--------------------------------------------------------------|
+| ------------- | ------------- | ------------------------------------------------------------ |
 | accendere     | acceso        | lit                                                          |
 | accogliere    | accolto       | welcomed, received                                           |
 | aggiungere    | aggiunto      | added                                                        |

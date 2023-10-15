@@ -59,7 +59,7 @@ Verbs conjugated with _essere_:
 | lavarsi     | lavato      | to wash (oneself)       |
 | morire      | morto       | to die                  |
 | nascere     | nato        | to be born              |
-| ingrassare  | ingrassato  | to fatten, gain wieght  |
+| ingrassare  | ingrassato  | to fatten, gain weight  |
 | invecchiare | invecchiato | to age, grow old        |
 | partire     | partito     | to leave                |
 | restare     | restato     | to stay, remain (place) |
