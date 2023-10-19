@@ -532,10 +532,14 @@ realizzare un sogno - to realize a dream
 hai presente - do you no
 cara come il fuoco - very very very expensive
 
-sopravvivere
 assicurazione - insurance
 vale la pena/ne vale la pena - worth it
 
 è un argomento difficile di cui parlare - it is a difficult subject of which to speak
 
+se tutti gli uomini di Roma avessero la luce sulla corna, Roma di notte sembrerebbe giorno 
 
+fare le corna
+avere le corna
+
+tradire - cheat

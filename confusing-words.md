@@ -50,5 +50,3 @@ In Italian, the words "solo," "appena," "appunto," and "proprio" can all transla
 - **Appena**: Use it to indicate something that has "just" happened or to mean "as soon as."
 - **Appunto**: Use it to agree with someone or to emphasize that something is "exactly" or "just" as stated.
 - **Proprio**: Use it to emphasize the truth or intensity of a statement, translating to "just" or "really."
-
-I hope this helps! Let me know if you have any other questions.
