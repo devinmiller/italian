@@ -543,3 +543,18 @@ fare le corna
 avere le corna
 
 tradire - cheat
+
+Come stanno le cimici?
+
+non mi rendo conto - I didn't realize
+
+chiacchierare - small talk
+sconcentrare 
+
+guidare - to drive
+
+uno spreco di tempo - a waste of time
+
+allontanare la sfortuna
+
+affezionata - fond
