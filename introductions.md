@@ -558,3 +558,29 @@ uno spreco di tempo - a waste of time
 allontanare la sfortuna
 
 affezionata - fond
+
+per colpa mia/sua/etc
+
+mezza - half (time)
+metà - half (things)
+
+neanche se mi pagano - not even if they paid me
+
+ecco perchè - that's why
+
+eccoci (qua) - here we are
+ecco - here (it) is
+
+non ancora
+
+che ne dici
+che ne pensi
+che ne pensi
+non ne posso più
+
+ultimo - last of a series
+scorso - single event
+
+ogni tanto with present (future is implied)
+
+questo è quello che dice lui - this is what he says

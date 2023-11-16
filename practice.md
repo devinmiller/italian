@@ -46,3 +46,20 @@ ovunque - anywhere (positive)
 qualunque qc - anywhere (positive)
 
 altrove - not common - da un'altra parte (more common)
+
+abbandonare tutte le speranze - to give up all hope
+abbassare il volume - to turn down the volume
+abbassare i prezzi - to lower prices
+abbassarsi a fare qc - to lower o.s. to do sth
+abituarsi a qc - to get used to sth
+abituarsi a fare qc - to get used to doing sth
+abusare di qn/qc - to take advantage of sb/sth; to abuse sb/sth
+
+Abbandono tutte le speranze di imparare l'italiano. 
+Dopo che mia moglie va a dormire abbasserò il volume.
+Dopo Halloween i negozi abbassano i prezzi delle caramelle.  
+Ho dovuto abbassarmi a lavorare su un sito web vecchio.
+Dopo qualche giorno mi sono abituato all'odore.
+Non mi abituerò mai a vederti lavorare in un ufficio.
+Non posso abituarmi al rumore quì.
+Abusi della mia pazienza!
