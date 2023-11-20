@@ -28,3 +28,33 @@ mi viene da - I feel like
 non mi va - I don't feel like it
 
 l'ho detto che arrivavi - I said you were coming
+
+estremo - extreme
+sensitività - f. sensitivity
+sfogarsi - to vent, get off one's chest, 
+deludere - to disappoint
+compare - to live; get by, manage
+superficialità - f. superficiality
+solo, sola - only, alone, lonely
+sensazione - f. feeling, sensation
+in generale - generally, in general
+ritrovarsi - to find o.s., end up
+nessuno (adj.) - no, not any, (+neg, few) any
+nessuno (pron.) - no-one, nobody, (+neg, s.b.) anyone,anybody 
+parecchio, parecchia - quite a lot (of), quite a bit
+fino a - (time) until, up to, till; (place) as far as
+volontà - f. will
+pratica - practice, (pratical) experience, training
+esasperazione - f. exasperation
+reazione - f. reaction
+perdita del controllo - loss of control
+non ce la faccio a fare le cose - I can't get things done
+valutazione - valuation, assessment
+stesso, stessa - same, very, (after refl. pron.) -self
+opinione su di qualcosa - opinion about something
+vedere come va - to see how it goes
+vai avanti - (you) go ahead
+possibilità - f. possibility
+intanto - meanwhile, in the meantime
+avvicinare (a) - to bring near (to)
+situazione - f. situation
