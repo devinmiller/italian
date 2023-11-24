@@ -584,3 +584,4 @@ scorso - single event
 ogni tanto with present (future is implied)
 
 questo è quello che dice lui - this is what he says
+
