@@ -132,3 +132,19 @@ utilizzare - to use
 "sono noti per" - are known for
 
 This list covers a range of vocabulary from the article, providing a broad understanding of its content in both languages.
+
+notizie - (piece of) news
+faccende domestiche - chores
+suggerire - to suggest, put foreward
+ricercatore - m./f. researcher
+collegamento - connection
+tra cui - including, among
+miglioramento - improvement
+capacità - f. capacity; ability, capability
+esecutivo, esecutiva - executive
+grado - degree, level; rank
+flessibilità - f. flexibility
+ossia - that is, to be precise
+concentrarsi - to concentrate, focus on
+essere in grado di fare qc - to be able to do sth
+ 
