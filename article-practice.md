@@ -135,7 +135,7 @@ This list covers a range of vocabulary from the article, providing a broad under
 
 notizie - (piece of) news
 faccende domestiche - chores
-suggerire - to suggest, put foreward
+suggerire - to suggest, put forward
 ricercatore - m./f. researcher
 collegamento - connection
 tra cui - including, among
@@ -147,4 +147,26 @@ flessibilità - f. flexibility
 ossia - that is, to be precise
 concentrarsi - to concentrate, focus on
 essere in grado di fare qc - to be able to do sth
- 
+comprendere - to include; comprise, consist of
+interrogare - to question, examine
+svolgere - to unroll, unwind; develop; discuss; carry out
+differenziare - to differentiate
+sé - oneself, himself, herself, itself, themselves
+includere - to enclose, include
+ciò che - things that
+spuntino - snack
+differenziare - to differentiate 
+ad esempio  - for example
+tuttavia - nevertheless, yet
+individuare - to identify, pick out
+mansione - f. duty, job, task
+condurre - to lead, run, conduct
+curare - to treat, cure, look after
+probabilità - f. probability, likelihood
+eccellere (in) - to excel (at)
+in definitiva - in the end; all in all
+mostrare - to show, demonstrate
+incoraggiare - to encourage
+tale - such (a)
+interesse - m. interest
+scoraggiare - to discourage

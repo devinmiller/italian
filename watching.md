@@ -58,3 +58,67 @@ possibilità - f. possibility
 intanto - meanwhile, in the meantime
 avvicinare (a) - to bring near (to)
 situazione - f. situation
+
+non avrei mai saltato il lavoro - I would never have skipped worked
+fare la vita (di) - to live the life (of)
+giacere - to lie (idle); essere giaciuto
+d’altronde - on the other hand
+cambiamento - change
+straordinario - overtime
+notturno, notturna - night
+entrata - entry, entrance; admission
+sintomo - symptom
+abbandonare - to abandon, desert; give up; avere abbandonato
+accorgersi di - to notice, realize; essersi accorto
+dettaglio - detail
+ritorno - return
+se gli va - if he feels like it
+agio - ease, comfort
+motivo - reason. grounds, cause
+smarrito, smarrita - lost; bewildered
+improvvisare - to improvise, throw together; avere improvvisato
+spazzare - to sweep (up); avere spazzato
+pavimento - floor
+sonno - sleep
+depresso, depressa - depressed
+non ce la faccio più - I can't do it anymore
+faticoso, faticosa - tiring, exhausting
+dall'altra parte - on the other side
+sufficiente, sufficienti - sufficient, enough
+da questo lato - on this side
+consono a - consistent with
+(come) al solito - as usual
+
+ognuno - everybody, everyone
+ossessione - f. obsession
+ingiustificabile, ingiustificabili - unjustifiable
+inaccettabile, inaccettabili - unacceptable
+togliere - to remove, take away, take off; avere tolto
+sopportare - to support, bear; stand, put up with, tolerate; avere sopportato
+carità - f. charity
+cos'è che non va in me - what is wrong with me
+scappare (da) - to escape (from)
+crisi - f. crisis
+esaurire - to exhaust, use up; avere esaurito
+affrontare - to face, confront; avere affrontato
+decisamente - definitely, decidedly
+complesso, complessa - complex, complicated
+proporre - to suggest, propose; avere proposto
+sollevare - to raise, lift; avere sollevato
+sostegno - support
+tentazione - f. temptation
+umore - m. mood, temperament
+sventura - misfortune, mishap
+spinta - push, shove; incentive
+fondamentale, fondamentali - fundamental, basic
+gettare - to throw, hurl, toss; avere gettato
+gettare qc addosso a qn - to throw sth at sb; to throw sth over sb
+asciugamano - towel
+pretendere - to demand, require; expect; avere preteso
+una dietro l'altra - one after the other
+teso, tesa - tight, tense, strained
+scarseggiare - to be scarce, be lacking; avere scarseggiato
+rimproverare - to scold, reprimand; avere rimproverato
+tensione - f. tension
+faticare - to work hard, toil; avere faticato
+fatica - hard work, toil

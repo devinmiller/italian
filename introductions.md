@@ -585,3 +585,5 @@ ogni tanto with present (future is implied)
 
 questo è quello che dice lui - this is what he says
 
+tanto è ... it's so, given that (don't care)
+mi è venuta in mente una cosa - I thought about something
