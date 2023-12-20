@@ -122,3 +122,42 @@ rimproverare - to scold, reprimand; avere rimproverato
 tensione - f. tension
 faticare - to work hard, toil; avere faticato
 fatica - hard work, toil
+
+ammazzare - to kill; exhaust, wear out; avere ammazzato
+ammazzarsi - to kill each other; to kill o.s.; essersi ammazzato
+schiantare - to break, tear apart; avere schiantato
+schiantarsi contro - to crash into
+sclerare - to flip out, freak out; avere sclerato
+rilassante, rilassanti - relaxing
+stupendo, stupenda - marvelous, wonderful
+cima - top, summit, peak
+scemo, scema - stupid, foolish, silly
+tramonto - sunset
+altro che - other than
+faticare - to work hard, toil; avere faticato
+faticare per fare qc - to struggle to do sth
+faticare a fare qc - to have difficulty in doing sth, have difficulty doing sth
+voler dire (che) - to mean (that)
+pianificare - to plan; avere pianificato
+affaticato, affaticata - tired
+trasportare - to carry; transport; avere trasportato
+settimanale, settimanali - weekly
+speso, spesa - expense
+progetto - plan, project
+per ricordare i vecchi tempi - to remember the old times
+segno - sign
+avere il morale a terra - 
+un pugno nello stomaco - 
+non più - anymore
+palese, palesi - clear, evident
+come ti pare - whatever you like
+sforzare - to force, strain; avere sforzato
+dato che - given that
+cifra - sum, figure
+costringere qn (a fare qc) - to force or compel sb (to do sth)
+allontanarsi (da) - to go away (from), move away (from)
+non me lo so spiegare - i don't know how to explain it
+tirare fuori - to pull out, take out 
+non oso immaginare - I can't imagine
+
+più avanti - later, in the future
