@@ -44,7 +44,7 @@ nessuno (pron.) - no-one, nobody, (+neg, s.b.) anyone,anybody
 parecchio, parecchia - quite a lot (of), quite a bit
 fino a - (time) until, up to, till; (place) as far as
 volontà - f. will
-pratica - practice, (pratical) experience, training
+pratica - practice, (practical) experience, training
 esasperazione - f. exasperation
 reazione - f. reaction
 perdita del controllo - loss of control
@@ -161,3 +161,48 @@ tirare fuori - to pull out, take out
 non oso immaginare - I can't imagine
 
 più avanti - later, in the future
+come te la cavi - how are you managing, doing
+sentirsi di fare qc - to feel like doing sth
+mezzo - means, way
+per mezzo di - by means of, through
+qualsiasi - any; either; whatever
+a disposizione - at one's disposal
+sbagliato, sbagliata - wrong, erroneous
+avere tutto il diritto - to have very right
+nei confronti di - with regards to, regarding, towards
+farmi parlare - let me speak
+a me tocca - it's my turn
+non so bene come prenderla - I don't know how to take it
+come prima - as, like before
+chiunque - whoever, anyone (who), anybody
+percorso - journey, route, course
+profondo, profonda - deep heavy profound
+
+amicizia - friendship
+imperdibile, imperdibili - not to be missed, unmissable
+allestimento - preparation, setting up
+gestione - f. management
+indimenticabile, indimenticabili - unforgettable
+far fuori qn - to take sb out, get ride of sb
+caso - chance; possibility
+colmo (di), colma (di) - full (of)
+vai da una parte - you go one way
+pentirsi - to regret; repent; essersi pento
+pentirsi di qc/di aver fatto qc - to regret sth/doing sth
+quello va cambiato - that needs to be changed
+fondamentale, fondamentali - fundamental, basic
+manuale, manuali - manual
+perfezione - f. perfection
+premiare - to give a prize to, award a prize to; avere premiato
+aggiudicarsi - to win, be awarded; essersi aggiudicato
+consegnare - to deliver; hand in, submit
+consegnare qc (a qn) - to deliver sth (to sb); to hand sth in (to sb), submit sth (to sb)
+appartenere - to belong to, be a member of; avere appartenuto
+brivido - shiver, shudder, chill
+xce la meritiamo - we have earned it
+scotto, scotta - overcooked, overdone
+intenso, intensa - intense, strong
+perdita - loss, waste
+termine - m. boundary, limit; end
+assoluto, assoluta - absolute
+provetto, provetta - skilled, experienced

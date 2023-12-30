@@ -587,3 +587,14 @@ questo è quello che dice lui - this is what he says
 
 tanto è ... it's so, given that (don't care)
 mi è venuta in mente una cosa - I thought about something
+hai presente - do you know
+non è detto - not necessarily 
+facciamo finta che - let's pretend
+
+lo so e basta - I just know (it)
+prima o poi - sooner or later
+
+risolto - solved/resolved
+
+prenderla bene - took it well
+prenderla male - took it poorly
