@@ -598,3 +598,8 @@ risolto - solved/resolved
 
 prenderla bene - took it well
 prenderla male - took it poorly
+
+facciamo finta che - let's pretend
+altrimenti - otherwise
+accorgersi di 
+paragonato a - compared to
