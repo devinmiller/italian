@@ -608,3 +608,17 @@ paragonato a - compared to
 "essere diffidente all'idea di fare qc","to be wary (at the idea of) doing sth","essere diffidente all'idea di fare qc"
 "manifestare a favore di fare qc","to demonstrate, protest in favor of doing sth","manifestare a favore di fare qc"
 "manifestare contro l'idea di fare qc","to demonstrate, protest against (the thought of) doing sth","manifestare contro l'idea di fare qc"
+come fai a fare qc - how are you able to do sth
+se fossi in te - if I were you
+
+fiducioso - things other than self
+sicuro - usually for self
+diffidente - only people
+
+come se niente fosse - as if it were nothing
+
+irrispettoso - disrespectful
+rispettoso - respectful
+
+capitare - to happen (by chance, random)
+succedere - to happen (every now and then)
