@@ -603,3 +603,8 @@ facciamo finta che - let's pretend
 altrimenti - otherwise
 accorgersi di 
 paragonato a - compared to
+
+"essere (abbastanza) fiducioso di fare qc","to be (quite) confident of doing sth","essere (abbastanza) fiducioso di fare qc"
+"essere diffidente all'idea di fare qc","to be wary (at the idea of) doing sth","essere diffidente all'idea di fare qc"
+"manifestare a favore di fare qc","to demonstrate, protest in favor of doing sth","manifestare a favore di fare qc"
+"manifestare contro l'idea di fare qc","to demonstrate, protest against (the thought of) doing sth","manifestare contro l'idea di fare qc"
