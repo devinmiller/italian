@@ -599,7 +599,7 @@ risolto - solved/resolved
 prenderla bene - took it well
 prenderla male - took it poorly
 
-facciamo finta che - let's pretend
+facciamo finta che - let's pretend (that)
 altrimenti - otherwise
 accorgersi di 
 paragonato a - compared to
@@ -622,3 +622,5 @@ rispettoso - respectful
 
 capitare - to happen (by chance, random)
 succedere - to happen (every now and then)
+
+reclinabile - reclinable
