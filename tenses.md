@@ -39,11 +39,78 @@ The _indicativo presente_ tense is used to express facts or convey information. 
 
 The _indicativo imperfetto_ tense is used to express actions that continued for an indefinite period of time, habitual or repeated actions in the past, characteristics of people and things as they used to be.  
 
-| Pronoun   | First (-are) | Second (-ere) | Third (-ire) |
-|-----------|--------------|---------------|--------------|
-| (io)      | parlavo      | scrivevo      | finivo       |
-| (tu)      | parlavi      | scrivevi      | finivi       |
-| (lui/lei) | parlava      | scriveva      | finiva       |
-| (noi)     | parlavamo    | scrivevamo    | finivamo     |
-| (voi)     | parlavate    | scrivevate    | finivate     |
-| (loro)    | parlavano    | scrivevano    | finivano     |
+### Regolare
+
+| Pronoun   | First (-are) | Second (-ere) | Second (-urre) | Second (-orre) | Third (-ire) |
+| --------- | ------------ | ------------- | -------------- | -------------- | ------------ |
+| (io)      | parlavo      | scrivevo      | traducevo      | supponevo      | finivo       |
+| (tu)      | parlavi      | scrivevi      | traducevi      | supponevi      | finivi       |
+| (lui/lei) | parlava      | scriveva      | traduceva      | supponeva      | finiva       |
+| (noi)     | parlavamo    | scrivevamo    | traducevamo    | supponevamo    | finivamo     |
+| (voi)     | parlavate    | scrivevate    | traducevate    | supponevate    | finivate     |
+| (loro)    | parlavano    | scrivevano    | traducevano    | supponevano    | finivano     |
+
+### Irregolare
+
+| Pronoun   | essere  | bere     | dire     | fare     |
+| --------- | ------- | -------- | -------- | -------- |
+| (io)      | ero     | bevevo   | dicevo   | facevo   |
+| (tu)      | eri     | bevevi   | dicevi   | facevi   |
+| (lui/lei) | era     | beveva   | diceva   | faceva   |
+| (noi)     | eravamo | bevevamo | dicevamo | facevamo |
+| (voi)     | eravate | bevevate | dicevate | facevate |
+| (loro)    | erano   | bevevano | dicevano | facevano |
+
+## Indicativo Passato Prossimo
+
+The _indicativo passato prossimo_ is used to express actions completed in the past at the present time.  It is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the _indicativo presente_.
+
+### Verbi Ausiliari
+
+The most common verbs that use _essere_ as an auxiliary are the following:
+
+| Infinitive  | Participle  | Meaning                 |
+|-------------|-------------|-------------------------|
+| andare      | andato      | to go                   |
+| apparire    | apparso     | to appear               |
+| arrivare    | arrivato    | to arrive               |
+| cadere      | caduto      | to fall                 |
+| correre     | corso       | to run                  |
+| crescere    | cresciuto   | to grow                 |
+| dimagrire   | dimagrito   | to lose wight           |
+| diventare   | diventato   | to become               |
+| entrare     | entrato     | to enter                |
+| essere      | stato       | to be                   |
+| lavarsi     | lavato      | to wash (oneself)       |
+| morire      | morto       | to die                  |
+| nascere     | nato        | to be born              |
+| ingrassare  | ingrassato  | to fatten, gain weight  |
+| invecchiare | invecchiato | to age, grow old        |
+| partire     | partito     | to leave                |
+| restare     | restato     | to stay, remain (place) |
+| rimanere    | rimasto     | to stay, remain (time)  |
+| salire      | salito      | to climb, to go up      |
+| sembrare    | sembrato    | to seem                 |
+| scendere    | sceso       | to go down (stairs)     |
+| sorgere     | sorto       | to arise, rise          |
+| stare       | stato       | to stay                 |
+| tornare     | tornato     | to go back, to return   |
+| tramontare  | tramontato  | to set, go down         |
+| uscire      | uscito      | to go out               |
+| venire      | venuto      | to come                 |
+| vivere      | vissuto     | to live                 |
+
+### Regolare
+
+| Pronoun   | First (-are)    | Second (-ere)   | Second (-urre)   | Second (-orre)   | Third (-ire)   |
+| --------- | --------------- | --------------- | ---------------- | ---------------- | -------------- |
+| (io)      | ho parlato      | ho creduto      | ho tradotto      | ho supposto      | ho finito      |
+| (tu)      | hai parlato     | hai creduto     | hai tradotto     | hai supposto     | hai finito     |
+| (lui/lei) | ha parlato      | ha creduto      | ha tradotto      | ha supposto      | ha finito      |
+| (noi)     | abbiamo parlato | abbiamo creduto | abbiamo tradotto | abbiamo supposto | abbiamo finito |
+| (voi)     | avete parlato   | avete creduto   | avete tradotto   | avete supposto   | avete finito   |
+| (loro)    | hanno parlato   | hanno creduto   | hanno tradotto   | hanno supposto   | hanno finito   |
+
+### Irregolare
+
+There are many, _many_ irregular past participles in the _passato prossimo_.  

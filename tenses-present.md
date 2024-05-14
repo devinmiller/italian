@@ -1,6 +1,6 @@
 # Present Tense
 
-The present indicative tense is used to express facts or convery information.  It is used for ordinary statements and questions.
+The present indicative tense is used to express facts or convey information.  It is used for ordinary statements and questions.
 
 ## Regular Verbs
 
