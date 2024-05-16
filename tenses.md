@@ -1,5 +1,32 @@
 # I Tempi Verbali
 
+- [I Tempi Verbali](#i-tempi-verbali)
+  - [Indicativo Presente](#indicativo-presente)
+    - [Regolare](#regolare)
+    - [Irregolare](#irregolare)
+  - [Indicativo Imperfetto](#indicativo-imperfetto)
+    - [Regolare](#regolare-1)
+    - [Irregolare](#irregolare-1)
+  - [Indicativo Passato Prossimo](#indicativo-passato-prossimo)
+    - [Verbi Ausiliari](#verbi-ausiliari)
+    - [Con il Verbo Ausiliare Avere](#con-il-verbo-ausiliare-avere)
+    - [Con il Verbo Ausiliare Essere](#con-il-verbo-ausiliare-essere)
+  - [Indicativo Trapassato Prossimo](#indicativo-trapassato-prossimo)
+    - [Con il Verbo Ausiliare Avere](#con-il-verbo-ausiliare-avere-1)
+    - [Con il Verbo Ausiliare Essere](#con-il-verbo-ausiliare-essere-1)
+  - [Condizionale Presente](#condizionale-presente)
+    - [Regolare](#regolare-2)
+    - [Irregolare](#irregolare-2)
+  - [Condizionale Passato](#condizionale-passato)
+    - [Con il Verbo Ausiliare Avere](#con-il-verbo-ausiliare-avere-2)
+    - [Con il Verbo Ausiliare Essere](#con-il-verbo-ausiliare-essere-2)
+  - [Indicativo Futuro Semplice](#indicativo-futuro-semplice)
+    - [Regolare](#regolare-3)
+    - [Irregolare](#irregolare-3)
+  - [Indicativo Futuro Anteriore](#indicativo-futuro-anteriore)
+    - [Con il Verbo Ausiliare Avere](#con-il-verbo-ausiliare-avere-3)
+    - [Con il Verbo Ausiliare Essere](#con-il-verbo-ausiliare-essere-3)
+
 ## Indicativo Presente 
 
 The _indicativo presente_ tense is used to express facts or convey information.  It is used for ordinary statements and questions.
@@ -63,7 +90,7 @@ The _indicativo imperfetto_ tense is used to express actions that continued for 
 
 ## Indicativo Passato Prossimo
 
-The _indicativo passato prossimo_ is used to express actions completed in the past at the present time.  It is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the _indicativo presente_.
+The _indicativo passato prossimo_ is used to express actions completed in the past at the present time.  It is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the _indicativo presente_, with the participio passato
 
 ### Verbi Ausiliari
 
@@ -100,7 +127,7 @@ The most common verbs that use _essere_ as an auxiliary are the following:
 | venire      | venuto      | to come                 |
 | vivere      | vissuto     | to live                 |
 
-### Regolare
+### Con il Verbo Ausiliare Avere
 
 | Pronoun   | First (-are)    | Second (-ere)   | Second (-urre)   | Second (-orre)   | Third (-ire)   |
 | --------- | --------------- | --------------- | ---------------- | ---------------- | -------------- |
@@ -111,6 +138,161 @@ The most common verbs that use _essere_ as an auxiliary are the following:
 | (voi)     | avete parlato   | avete creduto   | avete tradotto   | avete supposto   | avete finito   |
 | (loro)    | hanno parlato   | hanno creduto   | hanno tradotto   | hanno supposto   | hanno finito   |
 
+### Con il Verbo Ausiliare Essere
+
+| Pronoun   | First (-are)  | Second (-ere) | Third (-ire)  |
+| --------- | ------------- | ------------- | ------------- |
+| (io)      | sono andato   | sono venuto   | sono uscito   |
+| (tu)      | sei andato    | sei venuto    | sei uscito    |
+| (lui/lei) | è andato/a    | è venuto/a    | è uscito/a    |
+| (noi)     | siamo andati  | siamo venuti  | siamo usciti  |
+| (voi)     | siete andati  | siete venuti  | siete usciti  |
+| (loro)    | sono andati/e | sono venuti/e | sono usciti/e |
+
+## Indicativo Trapassato Prossimo
+
+The _indicativo passato prossimo_ is used to express actions completed in the past and preceding another action in the past.  It is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the _indicativo imperfetto_, with the participio passato.
+
+### Con il Verbo Ausiliare Avere
+
+| Pronoun   | First (-are)    | Second (-ere)   | Second (-urre)   | Second (-orre)   | Third (-ire)   |
+| --------- | --------------- | --------------- | ---------------- | ---------------- | -------------- |
+| (io)      | avevo parlato   | avevo creduto   | avevo tradotto   | avevo supposto   | avevo finito   |
+| (tu)      | avevi parlato   | avevi creduto   | avevi tradotto   | avevi supposto   | avevi finito   |
+| (lui/lei) | aveva parlato   | aveva creduto   | aveva tradotto   | aveva supposto   | aveva finito   |
+| (noi)     | avevamo parlato | avevamo creduto | avevamo tradotto | avevamo supposto | avevamo finito |
+| (voi)     | avevate parlato | avevate creduto | avevate tradotto | avevate supposto | avevate finito |
+| (loro)    | avevano parlato | avevano creduto | avevano tradotto | avevano supposto | avevano finito |
+
+### Con il Verbo Ausiliare Essere
+
+| Pronoun   | First (-are)     | Second (-ere)    | Third (-ire)     |
+| --------- | ---------------- | ---------------- | ---------------- |
+| (io)      | ero andato       | ero venuto       | ero uscito       |
+| (tu)      | eri andato       | eri venuto       | eri uscito       |
+| (lui/lei) | era andato/a     | era venuto/a     | era uscito/a     |
+| (noi)     | eravamo andati   | eravamo venuti   | eravamo usciti   |
+| (voi)     | eravate andati   | eravate venuti   | eravate usciti   |
+| (loro)    | eravamo andati/e | eravamo venuti/e | eravamo usciti/e |
+
+## Condizionale Presente
+
+The _condizionale presente_ is used to express could, would, or should hypotheticals in the present.
+
+### Regolare
+
+| Pronoun   | First (-are) | Second (-ere) | Second (-urre) | Second (-orre) | Third (-ire) |
+| --------- | ------------ | ------------- | -------------- | -------------- | ------------ |
+| (io)      | parlerei     | scriverei     | traducevo      | supponevo      | finirei      |
+| (tu)      | parleresti   | scriveresti   | traducevi      | supponevi      | finiresti    |
+| (lui/lei) | parlerebbe   | scriverebbe   | traduceva      | supponeva      | finirebbe    |
+| (noi)     | parleremmo   | scriveremmo   | traducevamo    | supponevamo    | finiremmo    |
+| (voi)     | parlereste   | scrivereste   | traducevate    | supponevate    | finireste    |
+| (loro)    | parlerebbero | scriverebbero | traducevano    | supponevano    | finirebbero  |
+
 ### Irregolare
 
-There are many, _many_ irregular past participles in the _passato prossimo_.  
+| Pronoun   | andare     | avere     | bere       | dovere     | essere    |
+| --------- | ---------- | --------- | ---------- | ---------- | --------- |
+| (io)      | andrei     | avrei     | berrei     | dovrei     | sarei     |
+| (tu)      | andresti   | avresti   | berresti   | dovresti   | saresti   |
+| (lui/lei) | andrebbe   | avrebbe   | berrebbe   | dovrebbe   | sarebbe   |
+| (noi)     | andremmo   | avremmo   | berremmo   | dovremmo   | saremmo   |
+| (voi)     | andreste   | avreste   | berreste   | dovreste   | sareste   |
+| (loro)    | andrebbero | avrebbero | berrebbero | dovrebbero | sarebbero |
+
+| Pronoun   | potere     | rimanere     | sapere     | venire     | volere     |
+| --------- | ---------- | ------------ | ---------- | ---------- | ---------- |
+| (io)      | potrei     | rimarrei     | saprei     | verrei     | vorrei     |
+| (tu)      | potresti   | rimarresti   | sapresti   | verresti   | vorresti   |
+| (lui/lei) | potrebbe   | rimarrebbe   | saprebbe   | verrebbe   | vorrebbe   |
+| (noi)     | potremmo   | rimarremmo   | sapremmo   | verremmo   | vorremmo   |
+| (voi)     | potreste   | rimarreste   | sapreste   | verreste   | vorreste   |
+| (loro)    | potrebbero | rimarrebbero | saprebbero | verrebbero | vorrebbero |
+
+## Condizionale Passato
+
+The _condizionale passato is used to express express could, would, or should hypotheticals in the past.  It is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the _condizionale presente_, with the participio passato.
+
+### Con il Verbo Ausiliare Avere
+
+| Pronoun   | First (-are)      | Second (-ere)     | Second (-urre)     | Second (-orre)     | Third (-ire)     |
+| --------- | ----------------- | ----------------- | ------------------ | ------------------ | ---------------- |
+| (io)      | avrei parlato     | avrei creduto     | avrei tradotto     | avrei supposto     | avrei finito     |
+| (tu)      | avresti parlato   | avresti creduto   | avresti tradotto   | avresti supposto   | avresti finito   |
+| (lui/lei) | avrebbe parlato   | avrebbe creduto   | avrebbe tradotto   | avrebbe supposto   | avrebbe finito   |
+| (noi)     | avremmo parlato   | avremmo creduto   | avremmo tradotto   | avremmo supposto   | avremmo finito   |
+| (voi)     | avreste parlato   | avreste creduto   | avreste tradotto   | avreste supposto   | avreste finito   |
+| (loro)    | avrebbero parlato | avrebbero creduto | avrebbero tradotto | avrebbero supposto | avrebbero finito |
+
+### Con il Verbo Ausiliare Essere
+
+| Pronoun   | First (-are)       | Second (-ere)      | Third (-ire)       |
+| --------- | ------------------ | ------------------ | ------------------ |
+| (io)      | sarei andato       | sarei venuto       | sarei uscito       |
+| (tu)      | saresti andato     | saresti venuto     | saresti uscito     |
+| (lui/lei) | sarebbe andato/a   | sarebbe venuto/a   | sarebbe uscito/a   |
+| (noi)     | saremmo andati     | saremmo venuti     | saremmo usciti     |
+| (voi)     | sareste andati     | sareste venuti     | sareste usciti     |
+| (loro)    | sarebbero andati/e | sarebbero venuti/e | sarebbero usciti/e |
+
+## Indicativo Futuro Semplice
+
+The _indicativo futuro semplice_ is used to express an action that will occur in the future.
+
+### Regolare
+
+| Pronoun   | First (-are) | Second (-ere) | Second (-urre) | Second (-orre) | Third (-ire) |
+| --------- | ------------ | ------------- | -------------- | -------------- | ------------ |
+| (io)      | parlerò      | scriverò      | tradurrò       | supporrò       | finirò       |
+| (tu)      | parlerai     | scriverai     | tradurrai      | supporrai      | finirai      |
+| (lui/lei) | parlerà      | scriverà      | tradurrà       | supporrà       | finirà       |
+| (noi)     | parleremo    | scriveremo    | tradurremo     | supporremo     | finiremo     |
+| (voi)     | parlerete    | scriverete    | tradurrete     | supporrete     | finirete     |
+| (loro)    | parleranno   | scriveranno   | tradurranno    | supporranno    | finiranno    |
+
+### Irregolare
+
+| Pronoun   | andare   | avere   | bere     | dovere   | essere  |
+| --------- | -------- | ------- | -------- | -------- | ------- |
+| (io)      | andrò    | avrò    | berrò    | dovrò    | sarò    |
+| (tu)      | andrai   | avrai   | berrai   | dovrai   | sarai   |
+| (lui/lei) | andrà    | avrà    | berrà    | dovrà    | sarà    |
+| (noi)     | andremo  | avremo  | berremo  | dovremo  | saremo  |
+| (voi)     | andrete  | avrete  | berrete  | dovrete  | sarete  |
+| (loro)    | andranno | avranno | berranno | dovranno | saranno |
+
+| Pronoun   | potere   | rimanere   | sapere   | venire   | volere   |
+| --------- | -------- | ---------- | -------- | -------- | -------- |
+| (io)      | potrò    | rimarrò    | saprò    | verrò    | vorrò    |
+| (tu)      | potrai   | rimarrai   | saprai   | verrai   | vorrai   |
+| (lui/lei) | potrà    | rimarrà    | saprà    | verrà    | vorrà    |
+| (noi)     | potremo  | rimarremo  | sapremo  | verremo  | vorremo  |
+| (voi)     | potreste | rimarreste | sapreste | verreste | vorreste |
+| (loro)    | potranno | rimarranno | sapranno | verranno | vorranno |
+
+## Indicativo Futuro Anteriore
+
+The _indicativo futuro anteriore_ is used to express an action that will be completed in the future.  It is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the _indicativo futuro semplice_, with the participio passato
+
+### Con il Verbo Ausiliare Avere
+
+| Pronoun   | First (-are)    | Second (-ere)   | Second (-urre)   | Second (-orre)   | Third (-ire)   |
+| --------- | --------------- | --------------- | ---------------- | ---------------- | -------------- |
+| (io)      | avrò parlato    | avrò creduto    | avrò tradotto    | avrò supposto    | avrò finito    |
+| (tu)      | avrai parlato   | avrai creduto   | avrai tradotto   | avrai supposto   | avrai finito   |
+| (lui/lei) | avrà parlato    | avrà creduto    | avrà tradotto    | avrà supposto    | avrà finito    |
+| (noi)     | avremo parlato  | avremo creduto  | avremo tradotto  | avremo supposto  | avremo finito  |
+| (voi)     | avrete parlato  | avrete creduto  | avrete tradotto  | avrete supposto  | avrete finito  |
+| (loro)    | avranno parlato | avranno creduto | avranno tradotto | avranno supposto | avranno finito |
+
+### Con il Verbo Ausiliare Essere
+
+| Pronoun   | First (-are)     | Second (-ere)    | Third (-ire)     |
+| --------- | ---------------- | ---------------- | ---------------- |
+| (io)      | sarò andato      | sarò venuto      | sarò uscito      |
+| (tu)      | sarai andato     | sarai venuto     | sarai uscito     |
+| (lui/lei) | sarà andato/a    | sarà venuto/a    | sarà uscito/a    |
+| (noi)     | saremo andati    | saremo venuti    | saremo usciti    |
+| (voi)     | sarete andati    | sarete venuti    | sarete usciti    |
+| (loro)    | saranno andati/e | saranno venuti/e | saranno usciti/e |
