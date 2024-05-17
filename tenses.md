@@ -296,3 +296,19 @@ The _indicativo futuro anteriore_ is used to express an action that will be comp
 | (noi)     | saremo andati    | saremo venuti    | saremo usciti    |
 | (voi)     | sarete andati    | sarete venuti    | sarete usciti    |
 | (loro)    | saranno andati/e | saranno venuti/e | saranno usciti/e |
+
+
+## Congiuntivo Presente
+
+The _congiuntivo presente_ tense is used to express emotions, desires, wishes, hopes, opinions, impressions.  It is also used for impersonal expressions.  Most cogiuntivi occur in relative or dependent clauses.
+
+### Regolare
+
+| Pronoun   | First (-are) | Second (-ere) | Second (-urre) | Second (-orre) | Third (-ire)     |
+| --------- | ------------ | ------------- | -------------- | -------------- | ---------------- |
+| (io)      | parli        | metta         | traduco        | suppongo       | dormo            |
+| (tu)      | parli        | metta         | traduci        | supponi        | dormi            |
+| (lui/lei) | parli        | metta         | traduce        | suppone        | dorme            |
+| (noi)     | parliamo     | mettiamo      | traduciamo     | supponiamo     | dormiamo         |
+| (voi)     | parliate     | mettiate      | traducete      | supponete      | dormite          |
+| (loro)    | parlino      | mettano       | traducono      | suppongono     | dormono          |
