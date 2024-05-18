@@ -26,6 +26,18 @@
   - [Indicativo Futuro Anteriore](#indicativo-futuro-anteriore)
     - [Con il Verbo Ausiliare Avere](#con-il-verbo-ausiliare-avere-3)
     - [Con il Verbo Ausiliare Essere](#con-il-verbo-ausiliare-essere-3)
+  - [Congiuntivo Presente](#congiuntivo-presente)
+    - [Regolare](#regolare-4)
+    - [Irregolare](#irregolare-4)
+  - [Congiuntivo Imperfetto](#congiuntivo-imperfetto)
+    - [Regolare](#regolare-5)
+    - [Irregolare](#irregolare-5)
+  - [Congiuntivo Passato](#congiuntivo-passato)
+    - [Con il Verbo Ausiliare Avere](#con-il-verbo-ausiliare-avere-4)
+    - [Con il Verbo Ausiliare Essere](#con-il-verbo-ausiliare-essere-4)
+  - [Congiuntivo Trapassato Prossimo](#congiuntivo-trapassato-prossimo)
+    - [Con il Verbo Ausiliare Avere](#con-il-verbo-ausiliare-avere-5)
+    - [Con il Verbo Ausiliare Essere](#con-il-verbo-ausiliare-essere-5)
 
 ## Indicativo Presente 
 
@@ -300,15 +312,114 @@ The _indicativo futuro anteriore_ is used to express an action that will be comp
 
 ## Congiuntivo Presente
 
-The _congiuntivo presente_ tense is used to express emotions, desires, wishes, hopes, opinions, impressions.  It is also used for impersonal expressions.  Most cogiuntivi occur in relative or dependent clauses.
+The _congiuntivo presente_ tense is used to express emotions, desires, wishes, hopes, opinions, impressions.  It is also used for impersonal expressions.  Most congiuntivi occur in relative or dependent clauses.
 
 ### Regolare
 
-| Pronoun   | First (-are) | Second (-ere) | Second (-urre) | Second (-orre) | Third (-ire)     |
-| --------- | ------------ | ------------- | -------------- | -------------- | ---------------- |
-| (io)      | parli        | metta         | traduco        | suppongo       | dormo            |
-| (tu)      | parli        | metta         | traduci        | supponi        | dormi            |
-| (lui/lei) | parli        | metta         | traduce        | suppone        | dorme            |
-| (noi)     | parliamo     | mettiamo      | traduciamo     | supponiamo     | dormiamo         |
-| (voi)     | parliate     | mettiate      | traducete      | supponete      | dormite          |
-| (loro)    | parlino      | mettano       | traducono      | suppongono     | dormono          |
+| Pronoun   | First (-are) | Second (-ere) | Second (-urre) | Second (-orre) | Third (1) (-ire) | Third (2) (-ire) |
+| --------- | ------------ | ------------- | -------------- | -------------- | ---------------- | ---------------- |
+| (io)      | parli        | metta         | traduca        | supponga       | dorma            | finisca          |
+| (tu)      | parli        | metta         | traduca        | supponga       | dorma            | finisca          |
+| (lui/lei) | parli        | metta         | traduca        | supponga       | dorma            | finisca          |
+| (noi)     | parliamo     | mettiamo      | traduciamo     | supponiamo     | dormiamo         | finiamo          |
+| (voi)     | parliate     | mettiate      | traduciate     | supponiate     | dormiate         | finiate          |
+| (loro)    | parlino      | mettano       | traducano      | suppongano     | dormano          | finiscano        |
+
+### Irregolare
+
+| Pronoun   | andare  | avere   | bere    | dare  | dire    | dovere   | essere | fare     |
+| --------- | ------- | ------- | ------- | ----- | ------- | -------- | ------ | -------- |
+| (io)      | vada    | abbia   | beva    | dia   | dica    | debba    | sia    | faccia   |
+| (tu)      | vada    | abbia   | beva    | dia   | dica    | debba    | sia    | faccia   |
+| (lui/lei) | vada    | abbia   | beva    | dia   | dica    | debba    | sia    | faccia   |
+| (noi)     | andiamo | abbiamo | beviamo | diamo | diciamo | dobbiamo | siamo  | facciamo |
+| (voi)     | andiate | abbiate | beviate | diate | diciate | dobbiate | siate  | facciate |
+| (loro)    | vadano  | abbiano | bevano  | diano | dicano  | debbano  | siano  | facciano |
+
+| Pronoun   | potere   | rimanere  | sapere   | scegliere | uscire  | venire  | volere   | morire  |
+| --------- | -------- | --------- | -------- | --------- | ------- | ------- | -------- | ------- |
+| (io)      | possa    | rimanga   | sappia   | scelga    | esca    | venga   | voglia   | muoia   |
+| (tu)      | possa    | rimanga   | sappia   | scelga    | esca    | venga   | voglia   | muoia   |
+| (lui/lei) | possa    | rimanga   | sappia   | scelga    | esca    | venga   | voglia   | muoia   |
+| (noi)     | possiamo | rimaniamo | sappiamo | scegliamo | usciamo | veniamo | vogliamo | moriamo |
+| (voi)     | possiate | rimaniate | sappiate | scegliate | usciate | veniate | voliate  | moriate |
+| (loro)    | possano  | rimangano | sappiano | scelgano  | escano  | vengano | vogliano | muoiano |
+
+## Congiuntivo Imperfetto
+
+The _congiuntivo imperfetto_ tense is used in the same manner as the _indicativo imperfetto_.  Typically it expresses ongoing or repeated actions in the past, often in hypothetical or unreal situations. 
+
+### Regolare
+
+| Pronoun   | First (-are) | Second (-ere) | Second (-urre) | Second (-orre) | Third (-ire) |
+| --------- | ------------ | ------------- | -------------- | -------------- | ------------ |
+| (io)      | parlassi     | scrivessi     | traducessi     | supponessi     | finissi      |
+| (tu)      | parlassi     | scrivessi     | traducessi     | supponessi     | finissi      |
+| (lui/lei) | parlasse     | scrivesse     | traducesse     | supponesse     | finisse      |
+| (noi)     | parlassimo   | scrivessimo   | traducessimo   | supponessimo   | finissimo    |
+| (voi)     | parlaste     | scriveste     | traduceste     | supponeste     | finiste      |
+| (loro)    | parlassero   | scrivessero   | traducessero   | supponessero   | finissero    |
+
+### Irregolare
+
+| Pronoun   | essere  | avere    | bere      | dire      | fare      | stare    | dare    |
+| --------- | ------- | -------- | --------- | --------- | --------- | -------- | ------- |
+| (io)      | fossi   | avessi   | bevessi   | dicessi   | facessi   | stessi   | dessi   |
+| (tu)      | fossi   | avessi   | bevessi   | dicessi   | facessi   | stessi   | dessi   |
+| (lui/lei) | fosse   | avesse   | bevesse   | dicesse   | facesse   | stesse   | desse   |
+| (noi)     | fossimo | avessimo | bevessimo | dicessimo | facessimo | stessimo | dessimo |
+| (voi)     | foste   | aveste   | beveste   | diceste   | faceste   | steste   | deste   |
+| (loro)    | fossero | avessero | bevessero | dicessero | facessero | stessero | dessero |
+
+## Congiuntivo Passato
+
+The _congiuntivo passato_ tense is used in the same manner as the _indicativo passato prossimo_.  Typically it is used to express to express doubt, emotion, desire, or hypothesis about actions completed in the past.  It is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the _congiuntivo presente_, with the participio passato.
+
+
+### Con il Verbo Ausiliare Avere
+
+| Pronoun   | First (-are)    | Second (-ere)   | Second (-urre)   | Second (-orre)   | Third (-ire)   |
+| --------- | --------------- | --------------- | ---------------- | ---------------- | -------------- |
+| (io)      | abbia parlato   | abbia creduto   | abbia tradotto   | abbia supposto   | abbia finito   |
+| (tu)      | abbia parlato   | abbia creduto   | abbia tradotto   | abbia supposto   | abbia finito   |
+| (lui/lei) | abbia parlato   | abbia creduto   | abbia tradotto   | abbia supposto   | abbia finito   |
+| (noi)     | abbiamo parlato | abbiamo creduto | abbiamo tradotto | abbiamo supposto | abbiamo finito |
+| (voi)     | abbiate parlato | abbiate creduto | abbiate tradotto | abbiate supposto | abbiate finito |
+| (loro)    | abbiano parlato | abbiano creduto | abbiano tradotto | abbiano supposto | abbiano finito |
+
+### Con il Verbo Ausiliare Essere
+
+| Pronoun   | First (-are)   | Second (-ere)  | Third (-ire)   |
+| --------- | -------------- | -------------- | -------------- |
+| (io)      | sia andato     | sia venuto     | sia uscito     |
+| (tu)      | sia andato     | sia venuto     | sia uscito     |
+| (lui/lei) | sia andato/a   | sia venuto/a   | sia uscito/a   |
+| (noi)     | siamo andati   | siamo venuti   | siamo usciti   |
+| (voi)     | siate andati   | siate venuti   | siate usciti   |
+| (loro)    | siano andati/e | siano venuti/e | siano usciti/e |
+
+## Congiuntivo Trapassato Prossimo
+
+The _congiuntivo passato prossimo_ tense is used in the same manner as the _indicativo trapassato prossimo_. Typically it is used to express to express doubt, emotion, desire, or hypothesis about actions completed in the past and preceding another action in the past.  It is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the _congiuntivo imperfetto_, with the participio passato.
+
+### Con il Verbo Ausiliare Avere
+
+| Pronoun   | First (-are)     | Second (-ere)    | Second (-urre)    | Second (-orre)    | Third (-ire)    |
+| --------- | ---------------- | ---------------- | ----------------- | ----------------- | --------------- |
+| (io)      | avessi parlato   | avessi creduto   | avessi tradotto   | avessi supposto   | avessi finito   |
+| (tu)      | avessi parlato   | avessi creduto   | avessi tradotto   | avessi supposto   | avessi finito   |
+| (lui/lei) | avesse parlato   | avesse creduto   | avesse tradotto   | avesse supposto   | avesse finito   |
+| (noi)     | avessimo parlato | avessimo creduto | avessimo tradotto | avessimo supposto | avessimo finito |
+| (voi)     | aveste parlato   | aveste creduto   | aveste tradotto   | aveste supposto   | aveste finito   |
+| (loro)    | avessero parlato | avessero creduto | avessero tradotto | avessero supposto | avessero finito |
+
+### Con il Verbo Ausiliare Essere
+
+| Pronoun   | First (-are)     | Second (-ere)    | Third (-ire)     |
+| --------- | ---------------- | ---------------- | ---------------- |
+| (io)      | fossi andato     | fossi venuto     | fossi uscito     |
+| (tu)      | fossi andato     | fossi venuto     | fossi uscito     |
+| (lui/lei) | fosse andato/a   | fosse venuto/a   | fosse uscito/a   |
+| (noi)     | fossimo andati   | fossimo venuti   | fossimo usciti   |
+| (voi)     | foste andati     | foste venuti     | foste usciti     |
+| (loro)    | fossero andati/e | fossero venuti/e | fossero usciti/e |
