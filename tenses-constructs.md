@@ -86,21 +86,21 @@ Es:
 
 | Principale | Tempo Principale | Subordinata     | Tempo Subordinato      | Rapporto Temporale |
 | ---------- | ---------------- | --------------- | ---------------------- | ------------------ |
-| crede $^1$      | presente         | (io) sia andato | congiuntivo passato    | anteriorità        |
-| crede^1^      | presente         | (io) andassi    | congiuntivo imperfetto | anteriorità        |
-| crede^1^      | presente         | (io) vada       | congiuntivo presente   | contemporaneità    |
-| crede^1^      | presente         | andrò           | futuro semplice        | posteriorità       |
+| crede<sup>1</sup>      | presente         | (io) sia andato | congiuntivo passato    | anteriorità        |
+| crede<sup>1</sup>      | presente         | (io) andassi    | congiuntivo imperfetto | anteriorità        |
+| crede<sup>1</sup>      | presente         | (io) vada       | congiuntivo presente   | contemporaneità    |
+| crede<sup>1</sup>     | presente         | andrò           | futuro semplice        | posteriorità       |
 
 ### Con Una Frase Principale al Passato
 
 Es:
 - Maria ... che ... a Napoli
   
-| Principale                                      | Tempo Principale                                              | Subordinata  | Tempo Subordinato      | Rapporto Temporale |
-| ----------------------------------------------- | ------------------------------------------------------------- | ------------ | ---------------------- | ------------------ |
-| credeva <br /> ha creduto <br /> avesse creduto | imperfetto <br /> passato prossimo <br /> trapassato prossimo | fossi andato | congiuntivo trapassato | anteriorità        |
-| credeva <br /> ha creduto <br /> avesse creduto | imperfetto <br /> passato prossimo <br /> trapassato prossimo | andassi      | congiuntivo imperfetto | contemporaneità    |
-| credeva <br /> ha creduto <br /> avesse creduto | imperfetto <br /> passato prossimo <br /> trapassato prossimo | sarei andato | condizionale passato   | posteriorità       |
+| Principale                   | Tempo Principale    | Subordinata  | Tempo Subordinato      | Rapporto Temporale |
+| ---------------------------- | ------------------- | ------------ | ---------------------- | ------------------ |
+| credeva<sup>1,2</sup>        | imperfetto          | fossi andato | congiuntivo trapassato | anteriorità        |
+| ha creduto<sup>1,2</sup>     | passato prossimo    | andassi      | congiuntivo imperfetto | contemporaneità    |
+| avesse creduto<sup>1,2</sup> | trapassato prossimo | sarei andato | condizionale passato   | posteriorità       |
 
 ### Note Bene
 
