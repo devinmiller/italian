@@ -14,7 +14,7 @@
   - [La Concordanze dei Tempi del Congiuntivo](#la-concordanze-dei-tempi-del-congiuntivo)
     - [Con una Frase Principale al Presente](#con-una-frase-principale-al-presente)
     - [Con Una Frase Principale al Passato](#con-una-frase-principale-al-passato)
-      - [](#)
+    - [Note Bene](#note-bene)
 
 
 ## Periodo Ipotetico
@@ -86,10 +86,10 @@ Es:
 
 | Principale | Tempo Principale | Subordinata     | Tempo Subordinato      | Rapporto Temporale |
 | ---------- | ---------------- | --------------- | ---------------------- | ------------------ |
-| crede^[1](http://localhost)^      | presente         | (io) sia andato | congiuntivo passato    | anteriorità        |
-| crede      | presente         | (io) andassi    | congiuntivo imperfetto | anteriorità        |
-| crede      | presente         | (io) vada       | congiuntivo presente   | contemporaneità    |
-| crede      | presente         | andrò           | futuro semplice        | posteriorità       |
+| crede^1^      | presente         | (io) sia andato | congiuntivo passato    | anteriorità        |
+| crede^1^      | presente         | (io) andassi    | congiuntivo imperfetto | anteriorità        |
+| crede^1^      | presente         | (io) vada       | congiuntivo presente   | contemporaneità    |
+| crede^1^      | presente         | andrò           | futuro semplice        | posteriorità       |
 
 ### Con Una Frase Principale al Passato
 
@@ -102,4 +102,6 @@ Es:
 | credeva <br /> ha creduto <br /> avesse creduto | imperfetto <br /> passato prossimo <br /> trapassato prossimo | andassi      | congiuntivo imperfetto | contemporaneità    |
 | credeva <br /> ha creduto <br /> avesse creduto | imperfetto <br /> passato prossimo <br /> trapassato prossimo | sarei andato | condizionale passato   | posteriorità       |
 
-####
+### Note Bene
+
+1. Spesso la frase principale contiene un verbo, o la frase secondaria contiene una congiunzione, che richiede l'uso del congiuntivo nella secondaria.
