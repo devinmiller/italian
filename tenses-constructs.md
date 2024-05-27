@@ -14,7 +14,8 @@
   - [La Concordanze dei Tempi del Congiuntivo](#la-concordanze-dei-tempi-del-congiuntivo)
     - [Con una Frase Principale al Presente](#con-una-frase-principale-al-presente)
     - [Con Una Frase Principale al Passato](#con-una-frase-principale-al-passato)
-    - [Note Bene](#note-bene)
+    - [Con Una Frase Principale al Condizionale](#con-una-frase-principale-al-condizionale)
+    - [Nota Bene](#nota-bene)
 
 
 ## Periodo Ipotetico
@@ -77,31 +78,59 @@ Es:
 
 ## La Concordanze dei Tempi del Congiuntivo
 
-La concordanza dei tempi descrive il rapporto tra il tempo del verbo della frase principale e quello del verbo della subordinata.  Spesso la frase principale contiene un verbo, o la frase secondaria contiene una congiunzione, che richiede l'uso del congiuntivo nella secondaria.
+La concordanza dei tempi descrive il rapporto tra il tempo del verbo della frase principale e quello del verbo della subordinata.
 
 ### Con una Frase Principale al Presente 
 
 Es:
-- Maria crede che ... a Napoli.
+- Maria ... che ... a Napoli.
 
-| Principale | Tempo Principale | Subordinata     | Tempo Subordinato      | Rapporto Temporale |
-| ---------- | ---------------- | --------------- | ---------------------- | ------------------ |
-| crede<sup>1</sup>      | presente         | (io) sia andato | congiuntivo passato    | anteriorità        |
-| crede<sup>1</sup>      | presente         | (io) andassi    | congiuntivo imperfetto | anteriorità        |
-| crede<sup>1</sup>      | presente         | (io) vada       | congiuntivo presente   | contemporaneità    |
-| crede<sup>1</sup>     | presente         | andrò           | futuro semplice        | posteriorità       |
+| Principale | Tempo Principale    | Subordinata        | Tempo Subordinato                | Rapporto Temporale |
+| ---------- | ------------------- | ------------------ | -------------------------------- | ------------------ |
+| sa         | indicativo presente | sono andato        | indicativo passato prossimo      | anteriorità        |
+| sa         | indicativo presente | ero                | indicativo imperfetto            | anteriorità        |
+| sa         | indicativo presente | vado               | indicativo presente              | contemporaneità    |
+| sa         | indicativo presente | sto andando        | indicativo presente progressivo  | contemporaneità    |
+| sa         | indicativo presente | vado (domani)      | indicativo presente              | posteriorità       |
+| sa         | indicativo presente | andrò              | futuro semplice                  | posteriorità       |
+| crede      | indicativo presente | (io) sia andato    | congiuntivo passato              | anteriorità        |
+| crede      | indicativo presente | (io) andassi       | congiuntivo imperfetto           | anteriorità        |
+| crede      | indicativo presente | (io) vada          | congiuntivo presente             | contemporaneità    |
+| crede      | indicativo presente | (io) stia andando  | congiuntivo presente progressivo | contemporaneità    |
+| crede      | indicativo presente | (io) vada (domani) | congiuntivo presente             | posteriorità       |
+| crede      | indicativo presente | andrò              | futuro semplice                  | posteriorità       |
 
 ### Con Una Frase Principale al Passato
 
 Es:
 - Maria ... che ... a Napoli
   
-| Principale                   | Tempo Principale    | Subordinata  | Tempo Subordinato      | Rapporto Temporale |
-| ---------------------------- | ------------------- | ------------ | ---------------------- | ------------------ |
-| credeva<sup>1,2</sup>        | imperfetto          | fossi andato | congiuntivo trapassato | anteriorità        |
-| ha creduto<sup>1,2</sup>     | passato prossimo    | andassi      | congiuntivo imperfetto | contemporaneità    |
-| avesse creduto<sup>1,2</sup> | trapassato prossimo | sarei andato | condizionale passato   | posteriorità       |
+| Principale | Tempo Principale      | Subordinata           | Tempo Subordinato                  | Rapporto Temporale |
+| ---------- | --------------------- | --------------------- | ---------------------------------- | ------------------ |
+| sapeva     | indicativo imperfetto | ero andato            | indicativo trapassato prossimo     | anteriorità        |
+| sapeva     | indicativo imperfetto | sono andato           | indicativo passato                 | anteriorità        |
+| sapeva     | indicativo imperfetto | andavo                | indicativo imperfetto              | contemporaneità    |
+| sapeva     | indicativo imperfetto | stavo andando         | indicativo imperfetto progressivo  | contemporaneità    |
+| sapeva     | indicativo imperfetto | andavo (domani)       | indicativo imperfetto              | posteriorità       |
+| sapeva     | indicativo imperfetto | sarei andato          | condizionale passato               | posteriorità       |
+| credeva    | indicativo imperfetto | (io) fossi andato     | congiuntivo trapassato             | anteriorità        |
+| credeva    | indicativo imperfetto | (io) andassi          | congiuntivo imperfetto             | contemporaneità    |
+| credeva    | indicativo imperfetto | (io) stessi andando   | congiuntivo imperfetto progressivo | contemporaneità    |
+| credeva    | indicativo imperfetto | (io) andassi (domani) | congiuntivo imperfetto             | posteriorità       |
+| credeva    | indicativo imperfetto | sarei andato          | condizionale passato               | posteriorità       |
 
-### Note Bene
+### Con Una Frase Principale al Condizionale
+
+Es:
+- Maria ... che ... a Napoli
+  
+| Principale | Tempo Principale     | Subordinata  | Tempo Subordinato      | Rapporto Temporale |
+| ---------- | -------------------- | ------------ | ---------------------- | ------------------ |
+| vorrebbe   | condizionale present | (io) fossi andato     | congiuntivo trapassato             | anteriorità     |
+| vorrebbe   | condizionale present | (io) andassi | congiuntivo imperfetto | contemporaneità    |
+| vorrebbe   | condizionale present | (io) andassi (domani) | congiuntivo imperfetto | posteriorità    |
+
+### Nota Bene
 
 1. Spesso la frase principale contiene un verbo, o la frase secondaria contiene una congiunzione, che richiede l'uso del congiuntivo nella secondaria.
+2. Quale tempo passato si usa nella frase principale non cambia i tempi che vengono usati nella frase subordinata.
