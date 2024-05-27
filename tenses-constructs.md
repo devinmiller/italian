@@ -86,7 +86,7 @@ Es:
 
 | Principale | Tempo Principale | Subordinata     | Tempo Subordinato      | Rapporto Temporale |
 | ---------- | ---------------- | --------------- | ---------------------- | ------------------ |
-| crede^1^      | presente         | (io) sia andato | congiuntivo passato    | anteriorità        |
+| crede$^1$      | presente         | (io) sia andato | congiuntivo passato    | anteriorità        |
 | crede^1^      | presente         | (io) andassi    | congiuntivo imperfetto | anteriorità        |
 | crede^1^      | presente         | (io) vada       | congiuntivo presente   | contemporaneità    |
 | crede^1^      | presente         | andrò           | futuro semplice        | posteriorità       |
