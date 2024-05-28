@@ -124,11 +124,14 @@ Es:
 Es:
 - Maria ... che ... a Napoli
   
-| Principale | Tempo Principale     | Subordinata  | Tempo Subordinato      | Rapporto Temporale |
-| ---------- | -------------------- | ------------ | ---------------------- | ------------------ |
-| vorrebbe   | condizionale present | (io) fossi andato     | congiuntivo trapassato             | anteriorità     |
-| vorrebbe   | condizionale present | (io) andassi | congiuntivo imperfetto | contemporaneità    |
-| vorrebbe   | condizionale present | (io) andassi (domani) | congiuntivo imperfetto | posteriorità    |
+| Principale     | Tempo Principale      | Subordinata           | Tempo Subordinato      | Rapporto Temporale |
+| -------------- | --------------------- | --------------------- | ---------------------- | ------------------ |
+| vorrebbe       | condizionale presente | (io) fossi andato     | congiuntivo trapassato | anteriorità        |
+| vorrebbe       | condizionale presente | (io) andassi          | congiuntivo imperfetto | contemporaneità    |
+| vorrebbe       | condizionale presente | (io) andassi (domani) | congiuntivo imperfetto | posteriorità       |
+| avrebbe voluto | condizionale passato  | (io) fossi andato     | congiuntivo trapassato | anteriorità        |
+| avrebbe voluto | condizionale passato  | (io) andassi          | congiuntivo imperfetto | contemporaneità    |
+| avrebbe voluto | condizionale passato  | (io) andassi (ieri)   | congiuntivo imperfetto | posteriorità       |
 
 ### Nota Bene
 
