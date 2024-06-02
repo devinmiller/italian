@@ -35,7 +35,7 @@
   - [Congiuntivo Passato](#congiuntivo-passato)
     - [Con il Verbo Ausiliare Avere](#con-il-verbo-ausiliare-avere-4)
     - [Con il Verbo Ausiliare Essere](#con-il-verbo-ausiliare-essere-4)
-  - [Congiuntivo Trapassato Prossimo](#congiuntivo-trapassato-prossimo)
+  - [Congiuntivo Trapassato](#congiuntivo-trapassato)
     - [Con il Verbo Ausiliare Avere](#con-il-verbo-ausiliare-avere-5)
     - [Con il Verbo Ausiliare Essere](#con-il-verbo-ausiliare-essere-5)
 
@@ -398,7 +398,7 @@ The _congiuntivo passato_ tense is used in the same manner as the _indicativo pa
 | (voi)     | siate andati   | siate venuti   | siate usciti   |
 | (loro)    | siano andati/e | siano venuti/e | siano usciti/e |
 
-## Congiuntivo Trapassato Prossimo
+## Congiuntivo Trapassato
 
 The _congiuntivo passato prossimo_ tense is used in the same manner as the _indicativo trapassato prossimo_. Typically it is used to express to express doubt, emotion, desire, or hypothesis about actions completed in the past and preceding another action in the past.  It is formed with two auxiliary verbs, _avere_ and _essere_, conjugated in the _congiuntivo imperfetto_, with the participio passato.
 

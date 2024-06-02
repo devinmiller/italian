@@ -75,9 +75,11 @@ Most direct object pronouns are used in the non-emphatic form (_atoni_). They ar
 
 Direct and Indirect object pronouns in the non-emphatic form can be combined to create the **double object pronouns**.
 
-|         | lo     | la     | li     | le     | ne     |
-| :-------: | :------: | :------: | :------: | :------: | :------: |
+|         |   lo   |   la   |   li   |   le   |   ne   |
+| :-----: | :----: | :----: | :----: | :----: | :----: |
 | **mi**  | me lo  | me la  | me li  | me le  | me ne  |
 | **ti**  | te lo  | te la  | te li  | te le  | te ne  |
 | **gli** | glielo | gliela | glieli | gliele | gliene |
-| **ci** | 
+| **ci**  | ce lo  | ce la  | ce li  | ce le  | ce ne  |
+| **vi**  | ve lo  | ve la  | ve li  | ve le  | ve ne  |
+| **si**  | se lo  | se la  | se li  | se le  | se ne  |

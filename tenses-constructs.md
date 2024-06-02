@@ -11,6 +11,8 @@
       - [congiuntivo imperfetto + condizionale presente](#congiuntivo-imperfetto--condizionale-presente)
     - [Il Terzo Tipo: impossibilità nel passato](#il-terzo-tipo-impossibilità-nel-passato)
       - [congiuntivo trapassato + condizionale passato](#congiuntivo-trapassato--condizionale-passato)
+    - [Periodo Ipotetico Misto](#periodo-ipotetico-misto)
+      - [congiuntivo trapassato + condizionale presente](#congiuntivo-trapassato--condizionale-presente)
   - [La Concordanze dei Tempi del Congiuntivo](#la-concordanze-dei-tempi-del-congiuntivo)
     - [Con una Frase Principale al Presente](#con-una-frase-principale-al-presente)
     - [Con Una Frase Principale al Passato](#con-una-frase-principale-al-passato)
@@ -70,11 +72,23 @@ Es:
 
 Si usa per esprimere qualcosa un’ipotesi irreale nel passato.
 
-#### [congiuntivo trapassato](tenses-overview.md#congiuntivo-passato) + [condizionale passato](tenses-overview.md#condizionale-passato)
+#### [congiuntivo trapassato](tenses-overview.md#congiuntivo-trapassato) + [condizionale passato](tenses-overview.md#condizionale-passato)
 
 Es:
 - Se fossi uscito con noi, l’avresti incontrata.
 - Se tu avessi letto l’annuncio, avresti chiamato
+
+### Periodo Ipotetico Misto
+
+Si usa per esprimere un’ipotesi al passato che ha conseguenze sul presente.
+
+#### [congiuntivo trapassato](tenses-overview.md#congiuntivo-trapassato) + [condizionale presente](tenses-overview.md#condizionale-presente)
+
+Es:
+- Se avessi sposato uno sceicco, ora saresti ricca!
+- Se non avesse insultato il suo capo, oggi avrebbe ancora un lavoro.
+- Se si fosse lavato, ora non puzzerebbe così!
+
 
 ## La Concordanze dei Tempi del Congiuntivo
 
