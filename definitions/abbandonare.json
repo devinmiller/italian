@@ -1,0 +1,89 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "abbandonare",
+                        "headword_full": "abbandonare    <span class=\"phonetics\">[ab<span class=\"separator\">·</span>ban<span class=\"separator\">·</span>do<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. abbandonare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbandonare</strong> <span class=\"sense\">(lasciare: famiglia, paese)</span>",
+                                        "target": "to abandon"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbandonare</strong> <span class=\"sense\">(non aiutare: amico)</span>",
+                                        "target": "to let down"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. abbandonare <span class=\"sense\">(trascurare: casa, giardino)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbandonare</strong>",
+                                        "target": "to neglect"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. abbandonare <span class=\"sense\">(rinunciare a: progetto, speranza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbandonare</strong>",
+                                        "target": "to give up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. abbandonare <span class=\"sense\">(reclinare: capo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbandonare</strong>",
+                                        "target": "to drop"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. abbandonare <span class=\"sense\">(allentare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">abbandonare</strong> la presa</span>",
+                                        "target": "to let go"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "abbandonare",
+                        "headword_full": "abbandonare    <span class=\"phonetics\">[ab<span class=\"separator\">·</span>ban<span class=\"separator\">·</span>do<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "abbandonare <span class=\"reflection\">abbandonarsi</span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">abbandonarsi</span>",
+                                        "target": "to let oneself go"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">abbandonarsi a un vizio</span>",
+                                        "target": "to indulge a bad habit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

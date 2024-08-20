@@ -1,0 +1,85 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "veloce",
+                        "headword_full": "veloce    <span class=\"phonetics\">[ve<span class=\"separator\">·</span>ˈlo:<span class=\"separator\">·</span>tʃe]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. veloce <span class=\"sense\">(veicolo, animale, pista)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">veloce</strong>",
+                                        "target": "fast"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. veloce <span class=\"sense\">(segretaria, lavoratore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">veloce</strong>",
+                                        "target": "quick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. veloce <span class=\"sense\">(lettura, riparazione, pasto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">veloce</strong>",
+                                        "target": "quick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. veloce <span class=\"sense\">(tempo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">veloce</strong>",
+                                        "target": "fast"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. veloce <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">veloce</strong> come un lampo</span>",
+                                        "target": "as fast as lightning"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">veloce</strong> come il vento</span>",
+                                        "target": "like the wind"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "veloce",
+                        "headword_full": "veloce    <span class=\"phonetics\">[ve<span class=\"separator\">·</span>ˈlo:<span class=\"separator\">·</span>tʃe]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">veloce</strong>",
+                                        "target": "quickly"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
