@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "afferrare",
+                        "headword_full": "afferrare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fer<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. afferrare <span class=\"sense\">(prendere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">afferrare</strong>",
+                                        "target": "to grab"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. afferrare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(occasione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">afferrare</strong>",
+                                        "target": "to seize"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. afferrare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(senso, idea)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">afferrare</strong>",
+                                        "target": "to grasp"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "afferrare",
+                        "headword_full": "afferrare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fer<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "afferrare <span class=\"reflection\">afferrarsi</span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">afferrarsi a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to cling to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

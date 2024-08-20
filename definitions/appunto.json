@@ -1,0 +1,113 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "appunto",
+                        "headword_full": "appunto<sup>1</sup>    <span class=\"phonetics\">[ap<span class=\"separator\">·</span>ˈpun<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "1. appunto:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appunto</strong>",
+                                        "target": "just"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">volevo per <strong class=\"tilde\">l&#39;appunto</strong> proporre …</span>",
+                                        "target": "I was just going to suggest …"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. appunto <span class=\"sense\">(nelle risposte)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appunto</strong>",
+                                        "target": "exactly"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "appunto",
+                        "headword_full": "appunto<sup>2</sup>    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. appunto <span class=\"sense\">(nota)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appunto</strong>",
+                                        "target": "note"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. appunto <span class=\"sense\">(rimprovero)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appunto</strong>",
+                                        "target": "reproach"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "appuntare",
+                        "headword_full": "appuntare    <span class=\"phonetics\">[ap<span class=\"separator\">·</span>pun<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. appuntare <span class=\"sense\">(matita)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appuntare</strong>",
+                                        "target": "to sharpen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. appuntare <span class=\"sense\">(decorazione, spilla)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appuntare</strong>",
+                                        "target": "to pin"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. appuntare <span class=\"sense\">(prendere appunti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appuntare</strong>",
+                                        "target": "to take notes of"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

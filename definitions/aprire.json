@@ -1,0 +1,118 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "aprire",
+                        "headword_full": "aprire   <span class=\"flexion\">&lt;apro, apersi [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> aprii], aperto&gt;</span>  <span class=\"phonetics\">[a<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. aprire <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aprire</strong>",
+                                        "target": "to open"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aprire</strong> le braccia</span>",
+                                        "target": "to open one&#39;s arms"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aprire</strong> un conto</span>",
+                                        "target": "to open an account"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aprire</strong> il fuoco</span>",
+                                        "target": "to open fire"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. aprire <span class=\"sense\">(gas, acqua, rubinetto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aprire</strong>",
+                                        "target": "to turn on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. aprire <span class=\"sense\">(creare un&#39;apertura: varco, passaggio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aprire</strong>",
+                                        "target": "to clear"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. aprire <span class=\"sense\">(corteo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aprire</strong>",
+                                        "target": "to lead"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. aprire <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">aprire</strong> bocca</span> <span class=\"sense\">(non parlare)</span>",
+                                        "target": "to not say a word"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">aprire</strong> bocca</span> <span class=\"sense\">(mantenere un segreto)</span>",
+                                        "target": "to keep mum"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aprire</strong> gli occhi</span> <span class=\"sense\">(rendersi conto)</span>",
+                                        "target": "to open one&#39;s eyes (to <acronym title=\"something\">sth</acronym>)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aprire</strong> le orecchie</span> <span class=\"sense\">(prestare attenzione)</span>",
+                                        "target": "to listen carefully"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aprire</strong> il cuore a <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(confidarsi)</span>",
+                                        "target": "to open one&#39;s heart to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "aprire",
+                        "headword_full": "aprire   <span class=\"flexion\">&lt;apro, apersi [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> aprii], aperto&gt;</span>  <span class=\"phonetics\">[a<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">aprirsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. aprire <span class=\"sense\">(porta, mostra)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">aprirsi</span>",
+                                        "target": "to open"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. aprire <span class=\"sense\">(confidarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">aprirsi con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to open up to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

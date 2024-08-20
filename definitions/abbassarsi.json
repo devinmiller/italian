@@ -1,0 +1,112 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "abbassare",
+                        "headword_full": "abbassare    <span class=\"phonetics\">[ab<span class=\"separator\">·</span>bas<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. abbassare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbassare</strong> <span class=\"sense\">(mettere più in basso)</span>",
+                                        "target": "to lower"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbassare</strong> <span class=\"sense\">(finestrino dell&#39;auto)</span>",
+                                        "target": "to wind down"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. abbassare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbassare</strong> <span class=\"sense\">(prezzo, temperatura)</span>",
+                                        "target": "to reduce"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbassare</strong> <span class=\"sense\">(voce)</span>",
+                                        "target": "to keep down"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbassare</strong> <span class=\"sense\">(radio)</span>",
+                                        "target": "to turn down"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbassare</strong> <span class=\"sense\">(tasto)</span>",
+                                        "target": "to push down"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbassare</strong> <span class=\"sense\">(bandiera)</span>",
+                                        "target": "to lower"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">abbassare</strong> i fari</span>",
+                                        "target": "to dim the headlights"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">abbassare</strong> gli occhi</span>",
+                                        "target": "to lower one&#39;s eyes"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">abbassare</strong> le armi</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to lay down one&#39;s arms"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">abbassare</strong> la cresta</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to back down"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "abbassare",
+                        "headword_full": "abbassare    <span class=\"phonetics\">[ab<span class=\"separator\">·</span>bas<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">abbassarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. abbassare <span class=\"sense\">(chinarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">abbassarsi</span>",
+                                        "target": "to bend down"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. abbassare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(umiliarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">abbassarsi</span>",
+                                        "target": "to demean oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. abbassare:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">abbassarsi</span> <span class=\"sense\">(calare: barometro, temperatura)</span>",
+                                        "target": "to drop"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">abbassarsi</span> <span class=\"sense\">(sole)</span>",
+                                        "target": "to go down"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "arrabbiare",
+                        "headword_full": "arrabbiare    <span class=\"phonetics\">[ar<span class=\"separator\">·</span>rab<span class=\"separator\">·</span>ˈbia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">far <strong class=\"tilde\">arrabbiare</strong> <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to make <acronym title=\"somebody\">sb</acronym> angry"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "arrabbiare",
+                        "headword_full": "arrabbiare    <span class=\"phonetics\">[ar<span class=\"separator\">·</span>rab<span class=\"separator\">·</span>ˈbia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "arrabbiare <span class=\"reflection\">arrabbiarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">arrabbiarsi (con <acronym title=\"qualcuno\">qu</acronym>)</span>",
+                                        "target": "to get angry (with <acronym title=\"somebody\">sb</acronym>)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "amare",
+                        "headword_full": "amare    <span class=\"phonetics\">[a<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">amare</strong>",
+                                        "target": "to love"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">amare</strong> la musica</span>",
+                                        "target": "to not like music"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "amare",
+                        "headword_full": "amare    <span class=\"phonetics\">[a<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "amare <span class=\"reflection\">amarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">amarsi</span>",
+                                        "target": "to love each other"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "amaro",
+                        "headword_full": "amaro    <span class=\"phonetics\">[a<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>ro]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. amaro <span class=\"sense\">(sapore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">amaro</strong>",
+                                        "target": "bitter taste"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. amaro <span class=\"sense\">(liquore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">amaro</strong>",
+                                        "target": "<span class=\"explanation\">aromatic liqueur usually drunk after a meal</span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. amaro <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(rancore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">amaro</strong>",
+                                        "target": "bitterness"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "amaro",
+                        "headword_full": "amaro <span class=\"feminine\">(-a)</span>   <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. amaro <span class=\"sense\">(bibita, sapore, sconfitta, risata)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">amaro</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "bitter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">cioccolato <strong class=\"tilde\">amaro</strong></span>",
+                                        "target": "dark chocolate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">rimanere con la bocca -a</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to feel bitter"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. amaro <span class=\"sense\">(senza zucchero: caffè, tè)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">amaro</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "without sugar"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

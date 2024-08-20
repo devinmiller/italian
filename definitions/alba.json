@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "alba",
+                        "headword_full": "alba    <span class=\"phonetics\">[ˈal<span class=\"separator\">·</span>ba]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">alba</strong>",
+                                        "target": "dawn"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">all&#39;alba</strong></span>",
+                                        "target": "at dawn"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "attraversare",
+                        "headword_full": "attraversare    <span class=\"phonetics\">[at<span class=\"separator\">·</span>tra<span class=\"separator\">·</span>ver<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. attraversare <span class=\"sense\">(passare attraverso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attraversare</strong>",
+                                        "target": "to cross"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">attraversare</strong> la strada</span>",
+                                        "target": "to cross the road"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">attraversare</strong> il confine</span>",
+                                        "target": "to cross the border"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. attraversare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(trascorrere: periodo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attraversare</strong>",
+                                        "target": "to go through"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

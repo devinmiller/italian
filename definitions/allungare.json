@@ -1,0 +1,135 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "allungare",
+                        "headword_full": "allungare    <span class=\"phonetics\">[al<span class=\"separator\">·</span>lun<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. allungare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allungare</strong> <span class=\"sense\">(accrescere di lunghezza: storia, libro, film)</span>",
+                                        "target": "to make longer"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">allungare</strong> <span class=\"sense\">(abito)</span>",
+                                        "target": "to lengthen"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">allungare</strong> <span class=\"sense\">(capelli)</span>",
+                                        "target": "to have extensions in"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">allungare</strong> <span class=\"sense\">(tavolo)</span>",
+                                        "target": "to extend"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">allungare</strong> il percorso</span>",
+                                        "target": "to go the long way round"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">allungare</strong> la strada</span>",
+                                        "target": "to take a detour"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">allungare</strong> il passo</span>",
+                                        "target": "to hurry up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. allungare <span class=\"sense\">(accrescere di durata: vita, riunione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allungare</strong>",
+                                        "target": "to extend"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. allungare <span class=\"sense\">(diluire: vino)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allungare</strong>",
+                                        "target": "to water down"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. allungare <span class=\"topic\"><acronym title=\"linguistics, grammar\">LING</acronym></span> <span class=\"sense\">(vocale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allungare</strong>",
+                                        "target": "to lengthen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. allungare <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">allungare</strong> un ceffone a <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to whack <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">allungare le mani su <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(per rubare)</span>",
+                                        "target": "to steal <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">allungare le mani su <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(per toccare)</span>",
+                                        "target": "to touch <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">allungare</strong> le orecchie</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to strain one&#39;s ears"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "allungare",
+                        "headword_full": "allungare    <span class=\"phonetics\">[al<span class=\"separator\">·</span>lun<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">allungarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. allungare <span class=\"sense\">(farsi più lungo: giornate)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">allungarsi</span>",
+                                        "target": "to get longer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. allungare <span class=\"sense\">(crescere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">allungarsi</span>",
+                                        "target": "to get taller"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. allungare <span class=\"sense\">(sdraiarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">allungarsi</span>",
+                                        "target": "to stretch out"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

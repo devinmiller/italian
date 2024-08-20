@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "assorbire",
+                        "headword_full": "assorbire    <span class=\"phonetics\">[as<span class=\"separator\">·</span>sor<span class=\"separator\">·</span>ˈbi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. assorbire <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assorbire</strong>",
+                                        "target": "to absorb"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. assorbire <span class=\"sense\">(incorporare: azienda, quota)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assorbire</strong>",
+                                        "target": "to swallow up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. assorbire <span class=\"sense\">(consumare: tempo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assorbire</strong>",
+                                        "target": "to take up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

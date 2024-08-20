@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "agevolare",
+                        "headword_full": "agevolare    <span class=\"phonetics\">[a<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>vo<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. agevolare <span class=\"sense\">(render facile: compito, lavoro, lettura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agevolare</strong>",
+                                        "target": "to facilitate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. agevolare <span class=\"sense\">(favorire: commercio, investimenti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agevolare</strong>",
+                                        "target": "to make easier"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. agevolare <span class=\"sense\">(aiutare: utenti, investitori)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agevolare</strong>",
+                                        "target": "to help"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

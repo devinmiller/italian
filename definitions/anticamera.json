@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "anticamera",
+                        "headword_full": "anticamera    <span class=\"phonetics\">[an<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>me<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">anticamera</strong>",
+                                        "target": "hall"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare <strong class=\"tilde\">anticamera</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to cool one&#39;s heels"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non mi passa neppure per <strong class=\"tilde\">l&#39;anticamera</strong> del cervello</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "in your dreams!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

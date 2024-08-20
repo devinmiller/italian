@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "affermare",
+                        "headword_full": "affermare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fer<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. affermare <span class=\"sense\">(dire di sì)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affermare</strong>",
+                                        "target": "to answer in the affirmative"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. affermare <span class=\"sense\">(sostenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affermare</strong>",
+                                        "target": "to claim"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. affermare <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affermare</strong> <span class=\"sense\">(innocenza)</span>",
+                                        "target": "to protest"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">affermare</strong> <span class=\"sense\">(diritto)</span>",
+                                        "target": "to assert"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "affermare",
+                        "headword_full": "affermare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fer<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">affermarsi</span> <span class=\"sense\">(persona)</span>",
+                                        "target": "to establish oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">affermarsi</span> <span class=\"sense\">(moda)</span>",
+                                        "target": "to become popular"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

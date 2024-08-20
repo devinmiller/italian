@@ -1,0 +1,82 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "aspettare",
+                        "headword_full": "aspettare    <span class=\"phonetics\">[as<span class=\"separator\">·</span>pet<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. aspettare <span class=\"sense\">(telefonata, ospite, accoglienza, dono)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aspettare</strong>",
+                                        "target": "to expect"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aspettare</strong> un bambino</span>",
+                                        "target": "to be expecting a baby"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. aspettare <span class=\"sense\">(treno, autobus)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aspettare</strong>",
+                                        "target": "to wait for"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi <strong class=\"tilde\">aspettare</strong></span>",
+                                        "target": "to keep people waiting"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">chi la fa l&#39;aspetti</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "what goes around comes around"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "aspettare",
+                        "headword_full": "aspettare    <span class=\"phonetics\">[as<span class=\"separator\">·</span>pet<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(attendere)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aspettare</strong>",
+                                        "target": "to wait"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "aspettare",
+                        "headword_full": "aspettare    <span class=\"phonetics\">[as<span class=\"separator\">·</span>pet<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "aspettare <span class=\"reflection\">aspettarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">aspettarsi</span>",
+                                        "target": "to expect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

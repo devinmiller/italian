@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "allenamento",
+                        "headword_full": "allenamento    <span class=\"phonetics\">[al<span class=\"separator\">·</span>le<span class=\"separator\">·</span>na<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allenamento</strong>",
+                                        "target": "training"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">esser fuori <strong class=\"tilde\">allenamento</strong></span>",
+                                        "target": "to be out of shape"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tenersi in <strong class=\"tilde\">allenamento</strong></span>",
+                                        "target": "to keep in shape"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

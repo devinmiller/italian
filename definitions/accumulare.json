@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "accumulare",
+                        "headword_full": "accumulare    <span class=\"phonetics\">[ak<span class=\"separator\">·</span>ku<span class=\"separator\">·</span>mu<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accumulare</strong> <span class=\"sense\">(soldi, punti)</span>",
+                                        "target": "to accumulate"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">accumulare</strong> <span class=\"sense\">(energia)</span>",
+                                        "target": "to store"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "accumulare",
+                        "headword_full": "accumulare    <span class=\"phonetics\">[ak<span class=\"separator\">·</span>ku<span class=\"separator\">·</span>mu<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "accumulare <span class=\"reflection\">accumularsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">accumularsi</span>",
+                                        "target": "to accumulate"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

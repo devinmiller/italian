@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "avversario",
+                        "headword_full": "avversario <span class=\"feminine\">(-a)</span>  <span class=\"flexion\">&lt;-i, -ie&gt;</span>  <span class=\"phonetics\">[av<span class=\"separator\">·</span>ver<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>rio]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avversario</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "rival"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "avversario",
+                        "headword_full": "avversario <span class=\"feminine\">(-a)</span>  <span class=\"flexion\">&lt;-i, -ie&gt;</span>  <span class=\"phonetics\">[av<span class=\"separator\">·</span>ver<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>rio]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avversario</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "opponent"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">avversario</strong> <span class=\"feminine\">(-a)</span> <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span> <span class=\"sense\">(nemico)</span>",
+                                        "target": "adversary"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

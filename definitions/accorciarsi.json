@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "accorciare",
+                        "headword_full": "accorciare    <span class=\"phonetics\">[ak<span class=\"separator\">·</span>kor<span class=\"separator\">·</span>ˈtʃa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accorciare</strong>",
+                                        "target": "to shorten"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "accorciare",
+                        "headword_full": "accorciare    <span class=\"phonetics\">[ak<span class=\"separator\">·</span>kor<span class=\"separator\">·</span>ˈtʃa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">accorciarsi</span> <span class=\"sense\">(giornate)</span>",
+                                        "target": "to grow shorter"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">accorciarsi</span> <span class=\"sense\">(abito)</span>",
+                                        "target": "to shrink"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "agire",
+                        "headword_full": "agire   <span class=\"flexion\">&lt;agisco&gt;</span>  <span class=\"phonetics\">[a<span class=\"separator\">·</span>ˈdʒi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. agire <span class=\"sense\">(operare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agire</strong>",
+                                        "target": "to act"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. agire <span class=\"sense\">(avere effetto: veleno, medicina)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agire</strong>",
+                                        "target": "to act"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. agire <span class=\"sense\">(comportarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agire</strong>",
+                                        "target": "to behave"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">agire</strong> bene/male</span>",
+                                        "target": "to behave well/badly"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. agire <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">agire</strong> (contro <acronym title=\"qualcuno\">qu</acronym>)</span>",
+                                        "target": "to take action (against <acronym title=\"somebody\">sb</acronym>)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

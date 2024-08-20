@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "avvisare",
+                        "headword_full": "avvisare    <span class=\"phonetics\">[av<span class=\"separator\">·</span>vi<span class=\"separator\">·</span>ˈza:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. avvisare <span class=\"sense\">(informare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avvisare</strong>",
+                                        "target": "to inform"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. avvisare <span class=\"sense\">(ammonire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avvisare</strong>",
+                                        "target": "to warn"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

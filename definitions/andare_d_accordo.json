@@ -1,0 +1,66 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">fit in</strong>",
+                "target": "andare d&#39;accordo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">get on</strong>",
+                "target": "andare d&#39;accordo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">get along</strong>",
+                "target": "andare d&#39;accordo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to hit it off (with <acronym title=\"somebody\">sb</acronym>)</span>",
+                "target": "andare d&#39;accordo (con <acronym title=\"qualcuno\">qu</acronym>)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"tilde\">get along</strong> with people",
+                "target": "andare d&#39;accordo con"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">click</strong> <span class=\"sense\">(become friendly)</span>",
+                "target": "andare subito d&#39;accordo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to get on <strong class=\"tilde\">famously</strong></span>",
+                "target": "andare perfettamente d&#39;accordo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">she&#39;s <strong class=\"tilde\">easy</strong> to get along with</span>",
+                "target": "è facile andare d&#39;accordo con lei"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">andare <strong class=\"tilde\">d&#39;accordo</strong></span>",
+                "target": "to get on well"
+            }
+        ]
+    }
+]

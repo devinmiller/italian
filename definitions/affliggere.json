@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "affliggere",
+                        "headword_full": "affliggere   <span class=\"flexion\">&lt;affliggo, afflissi, afflitto&gt;</span>  <span class=\"phonetics\">[af<span class=\"separator\">·</span>ˈflid<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affliggere</strong>",
+                                        "target": "to trouble"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "affliggere",
+                        "headword_full": "affliggere   <span class=\"flexion\">&lt;affliggo, afflissi, afflitto&gt;</span>  <span class=\"phonetics\">[af<span class=\"separator\">·</span>ˈflid<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "affliggere <span class=\"reflection\">affliggersi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">affliggersi</span>",
+                                        "target": "to worry"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "appropriarsi",
+                        "headword_full": "appropriarsi    <span class=\"phonetics\">[ap<span class=\"separator\">·</span>pro<span class=\"separator\">·</span>ˈpri<span class=\"separator\">·</span>ar<span class=\"separator\">·</span>si]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">appropriarsi</strong> (di) <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to appropriate <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

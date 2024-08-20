@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "attingere",
+                        "headword_full": "attingere    <span class=\"phonetics\">[at<span class=\"separator\">·</span>ˈtin<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. attingere <span class=\"sense\">(acqua)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attingere</strong>",
+                                        "target": "to draw"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. attingere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"topic\"><acronym title=\"finance, banking, stock exchange\">FIN</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attingere</strong> <span class=\"sense\">(informazioni, dati)</span>",
+                                        "target": "to obtain"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">attingere</strong> <span class=\"sense\">(risorse finaziarie)</span>",
+                                        "target": "to draw on"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

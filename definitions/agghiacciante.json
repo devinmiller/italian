@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "agghiacciante",
+                        "headword_full": "agghiacciante    <span class=\"phonetics\">[ag<span class=\"separator\">·</span>giat<span class=\"separator\">·</span>ˈtʃa:n<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agghiacciante</strong> <span class=\"sense\">(scena, film, racconto)</span>",
+                                        "target": "chilling"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">agghiacciante</strong> <span class=\"sense\">(urlo, lamento)</span>",
+                                        "target": "bloodcurdling"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "agghiacciare",
+                        "headword_full": "agghiacciare    <span class=\"phonetics\">[ag<span class=\"separator\">·</span>giat<span class=\"separator\">·</span>ˈtʃa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(far inorridire: storia, scena)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agghiacciare</strong>",
+                                        "target": "to make <acronym title=\"somebody's\">sb's</acronym> blood run cold"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "agghiacciare",
+                        "headword_full": "agghiacciare    <span class=\"phonetics\">[ag<span class=\"separator\">·</span>giat<span class=\"separator\">·</span>ˈtʃa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "agghiacciare <span class=\"reflection\">agghiacciarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">agghiacciarsi</span>",
+                                        "target": "to freeze"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

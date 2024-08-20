@@ -1,0 +1,73 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "affogare",
+                        "headword_full": "affogare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fo<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affogare</strong>",
+                                        "target": "to drown"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">affogare</strong> i dispiaceri nell&#39;alcol</span>",
+                                        "target": "to drown one&#39;s sorrows"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "affogare",
+                        "headword_full": "affogare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fo<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affogare</strong>",
+                                        "target": "to drown"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">affogare</strong> in un bicchier d&#39;acqua</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to be unable to cope with the smallest problem"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">affogare</strong> nell&#39;oro</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to be filthy rich"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "affogare",
+                        "headword_full": "affogare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fo<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "affogare <span class=\"reflection\">affogarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">affogarsi</span>",
+                                        "target": "to drown oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

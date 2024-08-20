@@ -1,0 +1,203 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "attaccare",
+                        "headword_full": "attaccare    <span class=\"phonetics\">[at<span class=\"separator\">·</span>tak<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. attaccare <span class=\"sense\">(fissare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to attach"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. attaccare <span class=\"sense\">(con colla: etichetta, manifesto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to stick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. attaccare <span class=\"sense\">(cucire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to sew"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. attaccare <span class=\"sense\">(appendere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to hang"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">attaccare</strong> al chiodo</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(guanti da box, bicicletta)</span>",
+                                        "target": "to hang up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. attaccare <span class=\"sense\">(agganciare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to hook up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. attaccare <span class=\"sense\">(alla corrente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to connect up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. attaccare <span class=\"topic\"><acronym title=\"anche\">a.</acronym> <acronym title=\"chemistry\">CHEM</acronym>, <acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(assalire, criticare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to attack"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. attaccare <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span> <span class=\"sense\">(malattia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">attaccare</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to give <acronym title=\"somebody\">sb</acronym> <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. attaccare <span class=\"sense\">(iniziare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">attaccare</strong> discorso</span>",
+                                        "target": "to start a conversation"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "attaccare",
+                        "headword_full": "attaccare    <span class=\"phonetics\">[at<span class=\"separator\">·</span>tak<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. attaccare <span class=\"sense\">(avere azione adesiva)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to stick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. attaccare <span class=\"sense\">(muovere all&#39;assalto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to attack"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. attaccare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(attecchire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to work"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">con me non attacca!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "that doesn&#39;t work with me!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. attaccare <span class=\"sense\">(impersonale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attaccare</strong>",
+                                        "target": "to start"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">attacca a piovere</span>",
+                                        "target": "it&#39;s starting to rain"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "attaccare",
+                        "headword_full": "attaccare    <span class=\"phonetics\">[at<span class=\"separator\">·</span>tak<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">attaccarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. attaccare <span class=\"topic\"><acronym title=\"anche\">a.</acronym> <acronym title=\"food and cooking\">FOOD</acronym></span> <span class=\"sense\">(restare aderente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">attaccarsi</span>",
+                                        "target": "to stick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. attaccare <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">attaccarsi</span>",
+                                        "target": "to be catching"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. attaccare <span class=\"sense\">(aggrapparsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">attaccarsi a <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to catch on to <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">attaccarsi alla bottiglia</span>",
+                                        "target": "to take to drink"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. attaccare <span class=\"sense\">(affezionarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">attaccarsi a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to become attached to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

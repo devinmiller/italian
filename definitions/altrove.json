@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "altrove",
+                        "headword_full": "altrove    <span class=\"phonetics\">[al<span class=\"separator\">·</span>ˈtro:<span class=\"separator\">·</span>ve]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">altrove</strong>",
+                                        "target": "somewhere else"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "alimentare",
+                        "headword_full": "alimentare<sup>1</sup>    <span class=\"phonetics\">[a<span class=\"separator\">·</span>li<span class=\"separator\">·</span>men<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(prodotto, additivo)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">alimentare</strong>",
+                                        "target": "food"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">generi -i</span>",
+                                        "target": "foodstuffs"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">paste -i</span>",
+                                        "target": "pasta"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">scienza <strong class=\"tilde\">alimentare</strong></span>",
+                                        "target": "nutrition"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "alimentare",
+                        "headword_full": "alimentare<sup>2</sup>    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. alimentare <span class=\"sense\">(nutrire: persona, animale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">alimentare</strong>",
+                                        "target": "to feed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. alimentare <span class=\"sense\">(motore, computer, caldaia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">alimentare</strong>",
+                                        "target": "to power"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. alimentare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(mantenere vivo: interesse, sospetti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">alimentare</strong>",
+                                        "target": "to fuel"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "alimentare",
+                        "headword_full": "alimentare<sup>2</sup>    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "alimentare <span class=\"reflection\">alimentarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">alimentarsi</span>",
+                                        "target": "to eat"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

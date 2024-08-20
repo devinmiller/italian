@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "affiancare",
+                        "headword_full": "affiancare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fiaŋ<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. affiancare <span class=\"sense\">(mettere a lato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affiancare</strong>",
+                                        "target": "to place side by side"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. affiancare <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affiancare</strong>",
+                                        "target": "to flank"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. affiancare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(sostenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affiancare</strong>",
+                                        "target": "to support"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "affiancare",
+                        "headword_full": "affiancare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fiaŋ<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "affiancare <span class=\"reflection\">affiancarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">affiancarsi a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to draw level with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

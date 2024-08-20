@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "allenare",
+                        "headword_full": "allenare    <span class=\"phonetics\">[al<span class=\"separator\">·</span>le<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. allenare <span class=\"sense\">(atleta, squadra, memoria)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allenare</strong>",
+                                        "target": "to train"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. allenare <span class=\"sense\">(cuore, muscoli)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allenare</strong>",
+                                        "target": "to strengthen"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "allenare",
+                        "headword_full": "allenare    <span class=\"phonetics\">[al<span class=\"separator\">·</span>le<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "allenare <span class=\"reflection\">allenarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">allenarsi</span>",
+                                        "target": "to train"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">allenarsi (per a <acronym title=\"qualcosa\">qc</acronym>)</span>",
+                                        "target": "to train for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "adorare",
+                        "headword_full": "adorare    <span class=\"phonetics\">[a<span class=\"separator\">·</span>do<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. adorare <span class=\"sense\">(divinità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">adorare</strong>",
+                                        "target": "to worship"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. adorare <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">adorare</strong>",
+                                        "target": "to adore"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. adorare <span class=\"sense\">(arte, cibo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">adorare</strong>",
+                                        "target": "to love"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

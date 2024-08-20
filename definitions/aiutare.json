@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "aiutare",
+                        "headword_full": "aiutare    <span class=\"phonetics\">[a<span class=\"separator\">·</span>iu<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. aiutare <span class=\"sense\">(assistere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aiutare</strong> <acronym title=\"qualcuno\">qu</acronym> (a fare <acronym title=\"qualcosa\">qc</acronym>)</span>",
+                                        "target": "to help <acronym title=\"somebody\">sb</acronym> (do <acronym title=\"something\">sth</acronym>)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. aiutare <span class=\"sense\">(favorire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aiutare</strong>",
+                                        "target": "to aid"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "aiutare",
+                        "headword_full": "aiutare    <span class=\"phonetics\">[a<span class=\"separator\">·</span>iu<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "aiutare <span class=\"reflection\">aiutarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">aiutarsi</span>",
+                                        "target": "to try hard"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">aiutati che Dio [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> il ciel] t&#39;aiuta</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "God helps those who help themselves <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

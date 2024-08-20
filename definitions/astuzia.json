@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "astuzia",
+                        "headword_full": "astuzia   <span class=\"flexion\">&lt;-ie&gt;</span>  <span class=\"phonetics\">[as<span class=\"separator\">·</span>ˈtut<span class=\"separator\">·</span>tsia]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. astuzia <span class=\"sense\">(furbizia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">astuzia</strong>",
+                                        "target": "cunning"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. astuzia <span class=\"sense\">(trucco)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">astuzia</strong>",
+                                        "target": "trick"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

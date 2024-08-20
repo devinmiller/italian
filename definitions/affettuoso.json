@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "affettuoso",
+                        "headword_full": "affettuoso <span class=\"feminine\">(-a)</span>   <span class=\"phonetics\">[af<span class=\"separator\">·</span>fet<span class=\"separator\">·</span>tu<span class=\"separator\">·</span>ˈo:<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affettuoso</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(persona)</span>",
+                                        "target": "affectionate"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">affettuoso</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(parole)</span>",
+                                        "target": "fond"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">‘un saluto <strong class=\"tilde\">affettuoso’</strong></span> <span class=\"sense\">(nelle lettere)</span>",
+                                        "target": "‘love’"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

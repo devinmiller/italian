@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "appassionato",
+                        "headword_full": "appassionato <span class=\"feminine\">(-a)</span>   <span class=\"phonetics\">[ap<span class=\"separator\">·</span>pas<span class=\"separator\">·</span>sio<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. appassionato <span class=\"sense\">(giocatore, musicista)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appassionato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "enthusiastic"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere <strong class=\"tilde\">appassionato</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to love <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. appassionato <span class=\"sense\">(parole, appello, sguardo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appassionato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "passionate"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "appassionato",
+                        "headword_full": "appassionato <span class=\"feminine\">(-a)</span>   <span class=\"phonetics\">[ap<span class=\"separator\">·</span>pas<span class=\"separator\">·</span>sio<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appassionato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "enthusiast"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

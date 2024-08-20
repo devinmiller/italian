@@ -1,0 +1,61 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "annegare",
+                        "headword_full": "annegare    <span class=\"phonetics\">[an<span class=\"separator\">·</span>ne<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annegare</strong>",
+                                        "target": "to drown"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "annegare",
+                        "headword_full": "annegare    <span class=\"phonetics\">[an<span class=\"separator\">·</span>ne<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annegare</strong>",
+                                        "target": "to drown"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "annegare",
+                        "headword_full": "annegare    <span class=\"phonetics\">[an<span class=\"separator\">·</span>ne<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "annegare <span class=\"reflection\">annegarsi</span> <span class=\"sense\">(uccidersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">annegarsi</span>",
+                                        "target": "to drown oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

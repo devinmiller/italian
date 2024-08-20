@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "avvertire",
+                        "headword_full": "avvertire    <span class=\"phonetics\">[av<span class=\"separator\">·</span>ver<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. avvertire <span class=\"sense\">(avvisare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">avvertire</strong> <acronym title=\"qualcuno\">qu</acronym> (di <acronym title=\"qualcosa\">qc</acronym>)</span>",
+                                        "target": "to let <acronym title=\"somebody\">sb</acronym> know (about <acronym title=\"something\">sth</acronym>)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. avvertire <span class=\"sense\">(ammonire, minacciare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avvertire</strong>",
+                                        "target": "to warn"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. avvertire <span class=\"sense\">(percepire: freddo, stanchezza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avvertire</strong>",
+                                        "target": "to feel"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

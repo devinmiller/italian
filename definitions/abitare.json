@@ -1,0 +1,57 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "abitare",
+                        "headword_full": "abitare    <span class=\"phonetics\">[abi<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abitare</strong> <span class=\"sense\">(paese, mondo)</span>",
+                                        "target": "to inhabit"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abitare</strong> <span class=\"sense\">(casa, appartamento)</span>",
+                                        "target": "to live in"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "abitare",
+                        "headword_full": "abitare    <span class=\"phonetics\">[abi<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abitare</strong>",
+                                        "target": "to live"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">abitare</strong> a Firenze</span>",
+                                        "target": "to live in Florence"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">abitare</strong> in campagna</span>",
+                                        "target": "to live in the country"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

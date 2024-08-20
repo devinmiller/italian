@@ -1,0 +1,66 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "accordo",
+                        "headword_full": "accordo    <span class=\"phonetics\">[ak<span class=\"separator\">·</span>ˈkɔr<span class=\"separator\">·</span>do]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. accordo:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accordo</strong>",
+                                        "target": "agreement"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare <strong class=\"tilde\">d&#39;accordo</strong></span>",
+                                        "target": "to get on well"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come <strong class=\"tilde\">d&#39;accordo</strong></span>",
+                                        "target": "as agreed"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">d&#39;accordo!</strong></span>",
+                                        "target": "OK!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">di comune <strong class=\"tilde\">accordo</strong></span>",
+                                        "target": "by mutual consent"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere <strong class=\"tilde\">d&#39;accordo</strong></span>",
+                                        "target": "to agree"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi <strong class=\"tilde\">d&#39;accordo</strong></span>",
+                                        "target": "to reach an agreement"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">venire a un <strong class=\"tilde\">accordo</strong></span>",
+                                        "target": "to reach an agreement"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. accordo <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accordo</strong>",
+                                        "target": "chord"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

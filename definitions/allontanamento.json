@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "allontanamento",
+                        "headword_full": "allontanamento    <span class=\"phonetics\">[al<span class=\"separator\">·</span>lon<span class=\"separator\">·</span>ta<span class=\"separator\">·</span>na<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. allontanamento <span class=\"sense\">(distacco)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allontanamento</strong>",
+                                        "target": "separation"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. allontanamento:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allontanamento</strong> <span class=\"sense\">(espulsione: dalla scuola)</span>",
+                                        "target": "expulsion"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">allontanamento</strong> <span class=\"sense\">(dal posto di lavoro)</span>",
+                                        "target": "dismissal"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. allontanamento <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(estraniamento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allontanamento</strong>",
+                                        "target": "estrangement"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

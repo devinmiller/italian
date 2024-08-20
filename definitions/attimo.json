@@ -1,0 +1,41 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "attimo",
+                        "headword_full": "attimo    <span class=\"phonetics\">[ˈat<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>mo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attimo</strong>",
+                                        "target": "moment"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in un <strong class=\"tilde\">attimo</strong></span>",
+                                        "target": "in a moment"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tra un <strong class=\"tilde\">attimo</strong></span>",
+                                        "target": "in a moment"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non ho un <strong class=\"tilde\">attimo</strong> di tempo</span>",
+                                        "target": "I don&#39;t have a spare minute"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

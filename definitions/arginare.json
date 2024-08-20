@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "arginare",
+                        "headword_full": "arginare    <span class=\"phonetics\">[ar<span class=\"separator\">·</span>dʒi<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. arginare <span class=\"sense\">(fiume, acque)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">arginare</strong>",
+                                        "target": "to embank"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. arginare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(problema, conseguenze, spese)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">arginare</strong>",
+                                        "target": "to limit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "abbozzare",
+                        "headword_full": "abbozzare    <span class=\"phonetics\">[ab<span class=\"separator\">·</span>bot<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. abbozzare <span class=\"sense\">(disegno, romanzo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbozzare</strong>",
+                                        "target": "to sketch"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. abbozzare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(accennare: sorriso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbozzare</strong>",
+                                        "target": "to give a hint of"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "motivo",
+                        "headword_full": "motivo    <span class=\"phonetics\">[mo<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>vo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. motivo <span class=\"sense\">(ragione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">motivo</strong>",
+                                        "target": "reason"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">avere <strong class=\"tilde\">motivo</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to have reason to <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dare <strong class=\"tilde\">motivo</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to give rise to <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per quale <strong class=\"tilde\">motivo?</strong></span>",
+                                        "target": "why?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per questo <strong class=\"tilde\">motivo</strong></span>",
+                                        "target": "this is why"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dar <strong class=\"tilde\">motivo</strong> di</span>",
+                                        "target": "to give reason to"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. motivo <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">motivo</strong> <span class=\"sense\">(tema, melodia)</span>",
+                                        "target": "motif"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">motivo</strong> <span class=\"sense\">(brano)</span>",
+                                        "target": "tune"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. motivo <span class=\"sense\">(tematica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">motivo</strong>",
+                                        "target": "theme"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. motivo <span class=\"sense\">(floreale, geometrico)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">motivo</strong>",
+                                        "target": "motif"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "motivare",
+                        "headword_full": "motivare    <span class=\"phonetics\">[mo<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. motivare <span class=\"sense\">(spiegare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">motivare</strong>",
+                                        "target": "to justify"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. motivare <span class=\"sense\">(causare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">motivare</strong>",
+                                        "target": "to cause"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. motivare <span class=\"sense\">(stimolare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">motivare</strong>",
+                                        "target": "to motivate"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

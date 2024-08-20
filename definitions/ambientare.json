@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ambientare",
+                        "headword_full": "ambientare    <span class=\"phonetics\">[am<span class=\"separator\">·</span>bien<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"topic\"><acronym title=\"literature, poetry\">LIT</acronym>, film, <acronym title=\"theatre\">THEAT</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ambientare</strong>",
+                                        "target": "to set"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ambientare",
+                        "headword_full": "ambientare    <span class=\"phonetics\">[am<span class=\"separator\">·</span>bien<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "ambientare <span class=\"reflection\">ambientarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">ambientarsi</span>",
+                                        "target": "to settle in"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

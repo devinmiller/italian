@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "azzardare",
+                        "headword_full": "azzardare    <span class=\"phonetics\">[ad<span class=\"separator\">·</span>dzar<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(arrischiare)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">azzardare</strong>",
+                                        "target": "to take a risk"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "azzardare",
+                        "headword_full": "azzardare    <span class=\"phonetics\">[ad<span class=\"separator\">·</span>dzar<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "azzardare <span class=\"reflection\">azzardarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">azzardarsi</span>",
+                                        "target": "to dare"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non ti <strong class=\"tilde\">azzardare</strong> a rispondermi così!</span>",
+                                        "target": "don&#39;t you dare speak to me like that!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

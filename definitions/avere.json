@@ -1,0 +1,182 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "avere",
+                        "headword_full": "avere<sup>1</sup>   <span class=\"flexion\">&lt;ho, ebbi, avuto&gt;</span>  <span class=\"phonetics\">[a<span class=\"separator\">·</span>ˈve:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. avere <span class=\"sense\">(possedere, tenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avere</strong>",
+                                        "target": "to have"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non ho soldi</span>",
+                                        "target": "I don&#39;t have any money"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ha gli occhi neri</span>",
+                                        "target": "she has dark eyes"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non ha i genitori</span>",
+                                        "target": "he doesn&#39;t have any parents"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">avere</strong> un bambino</span>",
+                                        "target": "to have a child"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ce l&#39;aveva in mano</span>",
+                                        "target": "I had it in my hand"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ce l&#39;hai tu la chiave?</span>",
+                                        "target": "do you have the key?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. avere <span class=\"sense\">(portare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avere</strong>",
+                                        "target": "to wear"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">aveva il cappello?</span>",
+                                        "target": "was he wearing a hat?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. avere <span class=\"sense\">(ricevere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avere</strong>",
+                                        "target": "to receive"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">l&#39;ho avuto in dono</span>",
+                                        "target": "I was given it"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. avere <span class=\"sense\">(età)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avere</strong>",
+                                        "target": "to be"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">avere</strong> vent&#39;anni</span>",
+                                        "target": "she&#39;s twenty"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. avere <span class=\"sense\">(provare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avere</strong>",
+                                        "target": "to be"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">avere</strong> freddo</span>",
+                                        "target": "to be cold"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">avere</strong> sete</span>",
+                                        "target": "to be thirsty"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. avere <span class=\"sense\">(impegno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">ho da fare</span>",
+                                        "target": "I have things to do"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">abbiamo ospiti a cena</span>",
+                                        "target": "we are having people to dinner"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. avere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">avere</strong> a che fare [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> vedere] con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to have <acronym title=\"something\">sth</acronym> to do with <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">avercela con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to be angry with <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">avere</strong> un bambino</span>",
+                                        "target": "to have a baby"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">avere</strong> molto di <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(assomigliargli)</span>",
+                                        "target": "to take after <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "avere",
+                        "headword_full": "avere<sup>2</sup>    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. avere <span class=\"sense\">(patrimonio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avere</strong>",
+                                        "target": "property"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tutti i suoi -i</span>",
+                                        "target": "all his possession"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. avere <span class=\"topic\"><acronym title=\"commerce\">COMM</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avere</strong>",
+                                        "target": "credit"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">il dare e <strong class=\"tilde\">l&#39;avere</strong></span>",
+                                        "target": "debit and credit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "anteriore",
+                        "headword_full": "anteriore    <span class=\"phonetics\">[an<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈrio:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. anteriore <span class=\"sense\">(davanti: routa, sedile)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">anteriore</strong>",
+                                        "target": "front"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. anteriore <span class=\"sense\">(precedente: data)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">anteriore</strong>",
+                                        "target": "previous"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

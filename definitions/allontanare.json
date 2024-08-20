@@ -1,0 +1,84 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "allontanare",
+                        "headword_full": "allontanare    <span class=\"phonetics\">[al<span class=\"separator\">·</span>lon<span class=\"separator\">·</span>ta<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. allontanare <span class=\"sense\">(collocare lontano)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allontanare</strong>",
+                                        "target": "to move away"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. allontanare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allontanare</strong> <span class=\"sense\">(dal posto di lavoro)</span>",
+                                        "target": "to dismiss"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">allontanare</strong> <span class=\"sense\">(dalla scuola)</span>",
+                                        "target": "to expel"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. allontanare <span class=\"sense\">(suscitare avversione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allontanare</strong>",
+                                        "target": "to drive away"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. allontanare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">allontanare</strong> <span class=\"sense\">(scongiurare: pericolo, sospetto)</span>",
+                                        "target": "to avert"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">allontanare</strong> <span class=\"sense\">(ricordo)</span>",
+                                        "target": "to put out of one&#39;s mind"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "allontanare",
+                        "headword_full": "allontanare    <span class=\"phonetics\">[al<span class=\"separator\">·</span>lon<span class=\"separator\">·</span>ta<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "allontanare <span class=\"reflection\">allontanarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">allontanarsi</span>",
+                                        "target": "to move away"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">allontanare</strong> dalla retta via</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to stray"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "accendere",
+                        "headword_full": "accendere   <span class=\"flexion\">&lt;accendo, accesi, acceso&gt;</span>  <span class=\"phonetics\">[at<span class=\"separator\">·</span>ˈtʃɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. accendere <span class=\"sense\">(fuoco, sigaretta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accendere</strong>",
+                                        "target": "to light"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi fai [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> hai da] <strong class=\"tilde\">accendere?</strong></span>",
+                                        "target": "do you have a light?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. accendere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accendere</strong> <span class=\"sense\">(conto)</span>",
+                                        "target": "to open"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">accendere</strong> <span class=\"sense\">(ipoteca)</span>",
+                                        "target": "to take out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. accendere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accendere</strong> <span class=\"sense\">(apparecchio, luce)</span>",
+                                        "target": "to switch on"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">accendere</strong> <span class=\"sense\">(gas)</span>",
+                                        "target": "to turn on"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">accendere</strong> <span class=\"sense\">(motore)</span>",
+                                        "target": "to start"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. accendere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accendere</strong> <span class=\"sense\">(animo, cuore)</span>",
+                                        "target": "to arouse"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">accendere</strong> <span class=\"sense\">(sentimenti)</span>",
+                                        "target": "to inflame"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "accendere",
+                        "headword_full": "accendere   <span class=\"flexion\">&lt;accendo, accesi, acceso&gt;</span>  <span class=\"phonetics\">[at<span class=\"separator\">·</span>ˈtʃɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">accendersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. accendere <span class=\"sense\">(prender fuoco)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">accendersi</span>",
+                                        "target": "to catch fire"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. accendere <span class=\"sense\">(luce, stufa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">accendersi</span>",
+                                        "target": "to come on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. accendere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(discussione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">accendersi</span>",
+                                        "target": "to flare up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

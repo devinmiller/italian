@@ -1,0 +1,31 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">pipe</strong> <span class=\"sense\">(very loudly)</span>",
+                "target": "parlare a voce alta"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in a loud <strong class=\"tilde\">voice</strong></span>",
+                "target": "a voce alta"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to speak <strong class=\"tilde\">in</strong> a loud/low voice</span>",
+                "target": "parlare a voce alta/bassa"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">sing out</strong> <acronym title=\"somebody's\">sb's</acronym> name</span>",
+                "target": "chiamare <acronym title=\"qualcuno\">qu</acronym> a voce alta"
+            }
+        ]
+    }
+]

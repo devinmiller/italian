@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "affittare",
+                        "headword_full": "affittare    <span class=\"phonetics\">[af<span class=\"separator\">·</span>fit<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. affittare <span class=\"sense\">(dare in affitto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affittare</strong>",
+                                        "target": "to rent (out)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">“affittasi alloggio ammobiliato”</span>",
+                                        "target": "“furnished house for rent”"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. affittare <span class=\"sense\">(prendere in affitto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affittare</strong>",
+                                        "target": "to rent"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

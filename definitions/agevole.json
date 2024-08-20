@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "agevole",
+                        "headword_full": "agevole    <span class=\"phonetics\">[a<span class=\"separator\">·</span>ˈdʒe:<span class=\"separator\">·</span>vo<span class=\"separator\">·</span>le]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. agevole <span class=\"sense\">(comodo: strada)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agevole</strong>",
+                                        "target": "smooth"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. agevole <span class=\"sense\">(facile: lavoro, viaggio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">agevole</strong>",
+                                        "target": "easy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

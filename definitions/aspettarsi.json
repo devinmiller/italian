@@ -1,0 +1,31 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">expect</strong>",
+                "target": "aspettarsi"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">bargain for</strong>",
+                "target": "aspettarsi"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">expect</strong> <acronym title=\"something\">sth</acronym> of <acronym title=\"somebody\">sb</acronym></span>",
+                "target": "aspettarsi <acronym title=\"qualcosa\">qc</acronym> da <acronym title=\"qualcuno\">qn</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">expect</strong> <acronym title=\"somebody\">sb</acronym> to do <acronym title=\"something\">sth</acronym></span>",
+                "target": "aspettarsi che <acronym title=\"qualcuno\">qn</acronym> faccia <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    }
+]

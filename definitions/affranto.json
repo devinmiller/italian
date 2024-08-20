@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "affranto",
+                        "headword_full": "affranto <span class=\"feminine\">(-a)</span>   <span class=\"phonetics\">[af<span class=\"separator\">·</span>ˈfran<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. affranto <span class=\"sense\">(prostrato dal dolore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affranto</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "overcome"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. affranto <span class=\"sense\">(spossato, logorato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">affranto</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "exhausted"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

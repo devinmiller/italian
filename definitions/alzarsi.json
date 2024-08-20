@@ -1,0 +1,124 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "alzare",
+                        "headword_full": "alzare    <span class=\"phonetics\">[al<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. alzare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">alzare</strong> <span class=\"sense\">(gener)</span>",
+                                        "target": "to raise"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">alzare</strong> <span class=\"sense\">(peso)</span>",
+                                        "target": "to lift"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">alzare</strong> <span class=\"sense\">(bandiera, vela)</span>",
+                                        "target": "to hoist"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">alzare</strong> il bicchiere</span>",
+                                        "target": "to raise one&#39;s glass"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">alzare</strong> le carte</span>",
+                                        "target": "to cut the cards"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">alzare</strong> i tacchi</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to take to one&#39;s heels"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">alzare</strong> gli occhi al cielo</span>",
+                                        "target": "to roll one&#39;s eyes"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">alzare</strong> le spalle</span>",
+                                        "target": "to shrug"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">alzare</strong> la cresta</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to get too big for one&#39;s britches"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">alzare</strong> il gomito</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to drink too much"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">alzare</strong> le mani su <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to raise one&#39;s hand to <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">alzare</strong> un dito</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to not lift a finger"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">alzare</strong> la voce</span>",
+                                        "target": "to raise one&#39;s voice"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. alzare <span class=\"sense\">(edificio, palizzata, muro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">alzare</strong>",
+                                        "target": "to increase the height of"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "alzare",
+                        "headword_full": "alzare    <span class=\"phonetics\">[al<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">alzarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. alzare <span class=\"sense\">(levarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">alzarsi</span>",
+                                        "target": "to get up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">alzarsi in volo</span>",
+                                        "target": "to take off"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. alzare <span class=\"sense\">(sorgere: sole, luna)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">alzarsi</span>",
+                                        "target": "to rise"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. alzare <span class=\"sense\">(aumentare: vento, mare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">alzarsi</span>",
+                                        "target": "to get up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

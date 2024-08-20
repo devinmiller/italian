@@ -1,0 +1,81 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "angolo",
+                        "headword_full": "angolo    <span class=\"phonetics\">[ˈaŋ<span class=\"separator\">·</span>go<span class=\"separator\">·</span>lo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. angolo <span class=\"sense\">(in geometria)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">angolo</strong>",
+                                        "target": "angle"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. angolo <span class=\"topic\"><acronym title=\"anche\">a.</acronym> <acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(di strada, stanza, fazzoletto, mobile)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">angolo</strong>",
+                                        "target": "corner"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">calcio <strong class=\"tilde\">d&#39;angolo</strong></span>",
+                                        "target": "corner"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. angolo <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">starsene in un <strong class=\"tilde\">angolo</strong></span>",
+                                        "target": "to stay by oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">angolo</strong> cottura</span>",
+                                        "target": "kitchen area"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "angolare",
+                        "headword_full": "angolare    <span class=\"phonetics\">[aŋ<span class=\"separator\">·</span>go<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(velocità, distanza)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">angolare</strong>",
+                                        "target": "angular"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">pietra <strong class=\"tilde\">angolare</strong></span> <span class=\"topic\">arch</span>",
+                                        "target": "cornerstone"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

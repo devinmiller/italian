@@ -1,0 +1,93 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "avvenire",
+                        "headword_full": "avvenire<sup>1</sup>   <span class=\"flexion\">&lt;-&gt;</span>  <span class=\"phonetics\">[av<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avvenire</strong>",
+                                        "target": "future"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "avvenire",
+                        "headword_full": "avvenire<sup>1</sup>   <span class=\"flexion\">&lt;inv&gt;</span>  <span class=\"phonetics\">[av<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avvenire</strong>",
+                                        "target": "future"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "avvenire",
+                        "headword_full": "avvenire<sup>2</sup>    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">avvenire</strong>",
+                                        "target": "to become"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">che è avvenuto di lui?</span>",
+                                        "target": "what became of him?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "avvenire",
+                        "headword_full": "avvenire    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"tilde\">avvenire</strong>",
+                                        "target": "occur"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

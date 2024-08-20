@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "appartenere",
+                        "headword_full": "appartenere    <span class=\"phonetics\">[ap<span class=\"separator\">·</span>par<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere o avere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. appartenere <span class=\"sense\">(essere di proprietà)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">appartenere</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to belong to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. appartenere <span class=\"sense\">(far parte)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">appartenere</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to belong to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

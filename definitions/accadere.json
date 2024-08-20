@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "accadere",
+                        "headword_full": "accadere    <span class=\"phonetics\">[ak<span class=\"separator\">·</span>ka<span class=\"separator\">·</span>ˈde:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accadere</strong>",
+                                        "target": "to happen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">accada quel che accada</span>",
+                                        "target": "whatever happens"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "assistere",
+                        "headword_full": "assistere   <span class=\"flexion\">&lt;assisto, assistei [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> assistetti], assistito&gt;</span>  <span class=\"phonetics\">[as<span class=\"separator\">·</span>ˈsis<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">assistere</strong> a <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(spettacolo, lezione)</span>",
+                                        "target": "to attend <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">assistere</strong> a <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(incidente)</span>",
+                                        "target": "to witness <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "assistere",
+                        "headword_full": "assistere   <span class=\"flexion\">&lt;assisto, assistei [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> assistetti], assistito&gt;</span>  <span class=\"phonetics\">[as<span class=\"separator\">·</span>ˈsis<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. assistere <span class=\"sense\">(curare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">assistere</strong> <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(anziano, ferito, malato)</span>",
+                                        "target": "to care for"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. assistere <span class=\"sense\">(aiutare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assistere</strong>",
+                                        "target": "to help"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. assistere <span class=\"sense\">(cliente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assistere</strong>",
+                                        "target": "to assist"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

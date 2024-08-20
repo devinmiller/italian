@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "accoppiamento",
+                        "headword_full": "accoppiamento    <span class=\"phonetics\">[ak<span class=\"separator\">·</span>kop<span class=\"separator\">·</span>pia<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. accoppiamento <span class=\"sense\">(di colori, abiti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accoppiamento</strong>",
+                                        "target": "combination"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. accoppiamento <span class=\"topic\"><acronym title=\"technology\">TECH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accoppiamento</strong>",
+                                        "target": "coupling"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. accoppiamento:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">accoppiamento</strong> <span class=\"sense\">(tra persone)</span>",
+                                        "target": "sexual intercourse"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">accoppiamento</strong> <span class=\"sense\">(tra animali)</span>",
+                                        "target": "mating"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

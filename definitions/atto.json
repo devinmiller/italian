@@ -1,0 +1,161 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "atto",
+                        "headword_full": "atto    <span class=\"phonetics\">[ˈat<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. atto:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">atto</strong> <span class=\"sense\">(gesto)</span>",
+                                        "target": "act"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">atto</strong> <span class=\"sense\">(azione)</span>",
+                                        "target": "action"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere in <strong class=\"tilde\">atto</strong></span>",
+                                        "target": "to be underway"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettere in <strong class=\"tilde\">atto</strong> <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to put <acronym title=\"something\">sth</acronym> into action"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">all&#39;atto</strong> di</span>",
+                                        "target": "at the moment of"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nell&#39;atto</strong> di</span>",
+                                        "target": "in the act of"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. atto <span class=\"topic\"><acronym title=\"philosophy\">PHILOS</acronym>, <acronym title=\"theatre\">THEAT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">atto</strong>",
+                                        "target": "act"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">atto</strong> unico</span>",
+                                        "target": "one-act play"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. atto <span class=\"sense\">(documento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">atto</strong>",
+                                        "target": "document"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">atto</strong> di accusa</span>",
+                                        "target": "indictment"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">atto</strong> di matrimonio</span>",
+                                        "target": "marriage certificate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">atto</strong> di nascita</span>",
+                                        "target": "birth certificate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">atto</strong> giuridico</span>",
+                                        "target": "instrument"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. atto <span class=\"number\"><acronym title=\"plurale\">pl</acronym></span> <span class=\"sense\">(documentazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">atto</strong>",
+                                        "target": "proceedings"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">passare agli -i</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to be placed on record"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. atto <span class=\"topic\"><acronym title=\"religion\">REL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">atto</strong> di fede</span>",
+                                        "target": "act of faith"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. atto <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">dare <strong class=\"tilde\">atto</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to give credit for <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare <strong class=\"tilde\">atto</strong> di presenza</span>",
+                                        "target": "to put in an appearance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">prendere <strong class=\"tilde\">atto</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to take note of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">all&#39;atto</strong> pratico</span>",
+                                        "target": "in practice"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "atto",
+                        "headword_full": "atto <span class=\"feminine\">(-a)</span>   <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. atto <span class=\"sense\">(idoneo: persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">atto</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "able to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. atto <span class=\"sense\">(adatto: mezzo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">atto</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "suitable for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

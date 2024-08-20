@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "autista",
+                        "headword_full": "autista   <span class=\"flexion\">&lt;-i , -e&gt;</span>  <span class=\"phonetics\">[au<span class=\"separator\">·</span>ˈtis<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine and feminine\">mf</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. autista <span class=\"sense\">(conducente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">autista</strong>",
+                                        "target": "driver"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. autista <span class=\"topic\"><acronym title=\"psychology\">PSYCH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">autista</strong>",
+                                        "target": "person with autism"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "autista",
+                        "headword_full": "autista   <span class=\"flexion\">&lt;-i , -e&gt;</span>  <span class=\"phonetics\">[au<span class=\"separator\">·</span>ˈtis<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"topic\"><acronym title=\"psychology\">PSYCH</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">autista</strong>",
+                                        "target": "autistic"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "adottare",
+                        "headword_full": "adottare    <span class=\"phonetics\">[a<span class=\"separator\">·</span>dot<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">adottare</strong>",
+                                        "target": "to adopt"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">adottare</strong> provvedimenti contro</span>",
+                                        "target": "to take measures against"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">adottare</strong> un nuovo stile di vita</span>",
+                                        "target": "to embark on a new lifestyle"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

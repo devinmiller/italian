@@ -1,0 +1,93 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "aggiustare",
+                        "headword_full": "aggiustare    <span class=\"phonetics\">[ad<span class=\"separator\">·</span>dʒus<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. aggiustare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aggiustare</strong> <span class=\"sense\">(riparare: motore, televisione)</span>",
+                                        "target": "to repair"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">aggiustare</strong> <span class=\"sense\">(vestito)</span>",
+                                        "target": "to alter"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. aggiustare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aggiustare</strong> <span class=\"sense\">(mettere in ordine: capelli)</span>",
+                                        "target": "to tidy"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">aggiustare</strong> <span class=\"sense\">(abiti)</span>",
+                                        "target": "to straighten"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. aggiustare <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span> <span class=\"sense\">(regolare bene: mira)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aggiustare</strong>",
+                                        "target": "to adjust"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aggiustare</strong> il tiro</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to cover a mistake"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. aggiustare <span class=\"rhetoric\"><acronym title=\"pejorative\">pej</acronym></span> <span class=\"topic\"><acronym title=\"finance, banking, stock exchange\">FIN</acronym></span> <span class=\"sense\">(conti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aggiustare</strong>",
+                                        "target": "to fiddle"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. aggiustare <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aggiustare</strong> <acronym title=\"qualcuno\">qu</acronym> per le feste</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to beat <acronym title=\"somebody\">sb</acronym> up"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "aggiustare",
+                        "headword_full": "aggiustare    <span class=\"phonetics\">[ad<span class=\"separator\">·</span>dʒus<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "aggiustare <span class=\"reflection\">aggiustarsi</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(adattarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">aggiustarsi</span>",
+                                        "target": "to get by"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

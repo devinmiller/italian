@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "attrezzo",
+                        "headword_full": "attrezzo    <span class=\"phonetics\">[at<span class=\"separator\">·</span>ˈtret<span class=\"separator\">·</span>tso]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attrezzo</strong>",
+                                        "target": "tool"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "attrezzare",
+                        "headword_full": "attrezzare    <span class=\"phonetics\">[at<span class=\"separator\">·</span>tret<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attrezzare</strong>",
+                                        "target": "to fit out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">attrezzare</strong> <acronym title=\"qualcosa\">qc</acronym> (con <acronym title=\"qualcosa\">qc</acronym>)</span>",
+                                        "target": "to fit <acronym title=\"something\">sth</acronym> out with <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "attrezzare",
+                        "headword_full": "attrezzare    <span class=\"phonetics\">[at<span class=\"separator\">·</span>tret<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "attrezzare <span class=\"reflection\">attrezzarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">attrezzarsi</span>",
+                                        "target": "to equip oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

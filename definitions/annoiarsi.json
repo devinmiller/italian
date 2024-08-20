@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "annoiare",
+                        "headword_full": "annoiare    <span class=\"phonetics\">[an<span class=\"separator\">·</span>no<span class=\"separator\">·</span>ˈia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annoiare</strong>",
+                                        "target": "to bore"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "annoiare",
+                        "headword_full": "annoiare    <span class=\"phonetics\">[an<span class=\"separator\">·</span>no<span class=\"separator\">·</span>ˈia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "annoiare <span class=\"reflection\">annoiarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">annoiarsi</span>",
+                                        "target": "to get bored"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "attrarre",
+                        "headword_full": "attrarre    <span class=\"phonetics\">[at<span class=\"separator\">·</span>ˈtrar<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. attrarre <span class=\"sense\">(tirare a sé)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attrarre</strong>",
+                                        "target": "to attract"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. attrarre <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(allettare: proposta, idea)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">attrarre</strong>",
+                                        "target": "to appeal"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

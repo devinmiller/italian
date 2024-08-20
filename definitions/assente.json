@@ -1,0 +1,93 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "assente",
+                        "headword_full": "assente    <span class=\"phonetics\">[as<span class=\"separator\">·</span>ˈsɛn<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. assente:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assente</strong> <span class=\"sense\">(non presente: da scuola)</span>",
+                                        "target": "absent"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">assente</strong> <span class=\"sense\">(per lavoro)</span>",
+                                        "target": "away"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. assente <span class=\"sense\">(inesistente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assente</strong>",
+                                        "target": "non-existent"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. assente <span class=\"sense\">(distratto: aria, sguardo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assente</strong>",
+                                        "target": "distracted"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "assente",
+                        "headword_full": "assente    <span class=\"phonetics\">[as<span class=\"separator\">·</span>ˈsɛn<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine and feminine\">mf</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assente</strong>",
+                                        "target": "absent person"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "assentire",
+                        "headword_full": "assentire    <span class=\"phonetics\">[as<span class=\"separator\">·</span>sen<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">assentire</strong>",
+                                        "target": "to agree"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">assentire</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to agree to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "assomigliare",
+                        "headword_full": "assomigliare    <span class=\"phonetics\">[as<span class=\"separator\">·</span>so<span class=\"separator\">·</span>miʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">assomigliare</strong> a <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to resemble <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "assomigliare",
+                        "headword_full": "assomigliare    <span class=\"phonetics\">[as<span class=\"separator\">·</span>so<span class=\"separator\">·</span>miʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "assomigliare <span class=\"reflection\">assomigliarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">assomigliarsi</span>",
+                                        "target": "to look alike"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">assomigliarsi come due gocce d&#39;acqua</span>",
+                                        "target": "to be like two peas (in a pod)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
