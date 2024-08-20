@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tentone",
+                        "headword_full": "tentone    <span class=\"phonetics\">[ten<span class=\"separator\">·</span>ˈto:<span class=\"separator\">·</span>ne]</span>, <span class=\"headword\">tentoni</span> <span class=\"phonetics\">[ten<span class=\"separator\">·</span>ˈto:<span class=\"separator\">·</span>ni]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "1. tentone <span class=\"sense\">(alla cieca)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">(a) <strong class=\"tilde\">tentone</strong></span>",
+                                        "target": "feeling one&#39;s way"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">camminare (a) <strong class=\"tilde\">tentone</strong></span>",
+                                        "target": "to feel one&#39;s way"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tentone <span class=\"sense\">(a caso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">(a) <strong class=\"tilde\">tentone</strong></span>",
+                                        "target": "haphazardly"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

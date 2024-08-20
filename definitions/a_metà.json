@@ -1,0 +1,120 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">halfway <strong class=\"tilde\">through</strong></span>",
+                "target": "a metà"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">half</strong></span>",
+                "target": "a metà"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">halfway</strong>",
+                "target": "a metà strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">halfway</strong>",
+                "target": "a metà strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">halfway</strong> through the year</span>",
+                "target": "a metà anno"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">halfway</strong> up</span>",
+                "target": "a metà salita"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">midway</strong>",
+                "target": "a metà strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to fold <acronym title=\"something\">sth</acronym> <strong class=\"tilde\">double</strong></span>",
+                "target": "piegare <acronym title=\"qualcosa\">qc</acronym> a metà"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">halve</strong>",
+                "target": "dividere a metà"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">cut</strong> <acronym title=\"something\">sth</acronym> in half</span>",
+                "target": "tagliare <acronym title=\"qualcosa\">qc</acronym> a metà"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to split <acronym title=\"something\">sth</acronym> <strong class=\"tilde\">half and half</strong></span>",
+                "target": "dividere <acronym title=\"qualcosa\">qc</acronym> a metà"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong></span>",
+                "target": "in half"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong> prezzo</span>",
+                "target": "half-price"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong> settimana</span>",
+                "target": "mid-week"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong> strada</span>",
+                "target": "half-way there"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong> libro</span>",
+                "target": "half-way through the book"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a metà <strong class=\"tilde\">prezzo</strong></span>",
+                "target": "half price"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a metà <strong class=\"tilde\">aprile</strong></span>",
+                "target": "in mid-April"
+            }
+        ]
+    }
+]

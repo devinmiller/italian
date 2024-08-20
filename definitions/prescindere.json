@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "prescindere",
+                        "headword_full": "prescindere    <span class=\"phonetics\">[preʃ<span class=\"separator\">·</span>ˈʃin<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">prescindere</strong> da <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to leave <acronym title=\"something\">sth</acronym> aside"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">prescindere</strong> da</span>",
+                                        "target": "regardless of"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

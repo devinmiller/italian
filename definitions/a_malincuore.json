@@ -1,0 +1,24 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"tilde\">unwillingly</strong>",
+                "target": "a malincuore"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">malincuore</strong></span>",
+                "target": "unwillingly"
+            }
+        ]
+    }
+]

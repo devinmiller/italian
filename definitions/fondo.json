@@ -1,0 +1,229 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fondo",
+                        "headword_full": "fondo    <span class=\"phonetics\">[ˈfon<span class=\"separator\">·</span>do]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. fondo <span class=\"sense\">(base: di pentola, valigia, pozzo,)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong>",
+                                        "target": "bottom"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">avere uno stomaco senza <strong class=\"tilde\">fondo</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to have a bottomless stomach"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fondo <span class=\"sense\">(fondale: di mare, lago, fiume)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong>",
+                                        "target": "bottom"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">incagliarsi sul <strong class=\"tilde\">fondo</strong></span>",
+                                        "target": "to run aground"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare a <strong class=\"tilde\">fondo</strong></span>",
+                                        "target": "to go to the bottom"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. fondo <span class=\"sense\">(bordo inferiore: di pagina, calzoni)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong>",
+                                        "target": "bottom"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. fondo:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong> <span class=\"sense\">(estremità: di strada)</span>",
+                                        "target": "end"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong> <span class=\"sense\">(di campo)</span>",
+                                        "target": "bottom"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong> <span class=\"sense\">(di scena)</span>",
+                                        "target": "back"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in <strong class=\"tilde\">fondo</strong> alla stanza</span>",
+                                        "target": "at the back of the room"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare in <strong class=\"tilde\">fondo</strong> a <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to get to the bottom of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">da cima a <strong class=\"tilde\">fondo</strong></span>",
+                                        "target": "from top to bottom"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. fondo <span class=\"sense\">(parte più interna: di cassetto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong>",
+                                        "target": "back"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in <strong class=\"tilde\">fondo</strong> al cuore</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "deep in one&#39;s heart"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in <strong class=\"tilde\">fondo</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "after all"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. fondo <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">gara di <strong class=\"tilde\">fondo</strong></span> <span class=\"sense\">(corsa)</span>",
+                                        "target": "distance race"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sci di <strong class=\"tilde\">fondo</strong></span>",
+                                        "target": "cross-country skiing"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. fondo <span class=\"sense\">(strato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fondo</strong> tinta</span>",
+                                        "target": "foundation"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fondo</strong> stradale</span>",
+                                        "target": "roadbed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. fondo <span class=\"sense\">(deposito: di vino, aceto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong>",
+                                        "target": "lees <span class=\"number\"><acronym title=\"plurale\">pl</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i di caffè</span>",
+                                        "target": "grounds <span class=\"number\"><acronym title=\"plurale\">pl</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i di magazzino</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "old stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. fondo <span class=\"sense\">(terreno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong>",
+                                        "target": "estate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. fondo:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">articolo di <strong class=\"tilde\">fondo</strong></span>",
+                                        "target": "editorial"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. fondo <span class=\"topic\"><acronym title=\"economy\">ECON</acronym></span> <span class=\"sense\">(denaro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong>",
+                                        "target": "fund"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i d&#39;investimento</span>",
+                                        "target": "investment funds <span class=\"number\"><acronym title=\"plurale\">pl</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i neri</span>",
+                                        "target": "slush fund"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fondo</strong> pensioni</span>",
+                                        "target": "pension fund"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fondo</strong> di cassa</span>",
+                                        "target": "float"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fondo</strong> pubblico</span>",
+                                        "target": "public fund"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">fondo</strong> perduto</span>",
+                                        "target": "without security"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fondo",
+                        "headword_full": "fondo <span class=\"feminine\">(-a)</span>   <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(profondo)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fondo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "deep"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">piatto <strong class=\"tilde\">fondo</strong></span>",
+                                        "target": "soup plate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a notte -a</span>",
+                                        "target": "at dead of night"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

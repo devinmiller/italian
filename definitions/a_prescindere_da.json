@@ -1,0 +1,24 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">irrespective</strong> of <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym></span>",
+                "target": "a prescindere da <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">prescindere</strong> da</span>",
+                "target": "regardless of"
+            }
+        ]
+    }
+]

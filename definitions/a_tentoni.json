@@ -1,0 +1,31 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">gropingly</strong>",
+                "target": "a tentoni"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">grope</strong>",
+                "target": "andare a tentoni"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">grope</strong> for <acronym title=\"something\">sth</acronym></span>",
+                "target": "cercare <acronym title=\"qualcosa\">qc</acronym> a tentoni"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">grope</strong> one&#39;s way</span>",
+                "target": "andare a tentoni"
+            }
+        ]
+    }
+]

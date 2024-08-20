@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">barely</strong>",
+                "target": "a malapena"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">scrape through</strong>",
+                "target": "cavarsela a malapena"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">thinly <strong class=\"tilde\">veiled</strong></span>",
+                "target": "a malapena dissimulato"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">he can hardly <strong class=\"tilde\">afford</strong> it</span>",
+                "target": "se lo può permettere a malapena"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">malapena</strong></span>",
+                "target": "only just"
+            }
+        ]
+    }
+]

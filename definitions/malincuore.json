@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "malincuore",
+                        "headword_full": "malincuore    <span class=\"phonetics\">[ma<span class=\"separator\">·</span>liŋ<span class=\"separator\">·</span>ˈkuɔ:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">malincuore</strong></span>",
+                                        "target": "unwillingly"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

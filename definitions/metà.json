@@ -1,0 +1,115 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "metà",
+                        "headword_full": "metà   <span class=\"flexion\">&lt;-&gt;</span>  <span class=\"phonetics\">[me<span class=\"separator\">·</span>ˈta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. metà <span class=\"sense\">(parte)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">metà</strong>",
+                                        "target": "half"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">si è mangiato <strong class=\"tilde\">metà</strong> torta</span>",
+                                        "target": "he ate half the cake"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. metà <span class=\"sense\">(punto di mezzo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">metà</strong>",
+                                        "target": "middle"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong></span>",
+                                        "target": "in half"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong> libro</span>",
+                                        "target": "half-way through the book"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong> prezzo</span>",
+                                        "target": "half-price"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong> settimana</span>",
+                                        "target": "mid-week"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">metà</strong> strada</span>",
+                                        "target": "half-way there"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. metà <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym>, <acronym title=\"humorous\">hum</acronym></span> <span class=\"sense\">(partner)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">metà</strong>",
+                                        "target": "half"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">la mia dolce <strong class=\"tilde\">metà</strong></span>",
+                                        "target": "my better half"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "meta",
+                        "headword_full": "meta    <span class=\"phonetics\">[ˈmɛ:<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. meta <span class=\"sense\">(destinazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">meta</strong>",
+                                        "target": "destination"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. meta <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(scopo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">meta</strong>",
+                                        "target": "purpose"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. meta <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">meta</strong>",
+                                        "target": "try"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
