@@ -63,3 +63,7 @@ Dopo qualche giorno mi sono abituato all'odore.
 Non mi abituerò mai a vederti lavorare in un ufficio.
 Non posso abituarmi al rumore quì.
 Abusi della mia pazienza!
+
+dare su - looks over, looks onto, opens onto, borders on
+fare una prova
+guarda caso

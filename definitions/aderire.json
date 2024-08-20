@@ -1,0 +1,59 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "aderire",
+                        "headword_full": "aderire   <span class=\"flexion\">&lt;aderisco&gt;</span>  <span class=\"phonetics\">[a<span class=\"separator\">·</span>de<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. aderire:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aderire</strong> a</span> <span class=\"sense\">(rimanere a contatto)</span>",
+                                        "target": "to stick to"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aderire</strong> alla strada</span> <span class=\"sense\">(pneumatico)</span>",
+                                        "target": "to grip the road"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aderire</strong> alla strada</span> <span class=\"sense\">(automobile)</span>",
+                                        "target": "to hold the road"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. aderire:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aderire</strong> a</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(proposta, richiesta)</span>",
+                                        "target": "to agree to"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aderire</strong> a</span> <span class=\"sense\">(iniziativa)</span>",
+                                        "target": "to support"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aderire</strong> a</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(partito)</span>",
+                                        "target": "to join"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

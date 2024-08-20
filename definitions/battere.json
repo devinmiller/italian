@@ -1,0 +1,232 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "battere",
+                        "headword_full": "battere    <span class=\"phonetics\">[ˈbat<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. battere <span class=\"sense\">(dar colpi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong>",
+                                        "target": "to beat"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> le ali</span>",
+                                        "target": "to beat one&#39;s wings"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> i denti</span> <span class=\"sense\">(per il freddo)</span>",
+                                        "target": "to chatter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">battevo i denti</span>",
+                                        "target": "my teeth were chattering"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> le mani</span>",
+                                        "target": "to clap (one&#39;s hands)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> le ore</span>",
+                                        "target": "to strike the hour"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> i piedi</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to stamp one&#39;s feet"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non so dove <strong class=\"tilde\">battere</strong> il capo</span> <span class=\"example\">[<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> la testa]</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "I don&#39;t know what to do"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">battere</strong> ciglio</span>",
+                                        "target": "to not bat an eyelid"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in un batter d&#39;occhio</span>",
+                                        "target": "in a flash"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. battere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong> <span class=\"sense\">(grano)</span>",
+                                        "target": "to thresh"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong> <span class=\"sense\">(carne)</span>",
+                                        "target": "to pound"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. battere <span class=\"topic\"><acronym title=\"music\">MUS</acronym>, <acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(tempo, primato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong>",
+                                        "target": "to beat"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. battere <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(tirare: rigore, calcio d&#39;angolo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong>",
+                                        "target": "to kick"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> una punizione</span>",
+                                        "target": "to take a penalty"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. battere <span class=\"topic\"><acronym title=\"finance, banking, stock exchange\">FIN</acronym></span> <span class=\"sense\">(moneta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong>",
+                                        "target": "to mint"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. battere <span class=\"sense\">(metallo, ferro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong>",
+                                        "target": "to beat"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> il ferro finché è caldo</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "to strike while the iron is hot <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. battere <span class=\"sense\">(dattilografare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong>",
+                                        "target": "to type"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> una lettera a macchina</span>",
+                                        "target": "to type a letter"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. battere <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(prostituirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> il marciapiede</span>",
+                                        "target": "to be on the game"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "battere",
+                        "headword_full": "battere    <span class=\"phonetics\">[ˈbat<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. battere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong> <span class=\"sense\">(pioggia, sole, cuore)</span>",
+                                        "target": "to beat"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong> <span class=\"sense\">(orologio)</span>",
+                                        "target": "to tick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. battere <span class=\"sense\">(bussare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong>",
+                                        "target": "to knock"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> alla porta</span>",
+                                        "target": "to knock on the door"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. battere <span class=\"topic\"><acronym title=\"automobile\">AUTO</acronym>, <acronym title=\"technology\">TECH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong>",
+                                        "target": "to knock"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. battere <span class=\"sense\">(insistere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">battere</strong>",
+                                        "target": "to go on about <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">battere</strong> sempre sullo stesso tasto</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to always go on about the same thing"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "battere",
+                        "headword_full": "battere    <span class=\"phonetics\">[ˈbat<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">battersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. battere <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span> <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">battersi</span>",
+                                        "target": "to fight"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">battersi per <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to fight for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. battere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">battersi</span>",
+                                        "target": "to beat one&#39;s breast"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">battersela</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to beat it"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

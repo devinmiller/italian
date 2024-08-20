@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "chiarezza",
+                        "headword_full": "chiarezza    <span class=\"phonetics\">[kia<span class=\"separator\">·</span>ˈret<span class=\"separator\">·</span>tsa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. chiarezza <span class=\"sense\">(comprensibilità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiarezza</strong>",
+                                        "target": "clarity"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. chiarezza <span class=\"sense\">(precisione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiarezza</strong>",
+                                        "target": "clearness"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare <strong class=\"tilde\">chiarezza</strong> su <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to find out the truth about <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
