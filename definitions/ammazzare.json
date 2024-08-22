@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ammazzare",
+                        "headword_full": "ammazzare    <span class=\"phonetics\">[am<span class=\"separator\">·</span>mat<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ammazzare <span class=\"sense\">(uccidere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ammazzare</strong>",
+                                        "target": "to kill"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ammazzare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(affaticare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ammazzare</strong>",
+                                        "target": "to exhaust"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ammazzare <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ammazzare</strong> la noia</span>",
+                                        "target": "to stave off boredom"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ammazzare</strong> il tempo</span>",
+                                        "target": "to kill time"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ammazzare",
+                        "headword_full": "ammazzare    <span class=\"phonetics\">[am<span class=\"separator\">·</span>mat<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "ammazzare <span class=\"reflection\">ammazzarsi</span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(suicidarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">ammazzarsi</span>",
+                                        "target": "to kill oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
