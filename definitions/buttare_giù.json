@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">throw down</strong>",
+                "target": "buttare giù"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">drag down</strong> <span class=\"sense\">(make weak)</span>",
+                "target": "buttare giù"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">pull down</strong>",
+                "target": "buttare giù"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">buttare</strong> giù un edificio</span>",
+                "target": "to knock down a building"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">buttare</strong> giù due righe</span>",
+                "target": "to jot down a couple of lines"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">buttare</strong> giù un boccone</span>",
+                "target": "to have a quick bite"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">buttare</strong> giù una bottiglia di cognac</span>",
+                "target": "to down a bottle of brandy"
+            }
+        ]
+    }
+]

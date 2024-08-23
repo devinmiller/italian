@@ -1,0 +1,60 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "corridoio",
+                        "headword_full": "corridoio   <span class=\"flexion\">&lt;-oi&gt;</span>  <span class=\"phonetics\">[kor<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ˈdo:<span class=\"separator\">·</span>io]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. corridoio <span class=\"sense\">(di edificio, treno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corridoio</strong>",
+                                        "target": "corridor"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">voci di <strong class=\"tilde\">corridoio</strong></span>",
+                                        "target": "backstairs gossip"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. corridoio <span class=\"sense\">(di aereo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corridoio</strong>",
+                                        "target": "aisle"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. corridoio <span class=\"topic\"><acronym title=\"politics\">POL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">corridoio</strong> aereo</span>",
+                                        "target": "air corridor"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. corridoio <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(nel tennis)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corridoio</strong>",
+                                        "target": "alley"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

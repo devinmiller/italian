@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ballare",
+                        "headword_full": "ballare    <span class=\"phonetics\">[bal<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(tango, valzer)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ballare</strong>",
+                                        "target": "to dance"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ballare",
+                        "headword_full": "ballare    <span class=\"phonetics\">[bal<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ballare <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span> <span class=\"sense\">(danzare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ballare</strong>",
+                                        "target": "to dance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ballare</strong> dalla [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> per la] gioia</span>",
+                                        "target": "to dance for joy"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ballare <span class=\"topic\"><acronym title=\"nautical, naval\">NAUT</acronym></span> <span class=\"sense\">(barca, nave)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ballare</strong>",
+                                        "target": "to toss"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ballare <span class=\"sense\">(abiti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ballare</strong> addosso a <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(abito, cappotto)</span>",
+                                        "target": "to be too big for <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

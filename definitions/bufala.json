@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bufala",
+                        "headword_full": "bufala    <span class=\"phonetics\">[ˈbu:<span class=\"separator\">·</span>fa<span class=\"separator\">·</span>la]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. bufala <span class=\"sense\">(femmina del bufalo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bufala</strong>",
+                                        "target": "cow buffalo"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. bufala <span class=\"sense\">(errore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bufala</strong>",
+                                        "target": "howler"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare una <strong class=\"tilde\">bufala</strong></span>",
+                                        "target": "to make a howler"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. bufala <span class=\"sense\">(nel giornalismo: notizia falsa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bufala</strong>",
+                                        "target": "invented story"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry_with_secondary_entries",
+                "primary_entry": {
+                    "type": "entry",
+                    "opendict": false,
+                    "roms": [
+                        {
+                            "headword": "commosso",
+                            "headword_full": "commosso    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                            "wordclass": "verb",
+                            "arabs": [
+                                {
+                                    "header": "commosso <span class=\"reference_qualification\"><acronym title=\"past participle\">pp</acronym> di</span> <span class=\"indirect_reference_RQ\"> commuovere</span>",
+                                    "translations": [
+                                        {
+                                            "source": "",
+                                            "target": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "secondary_entries": [
+                    {
+                        "type": "entry",
+                        "opendict": false,
+                        "roms": [
+                            {
+                                "headword": "commuovere",
+                                "headword_full": "commuovere    <span class=\"phonetics\">[kom<span class=\"separator\">·</span>ˈmuɔ:<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(momento, storia, cerimonia)</span>",
+                                "wordclass": "transitive verb",
+                                "arabs": [
+                                    {
+                                        "header": "",
+                                        "translations": [
+                                            {
+                                                "source": "<strong class=\"headword\">commuovere</strong>",
+                                                "target": "to move"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "headword": "commuovere",
+                                "headword_full": "commuovere    <span class=\"phonetics\">[kom<span class=\"separator\">·</span>ˈmuɔ:<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                                "wordclass": "reflexive verb",
+                                "arabs": [
+                                    {
+                                        "header": "commuovere <span class=\"reflection\">commuoversi</span>:",
+                                        "translations": [
+                                            {
+                                                "source": "<span class=\"reflection\">commuoversi</span>",
+                                                "target": "to be moved"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "commuovere",
+                        "headword_full": "commuovere    <span class=\"phonetics\">[kom<span class=\"separator\">·</span>ˈmuɔ:<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(momento, storia, cerimonia)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">commuovere</strong>",
+                                        "target": "to move"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "commuovere",
+                        "headword_full": "commuovere    <span class=\"phonetics\">[kom<span class=\"separator\">·</span>ˈmuɔ:<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "commuovere <span class=\"reflection\">commuoversi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">commuoversi</span>",
+                                        "target": "to be moved"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

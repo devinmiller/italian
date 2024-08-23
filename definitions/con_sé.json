@@ -1,0 +1,61 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">bring</strong> <acronym title=\"something\">sth</acronym> with oneself</span>",
+                "target": "portare <acronym title=\"qualcosa\">qc</acronym> con sé"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">take along</strong> <span class=\"sense\">(take)</span>",
+                "target": "prendere (con sé)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">take along</strong> <span class=\"sense\">(bring)</span>",
+                "target": "portare (con sé)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">he took it <strong class=\"tilde\">with</strong> him</span>",
+                "target": "lo prese con sé"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to have <acronym title=\"something\">sth</acronym> on oneself</span>",
+                "target": "avere con sé"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to bring/take <acronym title=\"somebody\">sb</acronym> <strong class=\"tilde\">along</strong></span>",
+                "target": "portare <acronym title=\"qualcuno\">qn</acronym> (con sé)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">carry</strong>",
+                "target": "avere con sé"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">honest</strong> with oneself</span>",
+                "target": "essere sincero con se stesso"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to unleash a string of <strong class=\"tilde\">expletives</strong></span>",
+                "target": "se n&#39;è uscito con una sfilza di imprecazioni"
+            }
+        ]
+    }
+]

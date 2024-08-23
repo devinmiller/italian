@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "confronto",
+                        "headword_full": "confronto    <span class=\"phonetics\">[kon<span class=\"separator\">·</span>ˈfron<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. confronto <span class=\"sense\">(paragone)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">confronto</strong>",
+                                        "target": "comparison"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare un <strong class=\"tilde\">confronto</strong> (fra)</span>",
+                                        "target": "to make a comparison (between)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettere a <strong class=\"tilde\">confronto</strong></span>",
+                                        "target": "to compare"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in <strong class=\"tilde\">confronto</strong> a</span>",
+                                        "target": "in comparison with"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">reggere al <strong class=\"tilde\">confronto</strong> con <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to stand in comparison with <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">senza -i</span>",
+                                        "target": "incomparable"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non c&#39;è <strong class=\"tilde\">confronto!</strong></span>",
+                                        "target": "there&#39;s no comparison!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. confronto <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span> <span class=\"sense\">(contraddittorio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">confronto</strong>",
+                                        "target": "confrontation"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. confronto <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">nei -i di</span>",
+                                        "target": "toward"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

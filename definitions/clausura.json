@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "clausura",
+                        "headword_full": "clausura    <span class=\"phonetics\">[klau<span class=\"separator\">·</span>ˈzu:<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. clausura <span class=\"topic\"><acronym title=\"religion\">REL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">clausura</strong>",
+                                        "target": "enclosure"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">una monaca di <strong class=\"tilde\">clausura</strong></span>",
+                                        "target": "a nun belonging to a closed order"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. clausura <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(luogo appartato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">clausura</strong>",
+                                        "target": "seclusion"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

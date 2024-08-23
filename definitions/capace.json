@@ -1,0 +1,59 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "capace",
+                        "headword_full": "capace    <span class=\"phonetics\">[ka<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>tʃe]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. capace <span class=\"sense\">(in grado di)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capace</strong>",
+                                        "target": "capable"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere <strong class=\"tilde\">capace</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be capable of doing <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">capace</strong> d&#39;intendere e di volere</span> <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>",
+                                        "target": "of sound mind"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. capace <span class=\"sense\">(abile)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capace</strong>",
+                                        "target": "able"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. capace:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capace</strong> <span class=\"sense\">(spazioso: ambiente)</span>",
+                                        "target": "spacious"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">capace</strong> <span class=\"sense\">(borsa, valigia)</span>",
+                                        "target": "capacious"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

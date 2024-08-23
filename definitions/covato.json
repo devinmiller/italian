@@ -1,0 +1,80 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "covare",
+                        "headword_full": "covare    <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. covare <span class=\"topic\"><acronym title=\"zoology\">ZOOL</acronym></span> <span class=\"sense\">(uova)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">covare</strong>",
+                                        "target": "to sit on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. covare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(malattia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">covare</strong>",
+                                        "target": "to go down with"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. covare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(odio, sospetto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">covare</strong>",
+                                        "target": "to nurture"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "covare",
+                        "headword_full": "covare    <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. covare <span class=\"topic\"><acronym title=\"zoology\">ZOOL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">covare</strong>",
+                                        "target": "to sit on its eggs"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. covare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(stare celato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">covare</strong>",
+                                        "target": "to smolder"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">il fuoco cova sotto la cenere</span>",
+                                        "target": "it&#39;s not what it seems"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">qui gatta ci cova</span>",
+                                        "target": "there&#39;s something fishy going on here"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

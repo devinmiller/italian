@@ -1,0 +1,24 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">you have to take your <strong class=\"tilde\">chances</strong> when they arise</span>",
+                "target": "si deve cogliere l&#39;occasione quando si presenta"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">cogliere <strong class=\"tilde\">l&#39;occasione</strong></span>",
+                "target": "to take the opportunity"
+            }
+        ]
+    }
+]

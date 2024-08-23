@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "capacità",
+                        "headword_full": "capacità   <span class=\"flexion\">&lt;-&gt;</span>  <span class=\"phonetics\">[ka<span class=\"separator\">·</span>pa<span class=\"separator\">·</span>tʃi<span class=\"separator\">·</span>ˈta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. capacità <span class=\"sense\">(di contenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capacità</strong>",
+                                        "target": "capacity"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. capacità <span class=\"sense\">(abilità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capacità</strong>",
+                                        "target": "ability"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. capacità <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capacità</strong>",
+                                        "target": "capacity"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">capacità</strong> giuridica [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> di agire]\n\t\t\t\t</span>",
+                                        "target": "legal capacity"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "corrispondere",
+                        "headword_full": "corrispondere    <span class=\"phonetics\">[kor<span class=\"separator\">·</span>ris<span class=\"separator\">·</span>ˈpon<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. corrispondere <span class=\"sense\">(equivalere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">corrispondere</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to correspond to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. corrispondere <span class=\"sense\">(soddisfare: requisiti, aspettative)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">corrispondere</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to meet <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. corrispondere <span class=\"sense\">(per lettera)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corrispondere</strong>",
+                                        "target": "to correspond"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "corrispondere",
+                        "headword_full": "corrispondere    <span class=\"phonetics\">[kor<span class=\"separator\">·</span>ris<span class=\"separator\">·</span>ˈpon<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. corrispondere <span class=\"sense\">(pagare: somma, ammontare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corrispondere</strong>",
+                                        "target": "to pay"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. corrispondere <span class=\"sense\">(sentimenti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corrispondere</strong>",
+                                        "target": "to reciprocate"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

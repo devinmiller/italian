@@ -1,0 +1,72 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">as</strong>",
+                "target": "(così) come"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">as <strong class=\"tilde\">well</strong> as</span>",
+                "target": "così come"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">as</strong> fast <strong class=\"tilde\">as</strong> <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym></span>",
+                "target": "(così) rapido come <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qn</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">not <strong class=\"tilde\">quite</strong> as clever/rich as …</span>",
+                "target": "non così intelligente/ricco come …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as <strong class=\"tilde\">things</strong> stand</span>, <span class=\"example\">the way  <strong class=\"tilde\">things</strong> are</span>",
+                "target": "così come stanno le cose"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">there&#39;s a <strong class=\"tilde\">method</strong> to his madness</span>",
+                "target": "non è così pazzo come sembra"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">there&#39;s more to this than meets the <strong class=\"tilde\">eye</strong></span>",
+                "target": "le cose non sono così semplici come appaiono"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">come va? — <strong class=\"tilde\">così</strong> <strong class=\"tilde\">così</strong></span>",
+                "target": "how&#39;s it going? — so-so"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">così</strong> … come</span>",
+                "target": "both … and"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">così</strong> … come</span>",
+                "target": "as … as"
+            }
+        ]
+    }
+]

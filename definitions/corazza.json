@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "corazza",
+                        "headword_full": "corazza    <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈrat<span class=\"separator\">·</span>tsa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. corazza <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corazza</strong>",
+                                        "target": "armor"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. corazza <span class=\"topic\"><acronym title=\"zoology\">ZOOL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corazza</strong>",
+                                        "target": "shell"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

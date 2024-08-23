@@ -1,0 +1,150 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "caso",
+                        "headword_full": "caso    <span class=\"phonetics\">[ˈka:<span class=\"separator\">·</span>zo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. caso <span class=\"sense\">(avvenimento fortuito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caso</strong>",
+                                        "target": "chance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per <strong class=\"tilde\">caso</strong></span>",
+                                        "target": "by chance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per puro <strong class=\"tilde\">caso</strong></span>",
+                                        "target": "by sheer chance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">caso</strong></span>",
+                                        "target": "at random"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. caso <span class=\"sense\">(ipotesi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caso</strong>",
+                                        "target": "case"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> nel] <strong class=\"tilde\">caso</strong> contrario</span>",
+                                        "target": "otherwise"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in qualunque <strong class=\"tilde\">caso</strong></span>",
+                                        "target": "in any case"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in tal <strong class=\"tilde\">caso</strong></span>",
+                                        "target": "in that case"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in ogni <strong class=\"tilde\">caso</strong></span>",
+                                        "target": "in any case"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in nessun <strong class=\"tilde\">caso</strong></span>",
+                                        "target": "in no case"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">nel peggiore dei -i</span>",
+                                        "target": "if (the) worst comes to (the) worst"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">nel <strong class=\"tilde\">caso</strong> che [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> in cui] …</span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span>",
+                                        "target": "in case"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettiamo [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> poniamo] il <strong class=\"tilde\">caso</strong> che …</span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span>",
+                                        "target": "let&#39;s suppose that …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">si dà (il) <strong class=\"tilde\">caso</strong> che …</span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span>",
+                                        "target": "it so happens that …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">i -i sono due</span>",
+                                        "target": "there are two possibilities"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non è il <strong class=\"tilde\">caso</strong></span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span> <span class=\"sense\">(opportuno)</span>",
+                                        "target": "there&#39;s no need"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in <strong class=\"tilde\">caso</strong> di morte/malattia</span>",
+                                        "target": "in case of death/illness"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. caso <span class=\"sense\">(fatto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caso</strong>",
+                                        "target": "case"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">caso</strong> limite</span>",
+                                        "target": "borderline case"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">un <strong class=\"tilde\">caso</strong> disperato</span>",
+                                        "target": "a desperate case"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">il <strong class=\"tilde\">caso</strong> Dreyfus</span>",
+                                        "target": "the Dreyfus Affair"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. caso <span class=\"topic\"><acronym title=\"linguistics, grammar\">LING</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caso</strong>",
+                                        "target": "case"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "casomai",
+                        "headword_full": "casomai    <span class=\"phonetics\">[ka<span class=\"separator\">·</span>zo<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>i]</span>, <span class=\"headword\">caso mai</span> <span class=\"phonetics\">[ˈka:<span class=\"separator\">·</span>zo ˈma:<span class=\"separator\">·</span>i]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span> <span class=\"sense\">(eventualmente)</span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">casomai</strong>",
+                                        "target": "in case"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "benché",
+                        "headword_full": "benché    <span class=\"phonetics\">[beŋ<span class=\"separator\">·</span>ˈke]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">benché</strong>",
+                                        "target": "although"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

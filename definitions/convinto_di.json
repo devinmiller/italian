@@ -1,0 +1,36 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to have a <strong class=\"tilde\">conviction</strong> about <acronym title=\"something\">sth</acronym></span>",
+                "target": "essere convinto di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">certain</strong> about <acronym title=\"something\">sth</acronym></span>",
+                "target": "essere convinto di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">unconvinced</strong> of <acronym title=\"something\">sth</acronym></span>",
+                "target": "non essere convinto, -a di <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">essere <strong class=\"tilde\">convinto</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to be convinced of <acronym title=\"something\">sth</acronym>"
+            }
+        ]
+    }
+]

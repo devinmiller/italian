@@ -1,0 +1,31 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">roughly</strong>",
+                "target": "bruscamente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">fall</strong> sharply</span>",
+                "target": "calare bruscamente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">swerve</strong> <span class=\"collocator\">person</span>",
+                "target": "sterzare bruscamente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">jerk</strong>",
+                "target": "tirare bruscamente"
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "conquistare",
+                        "headword_full": "conquistare    <span class=\"phonetics\">[koŋ<span class=\"separator\">·</span>kuis<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. conquistare <span class=\"sense\">(ottenere: diritto, potere, libertà)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">conquistare</strong>",
+                                        "target": "to gain"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. conquistare <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">conquistare</strong>",
+                                        "target": "to conquer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. conquistare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">conquistare</strong> <span class=\"sense\">(persona)</span>",
+                                        "target": "to win over"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">conquistare</strong> <span class=\"sense\">(amicizia, amore, simpatia)</span>",
+                                        "target": "to win"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

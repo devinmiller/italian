@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "borraccia",
+                        "headword_full": "borraccia   <span class=\"flexion\">&lt;-cce&gt;</span>  <span class=\"phonetics\">[bor<span class=\"separator\">·</span>ˈrat<span class=\"separator\">·</span>tʃa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"sense\">(recipiente)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">borraccia</strong>",
+                                        "target": "water bottle"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

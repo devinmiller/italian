@@ -1,0 +1,96 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">read on</strong>",
+                "target": "continuare a leggere"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">play on</strong> <span class=\"sense\">(keep playing)</span> <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym>, <acronym title=\"games\">GAMES</acronym></span>",
+                "target": "continuare a giocare"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">play on</strong> <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>",
+                "target": "continuare a suonare"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">keep on</strong> doing <acronym title=\"something\">sth</acronym></span>",
+                "target": "continuare  a fare <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">continue</strong> to do [<span class=\"or\"><acronym title=\"or\">or</acronym></span> doing] <acronym title=\"something\">sth</acronym></span>",
+                "target": "continuare a fare <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">fight on</strong>",
+                "target": "continuare a lottare"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">run on</strong>",
+                "target": "continuare a correre"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">walk on</strong>",
+                "target": "continuare a camminare"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to keep <strong class=\"tilde\">on</strong> doing <acronym title=\"something\">sth</acronym></span>",
+                "target": "continuare a fare <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to get <strong class=\"tilde\">on</strong> with <acronym title=\"something\">sth</acronym></span>",
+                "target": "continuare a fare <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">keep</strong> going</span> <span class=\"collocator\">machine</span>",
+                "target": "continuare a funzionare"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">continuare</strong> a dormire</span>",
+                "target": "to keep on sleeping"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">continuare</strong> a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to continue to do <acronym title=\"something\">sth</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">continuare <strong class=\"tilde\">imperterrito</strong> a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to calmly carry on doing <acronym title=\"something\">sth</acronym>"
+            }
+        ]
+    }
+]

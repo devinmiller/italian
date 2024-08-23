@@ -1,0 +1,98 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "carattere",
+                        "headword_full": "carattere    <span class=\"phonetics\">[ka<span class=\"separator\">·</span>ˈrat<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. carattere <span class=\"sense\">(indole)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">carattere</strong>",
+                                        "target": "character"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mancare di <strong class=\"tilde\">carattere</strong></span>",
+                                        "target": "to lack character"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. carattere <span class=\"sense\">(natura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">carattere</strong>",
+                                        "target": "character"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. carattere <span class=\"topic\"><acronym title=\"typography, printing\">TYPO</acronym></span> <span class=\"sense\">(segno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">carattere</strong>",
+                                        "target": "character"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">carattere</strong> corsivo</span>",
+                                        "target": "italic"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">carattere</strong> grassetto</span>",
+                                        "target": "bold"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i a stampatello</span>",
+                                        "target": "capital letters"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. carattere <span class=\"sense\">(di scrittura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">carattere</strong>",
+                                        "target": "character"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. carattere <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">carattere</strong>",
+                                        "target": "character"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mappa dei -i</span>",
+                                        "target": "character map"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">stringa di -i</span>",
+                                        "target": "character string"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. carattere <span class=\"topic\"><acronym title=\"biology\">BIOL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">carattere</strong>",
+                                        "target": "characteristic"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

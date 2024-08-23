@@ -1,0 +1,98 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "compagnia",
+                        "headword_full": "compagnia   <span class=\"flexion\">&lt;-ie&gt;</span>  <span class=\"phonetics\">[kom<span class=\"separator\">·</span>paɲ<span class=\"separator\">·</span>ˈɲi:<span class=\"separator\">·</span>a]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. compagnia <span class=\"sense\">(lo stare insieme)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">compagnia</strong>",
+                                        "target": "company"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere di <strong class=\"tilde\">compagnia</strong></span>",
+                                        "target": "to be good company"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> tenere] <strong class=\"tilde\">compagnia</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to keep <acronym title=\"somebody\">sb</acronym> company"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. compagnia <span class=\"sense\">(gruppo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">compagnia</strong>",
+                                        "target": "group"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. compagnia <span class=\"topic\"><acronym title=\"theatre\">THEAT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">compagnia</strong>",
+                                        "target": "company"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. compagnia <span class=\"topic\"><acronym title=\"religion\">REL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">compagnia</strong>",
+                                        "target": "society"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. compagnia <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">compagnia</strong>",
+                                        "target": "company"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. compagnia <span class=\"topic\"><acronym title=\"commerce\">COMM</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">compagnia</strong>",
+                                        "target": "company"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">compagnia</strong> aerea</span>",
+                                        "target": "airline"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">compagnia</strong> di assicurazione</span>",
+                                        "target": "insurance company"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">compagnia</strong> di navigazione</span>",
+                                        "target": "shipping company"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">compagnia</strong> low-cost</span>",
+                                        "target": "budget airline"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

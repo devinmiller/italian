@@ -1,0 +1,98 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "coprire",
+                        "headword_full": "coprire   <span class=\"flexion\">&lt;copro, coprii [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> copersi], coperto&gt;</span>  <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. coprire <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">coprire</strong>",
+                                        "target": "to cover"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. coprire <span class=\"sense\">(riempire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">coprire</strong> <acronym title=\"qualcuno\">qu</acronym> di baci</span>",
+                                        "target": "to shower <acronym title=\"somebody\">sb</acronym> with kisses"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">coprire</strong> <acronym title=\"qualcuno\">qu</acronym> di insulti</span>",
+                                        "target": "to hurl abuse at <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. coprire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(carica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">coprire</strong>",
+                                        "target": "to hold"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "coprire",
+                        "headword_full": "coprire   <span class=\"flexion\">&lt;copro, coprii [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> copersi], coperto&gt;</span>  <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">coprirsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. coprire <span class=\"topic\"><acronym title=\"finance, banking, stock exchange\">FIN</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">coprirsi</span>",
+                                        "target": "to cover oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. coprire <span class=\"sense\">(cielo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">coprirsi</span>",
+                                        "target": "to become overcast"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. coprire <span class=\"sense\">(colmarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">coprirsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to cover oneself with <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. coprire <span class=\"sense\">(con vestiti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">coprirsi</span>",
+                                        "target": "to wrap up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">coprirsi bene</span>",
+                                        "target": "to wrap up well"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "contenere",
+                        "headword_full": "contenere    <span class=\"phonetics\">[kon<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. contenere <span class=\"sense\">(accogliere: persone, cose)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">contenere</strong>",
+                                        "target": "to contain"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. contenere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">contenere</strong> <span class=\"sense\">(trattenere: lacrime)</span>",
+                                        "target": "to hold back"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">contenere</strong> <span class=\"sense\">(sdegno)</span>",
+                                        "target": "to keep in check"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">contenere</strong> <span class=\"sense\">(entusiasmo)</span>",
+                                        "target": "to contain"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">contenere</strong> la piena di un fiume</span>",
+                                        "target": "to hold back a river in flood"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "contenere",
+                        "headword_full": "contenere    <span class=\"phonetics\">[kon<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "contenere <span class=\"reflection\">contenersi</span> <span class=\"sense\">(moderarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">contenersi</span>",
+                                        "target": "to contain oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

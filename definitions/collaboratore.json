@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "collaboratore",
+                        "headword_full": "collaboratore <span class=\"feminine\">(-trice)</span>   <span class=\"phonetics\">[kol<span class=\"separator\">·</span>la<span class=\"separator\">·</span>bo<span class=\"separator\">·</span>ra<span class=\"separator\">·</span>ˈto:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. collaboratore <span class=\"sense\">(aiutante)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">collaboratore</strong> <span class=\"feminine\">(-trice)</span>",
+                                        "target": "coworker"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-trice domestica</span>",
+                                        "target": "home help"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. collaboratore <span class=\"sense\">(a giornale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">collaboratore</strong> <span class=\"feminine\">(-trice)</span>",
+                                        "target": "contributor"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">collaboratore</strong> esterno</span>",
+                                        "target": "freelancer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. collaboratore <span class=\"sense\">(pentito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">collaboratore</strong> della giustizia</span>",
+                                        "target": "informer"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

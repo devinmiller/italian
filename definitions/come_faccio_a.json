@@ -1,0 +1,19 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">how can I <strong class=\"tilde\">tell?</strong></span>",
+                "target": "come faccio a saperlo?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">how can I listen <strong class=\"tilde\">when</strong> I can&#39;t hear?</span>",
+                "target": "come faccio ad ascoltare se non riesco a sentire?"
+            }
+        ]
+    }
+]

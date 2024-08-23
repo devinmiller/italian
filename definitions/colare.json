@@ -1,0 +1,88 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "colare",
+                        "headword_full": "colare    <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. colare <span class=\"sense\">(liquido, brodo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">colare</strong>",
+                                        "target": "to strain"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">colare</strong> la pasta</span>",
+                                        "target": "to drain the pasta"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. colare <span class=\"sense\">(metallo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">colare</strong>",
+                                        "target": "to cast"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "colare",
+                        "headword_full": "colare    <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. colare <span class=\"auxiliary_verb\">+essere o avere</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">colare</strong> <span class=\"sense\">(gocciolare: liquido)</span>",
+                                        "target": "to run"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">colare</strong> <span class=\"sense\">(cera)</span>",
+                                        "target": "to drip"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi cola il naso</span>",
+                                        "target": "my nose is running"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. colare <span class=\"sense\">(recipiente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">colare</strong>",
+                                        "target": "to leak"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. colare <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(nave)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">colare</strong> a picco</span>",
+                                        "target": "to sink to the bottom"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">colare</strong> a picco</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to be in free fall"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

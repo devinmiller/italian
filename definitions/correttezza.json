@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "correttezza",
+                        "headword_full": "correttezza    <span class=\"phonetics\">[kor<span class=\"separator\">·</span>ret<span class=\"separator\">·</span>ˈtet<span class=\"separator\">·</span>tsa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"sense\">(rettitudine)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">correttezza</strong>",
+                                        "target": "correctness"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "colpire",
+                        "headword_full": "colpire   <span class=\"flexion\">&lt;colpisco&gt;</span>  <span class=\"phonetics\">[kol<span class=\"separator\">·</span>ˈpi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. colpire <span class=\"sense\">(avversario, bersaglio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">colpire</strong>",
+                                        "target": "to hit"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">colpire</strong> <acronym title=\"qualcuno\">qu</acronym> con un pugno</span>",
+                                        "target": "to punch <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">colpire</strong> nel segno</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to hit the nail on the head"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. colpire <span class=\"sense\">(danneggiare: città, zona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">colpire</strong>",
+                                        "target": "to strike"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. colpire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(impressionare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">colpire</strong>",
+                                        "target": "to make an impression on"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

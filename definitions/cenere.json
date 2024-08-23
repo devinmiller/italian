@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cenere",
+                        "headword_full": "cenere<sup>1</sup>    <span class=\"phonetics\">[ˈtʃe:<span class=\"separator\">·</span>ne<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cenere</strong>",
+                                        "target": "ash"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">(mercoledì del)le -i</span>",
+                                        "target": "Ash Wednesday"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ridurre in <strong class=\"tilde\">cenere</strong></span>",
+                                        "target": "to reduce to ashes"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">covare sotto la <strong class=\"tilde\">cenere</strong></span> <span class=\"rhetoric\">a <acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to smolder"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cenere",
+                        "headword_full": "cenere<sup>2</sup>   <span class=\"flexion\">&lt;inv&gt;</span>  <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cenere</strong>",
+                                        "target": "ash"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

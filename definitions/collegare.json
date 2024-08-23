@@ -1,0 +1,53 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "collegare",
+                        "headword_full": "collegare    <span class=\"phonetics\">[kol<span class=\"separator\">·</span>le<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(fili, cavi, computer)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">collegare</strong>",
+                                        "target": "to connect"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "collegare",
+                        "headword_full": "collegare    <span class=\"phonetics\">[kol<span class=\"separator\">·</span>le<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "collegare <span class=\"reflection\">collegarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">collegarsi</span>",
+                                        "target": "to connect"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">collegarsi a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to connect to <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">collegarsi con <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to get a connection to <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "corrispondenza",
+                        "headword_full": "corrispondenza    <span class=\"phonetics\">[kor<span class=\"separator\">·</span>ris<span class=\"separator\">·</span>pon<span class=\"separator\">·</span>ˈdɛn<span class=\"separator\">·</span>tsa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. corrispondenza <span class=\"sense\">(lettere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corrispondenza</strong>",
+                                        "target": "correspondence"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">corrispondenza</strong> commerciale</span>",
+                                        "target": "business correspondence"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">corrispondenza</strong> epistolare</span>",
+                                        "target": "personal correspondence"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere in <strong class=\"tilde\">corrispondenza</strong> con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to be in correspondence with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. corrispondenza <span class=\"sense\">(coincidenza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">corrispondenza</strong>",
+                                        "target": "connection"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

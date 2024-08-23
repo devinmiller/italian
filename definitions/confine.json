@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "confine",
+                        "headword_full": "confine    <span class=\"phonetics\">[kon<span class=\"separator\">·</span>ˈfi:<span class=\"separator\">·</span>ne]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">confine</strong>",
+                                        "target": "border"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ai -i del mondo</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to the ends of the earth"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

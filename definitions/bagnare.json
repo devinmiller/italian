@@ -1,0 +1,89 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bagnare",
+                        "headword_full": "bagnare    <span class=\"phonetics\">[baɲ<span class=\"separator\">·</span>ˈɲa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. bagnare <span class=\"sense\">(con liquido)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bagnare</strong>",
+                                        "target": "to wet"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. bagnare <span class=\"sense\">(annaffiare: erba, fiori)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bagnare</strong>",
+                                        "target": "to water"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. bagnare <span class=\"sense\">(inumidire: fronte, labbra)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bagnare</strong>",
+                                        "target": "to moisten"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. bagnare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bagnare</strong> <span class=\"sense\">(fiume)</span>",
+                                        "target": "to flow through"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">bagnare</strong> <span class=\"sense\">(mare)</span>",
+                                        "target": "to wash"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">Roma è bagnata dal Tevere</span>",
+                                        "target": "the Tiber flows through Rome"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "bagnare",
+                        "headword_full": "bagnare    <span class=\"phonetics\">[baɲ<span class=\"separator\">·</span>ˈɲa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">bagnarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. bagnare <span class=\"sense\">(fare il bagno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">bagnarsi</span>",
+                                        "target": "to go for a swim"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. bagnare <span class=\"sense\">(con pioggia, acqua)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">bagnarsi</span>",
+                                        "target": "to get soaked"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

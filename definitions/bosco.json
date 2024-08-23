@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bosco",
+                        "headword_full": "bosco   <span class=\"flexion\">&lt;-schi&gt;</span>  <span class=\"phonetics\">[ˈbɔs<span class=\"separator\">·</span>ko]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bosco</strong>",
+                                        "target": "wood"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">bosco</strong> da taglio</span>",
+                                        "target": "timber wood"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

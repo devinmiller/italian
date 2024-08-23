@@ -1,0 +1,62 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "capitare",
+                        "headword_full": "capitare    <span class=\"phonetics\">[ka<span class=\"separator\">·</span>pi<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. capitare <span class=\"sense\">(giungere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capitare</strong>",
+                                        "target": "to come"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">capiti proprio a proposito!</span>",
+                                        "target": "you&#39;ve come at just the right time!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">capitare</strong> bene/male</span>",
+                                        "target": "to have good luck/bad luck"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">capitare</strong> nelle mani di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to fall into <acronym title=\"somebody's\">sb's</acronym> hands"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. capitare <span class=\"sense\">(succedere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capitare</strong>",
+                                        "target": "to happen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">capita a tutti</span>",
+                                        "target": "it happens to everyone"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sono cose che capitano anche nelle migliori famiglie</span>",
+                                        "target": "these things happen even to the best families"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dove capita</span>",
+                                        "target": "anywhere"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

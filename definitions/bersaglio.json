@@ -1,0 +1,68 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bersaglio",
+                        "headword_full": "bersaglio   <span class=\"flexion\">&lt;-gli&gt;</span>  <span class=\"phonetics\">[ber<span class=\"separator\">·</span>ˈsaʎ<span class=\"separator\">·</span>ʎo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span> <span class=\"topic\"><acronym title=\"military\">MIL</acronym>, <acronym title=\"sports\">SPORTS</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bersaglio</strong>",
+                                        "target": "target"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tiro al <strong class=\"tilde\">bersaglio</strong></span>",
+                                        "target": "target practice"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bersagliare",
+                        "headword_full": "bersagliare    <span class=\"phonetics\">[ber<span class=\"separator\">·</span>saʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. bersagliare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(colpire, perseguitare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bersagliare</strong>",
+                                        "target": "to bombard"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">bersagliare</strong> <acronym title=\"qualcuno\">qu</acronym> di domande</span>",
+                                        "target": "to bomard <acronym title=\"somebody\">sb</acronym> with questions"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. bersagliare <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span> <span class=\"sense\">(nemico)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bersagliare</strong>",
+                                        "target": "to fire on"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

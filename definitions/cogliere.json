@@ -1,0 +1,85 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cogliere",
+                        "headword_full": "cogliere   <span class=\"flexion\">&lt;colgo, colsi, colto&gt;</span>  <span class=\"phonetics\">[ˈkɔʎ<span class=\"separator\">·</span>ʎere]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cogliere <span class=\"sense\">(fiore, frutto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cogliere</strong>",
+                                        "target": "to pick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cogliere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cogliere</strong> <span class=\"sense\">(occasione)</span>",
+                                        "target": "to take"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cogliere</strong> <span class=\"sense\">(offerta)</span>",
+                                        "target": "to accept"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cogliere</strong> <acronym title=\"qualcosa\">qc</acronym> al volo</span> <span class=\"sense\">(occasione, offerta)</span>",
+                                        "target": "to jump at <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cogliere <span class=\"sense\">(sorprendere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cogliere</strong>",
+                                        "target": "to catch"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cogliere</strong> <acronym title=\"qualcuno\">qu</acronym> in fallo</span>",
+                                        "target": "to catch <acronym title=\"somebody\">sb</acronym> out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cogliere</strong> <acronym title=\"qualcuno\">qu</acronym> in flagrante</span>",
+                                        "target": "to catch <acronym title=\"somebody\">sb</acronym> redhanded"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. cogliere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(significato, problema)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cogliere</strong>",
+                                        "target": "to understand"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. cogliere <span class=\"sense\">(colpire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cogliere</strong>",
+                                        "target": "to strike"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cogliere</strong> nel segno</span>",
+                                        "target": "to hit the nail on the head"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

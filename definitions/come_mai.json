@@ -1,0 +1,48 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">how <strong class=\"tilde\">come?</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                "target": "come mai?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">why</strong>",
+                "target": "come mai?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">how</strong> come …?</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                "target": "come mai…?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as <strong class=\"tilde\">never</strong> before</span>",
+                "target": "come mai prima"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">come</strong> mai?</span>",
+                "target": "how come?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">come <strong class=\"tilde\">mai</strong> sei ancora qui?</span>",
+                "target": "why ever are you still here?"
+            }
+        ]
+    }
+]

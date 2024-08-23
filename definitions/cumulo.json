@@ -1,0 +1,60 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cumulo",
+                        "headword_full": "cumulo    <span class=\"phonetics\">[ˈku:<span class=\"separator\">·</span>mu<span class=\"separator\">·</span>lo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. cumulo <span class=\"sense\">(mucchio: di macerie, terra, pietre)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cumulo</strong>",
+                                        "target": "heap"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cumulo <span class=\"topic\"><acronym title=\"meteorology\">METEO</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cumulo</strong>",
+                                        "target": "cumulus"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cumulare",
+                        "headword_full": "cumulare    <span class=\"phonetics\">[ku<span class=\"separator\">·</span>mu<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(contributi, ore lavorative, sconti)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cumulare</strong>",
+                                        "target": "to accumulate"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">un <strong class=\"tilde\">colpo</strong> di fulmine</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                "target": "love at first sight"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">un colpo di <strong class=\"tilde\">fulmine</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                "target": "love at first sight"
+            }
+        ]
+    }
+]

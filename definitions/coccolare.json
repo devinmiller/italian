@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "coccolare",
+                        "headword_full": "coccolare    <span class=\"phonetics\">[kok<span class=\"separator\">·</span>ko<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(bambino, animale)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">coccolare</strong>",
+                                        "target": "to cuddle"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
