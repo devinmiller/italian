@@ -29,12 +29,35 @@ def process_data(data):
         for hit in hits:
             roms = hit.get("roms", [])
             for rom in roms:
-                headword_flexion = ""
+                # Common attributes
+                arabs = rom.get("arabs", [])
                 definition = ""
+                headword = rom.get("headword", "").lower()
+                headword_full = BeautifulSoup(rom.get("headword_full", ""), "html.parser")
+                headword_full_flexion = headword_full.find("span", class_="flexion")
+                flexion = headword_full_flexion.get_text().strip() if headword_full_flexion else ""
+                wordclass = rom.get("wordclass", "").lower()
+
+                # Get translations from arabs
+                translation_output, examples_output = get_translations(arabs)
+                
+                if wordclass == "adverb":
+                    wordclass_acronym = "adv"
+
+                    # Print the formatted output for headword
+                    if headword and wordclass_acronym and flexion:
+                        definition += f'"{headword}","{wordclass_acronym}. {flexion} '
+                    else:
+                        definition += f'"{headword}","{wordclass_acronym}. '
+
+                    # Print all arab outputs, separated by semicolons
+                    definition += f'{"; ".join(translation_output)}"'
+
+                    print(definition)
+                    print("\n".join(examples_output))
 
                 # Check if wordclass is an adjective
-                if rom.get("wordclass", "").lower() == "adjective and adverb":
-                    headword = rom.get("headword", "")
+                if wordclass == "adjective and adverb":
                     if headword.endswith('o'):
                         headword += ", -a"
                     elif headword.endswith('e'):
@@ -42,89 +65,88 @@ def process_data(data):
 
                     wordclass_acronym = "adj"
 
-                    if headword and wordclass_acronym:
+                    if headword and wordclass_acronym and flexion:
+                        definition += f'"{headword}","{wordclass_acronym}. {flexion} '
+                    else:
                         definition += f'"{headword}","{wordclass_acronym}. '
 
-                    # Get translations from arabs
-                    arabs = rom.get("arabs", [])
-                    arab_output, examples_output = get_translations(arabs)
                     # Print all arab outputs, separated by semicolons
-                    definition += f'{"; ".join(arab_output)}"'
+                    definition += f'{"; ".join(translation_output)}"'
+
                     print(definition)
                     print("\n".join(examples_output))
 
                 # Check if the wordclass is a "verb"
-                if rom.get("wordclass", "").lower() in ["transitive verb", "intransitive verb", "reflexive verb"]:
-                    headword = rom.get("headword", "")
-                    wordclass = rom.get("wordclass", "").lower()
-                    past_participle = ""
-                    auxiliary_verb = "avere"
+                if wordclass in ["transitive verb", "intransitive verb", "reflexive verb"]:
+                    verb_fps_present = ""
+                    verb_past_participle = ""
+                    verb_auxiliary_verb = "avere"
 
-                    if wordclass == "intransitive verb":
-                        wordclass_acronym = "vi"
-                    elif wordclass == "transitive verb":
-                        wordclass_acronym = "vt"
-                    elif wordclass == "reflexive verb":
-                        if not headword.endswith("si"):
-                          headword = headword[:-1] + "si"
-                          wordclass_acronym = "vr"
-                          auxiliary_verb = "essersi"
-
-                    headword_full = BeautifulSoup(rom.get("headword_full", ""), "html.parser")
-                    flexion = headword_full.find("span", class_="flexion")
+                    match wordclass:
+                        case "intransitive verb":
+                            wordclass_acronym = "vi"
+                        case "transitive verb":
+                            wordclass_acronym = "vt"
+                        case "reflexive verb":
+                            wordclass_acronym = "vr"
+                            verb_auxiliary_verb = "essersi"
+                            # For reflexive verbs the headword isn't always the reflexive form
+                            headword = headword[:-1] + "si" if not headword.endswith("si") else headword                          
+                          
                     if flexion:                         
-                        flexions = flexion.get_text().split(',')
-                        headword_flexion = f" {flexions[0]}> "
-                        past_participle = flexions[2].replace(">","").strip() if len(flexions) > 1 else ""
+                        # For verbs, the flexion usually includes irregular forms
+                        verb_flexions = flexion.strip()[1:-1].split(',')
+                        # First flexion entry should be first person singular conjugation
+                        verb_fps_present = f" <{verb_flexions[0].strip()}> "
+                        # Third flexion should be the past participle of the verb
+                        verb_past_participle = verb_flexions[2].strip() if len(verb_flexions) > 1 else ""
 
-                    auxiliary = headword_full.find("span", class_="auxiliary_verb")
-                    if auxiliary and auxiliary_verb == "avere": auxiliary_verb = "essere"
+                    headword_full_auxiliary_verb = headword_full.find("span", class_="auxiliary_verb")
+                    # The auxiliary verb should only appear in the full headword if not avere
+                    # We also first check that the auxiliary verb was changed for a reflexive
+                    if headword_full_auxiliary_verb and verb_auxiliary_verb == "avere": verb_auxiliary_verb = "essere"
 
                     # Print the formatted output for headword
-                    if headword and wordclass_acronym:
-                        definition += f'"{headword}","{wordclass_acronym}.{headword_flexion}'
+                    if headword and wordclass_acronym and verb_fps_present:
+                        definition += f'"{headword}","{wordclass_acronym}. {verb_fps_present} '
+                    else:
+                        definition += f'"{headword}","{wordclass_acronym}. '
 
-                    # Get translations from arabs
-                    arabs = rom.get("arabs", [])
-                    arab_output, examples_output = get_translations(arabs)
-
-                    # If not irregular set the standard past participle
-                    if past_participle == "":
-                        if headword.endswith("are"):
-                            past_participle = f"{headword[:-3]}ato"
-                        elif headword.endswith("ere"):
-                            past_participle = f"{headword[:-3]}uto"
-                        elif headword.endswith("ire"):
-                            past_participle = f"{headword[:-3]}ito"
+                    # If not set from a flexion follow standard rules
+                    if verb_past_participle == "":
+                        match headword[len(headword)-3:]:
+                            case "are":
+                                verb_past_participle = f"{headword[:-3]}ato"
+                            case "ere":
+                                verb_past_participle = f"{headword[:-3]}uto"
+                            case "ire":
+                                verb_past_participle = f"{headword[:-3]}ito"
+                            
 
                     # Print all arab outputs, separated by semicolons
-                    definition += f'{"; ".join(arab_output)}; {auxiliary_verb} {past_participle}"'
+                    definition += f'{"; ".join(translation_output)}; {verb_auxiliary_verb} {verb_past_participle}"'
+
                     print(definition)
                     print("\n".join(examples_output))
 
                 # Check if the wordclass is "noun"
-                if rom.get("wordclass", "").lower() == "noun":
-                    headword = rom.get("headword", "")
-
-                    # Extract wordclass and genus from headword_full using BeautifulSoup
-                    soup = BeautifulSoup(rom.get("headword_full", ""), "html.parser")
+                if wordclass == "noun":
                     
-                    wordclass = soup.find("span", class_="wordclass")
-                    genus = soup.find("span", class_="genus")
+                    wordclass = headword_full.find("span", class_="wordclass")
+                    genus = headword_full.find("span", class_="genus")
                     
                     wordclass_acronym = wordclass.find("acronym").get_text().lower() if wordclass else ""
                     genus_acronym = genus.find("acronym").get_text().lower() if genus else ""
                     
                     # Print the formatted output for headword
-                    if headword and wordclass_acronym and genus_acronym:
+                    if headword and wordclass_acronym and genus_acronym and flexion:
+                        definition += f'"{headword}","{wordclass_acronym}. {genus_acronym}. {flexion} '
+                    else:
                         definition += f'"{headword}","{wordclass_acronym}. {genus_acronym}. '
                     
-                    # Iterate through arabs and print senses and translations
-                     # Get translations from arabs
-                    arabs = rom.get("arabs", [])
-                    arab_output, examples_output = get_translations(arabs)
                     # Print all arab outputs, separated by semicolons
-                    definition += f'{"; ".join(arab_output)}"'
+                    definition += f'{"; ".join(translation_output)}"'
+
                     print(definition)
                     print("\n".join(examples_output))
           
@@ -136,24 +158,25 @@ def get_translations(arabs):
         arab_rhetoric = ""
         arab_sense = ""
         arab_pl = ""
+
         # Parse the arab header
-        arab_soup = BeautifulSoup(arab.get("header", ""), "html.parser")
+        arab_header_soup = BeautifulSoup(arab.get("header", ""), "html.parser")
         
         # Not interested in topic specific definitions
-        arab_topic = arab_soup.find("span", class_="topic")
+        arab_header_topic = arab_header_soup.find("span", class_="topic")
         # Move on to next iteration if topic found
-        if arab_topic: continue
+        if arab_header_topic: continue
 
         # Look for a sense on the arab header
-        sense = arab_soup.find("span", class_="sense")
+        sense = arab_header_soup.find("span", class_="sense")
         # Get the sense text if sense found
         if sense: arab_sense = f"{sense.get_text()} "
 
         # Look for a plural acronym
-        plural = arab_soup.find("acronym", title="plurale")
+        plural = arab_header_soup.find("acronym", title="plurale")
         if plural: arab_pl = f"{plural.get_text()}. "
 
-        rhetoric = arab_soup.find("span", class_="rhetoric")
+        rhetoric = arab_header_soup.find("span", class_="rhetoric")
         if rhetoric: arab_rhetoric = f"{rhetoric.get_text()}. "
         
         translations_output = []
@@ -176,7 +199,7 @@ def get_translations(arabs):
             if translation_headword or translation_reflection:
               translation_sense = translation_soup.find("span", class_="sense")
               sense_text = f"{translation_sense.get_text()} " if translation_sense else ""
-              target_text = translation.get("target", "")
+              target_text = translation.get("target", "").strip()
               translations_output.append(f"{sense_text}{target_text}")
 
             
