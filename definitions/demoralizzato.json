@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "demoralizzato",
+                        "headword_full": "demoralizzato <span class=\"feminine\">(-a)</span>   <span class=\"phonetics\">[de<span class=\"separator\">·</span>mo<span class=\"separator\">·</span>ra<span class=\"separator\">·</span>lid<span class=\"separator\">·</span>ˈdza:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">demoralizzato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "demoralized"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "finire",
+                        "headword_full": "finire <span class=\"flexion\">&lt;finisco&gt;</span> <span class=\"phonetics\">[fi<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. finire <span class=\"sense\">(portare a compimento: libro, lavoro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">finire</strong>",
+                                        "target": "to finish"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">finire</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to finish doing <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">finire</strong> di mangiare</span>",
+                                        "target": "to finish eating"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. finire <span class=\"sense\">(smettere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">finire</strong>",
+                                        "target": "to stop"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">finiscila!</span>",
+                                        "target": "stop it!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">finiamola!</span>",
+                                        "target": "let&#39;s be done with it!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. finire <span class=\"sense\">(esaurire: scorte, soldi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">finire</strong>",
+                                        "target": "to get through"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "finire",
+                        "headword_full": "finire <span class=\"flexion\">&lt;finisco&gt;</span> <span class=\"phonetics\">[fi<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. finire <span class=\"sense\">(concludersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">finire</strong>",
+                                        "target": "to finish"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ho finito</span>",
+                                        "target": "I&#39;ve finished"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. finire <span class=\"sense\">(esaurirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">è finita la benzina</span>",
+                                        "target": "to run out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. finire <span class=\"sense\">(terminare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">finire</strong>",
+                                        "target": "to end"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. finire <span class=\"sense\">(cacciarsi: persona, cosa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">finire</strong>",
+                                        "target": "to get to"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. finire <span class=\"sense\">(capitare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">finire</strong>",
+                                        "target": "to end up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. finire <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">com&#39;è andata a <strong class=\"tilde\">finire?</strong></span>",
+                                        "target": "what happened in the end?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">finire</strong> bene/male</span>",
+                                        "target": "to have a happy/unhappy ending"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">finire</strong> in carcere</span>",
+                                        "target": "to end up in prison"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">finire</strong> sui giornali</span>",
+                                        "target": "to end up in the papers"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">finirai con l&#39;ammalarti</span>",
+                                        "target": "you&#39;ll end up making yourself sick"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

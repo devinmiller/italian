@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">whip back</strong>",
+                "target": "tornare indietro di scatto"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">leap up</strong>",
+                "target": "alzarsi di scatto"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">whip off</strong> <span class=\"collocator\">tablecloth</span>",
+                "target": "togliere di scatto"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">swing around</strong>",
+                "target": "girarsi di scatto"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">wheel around</strong>",
+                "target": "voltarsi di scatto"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">scatto</strong> di anzianità</span>",
+                "target": "<span class=\"explanation\">long-service increment</span>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">avere uno <strong class=\"tilde\">scatto</strong> di rabbia</span>",
+                "target": "to fly off the handle"
+            }
+        ]
+    }
+]

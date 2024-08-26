@@ -1,0 +1,132 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "dovere",
+                        "headword_full": "dovere<sup>1</sup> <span class=\"flexion\">&lt;devo [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> debbo], dovei [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> dovetti], dovuto&gt;</span> <span class=\"phonetics\">[do<span class=\"separator\">·</span>ˈve:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. dovere <span class=\"sense\">(obbligo, necessità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dovere</strong>",
+                                        "target": "to have to"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">devo essere a casa per le otto</span>",
+                                        "target": "I have to be home by eight"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sono dovuto andare</span>",
+                                        "target": "I had to go"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ho dovuto dirglielo</span>",
+                                        "target": "I had to tell him"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">devo andare in bagno</span>",
+                                        "target": "I have to go to the bathroom"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">devi dirlo alla polizia</span>",
+                                        "target": "you must tell the police"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare <acronym title=\"qualcosa\">qc</acronym> come si deve</span>",
+                                        "target": "to do <acronym title=\"something\">sth</acronym> properly"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">una persona come si deve</span>",
+                                        "target": "a respectable person"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">grazie, ma non dovevi disturbarti</span>",
+                                        "target": "thanks, but you shouldn&#39;t have bothered"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. dovere <span class=\"sense\">(probabilità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">devono essere già le otto</span>",
+                                        "target": "it must be eight o&#39;clock by now"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">deve essere successo <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "something must have happened"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">strano, dovrebbe essere già qui</span>",
+                                        "target": "strange, he should be here by now"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "dovere",
+                        "headword_full": "dovere<sup>1</sup> <span class=\"flexion\">&lt;devo [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> debbo], dovei [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> dovetti], dovuto&gt;</span> <span class=\"phonetics\">[do<span class=\"separator\">·</span>ˈve:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(essere debitore)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dovere</strong>",
+                                        "target": "to owe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere dovuto a</span>",
+                                        "target": "to be due to"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "dovere",
+                        "headword_full": "dovere<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dovere</strong>",
+                                        "target": "duty"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi un <strong class=\"tilde\">dovere</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to undertake to do <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sentirsi in <strong class=\"tilde\">dovere</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to feel obliged to do <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare le cose a <strong class=\"tilde\">dovere</strong></span>",
+                                        "target": "to do things properly"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

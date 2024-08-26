@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fallire",
+                        "headword_full": "fallire <span class=\"flexion\">&lt;fallisco&gt;</span> <span class=\"phonetics\">[fal<span class=\"separator\">·</span>ˈli:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. fallire <span class=\"sense\">(azienda)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fallire</strong>",
+                                        "target": "to go bankrupt"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fallire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(non riuscire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fallire</strong> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to fail in <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "fallire",
+                        "headword_full": "fallire <span class=\"flexion\">&lt;fallisco&gt;</span> <span class=\"phonetics\">[fal<span class=\"separator\">·</span>ˈli:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(mancare)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fallire</strong> il colpo [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> il bersaglio] </span>",
+                                        "target": "to miss"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

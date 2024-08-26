@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "decifrare",
+                        "headword_full": "decifrare <span class=\"phonetics\">[de<span class=\"separator\">·</span>tʃi<span class=\"separator\">·</span>ˈfra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">decifrare</strong> <span class=\"sense\">(scrittura)</span>",
+                                        "target": "to decipher"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">decifrare</strong> <span class=\"sense\">(codice)</span>",
+                                        "target": "to work out"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">decifrare</strong> <span class=\"sense\">(enigma)</span>",
+                                        "target": "to find the key to"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

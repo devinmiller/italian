@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "frizzante",
+                        "headword_full": "frizzante <span class=\"phonetics\">[frid<span class=\"separator\">·</span>ˈdzan<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. frizzante:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">frizzante</strong> <span class=\"sense\">(bibita)</span>",
+                                        "target": "fizzy"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">frizzante</strong> <span class=\"sense\">(vino)</span>",
+                                        "target": "sparkling"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. frizzante <span class=\"sense\">(aria)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">frizzante</strong>",
+                                        "target": "crisp"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

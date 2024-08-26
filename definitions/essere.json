@@ -1,0 +1,164 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "essere",
+                        "headword_full": "essere<sup>1</sup> <span class=\"flexion\">&lt;sono, fui, stato&gt;</span> <span class=\"phonetics\">[ˈɛs<span class=\"separator\">·</span>se<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. essere <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">essere</strong>",
+                                        "target": "to be"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">c&#39;è</span>",
+                                        "target": "there is"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ci sono</span>",
+                                        "target": "there are"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">c&#39;è odore di …</span>",
+                                        "target": "there&#39;s a smell of …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">c&#39;era una volta …</span>",
+                                        "target": "once upon a time there was …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">c&#39;eri anche tu?</span>",
+                                        "target": "were you there too?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ci siamo!</span> <span class=\"sense\">(siamo arrivati)</span>",
+                                        "target": "we&#39;re here!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ci siamo!</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(è arrivato il momento)</span>",
+                                        "target": "the time has come"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">essere</strong> di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to belong to <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">è Natale</span>",
+                                        "target": "it&#39;s Christmas"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sono loro</span>",
+                                        "target": "it&#39;s them"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sono ore che t&#39;aspetto</span>",
+                                        "target": "I&#39;ve been waiting for you for hours"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">chi è?</span> <span class=\"sense\">(alla porta)</span>",
+                                        "target": "who is it?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">che ora è?, che ore sono?</span>",
+                                        "target": "what&#39;s the time?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come sarebbe a dire?</span>",
+                                        "target": "what do you mean?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. essere <span class=\"sense\">(trovarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">essere</strong>",
+                                        "target": "to be"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. essere <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(costare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">essere</strong>",
+                                        "target": "to cost"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">quant&#39;è?</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(al bar)</span>",
+                                        "target": "how much is it?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. essere <span class=\"sense\">(provenire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">essere</strong>",
+                                        "target": "to be"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sono di Padova</span>",
+                                        "target": "I&#39;m from Padua"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "essere",
+                        "headword_full": "essere<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. essere <span class=\"sense\">(esistenza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">essere</strong>",
+                                        "target": "existence"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. essere <span class=\"sense\">(creatura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">essere</strong>",
+                                        "target": "being"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">gli -i viventi</span>",
+                                        "target": "living beings"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. essere <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">essere</strong>",
+                                        "target": "person"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

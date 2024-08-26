@@ -1,0 +1,53 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "desiderare",
+                        "headword_full": "desiderare <span class=\"phonetics\">[de<span class=\"separator\">·</span>si<span class=\"separator\">·</span>de<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">desiderare</strong>",
+                                        "target": "to want"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">desiderare</strong> <span class=\"sense\">(sessualmente)</span>",
+                                        "target": "to desire"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">desiderare</strong> un figlio</span>",
+                                        "target": "to want a child"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">desiderare</strong> fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to want to do <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi <strong class=\"tilde\">desiderare</strong></span>",
+                                        "target": "to play hard to get"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">lasciare a <strong class=\"tilde\">desiderare</strong></span>",
+                                        "target": "to leave a lot to be desired"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ti desiderano al telefono</span>",
+                                        "target": "you&#39;re wanted on the phone"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

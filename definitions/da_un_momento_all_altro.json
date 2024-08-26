@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">any time <strong class=\"tilde\">now</strong></span>",
+                "target": "da un momento all&#39;altro"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">at any <strong class=\"tilde\">moment</strong></span>",
+                "target": "da un momento all&#39;altro"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">any <strong class=\"tilde\">minute</strong></span>",
+                "target": "da un momento all&#39;altro"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">da un <strong class=\"tilde\">momento</strong> all&#39;altro</span>",
+                "target": "from one moment to the next"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">da un momento <strong class=\"tilde\">all&#39;altro</strong></span>",
+                "target": "from one moment to the next"
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "entroterra",
+                        "headword_full": "entroterra <span class=\"flexion\">&lt;-&gt;</span> <span class=\"phonetics\">[en<span class=\"separator\">·</span>tro<span class=\"separator\">·</span>ˈtɛr<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">entroterra</strong>",
+                                        "target": "inland region"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nell&#39;entroterra</strong></span>",
+                                        "target": "inland"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

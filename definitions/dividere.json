@@ -1,0 +1,79 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "dividere",
+                        "headword_full": "dividere <span class=\"flexion\">&lt;divido, divisi, diviso&gt;</span> <span class=\"phonetics\">[di<span class=\"separator\">·</span>ˈvi:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. dividere <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dividere</strong>",
+                                        "target": "to divide"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dividere</strong> in quattro</span>",
+                                        "target": "to divide into four"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dividere</strong> 9 per 3</span>",
+                                        "target": "to divide 9 by 3"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. dividere <span class=\"sense\">(separare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dividere</strong>",
+                                        "target": "to separate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. dividere <span class=\"sense\">(distribuire, condividere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dividere</strong>",
+                                        "target": "to share"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "dividere",
+                        "headword_full": "dividere <span class=\"flexion\">&lt;divido, divisi, diviso&gt;</span> <span class=\"phonetics\">[di<span class=\"separator\">·</span>ˈvi:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">dividersi</span> <span class=\"sense\">(in gruppi, categorie)</span>",
+                                        "target": "to divide"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">dividersi</span> <span class=\"sense\">(tra attività)</span>",
+                                        "target": "to divide one&#39;s time"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dividersi tra casa e ufficio</span>",
+                                        "target": "to divide one&#39;s time between home and work"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

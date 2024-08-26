@@ -1,0 +1,62 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "friggere",
+                        "headword_full": "friggere <span class=\"flexion\">&lt;friggo, frissi, fritto&gt;</span> <span class=\"phonetics\">[ˈfrid<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">friggere</strong>",
+                                        "target": "to fry"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare a farsi <strong class=\"tilde\">friggere</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to get lost"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mandare <acronym title=\"qualcuno\">qu</acronym> a farsi <strong class=\"tilde\">friggere</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to tell <acronym title=\"somebody\">sb</acronym> to get lost"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "friggere",
+                        "headword_full": "friggere <span class=\"flexion\">&lt;friggo, frissi, fritto&gt;</span> <span class=\"phonetics\">[ˈfrid<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. friggere <span class=\"sense\">(crepitare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">friggere</strong>",
+                                        "target": "to sizzle"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. friggere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(fremere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">friggere</strong>",
+                                        "target": "to tremble"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

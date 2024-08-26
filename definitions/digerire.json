@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "digerire",
+                        "headword_full": "digerire <span class=\"flexion\">&lt;digerisco&gt;</span> <span class=\"phonetics\">[di<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. digerire <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span> <span class=\"sense\">(cibo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">digerire</strong>",
+                                        "target": "to digest"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. digerire <span class=\"sense\">(accettare: sconfitta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">digerire</strong>",
+                                        "target": "to accept"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. digerire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(sopportare: modi, persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">digerire</strong>",
+                                        "target": "to stomach"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

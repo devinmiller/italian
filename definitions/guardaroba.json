@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "guardaroba",
+                        "headword_full": "guardaroba <span class=\"flexion\">&lt;-&gt;</span> <span class=\"phonetics\">[guar<span class=\"separator\">·</span>da<span class=\"separator\">·</span>ˈrɔ:<span class=\"separator\">·</span>ba]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. guardaroba <span class=\"sense\">(armadio, indumenti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">guardaroba</strong>",
+                                        "target": "wardrobe"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. guardaroba <span class=\"sense\">(stanza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">guardaroba</strong>",
+                                        "target": "coatroom"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

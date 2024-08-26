@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "foga",
+                        "headword_full": "foga <span class=\"phonetics\">[ˈfo:<span class=\"separator\">·</span>ga]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"sense\">(impeto)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">foga</strong>",
+                                        "target": "ardor"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">nella <strong class=\"tilde\">foga</strong> del discorso</span>",
+                                        "target": "in the heat of the discussion"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "demoralizzare",
+                        "headword_full": "demoralizzare <span class=\"phonetics\">[de<span class=\"separator\">·</span>mo<span class=\"separator\">·</span>ra<span class=\"separator\">·</span>lid<span class=\"separator\">·</span>ˈdza:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">demoralizzare</strong>",
+                                        "target": "to demoralize"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "demoralizzare",
+                        "headword_full": "demoralizzare <span class=\"phonetics\">[de<span class=\"separator\">·</span>mo<span class=\"separator\">·</span>ra<span class=\"separator\">·</span>lid<span class=\"separator\">·</span>ˈdza:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "demoralizzare <span class=\"reflection\">demoralizzarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">demoralizzarsi</span>",
+                                        "target": "to get demoralized"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

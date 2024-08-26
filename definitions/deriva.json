@@ -1,0 +1,128 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "deriva",
+                        "headword_full": "deriva <span class=\"phonetics\">[de<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>va]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. deriva <span class=\"sense\">(spostamento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">deriva</strong>",
+                                        "target": "drift"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">deriva</strong> dei continenti</span>",
+                                        "target": "continental drift"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare alla <strong class=\"tilde\">deriva</strong></span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to drift"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. deriva <span class=\"topic\"><acronym title=\"nautical, naval\">NAUT</acronym></span> <span class=\"sense\">(imbarcazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">deriva</strong>",
+                                        "target": "dinghy"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. deriva <span class=\"topic\"><acronym title=\"nautical, naval\">NAUT</acronym></span> <span class=\"sense\">(chiglia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">deriva</strong>",
+                                        "target": "centerboard"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. deriva <span class=\"topic\">aer</span> <span class=\"sense\">(stabilizzatore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">deriva</strong>",
+                                        "target": "vertical stabilizer"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "derivare",
+                        "headword_full": "derivare <span class=\"phonetics\">[de<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. derivare <span class=\"sense\">(aver origine)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">derivare</strong> da</span>",
+                                        "target": "to derive from"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">derivare</strong> da</span> <span class=\"sense\">(fiumi)</span>",
+                                        "target": "to spring from"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. derivare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(essere causato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">derivare</strong> da</span>",
+                                        "target": "to be caused by"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ciò deriva da …</span>",
+                                        "target": "the reason for that is …"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "derivare",
+                        "headword_full": "derivare <span class=\"phonetics\">[de<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. derivare <span class=\"sense\">(canale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">derivare</strong>",
+                                        "target": "to divert"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. derivare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(dedurre)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">derivare</strong>",
+                                        "target": "to conclude"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

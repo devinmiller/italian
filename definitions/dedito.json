@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "dedito",
+                        "headword_full": "dedito <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[ˈdɛ:<span class=\"separator\">·</span>di<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dedito</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "dedicated"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dedito</strong> ai vizi</span>",
+                                        "target": "addicted to vice"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to have the <strong class=\"tilde\">perfect</strong> right to do <acronym title=\"something\">sth</acronym></span>",
+                "target": "avere tutto il diritto di fare <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be able to turn one&#39;s <strong class=\"tilde\">hand</strong> to anything</span>",
+                "target": "sapere fare un po&#39; di tutto"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">jack of all trades, <strong class=\"tilde\">master</strong> of none</span>",
+                "target": "sa fare di tutto, ma non eccelle in niente"
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as far as the eye can <strong class=\"tilde\">see</strong></span>",
+                "target": "fin dove arriva la vista"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">as far as the <strong class=\"tilde\">eye</strong> can see</span>",
+                "target": "fin dove si riesce a vedere"
+            }
+        ]
+    }
+]

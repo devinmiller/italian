@@ -1,0 +1,19 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to take <acronym title=\"something\">sth</acronym> as a <strong class=\"tilde\">given</strong></span>",
+                "target": "dare <acronym title=\"qualcosa\">qc</acronym> per scontato"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">to take <acronym title=\"something\">sth</acronym> for <strong class=\"tilde\">granted</strong></span>",
+                "target": "dare <acronym title=\"qualcosa\">qc</acronym> per scontato"
+            }
+        ]
+    }
+]

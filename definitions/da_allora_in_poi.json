@@ -1,0 +1,24 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">from <strong class=\"tilde\">then</strong> on(ward)</span>",
+                "target": "da allora in poi"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">da <strong class=\"tilde\">allora</strong> in poi</span>",
+                "target": "from then on"
+            }
+        ]
+    }
+]

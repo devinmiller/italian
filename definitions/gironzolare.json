@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "gironzolare",
+                        "headword_full": "gironzolare <span class=\"phonetics\">[dʒi<span class=\"separator\">·</span>ron<span class=\"separator\">·</span>dzo<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gironzolare</strong>",
+                                        "target": "to wander about"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gironzolare</strong> intorno a <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to hang around <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

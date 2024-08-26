@@ -1,0 +1,64 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "distacco",
+                        "headword_full": "distacco <span class=\"flexion\">&lt;-chi&gt;</span> <span class=\"phonetics\">[dis<span class=\"separator\">·</span>ˈtak<span class=\"separator\">·</span>ko]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. distacco <span class=\"sense\">(rimozione: di parti, componenti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distacco</strong>",
+                                        "target": "removal"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. distacco <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(allontanamento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distacco</strong>",
+                                        "target": "separation"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. distacco <span class=\"sense\">(freddezza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distacco</strong>",
+                                        "target": "detachment"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. distacco <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">ha vinto con un <strong class=\"tilde\">distacco</strong> di dieci secondi</span>",
+                                        "target": "he won by ten seconds"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">avere un <strong class=\"tilde\">distacco</strong> di cinque metri/dieci secondi su <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to have a five-meter/a ten-second lead over <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ridurre il <strong class=\"tilde\">distacco</strong></span>",
+                                        "target": "to close the gap"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

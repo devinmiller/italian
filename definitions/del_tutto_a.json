@@ -1,0 +1,25 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be highly <strong class=\"tilde\">inconspicuous</strong></span>",
+                "target": "passare del tutto inosservato, -a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be not (quite) <strong class=\"tilde\">right</strong> in the head</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                "target": "non essere del tutto a posto con la testa"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">spite</strong> of everyone/everything</span>",
+                "target": "a dispetto di tutti e tutto"
+            }
+        ]
+    }
+]

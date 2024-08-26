@@ -1,0 +1,100 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fitto",
+                        "headword_full": "fitto <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. fitto:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fitto</strong> <span class=\"sense\">(folto: bosco)</span>",
+                                        "target": "dense"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">fitto</strong> <span class=\"sense\">(pelo)</span>",
+                                        "target": "thick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fitto <span class=\"sense\">(compatto: pettine, rete)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fitto</strong>",
+                                        "target": "fine"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. fitto:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fitto</strong> <span class=\"sense\">(denso: pioggia)</span>",
+                                        "target": "heavy"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">fitto</strong> <span class=\"sense\">(buio)</span>",
+                                        "target": "pitch"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">fitto</strong> <span class=\"sense\">(nebbia)</span>",
+                                        "target": "dense"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. fitto <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(mistero)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fitto</strong>",
+                                        "target": "impenetrable"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "fitto",
+                        "headword_full": "fitto <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">piove [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> nevica] fitto</span> <span class=\"sense\">(intensamente)</span>",
+                                        "target": "it&#39;s raining <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> snowing]</span> hard"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "fitto",
+                        "headword_full": "fitto <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">nel <strong class=\"tilde\">fitto</strong> del bosco</span>",
+                                        "target": "in the depths of the forest"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

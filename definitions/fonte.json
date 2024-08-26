@@ -1,0 +1,62 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fonte",
+                        "headword_full": "fonte <span class=\"phonetics\">[ˈfon<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. fonte <span class=\"sense\">(sorgente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fonte</strong>",
+                                        "target": "spring"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fonte <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(di guadagno, guai, informazioni)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fonte</strong>",
+                                        "target": "source"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i energetiche</span>",
+                                        "target": "energy sources <span class=\"number\"><acronym title=\"plurale\">pl</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i scritte</span>",
+                                        "target": "written sources <span class=\"number\"><acronym title=\"plurale\">pl</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "fonte",
+                        "headword_full": "fonte <span class=\"phonetics\">[ˈfon<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fonte</strong> battesimale</span>",
+                                        "target": "font"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

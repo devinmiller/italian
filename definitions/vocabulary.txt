@@ -1,176 +1,297 @@
-bagliore
-bagnare
-bagnato
-bandire
-barattare
-barrare
-basso
-bastare
-basti
-bellezza
-benché
-bersaglio
-bivio
-bloccarsi
-borraccia
-bosco
-bozza
-breve
-bruscamente
-bufala
-burrascoso
-bussola
-buttare giù
-buttare via
-caccia
-cacciare
-calco
-caldo torrido
-calpestare
-cambiamento
-cambiare strada
-camminare
-campanello
-campionato
-camuffato
-cancelleria
-cancello
-candidarsi
-capace
-capacità
-capitare
-capitare di conoscere
-capitare di conoscere
-carattere
-carica di energia
-carico
-carrello
-carrozzeria
-cartella
-cascata
-caso
-cattività
-celare
-celato
-cenere
-cercato
-certezza
-cervicali
-cespuglio
-cessare
-cestino
-chapeau
-che palle
-chiarezza
-chiaro
-chioma
-ci siamo allontanati
-ci siamo conosciuti
-ciascuno
-cicciottella
-cieco
-cima
-ciononostante
-circa
-circolo
-circondare
-circondato
-circostanza
-clausura
-coccolare
-cogli l'occasione
-cogliere
-coinvolgere
-coinvolto
-colare
-collaboratore
-collegare
-collezionista
-colmo
-colpire
-colpo
-colpo di fulmine
-coltivare
-coltivato
-com'è ovvio
-combattere
-combattuto
-come entro
-come faccio a
-come mai
-come si fa a
-commossa
-commuovere
-commovente
-commozione
-compagnia
-comparto
-compatire
-compattare
-compiacere
-compiere
-compiere gli anni
-compiuto
-completamente
-con discrezione
-con gentilezza
-con scrupolo
-con sé
-condivido
-condurre
-confine
-confondere
-confrontare
-confrontarsi
-confronto
-conoscente
-conoscenza
-conoscere a fondo
-conoscere a malapena
-conoscersi
-conquistare
-consapevole
-consapevolezza
-consapevolezza dell'impatto
-considerare
-consolare
-constatare
-contagiare
-contare
-contenente
-continuare a
-contraddire
-contrapporsi
-controllare
-controvoglia
-convinto di
-coperto
-coprire
-corazza
-cornice
-corpulento
-correggere
-correttezza
-corridoio
-corrispondenza
-corrisposto
-corteccia
-corteggiamento
-così come
-così su due piedi
-cosidetto
-costeggiare
-costituire
-costringere
-costruire
-covare
-covato
-crepuscolo
-crivellato
-crociera
-crollare
-crollato
-cruento
-cumulo
-cupo
-curiosamente
+d’altro canto
+d’istinto
+d'ora in poi
+d'ora in poi
+D'ora in poi
+da adulto
+da allora
+da allora in poi
+da cui
+da nessun parte
+da soli
+da solo
+da un lato
+da un momento all'altro
+dall'altra parte
+dall'aspetto
+danneggiato
+dappertutto
+dare
+dare fastidio
+dare per scontata
+dare per scontato
+datato
+davanti
+davanti a
+decidere
+decifrare
+dedito
+Del resto
+del tutto a
+deluso
+demoralizzato
+depositare
+deprimere
+deprimersi
+deriva
+descrivere
+desiderare
+destare
+destrezza
+determinare
+detestare
+devo informarmi
+di base
+di chi è?
+di colpo
+di fila
+di fronte a
+di mattina
+di quando in quando
+di quando in quando
+di scatto
+di tanto in tanto
+diafano
+dietro
+dietro di
+difendere
+diffidente
+diffondere
+diffondere
+diffondersi
+digerire
+dimagrire
+dimenticare
+dimenticarsi
+dimostrare
+dipanarsi
+dipendere
+dipingere
+dire
+dirigere
+diritto
+disagio
+disattivare
+discesa
+discutere
+discutere
+discutibile
+disegnare
+disfare
+disgustare
+disincanto
+disinvolta
+disinvoltura
+disperare
+dispiacere
+dissotterrato
+distaccare
+distaccarsi
+distacco
+distanza
+distinguere
+distrarre
+districarsi
+distruggere
+diventare
+diventare
+diversamente
+diversi
+divertire
+divertirsi
+dividere
+divieto
+divorante
+divorare
+dolcificante
+domandare
+dopo aver preso
+dormire
+dotare di
+dovere
+dunque
+durare
+durevole
+è così che funziona
+è fattibile
+è pari a zero
+è uguale
+ebbrezza
+echeggiare
+eleggere
+elevare
+eliminare
+eludere
+emergere
+emergere
+emettere
+ennesimo
+entrare
+entrare in contatto
+entro
+entro breve
+entro certi limiti
+entro la fine
+entroterra
+epoca
+eppure
+equivoco
+erbacce
+eredità
+ereditato
+ereditiera
+esagerare
+esaminare
+esasperare
+esaurire
+esaurire
+escludere
+esemplificare
+esibire
+esigente
+esigenza
+esilio
+esistere
+esitazione
+esito
+esortativo
+esposta
+esprimere
+essere
+essere a conoscenza
+essere di fretta
+essere disposti a
+essere in fuga
+estenuante
+esterno
+estraneità
+estraneo
+estro
+evitare
+facilitare
+fallimento
+fallire
+fallire
+falsificare
+familiare
+far fatica
+faraglione
+fare
+fare capire
+fare caso a
+fare di tutto
+fare fatica a
+fare finta che
+fare il bucato
+fare le valigie
+fare notare
+fare un capolavoro
+fare un paragone
+fare visita
+farsi capire
+fasciare
+fatica
+faticare
+fattura
+ferire
+ferita
+fermarsi
+fermarsi
+fessura
+festeggiare
+fiancheggiato
+fianco
+fibra
+ficcare
+fidarsi
+fin a quando
+fin da
+fin da quando
+fin dove
+finalizzare
+finché
+finché non
+fingere
+finire
+fino ad
+fino adesso
+fino al fondo
+fino allora
+fino in fondo
+finora
+firmare
+fitta
+fitto
+focalizzare
+foga
+foglia
+fogne
+folgorante
+folgorato
+folle
+fondo
+fonte
+forbito
+forestiero
+formare
+formarsi
+fornire
+foschia
+frammentato
+francobollo
+friggere
+frizzante
+fronda
+fuga
+fuggire
+fuggire
+fuggito
+funzionante
+funzionare
+furibondo
+galleggiare
+garantire
+garbato
+gattaccio
+generare
+geniale
+genio
+gentilezza
+gestire
+gesto
+gettare
+gettare
+gigantesco
+giocare
+giostrarsi
+girare
+gironzolando
+gironzolare
+giudicare
+giudicare
+giurare
+giustificare
+goccia
+godere
+goffa
+golfino
+golosa
+governare
+gracile
+gradire
+grata
+grattare
+grazie al quale
+grezzo
+gridare
+gridare
+grinzosa
+guadagnare
+guadagnare
+guardare
+guardaroba
+guarire
+guasto
+guidare
+guizzante
+gustare

@@ -1,0 +1,62 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fornire",
+                        "headword_full": "fornire <span class=\"flexion\">&lt;fornisco&gt;</span> <span class=\"phonetics\">[for<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. fornire <span class=\"sense\">(provvedere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fornire</strong>",
+                                        "target": "to supply"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fornire</strong> <acronym title=\"qualcuno\">qu</acronym> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to supply <acronym title=\"somebody\">sb</acronym> with <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fornire</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to supply <acronym title=\"something\">sth</acronym> to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fornire <span class=\"sense\">(informazioni, prova)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fornire</strong>",
+                                        "target": "to provide"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "fornire",
+                        "headword_full": "fornire <span class=\"flexion\">&lt;fornisco&gt;</span> <span class=\"phonetics\">[for<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "fornire <span class=\"reflection\">fornirsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">fornirsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to provide o.s. with <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

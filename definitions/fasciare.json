@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fasciare",
+                        "headword_full": "fasciare <span class=\"phonetics\">[faʃ<span class=\"separator\">·</span>ˈʃa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. fasciare <span class=\"sense\">(ferita)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fasciare</strong>",
+                                        "target": "to bandage"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fasciare <span class=\"sense\">(neonato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fasciare</strong>",
+                                        "target": "to put a diaper on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. fasciare <span class=\"sense\">(aderire: abito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fasciare</strong>",
+                                        "target": "to cling to"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

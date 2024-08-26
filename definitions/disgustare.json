@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "disgustare",
+                        "headword_full": "disgustare <span class=\"phonetics\">[diz<span class=\"separator\">·</span>gus<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. disgustare <span class=\"sense\">(nauseare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">disgustare</strong> <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to make <acronym title=\"somebody\">sb</acronym> feel sick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. disgustare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(infastidire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">disgustare</strong>",
+                                        "target": "to disgust"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "disgustare",
+                        "headword_full": "disgustare <span class=\"phonetics\">[diz<span class=\"separator\">·</span>gus<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "disgustare <span class=\"reflection\">disgustarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">disgustarsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to grow sick of <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

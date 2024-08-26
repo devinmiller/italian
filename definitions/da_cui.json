@@ -1,0 +1,13 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">within <strong class=\"tilde\">sight</strong> of <acronym title=\"something\">sth</acronym></span>",
+                "target": "in un punto da cui si può vedere <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "deprimere",
+                        "headword_full": "deprimere <span class=\"flexion\">&lt;deprimo, depressi, depresso&gt;</span> <span class=\"phonetics\">[de<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>me<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(avvilire)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">deprimere</strong>",
+                                        "target": "to depress"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "deprimere",
+                        "headword_full": "deprimere <span class=\"flexion\">&lt;deprimo, depressi, depresso&gt;</span> <span class=\"phonetics\">[de<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>me<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "deprimere <span class=\"reflection\">deprimersi</span> <span class=\"sense\">(avvilirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">deprimersi</span>",
+                                        "target": "to get depressed"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

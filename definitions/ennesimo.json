@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ennesimo",
+                        "headword_full": "ennesimo <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[en<span class=\"separator\">·</span>ˈnɛ:<span class=\"separator\">·</span>zi<span class=\"separator\">·</span>mo]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. ennesimo <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ennesimo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "umpteenth"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per l&#39;-a volta</span>",
+                                        "target": "for the umpteenth time"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ennesimo <span class=\"topic\"><acronym title=\"mathematics\">MATH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ennesimo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "nth"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

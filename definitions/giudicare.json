@@ -1,0 +1,50 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "giudicare",
+                        "headword_full": "giudicare <span class=\"phonetics\">[dʒu<span class=\"separator\">·</span>di<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. giudicare <span class=\"topic\"><acronym title=\"anche\">a.</acronym> <acronym title=\"law\">LAW</acronym></span> <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">giudicare</strong>",
+                                        "target": "to judge"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fu giudicato colpevole</span>",
+                                        "target": "he was found guilty"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">giudicare</strong> dalle apparenze</span>",
+                                        "target": "don&#39;t judge by appearances"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. giudicare <span class=\"sense\">(ritenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">giudicare</strong>",
+                                        "target": "to consider"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">giudicò opportuno tacere</span>",
+                                        "target": "he <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> she]</span> considered it advisable to keep quiet"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

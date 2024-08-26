@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "durare",
+                        "headword_full": "durare <span class=\"phonetics\">[du<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere o avere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. durare <span class=\"sense\">(continuare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">durare</strong>",
+                                        "target": "to last"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">così non può <strong class=\"tilde\">durare</strong></span>",
+                                        "target": "things can&#39;t go on like this"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. durare <span class=\"sense\">(mantenersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">durare</strong>",
+                                        "target": "to keep"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. durare <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">chi la dura la vince</span>",
+                                        "target": "slow and steady wins the race <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

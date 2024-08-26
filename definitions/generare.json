@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "generare",
+                        "headword_full": "generare <span class=\"phonetics\">[dʒe<span class=\"separator\">·</span>ne<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. generare <span class=\"sense\">(figlio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">generare</strong>",
+                                        "target": "to give birth to"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. generare <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(produrre, causare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">generare</strong>",
+                                        "target": "to generate"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

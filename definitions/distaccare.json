@@ -1,0 +1,72 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "distaccare",
+                        "headword_full": "distaccare <span class=\"phonetics\">[dis<span class=\"separator\">·</span>tak<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. distaccare <span class=\"sense\">(separare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distaccare</strong>",
+                                        "target": "to separate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. distaccare <span class=\"sense\">(trasferire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distaccare</strong>",
+                                        "target": "to transfer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. distaccare <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(gruppo, concorrenti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distaccare</strong>",
+                                        "target": "to outstrip"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "distaccare",
+                        "headword_full": "distaccare <span class=\"phonetics\">[dis<span class=\"separator\">·</span>tak<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">distaccarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. distaccare <span class=\"sense\">(allontanarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">distaccarsi</span>",
+                                        "target": "to detach oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. distaccare <span class=\"sense\">(distinguersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">distaccarsi</span>",
+                                        "target": "to stand out"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

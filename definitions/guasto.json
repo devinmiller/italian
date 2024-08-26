@@ -1,0 +1,81 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "guasto",
+                        "headword_full": "guasto <span class=\"phonetics\">[ˈguas<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"topic\"><acronym title=\"technology\">TECH</acronym>, <acronym title=\"automobile\">AUTO</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">guasto</strong>",
+                                        "target": "breakdown"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">guasto</strong> al motore</span>",
+                                        "target": "engine failure"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "guasto",
+                        "headword_full": "guasto <span class=\"feminine\">(-a)</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. guasto <span class=\"sense\">(rotto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">guasto</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "broken"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">il motore è <strong class=\"tilde\">guasto</strong></span>",
+                                        "target": "the engine has failed"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">l&#39;ascensore è <strong class=\"tilde\">guasto</strong></span>",
+                                        "target": "the elevator is out of order"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. guasto <span class=\"sense\">(frutta, uova)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">guasto</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "rotten"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. guasto <span class=\"sense\">(dente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">guasto</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "decayed"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "decidere",
+                        "headword_full": "decidere <span class=\"flexion\">&lt;decido, decisi, deciso&gt;</span> <span class=\"phonetics\">[de<span class=\"separator\">·</span>ˈtʃi:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">decidere</strong> <span class=\"sense\">(stabilire)</span>",
+                                        "target": "to decide"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">decidere</strong> <span class=\"sense\">(scegliere)</span>",
+                                        "target": "to choose"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">decidere</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to decide to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "decidere",
+                        "headword_full": "decidere <span class=\"flexion\">&lt;decido, decisi, deciso&gt;</span> <span class=\"phonetics\">[de<span class=\"separator\">·</span>ˈtʃi:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">decidere</strong>",
+                                        "target": "to decide"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">decidere</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to decide about <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "decidere",
+                        "headword_full": "decidere <span class=\"flexion\">&lt;decido, decisi, deciso&gt;</span> <span class=\"phonetics\">[de<span class=\"separator\">·</span>ˈtʃi:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "decidere <span class=\"reflection\">decidersi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">decidersi</span>",
+                                        "target": "to make up one&#39;s mind"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">decidersi a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to make up one&#39;s mind to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "funzionare",
+                        "headword_full": "funzionare <span class=\"phonetics\">[fun<span class=\"separator\">·</span>tsio<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(meccanismo, sistema, relazione)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">funzionare</strong>",
+                                        "target": "to work"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come funziona?</span>",
+                                        "target": "how does it work?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">far <strong class=\"tilde\">funzionare</strong> <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to make <acronym title=\"something\">sth</acronym> work"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

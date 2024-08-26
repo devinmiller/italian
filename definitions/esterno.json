@@ -1,0 +1,124 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "esterno",
+                        "headword_full": "esterno <span class=\"phonetics\">[es<span class=\"separator\">·</span>ˈtɛr<span class=\"separator\">·</span>no]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. esterno <span class=\"sense\">(di contenitore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esterno</strong>",
+                                        "target": "outside"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. esterno <span class=\"sense\">(di edificio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esterno</strong>",
+                                        "target": "exterior"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. esterno <span class=\"topic\"><acronym title=\"theatre\">THEAT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esterno</strong>",
+                                        "target": "outdoor scene"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "esterno",
+                        "headword_full": "esterno <span class=\"feminine\">(-a)</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. esterno <span class=\"sense\">(fuori: lato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esterno</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "outer"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per uso <strong class=\"tilde\">esterno</strong></span> <span class=\"sense\">(farmaco)</span>",
+                                        "target": "for external use"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. esterno:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esterno</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(fuori casa: parete, porta, pavimentazione)</span>",
+                                        "target": "outdoor"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">esterno</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(da fuori: nemico, pericolo)</span>",
+                                        "target": "external"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "esterno",
+                        "headword_full": "esterno <span class=\"feminine\">(-a)</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span> <span class=\"sense\">(di collegio)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esterno</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "day student"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "esternare",
+                        "headword_full": "esternare <span class=\"phonetics\">[es<span class=\"separator\">·</span>ter<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(manifestare: sentimento, disagio)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esternare</strong>",
+                                        "target": "to display"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

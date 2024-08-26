@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "forestiero",
+                        "headword_full": "forestiero <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[fo<span class=\"separator\">·</span>res<span class=\"separator\">·</span>ˈtiɛ:<span class=\"separator\">·</span>ro]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">forestiero</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "foreign"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "forestiero",
+                        "headword_full": "forestiero <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[fo<span class=\"separator\">·</span>res<span class=\"separator\">·</span>ˈtiɛ:<span class=\"separator\">·</span>ro]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">forestiero</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "foreigner"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

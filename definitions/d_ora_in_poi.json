@@ -1,0 +1,19 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">d&#39;ora in <strong class=\"tilde\">poi</strong></span>",
+                "target": "from now on"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">d&#39;ora</strong> in avanti [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> in poi] </span>",
+                "target": "from now on"
+            }
+        ]
+    }
+]

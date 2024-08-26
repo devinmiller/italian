@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "dappertutto",
+                        "headword_full": "dappertutto <span class=\"phonetics\">[dap<span class=\"separator\">·</span>per<span class=\"separator\">·</span>ˈtut<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dappertutto</strong>",
+                                        "target": "everywhere"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

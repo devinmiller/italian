@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "distanza",
+                        "headword_full": "distanza <span class=\"phonetics\">[dis<span class=\"separator\">·</span>ˈtan<span class=\"separator\">·</span>tsa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. distanza <span class=\"sense\">(spazio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distanza</strong>",
+                                        "target": "distance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">distanza</strong> di sicurezza</span>",
+                                        "target": "braking distance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">comando a <strong class=\"tilde\">distanza</strong></span>",
+                                        "target": "remote control"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tenere le -e</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to keep one&#39;s distance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">prendere le -e da <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to distance oneself from <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. distanza <span class=\"sense\">(tempo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distanza</strong>",
+                                        "target": "time"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">distanza</strong> di dieci anni</span>",
+                                        "target": "after ten years"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. distanza <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(differenza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distanza</strong>",
+                                        "target": "gulf"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

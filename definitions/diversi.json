@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "diverso",
+                        "headword_full": "diverso <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[di<span class=\"separator\">·</span>ˈvɛr<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. diverso <span class=\"sense\">(differente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">diverso</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "different"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">diverso</strong> da <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "different from <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. diverso <span class=\"info\"><acronym title=\"plurale\">pl</acronym></span> <span class=\"sense\">(vari)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">diverso</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "various"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "diverso",
+                        "headword_full": "diverso <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[di<span class=\"separator\">·</span>ˈvɛr<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"pronoun\">PRON</acronym></span> <span class=\"info\"><acronym title=\"plurale\">pl</acronym></span>",
+                        "wordclass": "pronoun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">diverso</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "several"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "districare",
+                        "headword_full": "districare <span class=\"phonetics\">[dis<span class=\"separator\">·</span>tri<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. districare <span class=\"sense\">(groviglio, capelli, fili)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">districare</strong>",
+                                        "target": "to untangle"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. districare <span class=\"sense\">(questione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">districare</strong>",
+                                        "target": "to sort out"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "districare",
+                        "headword_full": "districare <span class=\"phonetics\">[dis<span class=\"separator\">·</span>tri<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">districarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. districare <span class=\"sense\">(da rovi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">districarsi</span>",
+                                        "target": "to free oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. districare <span class=\"sense\">(trarsi d&#39;impaccio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">districarsi</span>",
+                                        "target": "to extricate oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

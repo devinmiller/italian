@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "eludere",
+                        "headword_full": "eludere <span class=\"flexion\">&lt;eludo, elusi, eluso&gt;</span> <span class=\"phonetics\">[e<span class=\"separator\">·</span>ˈlu:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">eludere</strong> <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(confronto)</span>",
+                                        "target": "to avoid <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">eludere</strong> <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(controllo)</span>",
+                                        "target": "to evade <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

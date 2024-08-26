@@ -1,0 +1,53 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "esagerare",
+                        "headword_full": "esagerare <span class=\"phonetics\">[e<span class=\"separator\">·</span>za<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esagerare</strong>",
+                                        "target": "to exaggerate"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "esagerare",
+                        "headword_full": "esagerare <span class=\"phonetics\">[e<span class=\"separator\">·</span>za<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esagerare</strong>",
+                                        "target": "to exaggerate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">esagerare</strong> con <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to go too far with <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">esagerare</strong> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to overdo <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

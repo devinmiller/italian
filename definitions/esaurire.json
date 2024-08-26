@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "esaurire",
+                        "headword_full": "esaurire <span class=\"flexion\">&lt;esaurisco&gt;</span> <span class=\"phonetics\">[e<span class=\"separator\">·</span>zau<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(finire: merce)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esaurire</strong>",
+                                        "target": "to sell off"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "esaurire",
+                        "headword_full": "esaurire <span class=\"flexion\">&lt;esaurisco&gt;</span> <span class=\"phonetics\">[e<span class=\"separator\">·</span>zau<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">esaurirsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. esaurire <span class=\"sense\">(finire: sorgente, miniera)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">esaurirsi</span>",
+                                        "target": "to be used up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. esaurire <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span> <span class=\"sense\">(indebolirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">esaurirsi</span>",
+                                        "target": "to become exhausted"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

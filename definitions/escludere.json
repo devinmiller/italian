@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "escludere",
+                        "headword_full": "escludere <span class=\"flexion\">&lt;escludo, esclusi, escluso&gt;</span> <span class=\"phonetics\">[es<span class=\"separator\">·</span>ˈklu:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. escludere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">escludere</strong> <span class=\"sense\">(eliminare: da gara, concorso)</span>",
+                                        "target": "to eliminate"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">escludere</strong> <span class=\"sense\">(da lista)</span>",
+                                        "target": "to exclude"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. escludere <span class=\"sense\">(dubitare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">escludere</strong>",
+                                        "target": "to rule out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. escludere <span class=\"sense\">(eccettuare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">escludere</strong>",
+                                        "target": "to exclude"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

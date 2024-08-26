@@ -1,0 +1,13 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">essere a <strong class=\"tilde\">conoscenza</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to know <acronym title=\"something\">sth</acronym>"
+            }
+        ]
+    }
+]

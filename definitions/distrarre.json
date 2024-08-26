@@ -1,0 +1,72 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "distrarre",
+                        "headword_full": "distrarre <span class=\"phonetics\">[dis<span class=\"separator\">·</span>ˈtrar<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. distrarre <span class=\"sense\">(deconcentrare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distrarre</strong>",
+                                        "target": "to distract"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. distrarre <span class=\"sense\">(divertire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distrarre</strong>",
+                                        "target": "to entertain"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. distrarre <span class=\"sense\">(somma)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">distrarre</strong>",
+                                        "target": "to subtract"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "distrarre",
+                        "headword_full": "distrarre <span class=\"phonetics\">[dis<span class=\"separator\">·</span>ˈtrar<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">distrarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. distrarre <span class=\"sense\">(deconcentrarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">distrarsi</span>",
+                                        "target": "to get distracted"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. distrarre <span class=\"sense\">(divertirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">distrarsi</span>",
+                                        "target": "to enjoy oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

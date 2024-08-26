@@ -1,0 +1,53 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "datare",
+                        "headword_full": "datare <span class=\"phonetics\">[da<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">datare</strong>",
+                                        "target": "to date"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "datare",
+                        "headword_full": "datare <span class=\"phonetics\">[da<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">datare</strong>",
+                                        "target": "to date"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">la nostra amicizia data dal 1998</span>",
+                                        "target": "our friendship dates back to 1998"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">datare</strong> da oggi</span> <span class=\"style\">adm</span>",
+                                        "target": "dating from today"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

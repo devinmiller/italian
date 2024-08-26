@@ -1,0 +1,74 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "dormire",
+                        "headword_full": "dormire <span class=\"phonetics\">[dor<span class=\"separator\">·</span>ˈmi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. dormire <span class=\"sense\">(essere addormentato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dormire</strong>",
+                                        "target": "to sleep"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dormire</strong> come un ghiro</span>",
+                                        "target": "to sleep like a log"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dormirci sopra</span>",
+                                        "target": "to sleep on it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dormire</strong> in piedi</span>",
+                                        "target": "to be dead tired"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. dormire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">qui dorme in pace …</span> <span class=\"sense\">(su tombe)</span>",
+                                        "target": "here lies …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dormire</strong> sugli allori</span>",
+                                        "target": "to rest on one&#39;s laurels"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "dormire",
+                        "headword_full": "dormire <span class=\"phonetics\">[dor<span class=\"separator\">·</span>ˈmi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dormire</strong> sonni tranquilli</span>",
+                                        "target": "to sleep soundly"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dormire</strong> il sonno del giusto</span>",
+                                        "target": "to sleep the sleep of the just"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

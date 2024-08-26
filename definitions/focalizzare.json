@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "focalizzare",
+                        "headword_full": "focalizzare <span class=\"phonetics\">[fo<span class=\"separator\">·</span>ka<span class=\"separator\">·</span>lid<span class=\"separator\">·</span>ˈdza:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. focalizzare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">focalizzare</strong> <span class=\"sense\">(obiettivo)</span>",
+                                        "target": "to focus"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">focalizzare</strong> <span class=\"sense\">(immagine)</span>",
+                                        "target": "to get into focus"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. focalizzare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(inquadrare: situazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">focalizzare</strong>",
+                                        "target": "to get into perspective"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. focalizzare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(concentrare: attenzione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">focalizzare</strong>",
+                                        "target": "to focus"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

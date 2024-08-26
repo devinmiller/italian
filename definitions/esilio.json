@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "esilio",
+                        "headword_full": "esilio <span class=\"flexion\">&lt;-i&gt;</span> <span class=\"phonetics\">[e<span class=\"separator\">·</span>ˈzi:<span class=\"separator\">·</span>lio]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"topic\"><acronym title=\"politics\">POL</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esilio</strong>",
+                                        "target": "exile"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

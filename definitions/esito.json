@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "esito",
+                        "headword_full": "esito <span class=\"phonetics\">[ˈɛ:<span class=\"separator\">·</span>zi<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"sense\">(risultato)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esito</strong>",
+                                        "target": "outcome"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "esitare",
+                        "headword_full": "esitare <span class=\"phonetics\">[e<span class=\"separator\">·</span>zi<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">esitare</strong>",
+                                        "target": "to hesitate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">esitare</strong> a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be hesitant about doing <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

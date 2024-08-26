@@ -1,0 +1,65 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "eliminare",
+                        "headword_full": "eliminare <span class=\"phonetics\">[e<span class=\"separator\">·</span>li<span class=\"separator\">·</span>mi<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. eliminare <span class=\"sense\">(togliere: macchia, ostacolo, errore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">eliminare</strong>",
+                                        "target": "to remove"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. eliminare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(scartare: dubbio, ipotesi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">eliminare</strong>",
+                                        "target": "to eliminate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. eliminare <span class=\"sense\">(estromettere: avversario, squadra)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">eliminare</strong>",
+                                        "target": "to knock out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. eliminare <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(uccidere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">eliminare</strong>",
+                                        "target": "to rub out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. eliminare <span class=\"sense\">(espellere: tossine)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">eliminare</strong>",
+                                        "target": "to eliminate"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

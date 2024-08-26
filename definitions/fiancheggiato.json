@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fiancheggiare",
+                        "headword_full": "fiancheggiare <span class=\"phonetics\">[fiaŋ<span class=\"separator\">·</span>ked<span class=\"separator\">·</span>ˈdʒa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. fiancheggiare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fiancheggiare</strong> <span class=\"sense\">(stare a lato: alberi)</span>",
+                                        "target": "to line"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">fiancheggiare</strong> <span class=\"sense\">(persone)</span>",
+                                        "target": "to flank"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fiancheggiare <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span> <span class=\"sense\">(proteggere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fiancheggiare</strong>",
+                                        "target": "to protect the flank of"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. fiancheggiare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(sostenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fiancheggiare</strong>",
+                                        "target": "to back"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

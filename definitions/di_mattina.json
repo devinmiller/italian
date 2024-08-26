@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">on <strong class=\"tilde\">Friday</strong> mornings</span>",
+                "target": "di venerdì mattina"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">one July <strong class=\"tilde\">morning</strong></span>",
+                "target": "una mattina di luglio"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">di/la <strong class=\"tilde\">mattina</strong></span>",
+                "target": "in the morning"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">di prima <strong class=\"tilde\">mattina</strong></span>",
+                "target": "early in the morning"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">di</strong> mattina/sera</span>",
+                "target": "in the morning/evening"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">le <strong class=\"tilde\">undici</strong> (di mattina/sera)</span>",
+                "target": "11 (a.m./p.m.)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">di <strong class=\"tilde\">domenica</strong> mattina/pomeriggio/sera</span>",
+                "target": "on Sunday morning/afternoon/evening"
+            }
+        ]
+    }
+]

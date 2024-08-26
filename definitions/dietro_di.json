@@ -1,0 +1,66 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">rear <strong class=\"tilde\">window</strong></span>",
+                "target": "finestrino di dietro"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">back door</strong>",
+                "target": "porta <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> di dietro"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">on <strong class=\"tilde\">presentation</strong> of this voucher</span>",
+                "target": "dietro presentazione di questo buono"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">he&#39;s walking <strong class=\"tilde\">behind</strong> me</span>",
+                "target": "sta camminando dietro di me"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to do <acronym title=\"something\">sth</acronym> at <acronym title=\"somebody's\">sb's</acronym> <strong class=\"tilde\">insistence</strong></span>",
+                "target": "fare <acronym title=\"qualcosa\">qc</acronym> dietro insistenza di <acronym title=\"qualcuno\">qu</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">only available with a <strong class=\"tilde\">prescription</strong></span>",
+                "target": "solo dietro presentazione di ricetta medica"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to look <strong class=\"tilde\">over</strong> <acronym title=\"somebody's\">sb's</acronym> shoulder</span>",
+                "target": "guardare da dietro le spalle di <acronym title=\"qualcuno\">qu</acronym>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">dietro <strong class=\"tilde\">richiesta</strong> (di)</span>",
+                "target": "at the request (of)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">dietro</strong> di me</span>",
+                "target": "behind me"
+            }
+        ]
+    }
+]

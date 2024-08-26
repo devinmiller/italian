@@ -1,0 +1,85 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "elevare",
+                        "headword_full": "elevare <span class=\"phonetics\">[e<span class=\"separator\">·</span>le<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. elevare <span class=\"sense\">(edificio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">elevare</strong>",
+                                        "target": "to erect"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">elevare</strong> un edificio di un piano</span>",
+                                        "target": "to add a floor to a building"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. elevare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(migliorare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">elevare</strong>",
+                                        "target": "to raise"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. elevare <span class=\"sense\">(aumentare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">elevare</strong>",
+                                        "target": "to increase"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. elevare <span class=\"topic\"><acronym title=\"administration\">ADMIN</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">elevare</strong> una multa</span>",
+                                        "target": "to impose a fine"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. elevare <span class=\"topic\"><acronym title=\"mathematics\">MATH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">elevare</strong> un numero al quadrato</span>",
+                                        "target": "to square a number"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "elevare",
+                        "headword_full": "elevare <span class=\"phonetics\">[e<span class=\"separator\">·</span>le<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "elevare <span class=\"reflection\">elevarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">elevarsi</span>",
+                                        "target": "to rise"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">weed</strong>",
+                "target": "erbaccia <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">weedy</strong>",
+                "target": "pieno, -a di erbacce"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">weed</strong>",
+                "target": "togliere le erbacce"
+            }
+        ]
+    }
+]

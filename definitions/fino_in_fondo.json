@@ -1,0 +1,13 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">andare <strong class=\"tilde\">fino</strong> in fondo a <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                "target": "to get to the bottom of <acronym title=\"something\">sth</acronym>"
+            }
+        ]
+    }
+]

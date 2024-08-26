@@ -1,0 +1,48 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">willing</strong> to do <acronym title=\"something\">sth</acronym></span>",
+                "target": "essere disposto a fare <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">prepared</strong> to do <acronym title=\"something\">sth</acronym></span>",
+                "target": "essere disposto a fare <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">care</strong> to do <acronym title=\"something\">sth</acronym></span>",
+                "target": "essere disposto a fare <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">forthcoming</strong> (about <acronym title=\"something\">sth</acronym>)</span>",
+                "target": "essere disposto, -a a parlare (di <acronym title=\"qualcosa\">qc</acronym>)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be/feel <strong class=\"tilde\">indisposed</strong> to do <acronym title=\"something\">sth</acronym></span>",
+                "target": "non essere/sentirsi disposto a fare <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">essere <strong class=\"tilde\">disposto</strong> a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to be disposed to do <acronym title=\"something\">sth</acronym>"
+            }
+        ]
+    }
+]

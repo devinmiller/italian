@@ -1,0 +1,24 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to have a <strong class=\"tilde\">devil</strong> of a time doing <acronym title=\"something\">sth</acronym></span>",
+                "target": "fare una fatica del diavolo a fare <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">fare <strong class=\"tilde\">fatica</strong> a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to have a hard time doing <acronym title=\"something\">sth</acronym>"
+            }
+        ]
+    }
+]

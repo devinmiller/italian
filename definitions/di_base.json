@@ -1,0 +1,114 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">elementary</strong> <span class=\"collocator\">course</span>",
+                "target": "di base"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">grassroots</strong>",
+                "target": "di base"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">working</strong> <span class=\"collocator\">theory, hypothesis</span>",
+                "target": "di base"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">act on</strong>",
+                "target": "agire sulla base di"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">ground rules</strong>",
+                "target": "principi <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> di base <span class=\"number\"><acronym title=\"plural\">pl</acronym></span>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">underlie</strong> <acronym title=\"something\">sth</acronym></span>",
+                "target": "stare alla base di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">ginger ale</strong>",
+                "target": "analcolico <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> a base di zenzero"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">the first <strong class=\"tilde\">law</strong> of <acronym title=\"something\">sth</acronym></span>",
+                "target": "il principio base di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">semiskilled</strong>",
+                "target": "con una specializzazione di base"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">grassroots</strong> movement</span>",
+                "target": "un movimento politico di base"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to have a <strong class=\"tilde\">working</strong> knowledge of <acronym title=\"something\">sth</acronym></span>",
+                "target": "avere conoscenze di base di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">coleslaw</strong>",
+                "target": "insalata <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> a base di cavolo e maionese"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">cheesecake</strong>",
+                "target": "cheesecake <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"info\"><acronym title=\"invariable\">inv</acronym></span> <span class=\"explanation\">(torta a base di formaggio fresco)</span>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">mint julep</strong>",
+                "target": "mint julep <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"info\"><acronym title=\"invariable\">inv</acronym></span> <span class=\"explanation\">cocktail a base di bourbon</span>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">minestra a <strong class=\"tilde\">base</strong> di carote</span>",
+                "target": "carrot soup"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">piatto a <strong class=\"tilde\">base</strong> di carne</span>",
+                "target": "meat-based dish"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">medico</strong> di base [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> di famiglia] [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> generico] </span>",
+                "target": "GP"
+            }
+        ]
+    }
+]

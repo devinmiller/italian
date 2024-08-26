@@ -1,0 +1,36 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to do the <strong class=\"tilde\">laundry</strong></span>",
+                "target": "fare il bucato"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">wash</strong>",
+                "target": "fare il bucato"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to do the <strong class=\"tilde\">washing</strong></span>",
+                "target": "fare il bucato"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">fare il <strong class=\"tilde\">bucato</strong></span>",
+                "target": "to do the washing"
+            }
+        ]
+    }
+]

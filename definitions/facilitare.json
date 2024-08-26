@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "facilitare",
+                        "headword_full": "facilitare <span class=\"phonetics\">[fa<span class=\"separator\">·</span>tʃi<span class=\"separator\">·</span>li<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. facilitare <span class=\"sense\">(lavoro, compito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">facilitare</strong>",
+                                        "target": "to make easier"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. facilitare <span class=\"topic\"><acronym title=\"commerce\">COMM</acronym></span> <span class=\"sense\">(pagamento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">facilitare</strong>",
+                                        "target": "to make easy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

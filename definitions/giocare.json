@@ -1,0 +1,141 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "giocare",
+                        "headword_full": "giocare <span class=\"phonetics\">[dʒo<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. giocare <span class=\"topic\"><acronym title=\"anche\">a.</acronym> <acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(divertirsi, trastullarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">giocare</strong>",
+                                        "target": "to play"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">giocare</strong> a carte</span>",
+                                        "target": "to play cards"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">giocare</strong> a palla</span>",
+                                        "target": "to play ball"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">giocare</strong> con <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to play with <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">giocare</strong> a rugby</span>",
+                                        "target": "to play rugby"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">gioca nell&#39;Inter</span>",
+                                        "target": "he plays for Inter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">giocare</strong> con la propria vita</span>",
+                                        "target": "to risk one&#39;s life"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. giocare <span class=\"sense\">(scommettere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">giocare</strong>",
+                                        "target": "to bet"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">giocare</strong> al lotto</span>",
+                                        "target": "to play the lottery"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">giocare</strong> al totocalcio</span>",
+                                        "target": "to bet the pools"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. giocare <span class=\"topic\"><acronym title=\"finance, banking, stock exchange\">FIN</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">giocare</strong>",
+                                        "target": "to speculate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">giocare</strong> in borsa</span>",
+                                        "target": "to play the Stock Market"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "giocare",
+                        "headword_full": "giocare <span class=\"phonetics\">[dʒo<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. giocare <span class=\"sense\">(partita, carta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">giocare</strong>",
+                                        "target": "to play"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. giocare <span class=\"sense\">(scommettere: somma)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">giocare</strong>",
+                                        "target": "to bet"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. giocare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(ingannare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">giocare</strong>",
+                                        "target": "to fool"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">giocare</strong> un tiro mancino a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to play a dirty trick on <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "giocare",
+                        "headword_full": "giocare <span class=\"phonetics\">[dʒo<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "giocare <span class=\"reflection\">giocarsi</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">giocarsi l&#39;anima</span>",
+                                        "target": "to risk one&#39;s neck"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">giocarsi anche la camicia</span>",
+                                        "target": "to lose the shirt off one&#39;s back"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

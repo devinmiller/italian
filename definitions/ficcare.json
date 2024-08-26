@@ -1,0 +1,83 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ficcare",
+                        "headword_full": "ficcare <span class=\"phonetics\">[fik<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ficcare <span class=\"sense\">(conficcare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ficcare</strong>",
+                                        "target": "to knock"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ficcare <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(mettere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ficcare</strong>",
+                                        "target": "to put"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ficcare</strong> il naso in <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to stick one&#39;s nose into <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ficcare",
+                        "headword_full": "ficcare <span class=\"phonetics\">[fik<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">ficcarsi</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ficcare <span class=\"sense\">(infilarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">ficcarsi a letto</span>",
+                                        "target": "to get into bed"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ficcarsi le mani in tasca</span>",
+                                        "target": "to stick one&#39;s hands in one&#39;s pockets"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ficcarsi le dita nel naso</span>",
+                                        "target": "to pick one&#39;s nose"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ficcare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(cacciarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">ficcarsi</span>",
+                                        "target": "to get to"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ficcarsi nei guai</span>",
+                                        "target": "to get into trouble"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ficcarsi <acronym title=\"qualcosa\">qc</acronym> in testa</span>",
+                                        "target": "to get <acronym title=\"something\">sth</acronym> into one&#39;s head"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

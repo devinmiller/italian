@@ -1,0 +1,154 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "guardare",
+                        "headword_full": "guardare <span class=\"phonetics\">[guar<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. guardare <span class=\"sense\">(vedere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">guardare</strong>",
+                                        "target": "to look at"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">guarda!</span>",
+                                        "target": "look!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">guardare</strong> la televisione</span>",
+                                        "target": "to watch television"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">guardare</strong> un film</span>",
+                                        "target": "to watch a film"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">guardare</strong> <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym> con la coda dell&#39;occhio</span>",
+                                        "target": "to look at <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym> out of the corner of one&#39;s eye"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">guardare</strong> <acronym title=\"qualcuno\">qu</acronym> dall&#39;alto in basso</span>",
+                                        "target": "to look <acronym title=\"somebody\">sb</acronym> up and down"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">guardare</strong> <acronym title=\"qualcuno\">qu</acronym> di sbieco</span>",
+                                        "target": "to look askance at <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">stare a <strong class=\"tilde\">guardare</strong></span>",
+                                        "target": "to stand and stare"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. guardare <span class=\"sense\">(cercare: parola)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">guardare</strong>",
+                                        "target": "to look up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. guardare <span class=\"sense\">(vigilare su: bambino, condannato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">guardare</strong>",
+                                        "target": "to look after"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">Dio ce ne guardi!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "God forbid!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "guardare",
+                        "headword_full": "guardare <span class=\"phonetics\">[guar<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. guardare <span class=\"sense\">(badare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">guardare</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to mind <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">guardare</strong> a spese</span>",
+                                        "target": "he <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> she]</span> doesn&#39;t bother about the expense"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. guardare <span class=\"sense\">(fare in modo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">guardare</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to try to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. guardare <span class=\"sense\">(edificio, finestra)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">guardare</strong> su <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to look onto <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le finestre guardano a sud</span>",
+                                        "target": "the windows face South"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "guardare",
+                        "headword_full": "guardare <span class=\"phonetics\">[guar<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">guardarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. guardare:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">guardarsi</span> <span class=\"sense\">(osservarsi)</span>",
+                                        "target": "to look at oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">guardarsi</span> <span class=\"sense\">(reciproco)</span>",
+                                        "target": "to look at each other"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non si guardano più in faccia</span>",
+                                        "target": "they cut each other dead"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. guardare <span class=\"sense\">(stare in guardia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">guardarsi da <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be wary of <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fallimento",
+                        "headword_full": "fallimento <span class=\"phonetics\">[fal<span class=\"separator\">·</span>li<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. fallimento <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span> <span class=\"sense\">(bancarotta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fallimento</strong>",
+                                        "target": "bankruptcy"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dichiarare <strong class=\"tilde\">fallimento</strong></span>",
+                                        "target": "to declare bankruptcy"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fallimento <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(risultato, persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fallimento</strong>",
+                                        "target": "failure"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

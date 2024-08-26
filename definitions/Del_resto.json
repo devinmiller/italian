@@ -1,0 +1,66 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">the <strong class=\"tilde\">remainder</strong> of <acronym title=\"somebody's\">sb's</acronym> life</span>",
+                "target": "il resto della vita di <acronym title=\"qualcuno\">qn</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">just write your name in — you can fill the rest of the form in later</span>",
+                "target": "scriva solo il suo nome — potrà riempire il resto del modulo dopo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be left in <strong class=\"tilde\">ignorance</strong> of <acronym title=\"something\">sth</acronym></span>",
+                "target": "restare all&#39;oscuro di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">stick by</strong> <span class=\"collocator\">friend</span>",
+                "target": "restare al fianco di"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">see out</strong>",
+                "target": "restare fino alla fine di"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">del <strong class=\"tilde\">resto</strong></span>",
+                "target": "besides"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">restare di <strong class=\"tilde\">sasso</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                "target": "to be astounded"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">restare con un <strong class=\"tilde\">pugno</strong> di mosche</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                "target": "to be left with nothing"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">restare con un <strong class=\"tilde\">palmo</strong> di naso</span>",
+                "target": "to be disappointed"
+            }
+        ]
+    }
+]

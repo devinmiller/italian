@@ -1,0 +1,91 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "folgorante",
+                        "headword_full": "folgorante <span class=\"phonetics\">[fol<span class=\"separator\">·</span>go<span class=\"separator\">·</span>ˈran<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. folgorante <span class=\"sense\">(luce)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">folgorante</strong>",
+                                        "target": "dazzling"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. folgorante <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(ardente: amore, passione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">folgorante</strong>",
+                                        "target": "intense"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. folgorante <span class=\"sense\">(brillante: idea)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">folgorante</strong>",
+                                        "target": "brilliant"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. folgorante <span class=\"sense\">(intenso: sguardo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">folgorante</strong>",
+                                        "target": "withering"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "folgorare",
+                        "headword_full": "folgorare <span class=\"phonetics\">[fol<span class=\"separator\">·</span>go<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. folgorare <span class=\"sense\">(fulmine)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">folgorare</strong>",
+                                        "target": "to strike"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. folgorare <span class=\"sense\">(scarica elettrica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">folgorare</strong>",
+                                        "target": "to electrocute"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">folgorare</strong> <acronym title=\"qualcuno\">qu</acronym> con lo sguardo</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to give <acronym title=\"somebody\">sb</acronym> a withering look"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

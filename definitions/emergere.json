@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "emergere",
+                        "headword_full": "emergere <span class=\"flexion\">&lt;emergo, emersi, emerso&gt;</span> <span class=\"phonetics\">[e<span class=\"separator\">·</span>ˈmɛr<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. emergere <span class=\"sense\">(venire a galla)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">emergere</strong>",
+                                        "target": "to emerge"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. emergere <span class=\"sense\">(risultare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">emergere</strong>",
+                                        "target": "to come out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. emergere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(eccellere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">emergere</strong>",
+                                        "target": "to stand out"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

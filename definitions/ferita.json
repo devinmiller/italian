@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ferita",
+                        "headword_full": "ferita <span class=\"phonetics\">[fe<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ferita</strong>",
+                                        "target": "injury"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">riaprire una <strong class=\"tilde\">ferita</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to open an old wound"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ferito",
+                        "headword_full": "ferito <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[fe<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ferito</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "injured"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ferito",
+                        "headword_full": "ferito <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[fe<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ferito</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "casualty"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

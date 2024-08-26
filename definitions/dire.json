@@ -1,0 +1,213 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "dire",
+                        "headword_full": "dire<sup>1</sup> <span class=\"flexion\">&lt;dico, dissi, detto&gt;</span> <span class=\"phonetics\">[ˈdi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. dire <span class=\"sense\">(affermare, recitare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dire</strong>",
+                                        "target": "to say"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dice di essere ammalato</span>",
+                                        "target": "he says he&#39;s sick"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">si dice che sia molto ricco</span>",
+                                        "target": "people say he&#39;s very rich"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dire</strong> di sì/no</span>",
+                                        "target": "to say yes/no"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dire</strong> messa</span>",
+                                        "target": "to say mass"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. dire <span class=\"sense\">(chiedere, raccontare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dire</strong>",
+                                        "target": "to tell"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dire</strong> bugie</span>",
+                                        "target": "to tell lies"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dire</strong> la propria</span>",
+                                        "target": "to have one&#39;s say"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dirle grosse</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to talk nonsense"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dir male di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to speak ill of <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">avere da <strong class=\"tilde\">dire</strong> su <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to have <acronym title=\"something\">sth</acronym> to say about <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">lasciar <strong class=\"tilde\">dire</strong></span>",
+                                        "target": "to let <acronym title=\"something\">sth</acronym> go"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">dire</strong> il vero</span>",
+                                        "target": "to tell the truth"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per meglio <strong class=\"tilde\">dire</strong></span>",
+                                        "target": "or rather"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">lo dicevo io!</span>",
+                                        "target": "I told you …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dico bene?</span>",
+                                        "target": "am I right?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come si dice in inglese?</span>",
+                                        "target": "what&#39;s the English for …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">dire</strong> pane al pane e vino al vino</span>",
+                                        "target": "to call a spade a spade"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dico sul serio</span>",
+                                        "target": "I mean it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">un film che non dice nulla</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "a nothing kind of movie"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">così dicendo, …</span>",
+                                        "target": "and with this, …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">diciamo, …</span>",
+                                        "target": "suppose, …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">(mi) dica</span>",
+                                        "target": "can I help you?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">è facile a dirsi</span>",
+                                        "target": "it&#39;s easy for you to say"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. dire <span class=\"sense\">(significare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">come sarebbe a <strong class=\"tilde\">dire?</strong></span>",
+                                        "target": "what does that mean?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">voler <strong class=\"tilde\">dire</strong></span>",
+                                        "target": "to mean"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">vale a <strong class=\"tilde\">dire</strong></span>",
+                                        "target": "that is"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. dire <span class=\"sense\">(pensare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">che ne dici del mio abito nuovo?</span>",
+                                        "target": "what do you think of my new dress?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">che ne dici di uscire a cena?</span>",
+                                        "target": "shall we go out for dinner?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. dire <span class=\"sense\">(chiamare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dire</strong>",
+                                        "target": "to call"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "dire",
+                        "headword_full": "dire<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">hai un bel <strong class=\"tilde\">dire</strong></span>",
+                                        "target": "that&#39;s easy for you to say"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tra il <strong class=\"tilde\">dire</strong> e il fare c&#39;è di mezzo il mare</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "it&#39;s easier said than done"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "dire",
+                        "headword_full": "dire <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "diciamocelo",
+                                        "target": "let&#39;s face it"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">whose</strong> son is he?</span>",
+                "target": "di chi è figlio?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">whose</strong> book is this?</span>",
+                "target": "di chi è questo libro?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">whose</strong> is this pen?</span>",
+                "target": "di chi è questa penna?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">I know <strong class=\"tilde\">whose</strong> this is</span>",
+                "target": "questo so di chi è"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">so <strong class=\"tilde\">help</strong> me God</span>",
+                "target": "e che Dio m&#39;assista"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">it is <strong class=\"tilde\">crucial</strong> that …</span>",
+                "target": "è di vitale importanza che … <span class=\"modus\">+subj</span>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">what <strong class=\"tilde\">manner</strong> of man is he?</span>",
+                "target": "che razza di uomo è?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">what ever became of her?</span>",
+                "target": "che cosa ne è stato di lei?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">what <strong class=\"tilde\">color</strong> is your dress?</span>",
+                "target": "di che colore è il tuo vestito?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">the <strong class=\"tilde\">great</strong> thing about <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym> is (that)</span>",
+                "target": "il bello di <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym> è (che)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">that&#39;s what I like <strong class=\"tilde\">about</strong> him</span>",
+                "target": "è questo che mi piace di lui"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">what has become <strong class=\"tilde\">of</strong> him?</span>",
+                "target": "che cosa ne è stato di lui?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">musty</strong> <span class=\"collocator\">room</span>",
+                "target": "che ha odore di umido e di chiuso"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">she is a girl after my own <strong class=\"tilde\">heart</strong></span>",
+                "target": "è una ragazza di quelle che piacciono a me"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">it was no <strong class=\"tilde\">consolation</strong> to him to know that …</span>",
+                "target": "non gli è stato di alcun conforto sapere che …"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">di <strong class=\"tilde\">chi</strong> è questo giornale?</span>",
+                "target": "whose is this newspaper?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">che è avvenuto di lui?</span>",
+                "target": "what became of him?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">mi è sfuggito di bocca che …</span>",
+                "target": "I let it slip that …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">ha una casa che è <strong class=\"tilde\">l&#39;invidia</strong> di tutti</span>",
+                "target": "his <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> her]</span> house is the envy of everybody"
+            }
+        ]
+    }
+]

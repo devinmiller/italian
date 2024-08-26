@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to pay a <strong class=\"tilde\">call</strong> on <acronym title=\"somebody\">sb</acronym></span>",
+                "target": "fare visita a <acronym title=\"qualcuno\">qu</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">visit</strong>",
+                "target": "fare una visita"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">call on</strong>",
+                "target": "fare visita a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">pay</strong> a call (on <acronym title=\"somebody\">sb</acronym>)</span>, <span class=\"example\">to <strong class=\"tilde\">pay</strong> (<acronym title=\"somebody\">sb</acronym>) a call</span>",
+                "target": "fare una visita (a <acronym title=\"qualcuno\">qu</acronym>)"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">fare (una) <strong class=\"tilde\">visita</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                "target": "to visit with <acronym title=\"somebody\">sb</acronym>"
+            }
+        ]
+    }
+]

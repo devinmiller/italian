@@ -1,0 +1,90 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fattura",
+                        "headword_full": "fattura <span class=\"phonetics\">[fat<span class=\"separator\">·</span>ˈtu:<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. fattura <span class=\"sense\">(documento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fattura</strong>",
+                                        "target": "invoice"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">rilasciare una <strong class=\"tilde\">fattura</strong></span>",
+                                        "target": "to send out an invoice"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">fattura</strong> pro forma</span>",
+                                        "target": "pro forma invoice"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fattura:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fattura</strong> <span class=\"sense\">(foggia: di abito)</span>",
+                                        "target": "tailoring"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">fattura</strong> <span class=\"sense\">(di mobile)</span>",
+                                        "target": "craftsmanship"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. fattura <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(maleficio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fattura</strong>",
+                                        "target": "spell"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fatturare",
+                        "headword_full": "fatturare <span class=\"phonetics\">[fat<span class=\"separator\">·</span>tu<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. fatturare <span class=\"sense\">(merce, prestazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fatturare</strong>",
+                                        "target": "to invoice for"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fatturare <span class=\"sense\">(volume d&#39;affari)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fatturare</strong>",
+                                        "target": "to have a turnover of"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

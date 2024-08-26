@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "dissotterrare",
+                        "headword_full": "dissotterrare <span class=\"phonetics\">[dis<span class=\"separator\">·</span>sot<span class=\"separator\">·</span>ter<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. dissotterrare <span class=\"sense\">(rovine)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dissotterrare</strong>",
+                                        "target": "to excavate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. dissotterrare <span class=\"sense\">(cadavere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">dissotterrare</strong>",
+                                        "target": "to exhume"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

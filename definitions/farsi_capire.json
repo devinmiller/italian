@@ -1,0 +1,30 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to make oneself understood</span>",
+                "target": "farsi capire"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">make</strong> oneself understood</span>",
+                "target": "farsi capire"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">farsi <strong class=\"tilde\">capire</strong></span>",
+                "target": "to make oneself understood"
+            }
+        ]
+    }
+]

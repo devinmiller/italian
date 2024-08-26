@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "estraneità",
+                        "headword_full": "estraneità <span class=\"flexion\">&lt;-&gt;</span> <span class=\"phonetics\">[es<span class=\"separator\">·</span>tra<span class=\"separator\">·</span>nei<span class=\"separator\">·</span>ˈta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"sense\">(non partecipazione)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">estraneità</strong>",
+                                        "target": "non-involvement"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">oneself</strong>",
+                "target": "da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">solo</strong>",
+                "target": "da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">solo</strong> <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>",
+                "target": "da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">by <strong class=\"tilde\">itself</strong></span>",
+                "target": "da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">find</strong> oneself alone</span>",
+                "target": "ritrovarsi da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to do <acronym title=\"something\">sth</acronym> <strong class=\"tilde\">alone</strong></span>",
+                "target": "fare qualcosa da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to speak to <strong class=\"tilde\">oneself</strong></span>",
+                "target": "parlare da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">I <strong class=\"tilde\">wish</strong> to be alone</span>",
+                "target": "desidero stare da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">go</strong> it alone</span>",
+                "target": "farlo da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to do <acronym title=\"something\">sth</acronym> <strong class=\"tilde\">by</strong> oneself</span>",
+                "target": "fare <acronym title=\"qualcosa\">qc</acronym> da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">I live by <strong class=\"tilde\">myself</strong></span>",
+                "target": "vivo da solo <span class=\"target\">[<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> per conto mio]</span>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">it speaks for itself</span>",
+                "target": "si commenta da solo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">by</strong> oneself</span>",
+                "target": "stare da solo"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">da</strong> solo</span>",
+                "target": "alone"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">parlare da <strong class=\"tilde\">solo</strong></span>",
+                "target": "to talk to oneself"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">vivere (da) <strong class=\"tilde\">solo</strong></span>",
+                "target": "to live alone"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">da vendersi solo in <strong class=\"tilde\">farmacia</strong></span>",
+                "target": "available only on prescription"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">uno che s&#39;è fatto da <strong class=\"tilde\">solo</strong></span>",
+                "target": "a self-made man"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">si è mangiato mezza torta da solo</span>",
+                "target": "he ate half a cake all on his own"
+            }
+        ]
+    }
+]

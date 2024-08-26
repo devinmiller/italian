@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "fogna",
+                        "headword_full": "fogna <span class=\"phonetics\">[ˈfoɲ<span class=\"separator\">·</span>ɲa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. fogna <span class=\"sense\">(discarica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fogna</strong>",
+                                        "target": "sewer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. fogna <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym>, <acronym title=\"pejorative\">pej</acronym></span> <span class=\"sense\">(ambiente sporco)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">fogna</strong>",
+                                        "target": "pigsty"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
