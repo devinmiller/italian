@@ -1,0 +1,59 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cancellare",
+                        "headword_full": "cancellare <span class=\"phonetics\">[kan<span class=\"separator\">·</span>tʃel<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cancellare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cancellare</strong> <span class=\"sense\">(con la gomma)</span>",
+                                        "target": "to erase"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cancellare</strong> <span class=\"sense\">(con la penna)</span>",
+                                        "target": "to cross out"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cancellare</strong> <span class=\"sense\">(sulla lavagna)</span>",
+                                        "target": "to wipe off"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cancellare</strong> <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>",
+                                        "target": "to delete"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cancellare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(appuntamento, prenotazione, volo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cancellare</strong>",
+                                        "target": "to cancel"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cancellare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(ricordo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cancellare</strong>",
+                                        "target": "to erase"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

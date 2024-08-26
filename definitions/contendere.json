@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "contendere",
+                        "headword_full": "contendere <span class=\"phonetics\">[kon<span class=\"separator\">·</span>ˈtɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">contendere</strong>",
+                                        "target": "to compete for"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">contendere</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to compete with <acronym title=\"somebody\">sb</acronym> for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "contendere",
+                        "headword_full": "contendere <span class=\"phonetics\">[kon<span class=\"separator\">·</span>ˈtɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "contendere <span class=\"reflection\">contendersi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">contendersi <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to compete for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

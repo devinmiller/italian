@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "comparire",
+                        "headword_full": "comparire <span class=\"flexion\">&lt;comparisco [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> compaio], comparvi [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> comparii], comparso&gt;</span> <span class=\"phonetics\">[kom<span class=\"separator\">·</span>pa<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">comparire</strong>",
+                                        "target": "to appear"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

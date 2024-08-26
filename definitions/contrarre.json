@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "contrarre",
+                        "headword_full": "contrarre <span class=\"phonetics\">[kon<span class=\"separator\">·</span>ˈtrar<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. contrarre <span class=\"sense\">(patto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">contrarre</strong>",
+                                        "target": "to enter into"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">contrarre</strong> matrimonio</span>",
+                                        "target": "to get married"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. contrarre <span class=\"sense\">(malattia, debito, muscoli)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">contrarre</strong>",
+                                        "target": "to contract"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "contrarre",
+                        "headword_full": "contrarre <span class=\"phonetics\">[kon<span class=\"separator\">·</span>ˈtrar<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "contrarre <span class=\"reflection\">contrarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">contrarsi</span>",
+                                        "target": "to contract"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

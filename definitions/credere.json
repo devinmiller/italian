@@ -1,0 +1,141 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "credere",
+                        "headword_full": "credere<sup>1</sup> <span class=\"flexion\">&lt;credo, credetti [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> credei], creduto&gt;</span> <span class=\"phonetics\">[ˈkre:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. credere <span class=\"sense\">(ritenere vero)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">credere</strong>",
+                                        "target": "to believe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">io non ci credo</span>",
+                                        "target": "I don&#39;t believe it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">lo credo bene!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "I should think so!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. credere <span class=\"sense\">(ritenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">credere</strong>",
+                                        "target": "to think"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">lo credo capace di tutto</span>",
+                                        "target": "I think he&#39;s capable of anything"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">credo che …</span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span>",
+                                        "target": "I think (that) …"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. credere <span class=\"sense\">(ritenere opportuno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">credere</strong>",
+                                        "target": "to think"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fa come credi</span>",
+                                        "target": "do as you like"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "credere",
+                        "headword_full": "credere<sup>1</sup> <span class=\"flexion\">&lt;credo, credetti [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> credei], creduto&gt;</span> <span class=\"phonetics\">[ˈkre:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">credere</strong>",
+                                        "target": "to believe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">credere</strong> in <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to believe in <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">credere</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to believe <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non potevo <strong class=\"tilde\">credere</strong> ai miei occhi</span>",
+                                        "target": "I couldn&#39;t believe my eyes"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "credere",
+                        "headword_full": "credere<sup>1</sup> <span class=\"flexion\">&lt;credo, credetti [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> credei], creduto&gt;</span> <span class=\"phonetics\">[ˈkre:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "credere <span class=\"reflection\">credersi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">credersi</span>",
+                                        "target": "to think oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">credersi furbo/intelligente</span>",
+                                        "target": "to think one is smart/intelligent"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ma chi ti credi di essere?</span>",
+                                        "target": "who do you think you are?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "credere",
+                        "headword_full": "credere<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"sense\">(opinione)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">credere</strong>",
+                                        "target": "opinion"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "chiacchierare",
+                        "headword_full": "chiacchierare <span class=\"phonetics\">[kiak<span class=\"separator\">·</span>kie<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. chiacchierare <span class=\"sense\">(parlare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiacchierare</strong>",
+                                        "target": "to chat"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. chiacchierare <span class=\"rhetoric\"><acronym title=\"pejorative\">pej</acronym></span> <span class=\"sense\">(spettegolare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiacchierare</strong>",
+                                        "target": "to gossip"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

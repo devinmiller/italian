@@ -1,0 +1,86 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "chiedere",
+                        "headword_full": "chiedere <span class=\"flexion\">&lt;chiedo, chiesi, chiesto&gt;</span> <span class=\"phonetics\">[ˈkiɛ:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. chiedere <span class=\"sense\">(per sapere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiedere</strong>",
+                                        "target": "to ask"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiedere</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to ask <acronym title=\"somebody\">sb</acronym> for <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiedere</strong> il prezzo di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to ask the price of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiedere</strong> notizie di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to ask after <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. chiedere <span class=\"sense\">(per avere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiedere</strong>",
+                                        "target": "to ask for"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiedere</strong> a <acronym title=\"qualcuno\">qu</acronym> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to ask <acronym title=\"somebody\">sb</acronym> to do <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiedere</strong> un favore a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to ask <acronym title=\"somebody\">sb</acronym> a favor"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiedere</strong> la mano di una ragazza</span>",
+                                        "target": "to ask for a girl&#39;s hand"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "chiedere",
+                        "headword_full": "chiedere <span class=\"flexion\">&lt;chiedo, chiesi, chiesto&gt;</span> <span class=\"phonetics\">[ˈkiɛ:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiedere</strong>",
+                                        "target": "to ask"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiedere</strong> di <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(computarsi)</span>",
+                                        "target": "to ask about <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiedere</strong> di <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(al telefono)</span>",
+                                        "target": "to ask for <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

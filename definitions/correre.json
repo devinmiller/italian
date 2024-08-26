@@ -1,0 +1,110 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "correre",
+                        "headword_full": "correre <span class=\"flexion\">&lt;corro, corsi, corso&gt;</span> <span class=\"phonetics\">[ˈkor<span class=\"separator\">·</span>re<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere o avere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. correre <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">correre</strong>",
+                                        "target": "to run"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">correre</strong> dietro a <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to chase after <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">lasciar <strong class=\"tilde\">correre</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to let it go"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">correre</strong> a gambe levate</span>",
+                                        "target": "to run as fast as one&#39;s legs can carry one"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">correre</strong> ai ripari</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to take remedial action"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. correre <span class=\"sense\">(in auto, moto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">correre</strong>",
+                                        "target": "to drive fast"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. correre <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(gareggiare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">correre</strong>",
+                                        "target": "to race"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. correre <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(strade)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">correre</strong>",
+                                        "target": "to run"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. correre <span class=\"sense\">(tempo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">correre</strong>",
+                                        "target": "to fly"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "correre",
+                        "headword_full": "correre <span class=\"flexion\">&lt;corro, corsi, corso&gt;</span> <span class=\"phonetics\">[ˈkor<span class=\"separator\">·</span>re<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. correre <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">correre</strong> <span class=\"sense\">(distanza)</span>",
+                                        "target": "to run"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">correre</strong> <span class=\"sense\">(gara)</span>",
+                                        "target": "to race in"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. correre <span class=\"sense\">(rischio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">correre</strong>",
+                                        "target": "to run"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

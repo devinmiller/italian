@@ -1,0 +1,294 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "coperto",
+                        "headword_full": "coperto    <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈpɛr<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. coperto <span class=\"sense\">(in tavola)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">coperto</strong>",
+                                        "target": "cover charge"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. coperto <span class=\"sense\">(luogo riparato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">stare al <strong class=\"tilde\">coperto</strong></span>",
+                                        "target": "to be under cover"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry_with_secondary_entries",
+                "primary_entry": {
+                    "type": "entry",
+                    "opendict": false,
+                    "roms": [
+                        {
+                            "headword": "coperto",
+                            "headword_full": "coperto <span class=\"feminine\">(-a)</span>   <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                            "wordclass": "verb",
+                            "arabs": [
+                                {
+                                    "header": "coperto <span class=\"reference_qualification\"><acronym title=\"past participle\">pp</acronym> di</span> <span class=\"indirect_reference_RQ\"> coprire</span>",
+                                    "translations": [
+                                        {
+                                            "source": "",
+                                            "target": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "headword": "coperto",
+                            "headword_full": "coperto <span class=\"feminine\">(-a)</span>   <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                            "wordclass": "adjective and adverb",
+                            "arabs": [
+                                {
+                                    "header": "1. coperto:",
+                                    "translations": [
+                                        {
+                                            "source": "<strong class=\"headword\">coperto</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(struttura)</span>",
+                                            "target": "covered"
+                                        },
+                                        {
+                                            "source": "<strong class=\"headword\">coperto</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(luogo)</span>",
+                                            "target": "indoor"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "header": "2. coperto <span class=\"topic\"><acronym title=\"finance, banking, stock exchange\">FIN</acronym></span> <span class=\"sense\">(assegno, rischio)</span>:",
+                                    "translations": [
+                                        {
+                                            "source": "<strong class=\"headword\">coperto</strong> <span class=\"feminine\">(-a)</span>",
+                                            "target": "covered"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "header": "3. coperto <span class=\"topic\"><acronym title=\"meteorology\">METEO</acronym></span> <span class=\"sense\">(cielo, tempo)</span>:",
+                                    "translations": [
+                                        {
+                                            "source": "<strong class=\"headword\">coperto</strong> <span class=\"feminine\">(-a)</span>",
+                                            "target": "overcast"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "header": "4. coperto <span class=\"sense\">(cosparso)</span>:",
+                                    "translations": [
+                                        {
+                                            "source": "<span class=\"example\">essere <strong class=\"tilde\">coperto</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                            "target": "to be covered with <acronym title=\"something\">sth</acronym>"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "secondary_entries": [
+                    {
+                        "type": "entry",
+                        "opendict": false,
+                        "roms": [
+                            {
+                                "headword": "coprire",
+                                "headword_full": "coprire   <span class=\"flexion\">&lt;copro, coprii [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> copersi], coperto&gt;</span>  <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                                "wordclass": "transitive verb",
+                                "arabs": [
+                                    {
+                                        "header": "1. coprire <span class=\"sense\">(gener)</span>:",
+                                        "translations": [
+                                            {
+                                                "source": "<strong class=\"headword\">coprire</strong>",
+                                                "target": "to cover"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "header": "2. coprire <span class=\"sense\">(riempire)</span>:",
+                                        "translations": [
+                                            {
+                                                "source": "<span class=\"example\"><strong class=\"tilde\">coprire</strong> <acronym title=\"qualcuno\">qu</acronym> di baci</span>",
+                                                "target": "to shower <acronym title=\"somebody\">sb</acronym> with kisses"
+                                            },
+                                            {
+                                                "source": "<span class=\"example\"><strong class=\"tilde\">coprire</strong> <acronym title=\"qualcuno\">qu</acronym> di insulti</span>",
+                                                "target": "to hurl abuse at <acronym title=\"somebody\">sb</acronym>"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "header": "3. coprire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(carica)</span>:",
+                                        "translations": [
+                                            {
+                                                "source": "<strong class=\"headword\">coprire</strong>",
+                                                "target": "to hold"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "headword": "coprire",
+                                "headword_full": "coprire   <span class=\"flexion\">&lt;copro, coprii [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> copersi], coperto&gt;</span>  <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">coprirsi</span>",
+                                "wordclass": "reflexive verb",
+                                "arabs": [
+                                    {
+                                        "header": "1. coprire <span class=\"topic\"><acronym title=\"finance, banking, stock exchange\">FIN</acronym></span>:",
+                                        "translations": [
+                                            {
+                                                "source": "<span class=\"reflection\">coprirsi</span>",
+                                                "target": "to cover oneself"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "header": "2. coprire <span class=\"sense\">(cielo)</span>:",
+                                        "translations": [
+                                            {
+                                                "source": "<span class=\"reflection\">coprirsi</span>",
+                                                "target": "to become overcast"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "header": "3. coprire <span class=\"sense\">(colmarsi)</span>:",
+                                        "translations": [
+                                            {
+                                                "source": "<span class=\"example\">coprirsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                                "target": "to cover oneself with <acronym title=\"something\">sth</acronym>"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "header": "4. coprire <span class=\"sense\">(con vestiti)</span>:",
+                                        "translations": [
+                                            {
+                                                "source": "<span class=\"reflection\">coprirsi</span>",
+                                                "target": "to wrap up"
+                                            },
+                                            {
+                                                "source": "<span class=\"example\">coprirsi bene</span>",
+                                                "target": "to wrap up well"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "coprire",
+                        "headword_full": "coprire   <span class=\"flexion\">&lt;copro, coprii [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> copersi], coperto&gt;</span>  <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. coprire <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">coprire</strong>",
+                                        "target": "to cover"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. coprire <span class=\"sense\">(riempire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">coprire</strong> <acronym title=\"qualcuno\">qu</acronym> di baci</span>",
+                                        "target": "to shower <acronym title=\"somebody\">sb</acronym> with kisses"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">coprire</strong> <acronym title=\"qualcuno\">qu</acronym> di insulti</span>",
+                                        "target": "to hurl abuse at <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. coprire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(carica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">coprire</strong>",
+                                        "target": "to hold"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "coprire",
+                        "headword_full": "coprire   <span class=\"flexion\">&lt;copro, coprii [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> copersi], coperto&gt;</span>  <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">coprirsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. coprire <span class=\"topic\"><acronym title=\"finance, banking, stock exchange\">FIN</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">coprirsi</span>",
+                                        "target": "to cover oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. coprire <span class=\"sense\">(cielo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">coprirsi</span>",
+                                        "target": "to become overcast"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. coprire <span class=\"sense\">(colmarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">coprirsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to cover oneself with <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. coprire <span class=\"sense\">(con vestiti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">coprirsi</span>",
+                                        "target": "to wrap up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">coprirsi bene</span>",
+                                        "target": "to wrap up well"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

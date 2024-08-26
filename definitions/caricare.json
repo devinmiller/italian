@@ -1,0 +1,155 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "caricare",
+                        "headword_full": "caricare <span class=\"phonetics\">[ka<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. caricare <span class=\"sense\">(macchina, camion, nave, merce)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to load"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. caricare <span class=\"sense\">(passeggeri)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to pick up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. caricare <span class=\"sense\">(batterie)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to charge"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. caricare <span class=\"sense\">(fucile, pistola, macchina fotografica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to load"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. caricare <span class=\"sense\">(orologio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to wind (up)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. caricare <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span> <span class=\"sense\">(assaltare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to charge"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. caricare <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to tackle"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. caricare <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span> <span class=\"sense\">(programma)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to load"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. caricare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(oberare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to overload"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">caricare</strong> <acronym title=\"qualcuno\">qu</acronym> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to overload <acronym title=\"somebody\">sb</acronym> with <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. caricare <span class=\"sense\">(aumentare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">caricare</strong>",
+                                        "target": "to increase"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">caricare</strong> il prezzo di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to put up the price of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">caricare</strong> la dose</span>",
+                                        "target": "to increase the dose"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">caricare</strong> la dose</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(esagerare)</span>",
+                                        "target": "to lay it on thick"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "caricare",
+                        "headword_full": "caricare <span class=\"phonetics\">[ka<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">caricarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. caricare:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">caricarsi di <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(di pacchi)</span>",
+                                        "target": "to load oneself with <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">caricarsi</span> <span class=\"sense\">(di lavoro)</span>",
+                                        "target": "to overload oneself with <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. caricare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(gasarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">caricarsi</span>",
+                                        "target": "to psych oneself up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

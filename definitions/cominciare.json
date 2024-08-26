@@ -1,0 +1,69 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cominciare",
+                        "headword_full": "cominciare <span class=\"phonetics\">[ko<span class=\"separator\">·</span>min<span class=\"separator\">·</span>ˈtʃa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cominciare</strong>",
+                                        "target": "to start"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">comincia a piovere</span>",
+                                        "target": "it&#39;s starting to rain"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cominciare</strong> col dire …</span>",
+                                        "target": "to start by saying …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a che ora cominciano le lezioni?</span>",
+                                        "target": "what time do lectures start?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">cominciare</strong> da oggi</span>",
+                                        "target": "starting from today"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ha cominciato a suonare la chitarra</span>",
+                                        "target": "she&#39;s started to play the guitar"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">una parola che comincia per elle</span>",
+                                        "target": "a word that starts with ‘l’"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cominciare",
+                        "headword_full": "cominciare <span class=\"phonetics\">[ko<span class=\"separator\">·</span>min<span class=\"separator\">·</span>ˈtʃa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(lavoro, studi, discorso, libro)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cominciare</strong>",
+                                        "target": "to start"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

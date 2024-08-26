@@ -1,0 +1,100 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cantare",
+                        "headword_full": "cantare <span class=\"phonetics\">[kan<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cantare <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cantare</strong>",
+                                        "target": "to <acronym title=\"singolare\">sing</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cantare</strong> da tenore</span>",
+                                        "target": "to <acronym title=\"singolare\">sing</acronym> tenor"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">canta che ti passa</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "don&#39;t worry and it&#39;ll be all right"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cantare <span class=\"topic\"><acronym title=\"zoology\">ZOOL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cantare</strong> <span class=\"sense\">(gallo)</span>",
+                                        "target": "to crow"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cantare</strong> <span class=\"sense\">(uccello)</span>",
+                                        "target": "to <acronym title=\"singolare\">sing</acronym>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cantare</strong> <span class=\"sense\">(grillo)</span>",
+                                        "target": "to chirp"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cantare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(fare la spia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cantare</strong>",
+                                        "target": "to squeal"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cantare",
+                        "headword_full": "cantare <span class=\"phonetics\">[kan<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cantare <span class=\"sense\">(canzone)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cantare</strong>",
+                                        "target": "to <acronym title=\"singolare\">sing</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cantare <span class=\"sense\">(persone, fatti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cantare</strong>",
+                                        "target": "to <acronym title=\"singolare\">sing</acronym> of"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cantare</strong> le lodi di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to <acronym title=\"singolare\">sing</acronym> <acronym title=\"somebody's\">sb's</acronym> praises"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">cantar vittoria</span>",
+                                        "target": "to claim victory"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">cantarne quattro a <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to give <acronym title=\"somebody\">sb</acronym> a piece of one&#39;s mind"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

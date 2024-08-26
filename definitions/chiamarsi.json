@@ -1,0 +1,157 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "chiamare",
+                        "headword_full": "chiamare <span class=\"phonetics\">[kia<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. chiamare <span class=\"sense\">(rivolgersi a)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiamare</strong>",
+                                        "target": "to call"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiamare</strong> <acronym title=\"qualcuno\">qu</acronym> per nome</span>",
+                                        "target": "to call <acronym title=\"somebody\">sb</acronym> by name"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. chiamare <span class=\"sense\">(far venire: medico, polizia, taxi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiamare</strong>",
+                                        "target": "to call"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mandare a <strong class=\"tilde\">chiamare</strong> <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to send for <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. chiamare <span class=\"sense\">(telefonare a)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiamare</strong>",
+                                        "target": "to call"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. chiamare <span class=\"sense\">(svegliare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiamare</strong>",
+                                        "target": "to call"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. chiamare <span class=\"sense\">(radunare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiamare</strong> a raccolta</span>",
+                                        "target": "to gather together"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiamare</strong> alle armi</span> <span class=\"sense\">(al servizio di leva)</span>",
+                                        "target": "to call to arms"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. chiamare <span class=\"sense\">(mettere nome a)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiamare</strong>",
+                                        "target": "to call"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">lo hanno chiamato Davide</span>",
+                                        "target": "they called him Davide"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. chiamare <span class=\"sense\">(definire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiamare</strong>",
+                                        "target": "to call"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiamare</strong> le cose col loro (vero) nome</span>",
+                                        "target": "to call a spade a spade"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. chiamare <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span> <span class=\"sense\">(citare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiamare</strong>",
+                                        "target": "to call"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiamare</strong> in giudizio</span>",
+                                        "target": "to summons"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">chiamare</strong> in causa</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to involve"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. chiamare <span class=\"sense\">(nominare: a carica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chiamare</strong>",
+                                        "target": "to appoint"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "chiamare",
+                        "headword_full": "chiamare <span class=\"phonetics\">[kia<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "chiamare <span class=\"reflection\">chiamarsi</span> <span class=\"sense\">(aver nome)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">chiamarsi</span>",
+                                        "target": "to be called"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come ti chiami?</span>",
+                                        "target": "what&#39;s your name?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi chiamo Davide</span>",
+                                        "target": "my name&#39;s Davide"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come si chiama questo fiore?</span>",
+                                        "target": "what&#39;s this flower called?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

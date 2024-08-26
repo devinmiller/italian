@@ -1,0 +1,75 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "conoscere",
+                        "headword_full": "conoscere <span class=\"flexion\">&lt;conosco, conobbi, conosciuto&gt;</span> <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈnoʃ<span class=\"separator\">·</span>ʃe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. conoscere <span class=\"sense\">(persona, metodo, ristorante, lingua)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">conoscere</strong>",
+                                        "target": "to know"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">conoscere</strong> <acronym title=\"qualcuno\">qu</acronym> di vista/personalmente</span>",
+                                        "target": "to know <acronym title=\"somebody\">sb</acronym> by sight/personally"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ti faccio <strong class=\"tilde\">conoscere</strong> mio fratello</span>",
+                                        "target": "I&#39;ll introduce you to my brother"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">conosco i miei polli</span> <span class=\"rhetoric\"><acronym title=\"humorous\">hum</acronym></span>",
+                                        "target": "I know who I&#39;m dealing with"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. conoscere <span class=\"sense\">(incontrare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">conoscere</strong>",
+                                        "target": "to meet"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "conoscere",
+                        "headword_full": "conoscere <span class=\"flexion\">&lt;conosco, conobbi, conosciuto&gt;</span> <span class=\"phonetics\">[ko<span class=\"separator\">·</span>ˈnoʃ<span class=\"separator\">·</span>ʃe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">conoscersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. conoscere <span class=\"sense\">(incontrarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">conoscersi</span>",
+                                        "target": "to meet"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. conoscere <span class=\"sense\">(essere amici)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">conoscersi</span>",
+                                        "target": "to know each other"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

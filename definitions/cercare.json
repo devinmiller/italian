@@ -1,0 +1,87 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cercare",
+                        "headword_full": "cercare <span class=\"phonetics\">[tʃer<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cercare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cercare</strong> <span class=\"sense\">(tentare di trovare)</span>",
+                                        "target": "to look for"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cercare</strong> <span class=\"sense\">(in un libro)</span>",
+                                        "target": "to look up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cercare</strong> marito/moglie/</span>",
+                                        "target": "to look for a husband/wife"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cercare</strong> guai</span>",
+                                        "target": "to look for trouble"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">‘cercasi …’</span>",
+                                        "target": "‘… wanted’"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cercare <span class=\"sense\">(tentare di ottenere: gloria, fama, potere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cercare</strong>",
+                                        "target": "to seek"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cercare <span class=\"sense\">(desiderare: affetto, serenità, tranquillità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cercare</strong>",
+                                        "target": "to want"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cercare",
+                        "headword_full": "cercare <span class=\"phonetics\">[tʃer<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(sforzarsi)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cercare</strong>",
+                                        "target": "to try"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">cercherò di sbrigarmi</span>",
+                                        "target": "I&#39;ll try to be quick"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">chi cerca trova</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "seek and ye shall find"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

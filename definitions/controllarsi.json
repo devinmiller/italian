@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "controllare",
+                        "headword_full": "controllare <span class=\"phonetics\">[kon<span class=\"separator\">·</span>trol<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. controllare <span class=\"sense\">(documenti, biglietti, risposta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">controllare</strong>",
+                                        "target": "to check"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. controllare <span class=\"sense\">(attività)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">controllare</strong>",
+                                        "target": "to keep a watch on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. controllare <span class=\"sense\">(mercato, avversario, gesti, emozioni)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">controllare</strong>",
+                                        "target": "to control"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "controllare",
+                        "headword_full": "controllare <span class=\"phonetics\">[kon<span class=\"separator\">·</span>trol<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "controllare <span class=\"reflection\">controllarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">controllarsi</span>",
+                                        "target": "to control oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non riuscire a controllarsi</span>",
+                                        "target": "not to be able to control oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">controllarsi nel mangiare</span>",
+                                        "target": "to watch what one eats"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

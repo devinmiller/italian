@@ -13,7 +13,7 @@ def fetch_dictionary_data(term):
     params = {
         'l': 'enit',
         'in': 'it',
-        'ref': 'true',
+        'ref': 'false',
         'q': term
     }
     

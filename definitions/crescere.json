@@ -1,0 +1,84 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "crescere",
+                        "headword_full": "crescere <span class=\"flexion\">&lt;cresco, crebbi, cresciuto&gt;</span> <span class=\"phonetics\">[ˈkreʃ<span class=\"separator\">·</span>ʃe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. crescere <span class=\"sense\">(svilupparsi: persona, pianta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">crescere</strong>",
+                                        "target": "to grow"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi <strong class=\"tilde\">crescere</strong> i capelli</span>",
+                                        "target": "to grow one&#39;s hair"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come sei cresciuto!</span>",
+                                        "target": "how you&#39;ve grown!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. crescere <span class=\"sense\">(spuntare: denti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">crescere</strong>",
+                                        "target": "to come through"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. crescere <span class=\"sense\">(aumentare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">crescere</strong>",
+                                        "target": "to increase"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">crescere</strong> di peso/volume</span>",
+                                        "target": "to increase in weight/volume"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. crescere <span class=\"sense\">(diventare adulto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">crescere</strong>",
+                                        "target": "to grow up"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "crescere",
+                        "headword_full": "crescere <span class=\"flexion\">&lt;cresco, crebbi, cresciuto&gt;</span> <span class=\"phonetics\">[ˈkreʃ<span class=\"separator\">·</span>ʃe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(allevare: figli)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">crescere</strong>",
+                                        "target": "to raise"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

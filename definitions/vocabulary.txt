@@ -90,14 +90,17 @@ colmo
 colpire
 colpo
 colpo di fulmine
+coltivare
 coltivato
 com'è ovvio
+combattere
 combattuto
 come entro
 come faccio a
 come mai
 come si fa a
 commossa
+commuovere
 commovente
 commozione
 compagnia
@@ -117,6 +120,7 @@ condivido
 condurre
 confine
 confondere
+confrontare
 confrontarsi
 confronto
 conoscente

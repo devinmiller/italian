@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "comprendere",
+                        "headword_full": "comprendere <span class=\"phonetics\">[kom<span class=\"separator\">·</span>ˈprɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. comprendere <span class=\"sense\">(capire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">comprendere</strong>",
+                                        "target": "to understand"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. comprendere <span class=\"sense\">(contenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">comprendere</strong>",
+                                        "target": "to consist of"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "comprendere",
+                        "headword_full": "comprendere <span class=\"phonetics\">[kom<span class=\"separator\">·</span>ˈprɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "comprendere <span class=\"reflection\">comprendersi</span> <span class=\"sense\">(capirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">comprendersi</span>",
+                                        "target": "to understand each other"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

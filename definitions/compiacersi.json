@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "compiacere",
+                        "headword_full": "compiacere <span class=\"phonetics\">[kom<span class=\"separator\">·</span>pia<span class=\"separator\">·</span>ˈtʃe:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(assecondare)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">compiacere</strong>",
+                                        "target": "to please"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "compiacere",
+                        "headword_full": "compiacere <span class=\"phonetics\">[kom<span class=\"separator\">·</span>pia<span class=\"separator\">·</span>ˈtʃe:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "compiacere <span class=\"reflection\">compiacersi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">compiacersi</span>",
+                                        "target": "to be pleased"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">compiacersi con <acronym title=\"qualcuno\">qu</acronym> per <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to congratulate <acronym title=\"somebody\">sb</acronym> on <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

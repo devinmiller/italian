@@ -1,0 +1,53 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "comunicare",
+                        "headword_full": "comunicare <span class=\"phonetics\">[ko<span class=\"separator\">·</span>mu<span class=\"separator\">·</span>ni<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(notizia, data, dati, nomi, sentimenti)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">comunicare</strong>",
+                                        "target": "to communicate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">comunicare</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to inform <acronym title=\"somebody\">sb</acronym> of <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "comunicare",
+                        "headword_full": "comunicare <span class=\"phonetics\">[ko<span class=\"separator\">·</span>mu<span class=\"separator\">·</span>ni<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">comunicare</strong>",
+                                        "target": "to communicate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">comunicare</strong> con <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to communicate with <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

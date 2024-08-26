@@ -1,0 +1,197 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cadere",
+                        "headword_full": "cadere<sup>1</sup> <span class=\"flexion\">&lt;cado, caddi, caduto&gt;</span> <span class=\"phonetics\">[ka<span class=\"separator\">·</span>ˈde:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cadere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong> <span class=\"sense\">(cascare: persona)</span>",
+                                        "target": "to fall"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong> <span class=\"sense\">(aereo)</span>",
+                                        "target": "to crash"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> lungo e disteso</span>",
+                                        "target": "to fall flat on one&#39;s face"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> morto</span>",
+                                        "target": "to drop dead"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> in piedi</span> <span class=\"rhetoric\">a <acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to land on one&#39;s feet"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> dalle nuvole</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to be shocked"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">far <strong class=\"tilde\">cadere</strong> <acronym title=\"qualcosa\">qc</acronym> dall&#39;alto</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to flaunt <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cadere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong> <span class=\"sense\">(staccarsi: capelli)</span>",
+                                        "target": "to fall out"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong> <span class=\"sense\">(foglie, frutta)</span>",
+                                        "target": "to fall"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cadere <span class=\"sense\">(abito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong>",
+                                        "target": "to hang"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">quest&#39;abito cade bene</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "this suit hangs well"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. cadere <span class=\"sense\">(trovarsi in difficoltà)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> ammalato</span>",
+                                        "target": "to fall sick"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> in disgrazia</span>",
+                                        "target": "to fall out of favor"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> in miseria</span>",
+                                        "target": "to fall on hard times"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> nell&#39;oblio</span>",
+                                        "target": "to be completely forgotten"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. cadere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(morire: in battaglia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong>",
+                                        "target": "to fall <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. cadere <span class=\"sense\">(crollare: edificio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong>",
+                                        "target": "to fall down"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. cadere <span class=\"topic\"><acronym title=\"politics\">POL</acronym></span> <span class=\"sense\">(governo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong>",
+                                        "target": "to fall"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">far <strong class=\"tilde\">cadere</strong> un governo</span>",
+                                        "target": "to bring down a government"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. cadere <span class=\"sense\">(venir giù: pioggia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong>",
+                                        "target": "to fall"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. cadere <span class=\"sense\">(finire: vento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cadere</strong>",
+                                        "target": "to drop"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. cadere <span class=\"sense\">(capitare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> a proposito</span>",
+                                        "target": "to come at the right time"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. cadere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> nel ridicolo</span>",
+                                        "target": "to make a fool of oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> nel volgare</span>",
+                                        "target": "to descend into vulgarity"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">cadere</strong> dalla padella nella brace</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to jump out of the frying pan into the fire"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cadere",
+                        "headword_full": "cadere<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">al <strong class=\"tilde\">cadere</strong> del sole</span>",
+                                        "target": "at sunset"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

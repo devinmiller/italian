@@ -1,0 +1,25 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">wonder</strong>",
+                "target": "chiedersi"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">wonder</strong> about <acronym title=\"something\">sth</acronym></span>",
+                "target": "chiedersi <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">wonder</strong> about doing <acronym title=\"something\">sth</acronym></span>",
+                "target": "chiedersi se fare <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    }
+]

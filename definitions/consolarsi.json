@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "consolare",
+                        "headword_full": "consolare <span class=\"phonetics\">[kon<span class=\"separator\">·</span>so<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(bambino)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">consolare</strong>",
+                                        "target": "to console"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "consolare",
+                        "headword_full": "consolare <span class=\"phonetics\">[kon<span class=\"separator\">·</span>so<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "consolare <span class=\"reflection\">consolarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">consolarsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to console oneself with <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

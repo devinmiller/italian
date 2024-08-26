@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "consumare",
+                        "headword_full": "consumare <span class=\"phonetics\">[kon<span class=\"separator\">·</span>su<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. consumare <span class=\"sense\">(rovinare: scarpe, cinturino, gomme)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">consumare</strong>",
+                                        "target": "to wear out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. consumare <span class=\"sense\">(mangiare: pasti, cibo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">consumare</strong>",
+                                        "target": "to consume"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. consumare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">consumare</strong> <span class=\"sense\">(matrimonio)</span>",
+                                        "target": "to consummate"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">consumare</strong> <span class=\"sense\">(delitto)</span>",
+                                        "target": "to commit"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "consumare",
+                        "headword_full": "consumare <span class=\"phonetics\">[kon<span class=\"separator\">·</span>su<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "consumare <span class=\"reflection\">consumarsi</span> <span class=\"sense\">(logorarsi: scarpe, gomme)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">consumarsi</span>",
+                                        "target": "to wear out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">consumarsi la vista</span>",
+                                        "target": "to ruin one&#39;s eyesight"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "comprare",
+                        "headword_full": "comprare <span class=\"phonetics\">[kom<span class=\"separator\">·</span>ˈpra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. comprare <span class=\"sense\">(acquistare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">comprare</strong>",
+                                        "target": "to buy"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. comprare <span class=\"sense\">(corrompere: persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">comprare</strong>",
+                                        "target": "to bribe"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

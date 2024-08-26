@@ -1,0 +1,85 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "capire",
+                        "headword_full": "capire <span class=\"flexion\">&lt;capisco&gt;</span> <span class=\"phonetics\">[ka<span class=\"separator\">·</span>ˈpi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capire</strong>",
+                                        "target": "to understand"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">far <strong class=\"tilde\">capire</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to make <acronym title=\"something\">sth</acronym> clear to <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">capire</strong> fischi per fiaschi</span>",
+                                        "target": "to get the short end of the stick <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "capire",
+                        "headword_full": "capire <span class=\"flexion\">&lt;capisco&gt;</span> <span class=\"phonetics\">[ka<span class=\"separator\">·</span>ˈpi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">capire</strong>",
+                                        "target": "to understand"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi <strong class=\"tilde\">capire</strong></span>",
+                                        "target": "to make oneself understood"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">capire</strong> al volo</span>",
+                                        "target": "to be quick on the uptake"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">si capisce</span>",
+                                        "target": "of course"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">si capisce che ti telefono</span>",
+                                        "target": "of course I&#39;ll call you"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "capire",
+                        "headword_full": "capire <span class=\"flexion\">&lt;capisco&gt;</span> <span class=\"phonetics\">[ka<span class=\"separator\">·</span>ˈpi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "capire <span class=\"reflection\">capirsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">capirsi</span>",
+                                        "target": "to understand each other"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bisognare",
+                        "headword_full": "bisognare   <span class=\"flexion\">&lt;bisogna, bisognano&gt;</span>  <span class=\"phonetics\">[bi<span class=\"separator\">·</span>zoɲ<span class=\"separator\">·</span>ˈɲa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(essere necessario)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bisognare</strong>",
+                                        "target": "to be necessary"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">bisogna che …</span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span>, <span class=\"example\">bisogna …</span>",
+                                        "target": "to have to"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">bisogna che tu lo faccia</span>",
+                                        "target": "you must <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> have to]</span>  do it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non bisogna crederci</span>",
+                                        "target": "you  <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> we]</span>  mustn&#39;t believe it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">bisogna farlo subito!</span>",
+                                        "target": "you  <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> we]</span> \n\t\t\t\t <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> he]</span> \n\t\t\t\t <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> she]</span>  must do it right away!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "calmare",
+                        "headword_full": "calmare <span class=\"phonetics\">[kal<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. calmare <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">calmare</strong>",
+                                        "target": "to calm (down)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. calmare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">calmare</strong> <span class=\"sense\">(ira, rabbia)</span>",
+                                        "target": "to reduce"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">calmare</strong> <span class=\"sense\">(pianto)</span>",
+                                        "target": "to stop"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. calmare <span class=\"sense\">(dolore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">calmare</strong>",
+                                        "target": "to alleviate"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "calmare",
+                        "headword_full": "calmare <span class=\"phonetics\">[kal<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">calmarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. calmare <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">calmarsi</span>",
+                                        "target": "to calm down"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. calmare <span class=\"sense\">(dolore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">calmarsi</span>",
+                                        "target": "to ease"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. calmare <span class=\"sense\">(vento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">calmarsi</span>",
+                                        "target": "to drop"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
