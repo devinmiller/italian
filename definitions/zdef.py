@@ -65,8 +65,6 @@ def process_data(data, term):
 
                     # if len(examples_output) > 0:
                     #     print("\n".join(examples_output))
-                else:
-                    continue
 
                 # Check if wordclass is an adjective
                 if wordclass == "adjective and adverb":
