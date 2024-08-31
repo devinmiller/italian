@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "minacciare",
+                        "headword_full": "minacciare <span class=\"phonetics\">[mi<span class=\"separator\">·</span>nat<span class=\"separator\">·</span>ˈtʃa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">minacciare</strong>",
+                                        "target": "to threaten"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">minacciare</strong> <acronym title=\"qualcuno\">qu</acronym> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to threaten <acronym title=\"somebody\">sb</acronym> with <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">minacciare</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to threaten to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

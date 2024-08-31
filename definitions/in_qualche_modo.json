@@ -1,0 +1,30 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">somehow</strong>",
+                "target": "in qualche modo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">anyhow</strong>",
+                "target": "in qualche modo"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">qualche</strong> modo</span>",
+                "target": "somehow"
+            }
+        ]
+    }
+]

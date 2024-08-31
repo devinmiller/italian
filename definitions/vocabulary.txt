@@ -1,297 +1,259 @@
-d’altro canto
-d’istinto
-d'ora in poi
-d'ora in poi
-D'ora in poi
-da adulto
-da allora
-da allora in poi
-da cui
-da nessun parte
-da soli
-da solo
-da un lato
-da un momento all'altro
-dall'altra parte
-dall'aspetto
-danneggiato
-dappertutto
-dare
-dare fastidio
-dare per scontata
-dare per scontato
-datato
-davanti
-davanti a
-decidere
-decifrare
-dedito
-Del resto
-del tutto a
-deluso
-demoralizzato
-depositare
-deprimere
-deprimersi
-deriva
-descrivere
-desiderare
-destare
-destrezza
-determinare
-detestare
-devo informarmi
-di base
-di chi è?
-di colpo
-di fila
-di fronte a
-di mattina
-di quando in quando
-di quando in quando
-di scatto
-di tanto in tanto
-diafano
-dietro
-dietro di
-difendere
-diffidente
-diffondere
-diffondere
-diffondersi
-digerire
-dimagrire
-dimenticare
-dimenticarsi
-dimostrare
-dipanarsi
-dipendere
-dipingere
-dire
-dirigere
-diritto
-disagio
-disattivare
-discesa
-discutere
-discutere
-discutibile
-disegnare
-disfare
-disgustare
-disincanto
-disinvolta
-disinvoltura
-disperare
-dispiacere
-dissotterrato
-distaccare
-distaccarsi
-distacco
-distanza
-distinguere
-distrarre
-districarsi
-distruggere
-diventare
-diventare
-diversamente
-diversi
-divertire
-divertirsi
-dividere
-divieto
-divorante
-divorare
-dolcificante
-domandare
-dopo aver preso
-dormire
-dotare di
-dovere
-dunque
-durare
-durevole
-è così che funziona
-è fattibile
-è pari a zero
-è uguale
-ebbrezza
-echeggiare
-eleggere
-elevare
-eliminare
-eludere
-emergere
-emergere
-emettere
-ennesimo
-entrare
-entrare in contatto
-entro
-entro breve
-entro certi limiti
-entro la fine
-entroterra
-epoca
-eppure
-equivoco
-erbacce
-eredità
-ereditato
-ereditiera
-esagerare
-esaminare
-esasperare
-esaurire
-esaurire
-escludere
-esemplificare
-esibire
-esigente
-esigenza
-esilio
-esistere
-esitazione
-esito
-esortativo
-esposta
-esprimere
-essere
-essere a conoscenza
-essere di fretta
-essere disposti a
-essere in fuga
-estenuante
-esterno
-estraneità
-estraneo
-estro
-evitare
-facilitare
-fallimento
-fallire
-fallire
-falsificare
-familiare
-far fatica
-faraglione
-fare
-fare capire
-fare caso a
-fare di tutto
-fare fatica a
-fare finta che
-fare il bucato
-fare le valigie
-fare notare
-fare un capolavoro
-fare un paragone
-fare visita
-farsi capire
-fasciare
-fatica
-faticare
-fattura
-ferire
-ferita
-fermarsi
-fermarsi
-fessura
-festeggiare
-fiancheggiato
-fianco
-fibra
-ficcare
-fidarsi
-fin a quando
-fin da
-fin da quando
-fin dove
-finalizzare
-finché
-finché non
-fingere
-finire
-fino ad
-fino adesso
-fino al fondo
-fino allora
-fino in fondo
-finora
-firmare
-fitta
-fitto
-focalizzare
-foga
-foglia
-fogne
-folgorante
-folgorato
-folle
-fondo
-fonte
-forbito
-forestiero
-formare
-formarsi
-fornire
-foschia
-frammentato
-francobollo
-friggere
-frizzante
-fronda
-fuga
-fuggire
-fuggire
-fuggito
-funzionante
-funzionare
-furibondo
-galleggiare
-garantire
-garbato
-gattaccio
-generare
-geniale
-genio
-gentilezza
-gestire
-gesto
-gettare
-gettare
-gigantesco
-giocare
-giostrarsi
-girare
-gironzolando
-gironzolare
-giudicare
-giudicare
-giurare
-giustificare
-goccia
-godere
-goffa
-golfino
-golosa
-governare
-gracile
-gradire
-grata
-grattare
-grazie al quale
-grezzo
-gridare
-gridare
-grinzosa
-guadagnare
-guadagnare
-guardare
-guardaroba
-guarire
-guasto
-guidare
-guizzante
-gustare
+ibrido
+identificarsi
+idioma
+idratata
+illudere
+imballare
+imbattersi
+imbranato
+imbrunire
+imbruttire
+immergere
+immergere nel
+impacciare
+impadronirsi
+impagabile
+impalcatura
+imparare
+imparentato
+impazzire
+impegnativo
+impersonare
+impiegare
+impiegare
+impiegare più
+impiegato
+implicare
+imponente
+imporre
+imprecisato
+imprendibile
+impresa
+impressionante
+in colpa
+in fin dei conti
+in fretta
+in giro
+in incubo
+in materia
+in media
+in modo
+in omaggio
+in orario
+in qualche modo
+in quanto
+in quanto a
+in senso ampio
+in tondo
+in visita
+inappagato
+incalzante
+incalzato
+incapace
+incarico
+incastrato
+incertezza
+inchinarsi
+inchiodato
+inchiostro
+inciampare
+incitare
+includere
+incominciare
+incompiuto
+inconfondibile
+inconsapevole
+inconsapevolmente
+incontrare
+incontro
+incrostato
+incubo
+incuriosito
+indagare
+indebolire
+indebolirsi
+indecifrabile
+indicare
+indicazioni
+indietro
+indimenticabile
+indiscreta
+individuare
+indovinare
+indumento
+indurito
+ineffabile
+ineluttabile
+inerpicarsi
+inesistente
+inevitabilmente
+inezia
+infarto
+infastidire
+infastidirsi
+infetto
+infilare
+influenzare
+infondere
+infondere nuova
+informare
+ingarbugliarsi
+inghiottire
+inginocchiarsi
+ingombrare
+ingrassare
+innalzare
+innalzarsi
+innamorarsi
+innamorato
+innegabile
+inoltre
+inquietante
+inquietante
+inquieto
+inquinamento
+inquinare
+insieme a
+insistere
+insofferente
+insolito
+insopportabile
+insospettito
+insulso
+insuperabile
+intanto
+intendere
+interagire
+interferire
+interiore
+intero
+interrompere
+intervenire
+intervenire
+intervento
+intorno
+intrappolato
+intricata
+introdurre
+intrufolarsi
+invadere
+invidiare
+invitare
+involucro
+irrefrenabile
+irreprensibile
+isolato
+l'unica pecca
+laborioso
+lagnarsi
+lamentarsi
+lampo
+lanciare
+lanciare
+lanciarsi
+lanciarsi in
+lancinante
+lasciare
+lasciare alle spalle
+lattiginoso
+lavare
+lavarsi
+lavastoviglie
+lavorare
+legare
+legare
+leggere
+leggermente
+lentezza
+lettore
+lettura
+lezioso
+liberare
+libricino
+licenziare
+licenziarsi
+lieve
+limare
+limitare
+lineamento
+liquidare
+località
+lodare
+logoro
+lontananza
+lotta
+lottare
+lottare per
+lunga permanenza
+lungo meno
+lutto
+lutto
+macchiare
+maestro
+maggioranza
+malapena
+malconcio
+maledire
+maledizioni
+malgrado
+malinteso
+mancare
+manchevole
+mancia
+manciata
+mandare
+mangiare
+maniche
+manna
+mano a mano
+mantenere
+marea
+mascherare
+massiccio
+matita
+matrigna
+medicare
+membra
+memorabile
+mendicante
+mensola
+mentire
+menzionato
+merce
+meritare
+mestiere
+metodico
+mettere
+mettere al riparo
+mettere la spunta alle voci
+mettersi
+mettiamo che
+mezzi migliori
+mi dispiace per lui
+mi rendo conto
+micino
+micio
+migliorare
+migrare
+minacciare
+minaccioso
+minestra
+mingherlino
+minore
+mirare
+misfatto
+misurare
+mite
+mitico
+moderare
+modificare
+momentaneo
+mordere
+mordere
+morire
+mortale
+mostrare
+mucchio
+multa
+mutevole
+muto

@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mestiere",
+                        "headword_full": "mestiere <span class=\"phonetics\">[mes<span class=\"separator\">·</span>ˈtiɛ:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. mestiere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mestiere</strong> <span class=\"sense\">(lavoro)</span>",
+                                        "target": "job"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mestiere</strong> <span class=\"sense\">(lavoro manuale)</span>",
+                                        "target": "trade"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere del <strong class=\"tilde\">mestiere</strong></span>",
+                                        "target": "to be an expert"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mestiere <span class=\"sense\">(pratica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mestiere</strong>",
+                                        "target": "experience"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. mestiere <span class=\"rhetoric\"><acronym title=\"pejorative\">pej</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mestiere</strong>",
+                                        "target": "money-spinner"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

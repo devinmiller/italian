@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "inchiostro",
+                        "headword_full": "inchiostro <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>ˈkiɔs<span class=\"separator\">·</span>tro]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. inchiostro <span class=\"sense\">(per scrivere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">inchiostro</strong>",
+                                        "target": "ink"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">inchiostro</strong> di china</span>",
+                                        "target": "Indian ink"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">inchiostro</strong> simpatico</span>",
+                                        "target": "invisible ink"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">nero come <strong class=\"tilde\">l&#39;inchiostro</strong></span>",
+                                        "target": "as black as ink"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">versare fiumi <strong class=\"tilde\">d&#39;inchiostro</strong> su <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to write volumes about <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. inchiostro <span class=\"sense\">(di seppia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">inchiostro</strong>",
+                                        "target": "cuttlefish ink"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

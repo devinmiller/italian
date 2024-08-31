@@ -1,0 +1,50 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "incarico",
+                        "headword_full": "incarico <span class=\"flexion\">&lt;-chi&gt;</span> <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ko]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. incarico <span class=\"sense\">(compito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incarico</strong>",
+                                        "target": "task"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">avere <strong class=\"tilde\">l&#39;incarico</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to have the job of doing <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> su] <strong class=\"tilde\">incarico</strong> di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "on behalf of <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. incarico:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incarico</strong> <span class=\"sense\">(funzione)</span>",
+                                        "target": "position"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">incarico</strong> <span class=\"sense\">(di insegnante)</span>",
+                                        "target": "temporary teaching position"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

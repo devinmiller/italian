@@ -1,0 +1,132 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">casually</strong>",
+                "target": "in modo informale"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">sensibly</strong>",
+                "target": "in modo sensato"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">signally</strong>",
+                "target": "in modo eclatante"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">nohow</strong>",
+                "target": "in nessun modo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">mince</strong>",
+                "target": "camminare in modo affettato"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">no</strong> way</span>",
+                "target": "in nessun modo"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">modo</strong> …</span> <span class=\"info\"><acronym title=\"adjective\">adj</acronym></span>",
+                "target": "in a … way"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">modo</strong> da …</span> <span class=\"modus\">+inf</span>",
+                "target": "so as to …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">qualunque</strong> modo</span>",
+                "target": "in any way"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">di [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> in] <strong class=\"tilde\">modo</strong> che …</span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span>",
+                "target": "so that …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">ad [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> in] ogni <strong class=\"tilde\">modo</strong></span>",
+                "target": "anyway"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in certo qual modo</span>",
+                "target": "in some ways"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in un <strong class=\"tilde\">altro</strong> modo</span>",
+                "target": "differently"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">ogni</strong> modo</span>",
+                "target": "in every way"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">malo</strong> modo</span>",
+                "target": "badly"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">comportarsi in <strong class=\"tilde\">malo</strong> modo</span>",
+                "target": "to behave awkwardly"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">rispondere in <strong class=\"tilde\">malo</strong> modo</span>",
+                "target": "to reply rudely"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">qualche</strong> modo</span>",
+                "target": "somehow"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">cadere/scivolare in <strong class=\"tilde\">malo</strong> modo</span>",
+                "target": "to fall/slip badly"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">siediti in modo <strong class=\"tilde\">che</strong> ti veda</span>",
+                "target": "sit down so (that) I can see you"
+            }
+        ]
+    }
+]

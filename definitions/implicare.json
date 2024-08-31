@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "implicare",
+                        "headword_full": "implicare <span class=\"phonetics\">[im<span class=\"separator\">·</span>pli<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. implicare <span class=\"sense\">(come conseguenza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">implicare</strong>",
+                                        "target": "to mean"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. implicare <span class=\"sense\">(coinvolgere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">implicare</strong> <acronym title=\"qualcuno\">qu</acronym> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to involve <acronym title=\"somebody\">sb</acronym> in <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

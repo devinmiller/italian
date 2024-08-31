@@ -1,0 +1,100 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "legare",
+                        "headword_full": "legare <span class=\"phonetics\">[le<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. legare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">legare</strong> <span class=\"sense\">(collegare)</span>",
+                                        "target": "to bind"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">legare</strong> <span class=\"sense\">(con spago, funi)</span>",
+                                        "target": "to tie up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">avere le mani legate</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to have one&#39;s hands tied"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">se l&#39;è legata al dito</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "he didn&#39;t forget it"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. legare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(unire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">legare</strong>",
+                                        "target": "to bind together"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "legare",
+                        "headword_full": "legare <span class=\"phonetics\">[le<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(andare d&#39;accordo)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">legare</strong>",
+                                        "target": "to get on"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "legare",
+                        "headword_full": "legare <span class=\"phonetics\">[le<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">legarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. legare <span class=\"sense\">(attaccarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">legarsi</span>",
+                                        "target": "to tie oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. legare <span class=\"topic\"><acronym title=\"chemistry\">CHEM</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">legarsi</span>",
+                                        "target": "to bind"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. legare <span class=\"sense\">(unirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">legarsi a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to become involved with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

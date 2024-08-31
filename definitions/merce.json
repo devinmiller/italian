@@ -1,0 +1,68 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "merce",
+                        "headword_full": "merce <span class=\"phonetics\">[ˈmɛr<span class=\"separator\">·</span>tʃe]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. merce <span class=\"sense\">(prodotto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">merce</strong>",
+                                        "target": "goods <span class=\"number\"><acronym title=\"plurale\">pl</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">scalo -i</span>",
+                                        "target": "goods yard"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">treno -i</span>",
+                                        "target": "goods train"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. merce <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">merce</strong>",
+                                        "target": "commodity"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mercé",
+                        "headword_full": "mercé <span class=\"flexion\">&lt;-&gt;</span> <span class=\"phonetics\">[mert<span class=\"separator\">·</span>ˈtʃe]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">alla <strong class=\"tilde\">mercé</strong> di <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "at the mercy of <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

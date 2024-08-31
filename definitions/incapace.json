@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "incapace",
+                        "headword_full": "incapace <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>ka<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>tʃe]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. incapace:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">incapace</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "incapable of doing <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">incapace</strong> di intendere e di volere</span> <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>",
+                                        "target": "not in full possession of one&#39;s faculties"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. incapace <span class=\"sense\">(nella professione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incapace</strong>",
+                                        "target": "incompetent"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "incapace",
+                        "headword_full": "incapace <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>ka<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>tʃe]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine and feminine\">mf</acronym></span> <span class=\"sense\">(nella professione)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incapace</strong>",
+                                        "target": "incompetent"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "incontro",
+                        "headword_full": "incontro<sup>1</sup> <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>ˈkon<span class=\"separator\">·</span>tro]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. incontro <span class=\"sense\">(casuale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incontro</strong>",
+                                        "target": "encounter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare un brutto <strong class=\"tilde\">incontro</strong></span>",
+                                        "target": "to have a nasty encounter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare un brutto <strong class=\"tilde\">incontro</strong></span> <span class=\"sense\">(per appuntamento)</span>",
+                                        "target": "meeting"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">incontro</strong> di lavoro</span>",
+                                        "target": "work meeting"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">incontro</strong> al vertice</span>",
+                                        "target": "summit"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">incontro</strong> al vertice</span> <span class=\"sense\">(convegno)</span>",
+                                        "target": "conference"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. incontro <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incontro</strong>",
+                                        "target": "match"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "incontro",
+                        "headword_full": "incontro<sup>2</sup> <span class=\"wordclass\"><acronym title=\"preposition\">PREP</acronym></span>",
+                        "wordclass": "preposition",
+                        "arabs": [
+                            {
+                                "header": "1. incontro:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">incontro</strong> a <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(in direzione di)</span>",
+                                        "target": "toward <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare <strong class=\"tilde\">incontro</strong> a <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to go toward <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">venire <strong class=\"tilde\">incontro</strong> a <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to come toward <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">andare <strong class=\"tilde\">incontro</strong> a <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(pericoli, difficoltà)</span>",
+                                        "target": "to come up against <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare/venire <strong class=\"tilde\">incontro</strong> a <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(aiutarlo)</span>",
+                                        "target": "to meet <acronym title=\"somebody\">sb</acronym> halfway"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

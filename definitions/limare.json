@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "limare",
+                        "headword_full": "limare <span class=\"phonetics\">[li<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. limare <span class=\"sense\">(sbarra, superficie, unghia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">limare</strong>",
+                                        "target": "to file"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. limare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(scritto, stile)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">limare</strong>",
+                                        "target": "to polish"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "limare",
+                        "headword_full": "limare <span class=\"phonetics\">[li<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "limare <span class=\"reflection\">limarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">limarsi le unghie</span>",
+                                        "target": "to file one&#39;s nails"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

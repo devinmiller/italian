@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "inchinarsi",
+                        "headword_full": "inchinarsi <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>ki<span class=\"separator\">·</span>ˈna:r<span class=\"separator\">·</span>si]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"sense\">(per riverenza)</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">inchinarsi</strong>",
+                                        "target": "to bow"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">inchinarsi</strong> davanti a <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to bow down before <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

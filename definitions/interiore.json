@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "interiore",
+                        "headword_full": "interiore <span class=\"phonetics\">[in<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈrio:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. interiore <span class=\"sense\">(parte, lato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">interiore</strong>",
+                                        "target": "internal"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. interiore <span class=\"sense\">(spirituale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">interiore</strong>",
+                                        "target": "inner"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mondo/vita <strong class=\"tilde\">interiore</strong></span>",
+                                        "target": "interior world/life"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

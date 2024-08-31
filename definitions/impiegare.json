@@ -1,0 +1,60 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "impiegare",
+                        "headword_full": "impiegare <span class=\"phonetics\">[im<span class=\"separator\">·</span>pie<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. impiegare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">impiegare</strong> <span class=\"sense\">(strumento, oggetto)</span>",
+                                        "target": "to use"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">impiegare</strong> <span class=\"sense\">(capacità, energie)</span>",
+                                        "target": "to employ"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. impiegare <span class=\"sense\">(tempo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">impiegare</strong>",
+                                        "target": "to take"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. impiegare <span class=\"sense\">(denaro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">impiegare</strong>",
+                                        "target": "to spend"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. impiegare <span class=\"sense\">(esperto, specialista)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">impiegare</strong>",
+                                        "target": "to employ"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

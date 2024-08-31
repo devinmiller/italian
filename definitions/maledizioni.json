@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "maledizione",
+                        "headword_full": "maledizione <span class=\"phonetics\">[ma<span class=\"separator\">·</span>le<span class=\"separator\">·</span>dit<span class=\"separator\">·</span>ˈtsio:<span class=\"separator\">·</span>ne]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. maledizione <span class=\"sense\">(condanna, disgrazia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">maledizione</strong>",
+                                        "target": "curse"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. maledizione <span class=\"sense\">(imprecazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">maledizione</strong>",
+                                        "target": "curse"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "maledizione",
+                        "headword_full": "maledizione <span class=\"phonetics\">[ma<span class=\"separator\">·</span>le<span class=\"separator\">·</span>dit<span class=\"separator\">·</span>ˈtsio:<span class=\"separator\">·</span>ne]</span> <span class=\"wordclass\"><acronym title=\"interjection\">INTERJ</acronym></span>",
+                        "wordclass": "interjection",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">maledizione</strong>",
+                                        "target": "damn"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

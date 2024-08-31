@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "incertezza",
+                        "headword_full": "incertezza <span class=\"phonetics\">[in<span class=\"separator\">·</span>tʃer<span class=\"separator\">·</span>ˈtet<span class=\"separator\">·</span>tsa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. incertezza <span class=\"sense\">(di notizia, fonte)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incertezza</strong>",
+                                        "target": "doubtful nature"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. incertezza <span class=\"sense\">(di condizione, sviluppi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incertezza</strong>",
+                                        "target": "uncertainty"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. incertezza <span class=\"sense\">(titubanza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incertezza</strong>",
+                                        "target": "uncertainty"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

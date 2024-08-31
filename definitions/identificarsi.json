@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "identificare",
+                        "headword_full": "identificare <span class=\"phonetics\">[i<span class=\"separator\">·</span>den<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>fi<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">identificare</strong>",
+                                        "target": "to identify"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "identificare",
+                        "headword_full": "identificare <span class=\"phonetics\">[i<span class=\"separator\">·</span>den<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>fi<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "identificare <span class=\"reflection\">identificarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">identificarsi con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to identify with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

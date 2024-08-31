@@ -1,0 +1,24 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to feel <strong class=\"tilde\">guilty</strong> about <acronym title=\"something\">sth</acronym></span>",
+                "target": "sentirsi in colpa per <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">sentirsi in <strong class=\"tilde\">colpa</strong></span>",
+                "target": "to feel guilty"
+            }
+        ]
+    }
+]

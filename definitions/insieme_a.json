@@ -1,0 +1,66 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">conjunction</strong> with</span>",
+                "target": "insieme a <span class=\"target\">[<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> con]</span>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">sleep together</strong>",
+                "target": "andare a letto insieme"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">together</strong> with <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym></span>",
+                "target": "insieme a <acronym title=\"qualcuno\">qn</acronym>/<acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">concert</strong> with <acronym title=\"somebody\">sb</acronym></span>",
+                "target": "insieme a <acronym title=\"qualcuno\">qu</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">beside</strong> <acronym title=\"somebody\">sb</acronym></span>",
+                "target": "insieme a <acronym title=\"qualcuno\">qu</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">together <strong class=\"tilde\">with</strong> <acronym title=\"somebody\">sb</acronym></span>",
+                "target": "insieme a <acronym title=\"qualcuno\">qu</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">costar</strong> with <acronym title=\"somebody\">sb</acronym></span>",
+                "target": "interpretare insieme a <acronym title=\"qualcuno\">qu</acronym>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">insieme</strong> a</span> <span class=\"sense\">(compagnia)</span>",
+                "target": "with"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">insieme</strong> a</span> <span class=\"sense\">(contemporaneità)</span>",
+                "target": "at the same time as"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">how much do you have in <strong class=\"tilde\">change?</strong></span>",
+                "target": "quanto hai in spiccioli?"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to write <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym> off as useless</span>",
+                "target": "scartare <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym> in quanto inutile"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">quanto</strong></span>",
+                "target": "because"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">con riferimento a quanto indicato in <strong class=\"tilde\">oggetto</strong> …</span> <span class=\"topic\"><acronym title=\"administration\">ADMIN</acronym></span>",
+                "target": "with reference to the subject of this letter …"
+            }
+        ]
+    }
+]

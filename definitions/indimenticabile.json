@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "indimenticabile",
+                        "headword_full": "indimenticabile <span class=\"phonetics\">[in<span class=\"separator\">·</span>di<span class=\"separator\">·</span>men<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>bi<span class=\"separator\">·</span>le]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(fatto, persona)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">indimenticabile</strong>",
+                                        "target": "unforgettable"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

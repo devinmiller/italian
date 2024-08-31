@@ -1,0 +1,19 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">omaggio</strong></span>",
+                "target": "complimentary"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">dare <strong class=\"tilde\">in</strong> omaggio</span>",
+                "target": "to give away free"
+            }
+        ]
+    }
+]

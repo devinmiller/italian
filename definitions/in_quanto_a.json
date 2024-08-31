@@ -1,0 +1,13 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">con riferimento a quanto indicato in <strong class=\"tilde\">oggetto</strong> …</span> <span class=\"topic\"><acronym title=\"administration\">ADMIN</acronym></span>",
+                "target": "with reference to the subject of this letter …"
+            }
+        ]
+    }
+]

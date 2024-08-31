@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "imbranato",
+                        "headword_full": "imbranato <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[im<span class=\"separator\">·</span>bra<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>to]</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">imbranato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "awkward"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "imbranato",
+                        "headword_full": "imbranato <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[im<span class=\"separator\">·</span>bra<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>to]</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">imbranato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "hopeless case"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

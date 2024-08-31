@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "inquietante",
+                        "headword_full": "inquietante <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>kui<span class=\"separator\">·</span>e<span class=\"separator\">·</span>ˈtan<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. inquietante <span class=\"sense\">(silenzio, atmosfera)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">inquietante</strong>",
+                                        "target": "worrying"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. inquietante <span class=\"sense\">(film, libro, sogno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">inquietante</strong>",
+                                        "target": "disturbing"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

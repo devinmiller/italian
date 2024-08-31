@@ -1,0 +1,50 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "invidiare",
+                        "headword_full": "invidiare <span class=\"phonetics\">[in<span class=\"separator\">·</span>vi<span class=\"separator\">·</span>ˈdia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. invidiare <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">invidiare</strong>",
+                                        "target": "to envy"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">invidiare</strong> <acronym title=\"qualcuno\">qu</acronym> per <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to envy <acronym title=\"somebody\">sb</acronym> <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. invidiare <span class=\"sense\">(cosa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">invidiare</strong>",
+                                        "target": "to envy"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">invidiare</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to envy <acronym title=\"somebody's\">sb's</acronym> <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non avere nulla [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> niente] da <strong class=\"tilde\">invidiare</strong> a <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym>/nessuno</span>",
+                                        "target": "to be the equal of <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>/anybody"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

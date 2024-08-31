@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "lavastoviglie",
+                        "headword_full": "lavastoviglie <span class=\"flexion\">&lt;-&gt;</span> <span class=\"phonetics\">[la<span class=\"separator\">·</span>vas<span class=\"separator\">·</span>to<span class=\"separator\">·</span>ˈviʎ<span class=\"separator\">·</span>ʎe]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">lavastoviglie</strong>",
+                                        "target": "dishwasher"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

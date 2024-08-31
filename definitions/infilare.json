@@ -1,0 +1,80 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "infilare",
+                        "headword_full": "infilare <span class=\"phonetics\">[in<span class=\"separator\">·</span>fi<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. infilare <span class=\"sense\">(ago, perle)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">infilare</strong>",
+                                        "target": "to thread"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. infilare:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">infilare</strong> <acronym title=\"qualcosa\">qc</acronym> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to put <acronym title=\"something\">sth</acronym> in <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. infilare <span class=\"sense\">(indumento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">infilare</strong>",
+                                        "target": "to put on"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "infilare",
+                        "headword_full": "infilare <span class=\"phonetics\">[in<span class=\"separator\">·</span>fi<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">infilarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. infilare <span class=\"sense\">(indumento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">infilarsi</span>",
+                                        "target": "to put on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">infilarsi in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to get into <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">infilarsi sotto le coperte</span>",
+                                        "target": "to get under the covers"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">infilarsi tra <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to mingle with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "indagare",
+                        "headword_full": "indagare <span class=\"phonetics\">[in<span class=\"separator\">·</span>da<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">indagare</strong>",
+                                        "target": "to investigate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">indagare</strong> su <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>",
+                                        "target": "to investigate <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

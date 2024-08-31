@@ -1,0 +1,77 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "massiccio",
+                        "headword_full": "massiccio<sup>1</sup> <span class=\"feminine\">(-a)</span> <span class=\"flexion\">&lt;-cci, -cce&gt;</span> <span class=\"phonetics\">[mas<span class=\"separator\">·</span>ˈsit<span class=\"separator\">·</span>tʃo]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. massiccio:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">massiccio</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(oro, legno)</span>",
+                                        "target": "solid"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">massiccio</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(edificio)</span>",
+                                        "target": "massive"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. massiccio <span class=\"sense\">(persona, corporatura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">massiccio</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "massive"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. massiccio <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">massiccio</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(intervento)</span>",
+                                        "target": "huge"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">massiccio</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(opera)</span>",
+                                        "target": "massive"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "massiccio",
+                        "headword_full": "massiccio<sup>2</sup> <span class=\"flexion\">&lt;-cci&gt;</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"topic\"><acronym title=\"geography\">GEOG</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">massiccio</strong>",
+                                        "target": "massif"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

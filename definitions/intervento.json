@@ -1,0 +1,91 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "intervento",
+                        "headword_full": "intervento <span class=\"phonetics\">[in<span class=\"separator\">·</span>ter<span class=\"separator\">·</span>ˈvɛn<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. intervento <span class=\"sense\">(intromissione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intervento</strong>",
+                                        "target": "intervention"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. intervento <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intervento</strong>",
+                                        "target": "tackle"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. intervento <span class=\"sense\">(partecipazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intervento</strong>",
+                                        "target": "participation"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. intervento <span class=\"sense\">(discorso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intervento</strong>",
+                                        "target": "intervention"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. intervento <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intervento</strong>",
+                                        "target": "operation"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">intervento</strong> chirurgico</span>",
+                                        "target": "heart surgery"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "non intervento",
+                        "headword_full": "non intervento <span class=\"phonetics\">[non in<span class=\"separator\">·</span>ter<span class=\"separator\">·</span>ˈvɛn<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"topic\"><acronym title=\"law\">LAW</acronym>, <acronym title=\"politics\">POL</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">non intervento</strong>",
+                                        "target": "non-intervention"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

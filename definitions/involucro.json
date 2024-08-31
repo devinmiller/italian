@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "involucro",
+                        "headword_full": "involucro <span class=\"phonetics\">[in<span class=\"separator\">·</span>ˈvɔ:<span class=\"separator\">·</span>lu<span class=\"separator\">·</span>kro]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">involucro</strong> <span class=\"sense\">(confezione)</span>",
+                                        "target": "wrapping"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">involucro</strong> <span class=\"sense\">(per protezione)</span>",
+                                        "target": "casing"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

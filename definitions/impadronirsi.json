@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "impadronirsi",
+                        "headword_full": "impadronirsi <span class=\"flexion\">&lt;m&#39;impadronisco&gt;</span> <span class=\"phonetics\">[im<span class=\"separator\">·</span>pa<span class=\"separator\">·</span>dro<span class=\"separator\">·</span>ˈnir<span class=\"separator\">·</span>si]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">impadronirsi</strong> di <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(denaro, potere)</span>",
+                                        "target": "to take possession of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">impadronirsi</strong> di <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(materia, mestiere)</span>",
+                                        "target": "to become proficient in <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

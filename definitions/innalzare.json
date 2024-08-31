@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "innalzare",
+                        "headword_full": "innalzare <span class=\"phonetics\">[in<span class=\"separator\">·</span>nal<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. innalzare <span class=\"sense\">(calice, bandiera)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">innalzare</strong>",
+                                        "target": "to raise"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. innalzare <span class=\"sense\">(antenna, palo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">innalzare</strong>",
+                                        "target": "to erect"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. innalzare <span class=\"sense\">(livello, temperatura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">innalzare</strong>",
+                                        "target": "to raise"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "innalzare",
+                        "headword_full": "innalzare <span class=\"phonetics\">[in<span class=\"separator\">·</span>nal<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "innalzare <span class=\"reflection\">innalzarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">innalzarsi</span>",
+                                        "target": "to rise"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

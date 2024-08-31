@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "inciampare",
+                        "headword_full": "inciampare <span class=\"phonetics\">[in<span class=\"separator\">·</span>tʃam<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere o avere</span> <span class=\"sense\">(col piede)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">inciampare</strong>",
+                                        "target": "to trip"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">inciampare</strong> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to trip over <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

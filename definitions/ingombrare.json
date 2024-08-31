@@ -1,0 +1,19 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">clutter up</strong>",
+                "target": "ingombrare"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">clutter</strong>",
+                "target": "ingombrare"
+            }
+        ]
+    }
+]

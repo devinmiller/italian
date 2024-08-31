@@ -1,0 +1,48 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">launch into</strong>",
+                "target": "lanciarsi in"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">to get on one&#39;s <strong class=\"tilde\">soapbox</strong></span>",
+                "target": "lanciarsi in una filippica"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">leap</strong> to <acronym title=\"somebody's\">sb's</acronym> defense</span>",
+                "target": "lanciarsi in difesa di <acronym title=\"qualcuno\">qu</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">throw up</strong>",
+                "target": "lanciare in aria"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">loft</strong>",
+                "target": "lanciare in alto"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">lanciarsi in <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to throw oneself into <acronym title=\"something\">sth</acronym>"
+            }
+        ]
+    }
+]

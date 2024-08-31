@@ -67,3 +67,5 @@ Abusi della mia pazienza!
 dare su - looks over, looks onto, opens onto, borders on
 fare una prova
 guarda caso
+
+sono capitata = I ended up

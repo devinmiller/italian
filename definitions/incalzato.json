@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "incalzare",
+                        "headword_full": "incalzare <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>kal<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. incalzare <span class=\"sense\">(nemico, avversario)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incalzare</strong>",
+                                        "target": "to pursue"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. incalzare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incalzare</strong>",
+                                        "target": "to pressure"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "incalzare",
+                        "headword_full": "incalzare <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>kal<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">incalzare</strong> <span class=\"sense\">(tempo)</span>",
+                                        "target": "to press"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">incalzare</strong> <span class=\"sense\">(pericolo)</span>",
+                                        "target": "to be imminent"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

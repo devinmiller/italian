@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "intanto",
+                        "headword_full": "intanto <span class=\"phonetics\">[in<span class=\"separator\">·</span>ˈtan<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "1. intanto <span class=\"sense\">(temporale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intanto</strong>",
+                                        "target": "in the meantime"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. intanto <span class=\"sense\">(avversativo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intanto</strong>",
+                                        "target": "yet"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">e <strong class=\"tilde\">intanto</strong> devo pagare io!</span>",
+                                        "target": "and yet I&#39;ll end up paying!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "intanto",
+                        "headword_full": "intanto <span class=\"phonetics\">[in<span class=\"separator\">·</span>ˈtan<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">intanto</strong> che …</span> <span class=\"modus\">+ind</span>",
+                                        "target": "while …"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

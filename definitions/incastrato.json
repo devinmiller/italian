@@ -1,0 +1,25 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">stuck</strong>",
+                "target": "incastrato, -a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to get caught in <acronym title=\"something\">sth</acronym></span>",
+                "target": "rimanere incastrato in <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">wedged</strong> between <acronym title=\"something\">sth</acronym></span>",
+                "target": "essere incastrato tra <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    }
+]

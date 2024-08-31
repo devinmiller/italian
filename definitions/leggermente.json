@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">slightly</strong>",
+                "target": "leggermente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">lightly</strong>",
+                "target": "leggermente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">somewhat</strong>",
+                "target": "leggermente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">mildly</strong>",
+                "target": "leggermente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">trifle</strong></span>",
+                "target": "leggermente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">light</strong>",
+                "target": "leggermente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">crisp</strong>",
+                "target": "tostare leggermente"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to feel <strong class=\"tilde\">somewhat</strong> better</span>",
+                "target": "sentirsi leggermente meglio"
+            }
+        ]
+    }
+]

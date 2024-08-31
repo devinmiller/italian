@@ -1,0 +1,48 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">clockwise</strong>",
+                "target": "in senso orario"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to leave <strong class=\"tilde\">on</strong> time</span>",
+                "target": "partire in orario"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">check-in time</strong>",
+                "target": "orario <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> del check-in"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">orario</strong></span>",
+                "target": "on time"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in senso <strong class=\"tilde\">orario</strong></span>",
+                "target": "clockwise"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in <strong class=\"tilde\">senso</strong> orario/antiorario</span>",
+                "target": "clockwise/counterclockwise"
+            }
+        ]
+    }
+]

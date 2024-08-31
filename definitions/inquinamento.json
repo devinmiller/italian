@@ -1,0 +1,50 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "inquinamento",
+                        "headword_full": "inquinamento <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>kui<span class=\"separator\">·</span>na<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. inquinamento <span class=\"topic\">eco</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">inquinamento</strong>",
+                                        "target": "pollution"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">inquinamento</strong> acustico</span>",
+                                        "target": "noise pollution"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">inquinamento</strong> ambientale</span>",
+                                        "target": "environmental pollution"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">inquinamento</strong> atmosferico</span>",
+                                        "target": "air pollution"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. inquinamento <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">inquinamento</strong> delle prove</span>",
+                                        "target": "tampering with the evidence"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "impressionante",
+                        "headword_full": "impressionante <span class=\"phonetics\">[im<span class=\"separator\">·</span>pres<span class=\"separator\">·</span>sio<span class=\"separator\">·</span>ˈnan<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. impressionante <span class=\"sense\">(incidente, delitto, scena)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">impressionante</strong>",
+                                        "target": "shocking"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. impressionante <span class=\"sense\">(eccezionale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">impressionante</strong>",
+                                        "target": "incredible"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">faceva un caldo <strong class=\"tilde\">impressionante</strong></span>",
+                                        "target": "it was incredibly hot"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "impressionare",
+                        "headword_full": "impressionare <span class=\"phonetics\">[im<span class=\"separator\">·</span>pres<span class=\"separator\">·</span>sio<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. impressionare <span class=\"sense\">(turbare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">impressionare</strong>",
+                                        "target": "to upset"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. impressionare <span class=\"sense\">(fare buona impressione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">impressionare</strong>",
+                                        "target": "to impress"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "impressionare",
+                        "headword_full": "impressionare <span class=\"phonetics\">[im<span class=\"separator\">·</span>pres<span class=\"separator\">·</span>sio<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "impressionare <span class=\"reflection\">impressionarsi</span> <span class=\"sense\">(turbarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">impressionarsi</span>",
+                                        "target": "to get upset"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

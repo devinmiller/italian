@@ -1,0 +1,19 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">hard-bitten</strong>",
+                "target": "indurito, -a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">hard-boiled</strong> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"collocator\">person</span>",
+                "target": "indurito, -a"
+            }
+        ]
+    }
+]

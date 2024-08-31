@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "insolito",
+                        "headword_full": "insolito <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>ˈsɔ:<span class=\"separator\">·</span>li<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">insolito</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "unusual"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "insolito",
+                        "headword_full": "insolito <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>ˈsɔ:<span class=\"separator\">·</span>li<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">qualcosa <strong class=\"tilde\">d&#39;insolito</strong></span>",
+                                        "target": "something unusual"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

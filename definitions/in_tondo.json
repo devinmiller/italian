@@ -1,0 +1,24 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">circle</strong>",
+                "target": "girare in tondo"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">girare in <strong class=\"tilde\">tondo</strong></span>",
+                "target": "to go around in circles"
+            }
+        ]
+    }
+]
