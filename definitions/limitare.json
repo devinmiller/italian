@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "limitare",
+                        "headword_full": "limitare <span class=\"phonetics\">[li<span class=\"separator\">·</span>mi<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. limitare <span class=\"sense\">(ridurre: costi, libertà)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">limitare</strong>",
+                                        "target": "to restrict"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. limitare <span class=\"sense\">(delimitare: zona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">limitare</strong>",
+                                        "target": "to delimit"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "limitare",
+                        "headword_full": "limitare <span class=\"phonetics\">[li<span class=\"separator\">·</span>mi<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "limitare <span class=\"reflection\">limitarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">limitarsi (in <acronym title=\"qualcosa\">qc</acronym>)</span>",
+                                        "target": "to cut down (on <acronym title=\"something\">sth</acronym>)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">limitarsi a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to restrict oneself to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

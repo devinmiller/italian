@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "lagnarsi",
+                        "headword_full": "lagnarsi <span class=\"phonetics\">[laɲ<span class=\"separator\">·</span>ˈɲar<span class=\"separator\">·</span>si]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"sense\">(lamentarsi)</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">lagnarsi</strong> per [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> di] <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to complain about <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

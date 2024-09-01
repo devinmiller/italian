@@ -1,0 +1,46 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "insistere",
+                        "headword_full": "insistere <span class=\"flexion\">&lt;insisto, insistei [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> insistetti], insistito&gt;</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>ˈsis<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. insistere:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">insistere</strong> su <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(argomento)</span>",
+                                        "target": "to insist on <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non insisto!</span>",
+                                        "target": "I won&#39;t insist!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">insistere</strong> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to persist in <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">insistere</strong> nel [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> a] fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to persist in doing <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

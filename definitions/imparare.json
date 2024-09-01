@@ -1,0 +1,62 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "imparare",
+                        "headword_full": "imparare <span class=\"phonetics\">[im<span class=\"separator\">·</span>pa<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. imparare <span class=\"sense\">(con studio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">imparare</strong>",
+                                        "target": "to learn"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">imparare</strong> a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to learn to do <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">imparare</strong> <acronym title=\"qualcosa\">qc</acronym> a memoria</span>",
+                                        "target": "to learn <acronym title=\"something\">sth</acronym> by heart"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. imparare <span class=\"sense\">(con esperienza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">imparare</strong>",
+                                        "target": "to learn"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">imparare</strong> la lezione</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to learn one&#39;s lesson"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">imparare</strong> <acronym title=\"qualcosa\">qc</acronym> a proprie spese</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to learn <acronym title=\"something\">sth</acronym> at one&#39;s own expense"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">così impari!</span>",
+                                        "target": "that&#39;ll teach you!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sbagliando s&#39;impara</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "you learn from your mistakes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

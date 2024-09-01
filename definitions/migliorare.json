@@ -1,0 +1,70 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "migliorare",
+                        "headword_full": "migliorare <span class=\"phonetics\">[miʎ<span class=\"separator\">·</span>ʎo<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(rendere migliore)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">migliorare</strong>",
+                                        "target": "to improve"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "migliorare",
+                        "headword_full": "migliorare <span class=\"phonetics\">[miʎ<span class=\"separator\">·</span>ʎo<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. migliorare <span class=\"sense\">(diventare migliore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">migliorare</strong>",
+                                        "target": "to improve"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. migliorare <span class=\"sense\">(stare meglio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">migliorare</strong>",
+                                        "target": "to get better"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "migliorare",
+                        "headword_full": "migliorare <span class=\"phonetics\">[miʎ<span class=\"separator\">·</span>ʎo<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "migliorare <span class=\"reflection\">migliorarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">migliorarsi</span>",
+                                        "target": "to improve oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

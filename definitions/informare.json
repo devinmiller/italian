@@ -1,0 +1,53 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "informare",
+                        "headword_full": "informare <span class=\"phonetics\">[in<span class=\"separator\">·</span>for<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(con notizie)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">informare</strong>",
+                                        "target": "to tell"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">informare</strong> <acronym title=\"qualcuno\">qu</acronym> (di [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> su] <acronym title=\"qualcosa\">qc</acronym>)</span>",
+                                        "target": "to tell <acronym title=\"somebody\">sb</acronym> (about <acronym title=\"something\">sth</acronym>)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "informare",
+                        "headword_full": "informare <span class=\"phonetics\">[in<span class=\"separator\">·</span>for<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "informare <span class=\"reflection\">informarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">informarsi</span>",
+                                        "target": "to keep oneself up-to-date"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">informarsi su di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to inquire about <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

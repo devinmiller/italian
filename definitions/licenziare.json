@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "licenziare",
+                        "headword_full": "licenziare <span class=\"phonetics\">[li<span class=\"separator\">·</span>tʃen<span class=\"separator\">·</span>ˈtsia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">licenziare</strong> <span class=\"sense\">(impiegato)</span>",
+                                        "target": "to dismiss"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">licenziare</strong> <span class=\"sense\">(per riduzione del personale)</span>",
+                                        "target": "to lay off"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "licenziare",
+                        "headword_full": "licenziare <span class=\"phonetics\">[li<span class=\"separator\">·</span>tʃen<span class=\"separator\">·</span>ˈtsia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "licenziare <span class=\"reflection\">licenziarsi</span> <span class=\"sense\">(da un impiego)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">licenziarsi</span>",
+                                        "target": "to resign"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

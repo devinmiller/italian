@@ -1,0 +1,97 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "introdurre",
+                        "headword_full": "introdurre <span class=\"flexion\">&lt;introduco, introdussi, introdotto&gt;</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>tro<span class=\"separator\">·</span>ˈdur<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. introdurre <span class=\"sense\">(chiave, moneta, scheda)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">introdurre</strong>",
+                                        "target": "to put"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. introdurre:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">introdurre</strong> <span class=\"sense\">(prodotto, moda, uso)</span>",
+                                        "target": "to introduce"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">introdurre</strong> <span class=\"sense\">(legge, riforma)</span>",
+                                        "target": "to bring in"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. introdurre <span class=\"sense\">(discorso, tema)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">introdurre</strong>",
+                                        "target": "to start"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. introdurre <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">introdurre</strong>",
+                                        "target": "to show"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">introdurre</strong> <acronym title=\"qualcuno\">qu</acronym> in <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(ambiente)</span>",
+                                        "target": "to introduce <acronym title=\"somebody\">sb</acronym> into <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">introdurre</strong> <acronym title=\"qualcuno\">qu</acronym> a <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(disciplina)</span>",
+                                        "target": "to introduce <acronym title=\"somebody\">sb</acronym> to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. introdurre <span class=\"topic\"><acronym title=\"linguistics, grammar\">LING</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">introdurre</strong>",
+                                        "target": "to introduce"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "introdurre",
+                        "headword_full": "introdurre <span class=\"flexion\">&lt;introduco, introdussi, introdotto&gt;</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>tro<span class=\"separator\">·</span>ˈdur<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "introdurre <span class=\"reflection\">introdursi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">introdursi in <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(luogo)</span>",
+                                        "target": "to enter <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">introdursi</span> <span class=\"sense\">(ambiente)</span>",
+                                        "target": "to join <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

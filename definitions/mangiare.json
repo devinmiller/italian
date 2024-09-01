@@ -1,0 +1,146 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mangiare",
+                        "headword_full": "mangiare<sup>1</sup> <span class=\"phonetics\">[man<span class=\"separator\">·</span>ˈdʒa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. mangiare <span class=\"sense\">(ingerire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mangiare</strong>",
+                                        "target": "to eat"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dare da <strong class=\"tilde\">mangiare</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to give <acronym title=\"somebody\">sb</acronym> <acronym title=\"something\">sth</acronym> to eat"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare da <strong class=\"tilde\">mangiare</strong></span>",
+                                        "target": "to get some food ready"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mangiare</strong> alla carta/a prezzo fisso</span>",
+                                        "target": "to eat à la carte/ from the set menu"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mangiare</strong> di magro</span>",
+                                        "target": "to not eat meat"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mangiare</strong> in bianco</span>",
+                                        "target": "to eat plain food"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mangiare</strong> la foglia</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to catch on"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mangiare</strong> con gli occhi <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to devour <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym> with one&#39;s eyes"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mangiare <span class=\"sense\">(rosicchiare, corrodere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mangiare</strong>",
+                                        "target": "to eat away at"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. mangiare <span class=\"sense\">(denaro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mangiare</strong>",
+                                        "target": "to get through"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. mangiare <span class=\"sense\">(nei giochi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mangiare</strong>",
+                                        "target": "to take"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "mangiare",
+                        "headword_full": "mangiare<sup>1</sup> <span class=\"phonetics\">[man<span class=\"separator\">·</span>ˈdʒa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "mangiare <span class=\"reflection\">mangiarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">mangiarsi</span>",
+                                        "target": "to eat"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi sono mangiato un panino</span>",
+                                        "target": "I ate a roll"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mangiarsi il fegato</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to be consumed with rage"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mangiarsi le mani</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to really regret"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mangiarsi la parola</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to not keep one&#39;s word"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mangiarsi le parole</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to mumble"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mangiarsi le unghie</span>",
+                                        "target": "to bite one&#39;s nails"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mangiare",
+                        "headword_full": "mangiare<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"sense\">(cibo, pasto)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mangiare</strong>",
+                                        "target": "food"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "moderare",
+                        "headword_full": "moderare <span class=\"phonetics\">[mo<span class=\"separator\">·</span>de<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. moderare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">moderare</strong> <span class=\"sense\">(spese, velocità)</span>",
+                                        "target": "to curb"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">moderare</strong> <span class=\"sense\">(tono, collera)</span>",
+                                        "target": "to moderate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">moderare</strong> i termini [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> le parole] </span>",
+                                        "target": "to weigh one&#39;s words"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. moderare <span class=\"sense\">(dibattito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">moderare</strong>",
+                                        "target": "to chair"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "moderare",
+                        "headword_full": "moderare <span class=\"phonetics\">[mo<span class=\"separator\">·</span>de<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "moderare <span class=\"reflection\">moderarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">moderarsi</span>",
+                                        "target": "to keep oneself in check"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">moderarsi in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to do <acronym title=\"something\">sth</acronym> moderately"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">moderarsi nel bere</span>",
+                                        "target": "to drink moderately"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mordere",
+                        "headword_full": "mordere <span class=\"flexion\">&lt;mordo, morsi, morso&gt;</span> <span class=\"phonetics\">[ˈmɔr<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. mordere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mordere</strong> <span class=\"sense\">(mela, panino)</span>",
+                                        "target": "to bite into"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mordere</strong> <span class=\"sense\">(cane, vipera)</span>",
+                                        "target": "to bite"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mordere <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(insetto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mordere</strong>",
+                                        "target": "to sting"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "mordere",
+                        "headword_full": "mordere <span class=\"flexion\">&lt;mordo, morsi, morso&gt;</span> <span class=\"phonetics\">[ˈmɔr<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mordere</strong> <span class=\"sense\">(freddo)</span>",
+                                        "target": "to bite"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mordere</strong> <span class=\"sense\">(sapore)</span>",
+                                        "target": "to be sharp"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "mordere",
+                        "headword_full": "mordere <span class=\"flexion\">&lt;mordo, morsi, morso&gt;</span> <span class=\"phonetics\">[ˈmɔr<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "mordere <span class=\"reflection\">mordersi</span> <span class=\"sense\">(lingua, labbro, unghie)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">mordersi</span>",
+                                        "target": "to bite"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mordersi la lingua le labbra </span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to bite one&#39;s tongue"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mordersi le mani le dita le unghie </span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to kick oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

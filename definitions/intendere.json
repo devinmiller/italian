@@ -1,0 +1,139 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "intendere",
+                        "headword_full": "intendere <span class=\"flexion\">&lt;intendo, intesi, inteso&gt;</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>ˈtɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. intendere <span class=\"sense\">(capire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intendere</strong>",
+                                        "target": "to understand"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dare a <strong class=\"tilde\">intendere</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to give <acronym title=\"somebody\">sb</acronym> to understand <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">lasciare [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> fare] <strong class=\"tilde\">intendere</strong> <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to make <acronym title=\"somebody\">sb</acronym> understand"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">intendere</strong> <acronym title=\"qualcosa\">qc</acronym> al volo</span>",
+                                        "target": "to immediately grasp <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">s&#39;intende</span>",
+                                        "target": "of course"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. intendere <span class=\"sense\">(udire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intendere</strong>",
+                                        "target": "to hear"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. intendere <span class=\"sense\">(accettare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intendere</strong>",
+                                        "target": "to listen to"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">intendere</strong> ragioni</span>",
+                                        "target": "to not listen to reason"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. intendere <span class=\"sense\">(volere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intendere</strong>",
+                                        "target": "to wish"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non intendevo offenderti</span>",
+                                        "target": "I didn&#39;t mean to offend you"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. intendere <span class=\"sense\">(voler dire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">intendere</strong>",
+                                        "target": "to mean"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "intendere",
+                        "headword_full": "intendere <span class=\"flexion\">&lt;intendo, intesi, inteso&gt;</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>ˈtɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">intendersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. intendere <span class=\"sense\">(andare d&#39;accordo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">intendersi</span>",
+                                        "target": "to get along"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">intendersela con <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to have an affair with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. intendere <span class=\"sense\">(accordarsi, capirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">intendersi</span>",
+                                        "target": "to understand each other"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">intendersi su <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to agree on <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tanto per intenderci</span>",
+                                        "target": "just to be clear"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. intendere <span class=\"sense\">(essere esperto di)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">intendersi di <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(argomento, materia)</span>",
+                                        "target": "to know <acronym title=\"something\">sth</acronym> about <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non m&#39;intendo di quadri/di politica</span>",
+                                        "target": "I don&#39;t know anything about paintings/politics"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

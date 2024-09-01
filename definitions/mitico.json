@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mitico",
+                        "headword_full": "mitico <span class=\"feminine\">(-a)</span> <span class=\"flexion\">&lt;-ci, -che&gt;</span> <span class=\"phonetics\">[ˈmi:<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>ko]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. mitico <span class=\"sense\">(del mito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mitico</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "mythical"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mitico <span class=\"sense\">(memorabile)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mitico</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "legendary"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. mitico <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(eccezionale, straordinario)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mitico</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "brilliant"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

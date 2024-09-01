@@ -1,0 +1,191 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mancare",
+                        "headword_full": "mancare <span class=\"phonetics\">[maŋ<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. mancare <span class=\"auxiliary_verb\">+essere</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong> <span class=\"sense\">(non esserci, non bastare)</span>",
+                                        "target": "to be lacking"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong> <span class=\"sense\">(acqua, corrente, luce)</span>",
+                                        "target": "to go off"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mancare <span class=\"auxiliary_verb\">+essere</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong> <span class=\"sense\">(essere assente)</span>",
+                                        "target": "to not be there"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong> <span class=\"sense\">(provocare nostalgia)</span>",
+                                        "target": "to miss"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ti sono mancato?</span>",
+                                        "target": "did you miss me?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi manca molto</span>",
+                                        "target": "I miss him <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> her]</span> a lot"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. mancare <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(distare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong>",
+                                        "target": "to be"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">c&#39;è mancato poco che …</span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span>",
+                                        "target": "very nearly …"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. mancare <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(forze)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mancare</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to fail <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi manca il fiato</span>",
+                                        "target": "I&#39;m out of breath"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi sono mancate le forze</span>",
+                                        "target": "my strength failed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. mancare <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(morire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong>",
+                                        "target": "to die"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. mancare <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(svenire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong>",
+                                        "target": "to faint"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sentirsi <strong class=\"tilde\">mancare</strong></span>",
+                                        "target": "to feel faint"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. mancare <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(essere privo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mancare</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be lacking in <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. mancare <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(venir meno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mancare</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to not keep <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mancare</strong> a una promessa</span>",
+                                        "target": "to not keep a promise"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mancare</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be lacking in <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mancare</strong> di parola</span>",
+                                        "target": "to not keep one&#39;s word"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. mancare <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(sbagliare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong>",
+                                        "target": "to make a mistake"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mancare</strong> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to get <acronym title=\"something\">sth</acronym> wrong"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ho mancato nel rispondergli così</span>",
+                                        "target": "I was wrong to answer him in that way"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "mancare",
+                        "headword_full": "mancare <span class=\"phonetics\">[maŋ<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. mancare <span class=\"sense\">(bersaglio, colpo, palla)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong>",
+                                        "target": "to miss"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mancare <span class=\"sense\">(occasione, opportunità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mancare</strong>",
+                                        "target": "to miss"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. mancare <span class=\"sense\">(omettere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">mancare</strong> di …</span> <span class=\"modus\">+inf</span>",
+                                        "target": "to not fail to …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non mancherò!</span>",
+                                        "target": "I certainly will!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

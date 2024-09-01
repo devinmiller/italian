@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mucchio",
+                        "headword_full": "mucchio <span class=\"flexion\">&lt;-cchi&gt;</span> <span class=\"phonetics\">[ˈmuk<span class=\"separator\">·</span>kio]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. mucchio <span class=\"sense\">(di carte, pietre, stracci)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mucchio</strong>",
+                                        "target": "heap"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mucchio <span class=\"sense\">(grande quantità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mucchio</strong>",
+                                        "target": "a lot"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

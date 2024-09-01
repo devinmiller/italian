@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "includere",
+                        "headword_full": "includere <span class=\"flexion\">&lt;includo, inclusi, incluso&gt;</span> <span class=\"phonetics\">[iŋ<span class=\"separator\">·</span>ˈklu:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. includere <span class=\"sense\">(comprendere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">includere</strong>",
+                                        "target": "to include"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. includere <span class=\"sense\">(in busta, lettera)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">includere</strong>",
+                                        "target": "to enclose"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

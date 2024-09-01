@@ -1,0 +1,59 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "invadere",
+                        "headword_full": "invadere <span class=\"flexion\">&lt;invado, invasi, invaso&gt;</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. invadere <span class=\"sense\">(territorio, paese)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">invadere</strong>",
+                                        "target": "to invade"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. invadere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">invadere</strong> <span class=\"sense\">(folla)</span>",
+                                        "target": "to invade"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">invadere</strong> <span class=\"sense\">(animali, piante)</span>",
+                                        "target": "to take over"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">invadere</strong> <span class=\"sense\">(acque)</span>",
+                                        "target": "to flood"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. invadere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">invadere</strong> <span class=\"sense\">(malattia)</span>",
+                                        "target": "to infect"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">invadere</strong> <span class=\"sense\">(prodotto, moda)</span>",
+                                        "target": "to flood"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

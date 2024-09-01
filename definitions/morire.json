@@ -1,0 +1,117 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "morire",
+                        "headword_full": "morire <span class=\"flexion\">&lt;muoio, morii, morto&gt;</span> <span class=\"phonetics\">[mo<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. morire <span class=\"sense\">(persona, animale, pianta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">morire</strong>",
+                                        "target": "to die"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">morire</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to die from <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">è morto di morte naturale/violenta</span>",
+                                        "target": "he died a natural/violent death"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. morire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(soffrire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">morire</strong> di fame/di sete</span>",
+                                        "target": "to die of hunger/thirst"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">morire</strong> dall&#39;invidia</span>",
+                                        "target": "to be green with envy"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">morire</strong> di freddo/di noia</span>",
+                                        "target": "to be frozen/bored stiff"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">morire</strong> dal ridere/dalle risate</span>",
+                                        "target": "to die laughing"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">morire</strong> dal sonno</span>",
+                                        "target": "to be dead tired"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">morire</strong> dalla voglia di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be dying to do <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fa un caldo/un freddo da <strong class=\"tilde\">morire</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "it&#39;s boiling hot/bitterly cold"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">bello/brutto da <strong class=\"tilde\">morire</strong></span>",
+                                        "target": "drop-dead gorgeous/as ugly as sin"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi piace da <strong class=\"tilde\">morire</strong></span>",
+                                        "target": "I love it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">morire</strong> dietro a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to be madly in love with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. morire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(istituzione, tradizione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">morire</strong>",
+                                        "target": "to die"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. morire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">morire</strong> <span class=\"sense\">(conversazione, discorso)</span>",
+                                        "target": "to die off"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">morire</strong> <span class=\"sense\">(progetto, questione)</span>",
+                                        "target": "to die"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. morire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">morire</strong> <span class=\"sense\">(fuoco, luce)</span>",
+                                        "target": "to die out"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">morire</strong> <span class=\"sense\">(passione, speranza)</span>",
+                                        "target": "to die off"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

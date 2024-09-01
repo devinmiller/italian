@@ -1,0 +1,300 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mettere",
+                        "headword_full": "mettere <span class=\"flexion\">&lt;metto, misi, messo&gt;</span> <span class=\"phonetics\">[ˈmet<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. mettere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong> <span class=\"sense\">(collocare: in luogo)</span>",
+                                        "target": "to put"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong> <span class=\"sense\">(in posizione)</span>",
+                                        "target": "to place"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> in ordine/disordine</span>",
+                                        "target": "to tidy/untidy"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> ad asciugare</span>",
+                                        "target": "to put out to dry"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> a cuocere</span>",
+                                        "target": "to start cooking"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">guarda dove metti i piedi!</span>",
+                                        "target": "watch where you put your feet!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mettere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong> <span class=\"sense\">(francobollo)</span>",
+                                        "target": "to stick"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong> <span class=\"sense\">(ingrediente)</span>",
+                                        "target": "to add"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong> <span class=\"sense\">(liquido)</span>",
+                                        "target": "to pour"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong> <span class=\"sense\">(chiave, chiodo)</span>",
+                                        "target": "to put"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong> <span class=\"sense\">(quadro, tende)</span>",
+                                        "target": "to hang"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. mettere <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong>",
+                                        "target": "to put"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> <acronym title=\"qualcuno\">qu</acronym> in carcere/collegio</span>",
+                                        "target": "to send <acronym title=\"somebody\">sb</acronym> to prison/boarding school"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> a letto</span>",
+                                        "target": "to put to bed"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> a letto</span> <span class=\"sense\">(a ufficio, direzione)</span>",
+                                        "target": "to appoint"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. mettere <span class=\"sense\">(indumento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong>",
+                                        "target": "to put on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. mettere <span class=\"sense\">(telefono, ascensore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong>",
+                                        "target": "to install"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. mettere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong> <span class=\"sense\">(abbaglianti)</span>",
+                                        "target": "to switch on"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong> <span class=\"sense\">(marcia)</span>",
+                                        "target": "to go into"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> la sveglia</span>",
+                                        "target": "to set the alarm"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. mettere <span class=\"sense\">(denaro, annuncio, firma, visto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong>",
+                                        "target": "to put"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. mettere <span class=\"sense\">(sentimento, stato d&#39;animo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong>",
+                                        "target": "to make"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. mettere <span class=\"sense\">(energia, forza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mettere</strong>",
+                                        "target": "to put"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettercela tutta</span>",
+                                        "target": "to give one&#39;s all"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">metterci un&#39;ora/un giorno/un anno</span>",
+                                        "target": "to take an hour/a day/ a year"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ci hanno messo due anni per finire il lavoro</span>",
+                                        "target": "it took them two years to finish the work"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. mettere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> a confronto</span>",
+                                        "target": "to compare"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> a disposizione</span>",
+                                        "target": "to make available"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> su <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(casa, attività)</span>",
+                                        "target": "to set up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">mettere</strong> su <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(famiglia)</span>",
+                                        "target": "to start"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">metti/mettiamo che … <span class=\"modus\">+cong</span> </span>",
+                                        "target": "suppose (that) …"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "mettere",
+                        "headword_full": "mettere <span class=\"flexion\">&lt;metto, misi, messo&gt;</span> <span class=\"phonetics\">[ˈmet<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">mettersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. mettere <span class=\"sense\">(in posizione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">mettersi</span>",
+                                        "target": "to put oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi in piedi</span>",
+                                        "target": "to stand up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi a letto</span>",
+                                        "target": "to go to bed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mettere <span class=\"sense\">(in condizione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">mettersi</span>",
+                                        "target": "to make oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi comodi</span>",
+                                        "target": "to make oneself comfortable"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi nei guai</span>",
+                                        "target": "to get into trouble"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi a dieta</span>",
+                                        "target": "to go on a diet"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi in aspettativa</span>",
+                                        "target": "to take a leave of absence"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi in malattia/maternità</span>",
+                                        "target": "to go on sick/maternity leave"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. mettere <span class=\"sense\">(indossare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">mettersi</span>",
+                                        "target": "to put on"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to wear <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. mettere <span class=\"sense\">(infilarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">mettersi</span>",
+                                        "target": "to put"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. mettere <span class=\"sense\">(cominciare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">mettersi a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to start to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. mettere <span class=\"sense\">(unirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">mettersi con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to join up with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. mettere <span class=\"sense\">(evolversi: situazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">mettersi</span>",
+                                        "target": "to turn out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi bene/male</span>",
+                                        "target": "to turn out well/badly"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

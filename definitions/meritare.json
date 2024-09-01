@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "meritare",
+                        "headword_full": "meritare <span class=\"phonetics\">[me<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. meritare <span class=\"sense\">(premio, punizione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">meritare</strong>",
+                                        "target": "to deserve"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. meritare <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(prezzo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">meritare</strong>",
+                                        "target": "to be worth"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. meritare <span class=\"info\">solo 3a pers.</span> <span class=\"sense\">(valere la pena)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">meritare</strong>",
+                                        "target": "to be worth"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non merita!</span>",
+                                        "target": "it&#39;s not worth it!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "meritare",
+                        "headword_full": "meritare <span class=\"phonetics\">[me<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "meritare <span class=\"reflection\">meritarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">meritarsi</span>",
+                                        "target": "to deserve"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

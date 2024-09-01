@@ -1,0 +1,76 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "interrompere",
+                        "headword_full": "interrompere <span class=\"flexion\">&lt;interrompo, interruppi, interrotto&gt;</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>ter<span class=\"separator\">·</span>ˈrom<span class=\"separator\">·</span>pe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. interrompere <span class=\"sense\">(lavoro, trattativa, persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">interrompere</strong>",
+                                        "target": "to interrupt"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. interrompere <span class=\"sense\">(strada, passaggio, linea, corrente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">interrompere</strong>",
+                                        "target": "to cut off"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "interrompere",
+                        "headword_full": "interrompere <span class=\"flexion\">&lt;interrompo, interruppi, interrotto&gt;</span> <span class=\"phonetics\">[in<span class=\"separator\">·</span>ter<span class=\"separator\">·</span>ˈrom<span class=\"separator\">·</span>pe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">interrompersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. interrompere:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">interrompersi</span> <span class=\"sense\">(in attività)</span>",
+                                        "target": "to break off"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">interrompersi</span> <span class=\"sense\">(nel parlare)</span>",
+                                        "target": "to stop talking"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. interrompere <span class=\"sense\">(trattativa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">interrompersi</span>",
+                                        "target": "to be interrupted"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. interrompere <span class=\"sense\">(linea, corrente, strada)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">interrompersi</span>",
+                                        "target": "to be cut off"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

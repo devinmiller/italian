@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "modificare",
+                        "headword_full": "modificare <span class=\"phonetics\">[mo<span class=\"separator\">·</span>di<span class=\"separator\">·</span>fi<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. modificare <span class=\"sense\">(cambiare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">modificare</strong>",
+                                        "target": "to alter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">modifica</span> <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>",
+                                        "target": "modify"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. modificare <span class=\"sense\">(migliorare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">modificare</strong>",
+                                        "target": "to improve"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "modificare",
+                        "headword_full": "modificare <span class=\"phonetics\">[mo<span class=\"separator\">·</span>di<span class=\"separator\">·</span>fi<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "modificare <span class=\"reflection\">modificarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">modificarsi</span>",
+                                        "target": "to change"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

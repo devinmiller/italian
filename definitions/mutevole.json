@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "mutevole",
+                        "headword_full": "mutevole <span class=\"phonetics\">[mu<span class=\"separator\">·</span>ˈte:<span class=\"separator\">·</span>vo<span class=\"separator\">·</span>le]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. mutevole <span class=\"sense\">(tempo, situazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mutevole</strong>",
+                                        "target": "changeable"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. mutevole <span class=\"sense\">(umore, carattere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">mutevole</strong>",
+                                        "target": "moody"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

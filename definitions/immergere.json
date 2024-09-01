@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "immergere",
+                        "headword_full": "immergere <span class=\"flexion\">&lt;immergo, immersi, immerso&gt;</span> <span class=\"phonetics\">[im<span class=\"separator\">·</span>ˈmɛr<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">immergere</strong> <acronym title=\"qualcosa\">qc</acronym> in <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(liquido)</span>",
+                                        "target": "to dip <acronym title=\"something\">sth</acronym> in <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "immergere",
+                        "headword_full": "immergere <span class=\"flexion\">&lt;immergo, immersi, immerso&gt;</span> <span class=\"phonetics\">[im<span class=\"separator\">·</span>ˈmɛr<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">immergersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. immergere <span class=\"sense\">(in liquido, vasca)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">immergersi</span>",
+                                        "target": "to plunge"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. immergere <span class=\"sense\">(in profondità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">immergersi</span>",
+                                        "target": "to dive"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. immergere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(in pensieri, attività)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">immergersi</span>",
+                                        "target": "to immerse oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

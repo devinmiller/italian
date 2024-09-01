@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "lodare",
+                        "headword_full": "lodare <span class=\"phonetics\">[lo<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(elogiare, celebrare)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">lodare</strong>",
+                                        "target": "to praise"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sia lodato il cielo!</span>",
+                                        "target": "thank heavens!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
