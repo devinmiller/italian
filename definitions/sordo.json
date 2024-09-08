@@ -1,0 +1,70 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sordo",
+                        "headword_full": "sordo <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[ˈsor<span class=\"separator\">·</span>do]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. sordo <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sordo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "deaf"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere <strong class=\"tilde\">sordo</strong> da un orecchio</span>",
+                                        "target": "to be deaf in one ear"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sordo</strong> come una campana</span>",
+                                        "target": "(as) deaf as a post"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sordo <span class=\"topic\"><acronym title=\"linguistics, grammar\">LING</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sordo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "voiceless"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sordo",
+                        "headword_full": "sordo <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[ˈsor<span class=\"separator\">·</span>do]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sordo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "deaf person"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare il <strong class=\"tilde\">sordo</strong></span>",
+                                        "target": "to play deaf"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">parlare [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> cantare] ai -i</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to waste one&#39;s breath"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

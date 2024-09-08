@@ -1,0 +1,126 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">in [<span class=\"or\"><acronym title=\"or\">or</acronym></span> on] the <strong class=\"tilde\">street</strong></span>",
+                "target": "per strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">hawk</strong>",
+                "target": "vendere per strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">he&#39;ll be out on his <strong class=\"tilde\">ear</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                "target": "si ritroverà per strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to go <strong class=\"tilde\">down</strong> the street</span>",
+                "target": "camminare per strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to live <strong class=\"tilde\">rough</strong></span>",
+                "target": "vivere per strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">stickball</strong>",
+                "target": "baseball <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> giocato per strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">street hockey</strong>",
+                "target": "hockey <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> giocato per strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">I lost it <strong class=\"tilde\">along</strong> the way</span>",
+                "target": "l&#39;ho perso per strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">lie</strong> on the route to …</span>",
+                "target": "trovarsi sulla strada per …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">continue</strong> (on) one&#39;s way</span>",
+                "target": "continuare per la propria strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to go one&#39;s own <strong class=\"tilde\">way</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                "target": "andarsene per la propria strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">part</strong> company</span>",
+                "target": "andare ciascuno per la propria strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be on <strong class=\"tilde\">track</strong> (to do <acronym title=\"something\">sth</acronym>)</span>",
+                "target": "essere sulla buona strada (per fare <acronym title=\"qualcosa\">qc</acronym>)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to go one&#39;s own <strong class=\"tilde\">sweet</strong> way</span>",
+                "target": "andare dritto per la propria strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to go one&#39;s <strong class=\"tilde\">separate</strong> ways</span>",
+                "target": "andare ognuno per la sua strada"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to put <acronym title=\"somebody\">sb</acronym> on to <acronym title=\"something\">sth</acronym></span>",
+                "target": "mettere <acronym title=\"qualcuno\">qu</acronym> sulla buona strada per"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">birds have a strong <strong class=\"tilde\">homing</strong> instict</span>",
+                "target": "gli uccelli per istinto sanno ritrovare la strada di casa"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">andare per la propria <strong class=\"tilde\">strada</strong></span>",
+                "target": "to go one&#39;s own way"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">tirar <strong class=\"tilde\">diritto</strong> per la propria strada</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                "target": "to go one&#39;s own way"
+            }
+        ]
+    }
+]

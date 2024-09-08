@@ -1,0 +1,69 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sperare",
+                        "headword_full": "sperare <span class=\"phonetics\">[spe<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sperare</strong>",
+                                        "target": "to hope"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sperare</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"modus\">+inf</span>",
+                                        "target": "to hope to do <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sperare</strong> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to hope for <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sperare</strong> che</span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span>",
+                                        "target": "to hope that"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">spero di sì</span>",
+                                        "target": "I hope so"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">spero di no</span>",
+                                        "target": "I hope not"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">speriamo (bene)!</span>",
+                                        "target": "let&#39;s hope so"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sperare",
+                        "headword_full": "sperare <span class=\"phonetics\">[spe<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sperare</strong> in <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to have great hopes of <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "nebbia",
+                        "headword_full": "nebbia <span class=\"flexion\">&lt;-ie&gt;</span> <span class=\"phonetics\">[ˈneb<span class=\"separator\">·</span>bia]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. nebbia <span class=\"topic\"><acronym title=\"meteorology\">METEO</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nebbia</strong>",
+                                        "target": "fog"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. nebbia <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(nebulosità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nebbia</strong>",
+                                        "target": "mist"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

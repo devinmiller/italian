@@ -1,0 +1,104 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "versare",
+                        "headword_full": "versare <span class=\"phonetics\">[ver<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. versare <span class=\"sense\">(liquido, farina, zucchero)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">versare</strong>",
+                                        "target": "to pour"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">versare</strong> lacrime</span> <span class=\"sense\">(piangere)</span>",
+                                        "target": "to cry"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">versare</strong> sangue</span> <span class=\"sense\">(sanguinare)</span>",
+                                        "target": "to bleed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. versare <span class=\"sense\">(spandere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">versare</strong>",
+                                        "target": "to spill"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">piangere sul latte versato</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to cry over spilt milk"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. versare <span class=\"sense\">(soldi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">versare</strong>",
+                                        "target": "to deposit"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "versare",
+                        "headword_full": "versare <span class=\"phonetics\">[ver<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(essere, trovarsi)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">versare</strong>",
+                                        "target": "to be"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">versare</strong> in fin di vita</span>",
+                                        "target": "to be dying"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "versare",
+                        "headword_full": "versare <span class=\"phonetics\">[ver<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">versarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. versare <span class=\"sense\">(spargersi, rovesciarsi addosso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">versarsi</span>",
+                                        "target": "to spill"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. versare <span class=\"sense\">(fiume)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">versarsi</span>",
+                                        "target": "to flow"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

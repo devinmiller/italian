@@ -1,0 +1,109 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vita",
+                        "headword_full": "vita<sup>1</sup> <span class=\"phonetics\">[ˈvi:<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. vita <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vita</strong>",
+                                        "target": "life"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">vita</strong></span>",
+                                        "target": "for life"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dare la <strong class=\"tilde\">vita</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to give birth to <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dare la <strong class=\"tilde\">vita</strong> per <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to give one&#39;s life for <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare la bella <strong class=\"tilde\">vita</strong></span>",
+                                        "target": "to live it up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">rimanere in <strong class=\"tilde\">vita</strong></span>",
+                                        "target": "to stay alive"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere in fin di <strong class=\"tilde\">vita</strong></span>",
+                                        "target": "to be at death&#39;s door"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">perdere la <strong class=\"tilde\">vita</strong></span>",
+                                        "target": "to lose one&#39;s life"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">togliersi la <strong class=\"tilde\">vita</strong></span>",
+                                        "target": "to take one&#39;s own life"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sto aspettando da una <strong class=\"tilde\">vita</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "I&#39;ve been waiting for ages"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vita <span class=\"sense\">(durata: di fenomeno, prodotto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vita</strong>",
+                                        "target": "lifetime"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. vita <span class=\"sense\">(sussistenza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vita</strong>",
+                                        "target": "living"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">guadagnarsi la <strong class=\"tilde\">vita</strong></span>",
+                                        "target": "to earn a living"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vita",
+                        "headword_full": "vita<sup>2</sup> <span class=\"phonetics\">[ˈvi:<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"sense\">(di persona, indumento)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vita</strong>",
+                                        "target": "waist"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

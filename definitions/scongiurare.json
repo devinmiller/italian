@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scongiurare",
+                        "headword_full": "scongiurare <span class=\"phonetics\">[skon<span class=\"separator\">·</span>dʒu<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. scongiurare <span class=\"sense\">(pregare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scongiurare</strong>",
+                                        "target": "to beg"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scongiurare <span class=\"sense\">(pericolo, disastro, tragedia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scongiurare</strong>",
+                                        "target": "to avert"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

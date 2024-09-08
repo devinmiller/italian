@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "suscitare",
+                        "headword_full": "suscitare <span class=\"phonetics\">[suʃ<span class=\"separator\">·</span>ʃi<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(reazione, odio, entusiasmo)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">suscitare</strong>",
+                                        "target": "to arouse"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">suscitare</strong> la pietà di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to arouse <acronym title=\"somebody's\">sb's</acronym> pity"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "riconoscimento",
+                        "headword_full": "riconoscimento <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ko<span class=\"separator\">·</span>noʃ<span class=\"separator\">·</span>ʃi<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. riconoscimento <span class=\"sense\">(identificazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riconoscimento</strong>",
+                                        "target": "identification"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. riconoscimento <span class=\"topic\"><acronym title=\"law\">LAW</acronym>, <acronym title=\"politics\">POL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riconoscimento</strong> <span class=\"sense\">(di figlio, persona giuridica)</span>",
+                                        "target": "acknowledgement"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">riconoscimento</strong> <span class=\"sense\">(di Stato, titolo)</span>",
+                                        "target": "recognition"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. riconoscimento <span class=\"sense\">(compenso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riconoscimento</strong>",
+                                        "target": "recognition"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. riconoscimento <span class=\"sense\">(di colpa, di errore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riconoscimento</strong>",
+                                        "target": "admission"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

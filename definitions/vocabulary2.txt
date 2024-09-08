@@ -1,772 +1,259 @@
-fondo
-abbagliante
-abbastanza
-abituale
-accanito
-accolto
-affettuoso
-affranto
-agevole
-agghiacciante
-affidabile
-allegro
-amareggiato
-essere amareggiato da qc
-ambientato
-ambizioso
-amichevole
-ammaliato
-amorevole
-ampio
-analogo
-angusto
-anonimo
-anteriore
-appartato
-appassionato
-essere appassionato di qc
-appeso
-approssimativo
-arcaico
-ardente
-assente
-assurdo
-attento
-attrezzato
-autorevole
-autorevolezza, -e
-avventato
-avversario
-avvilito
-avvincente
-avvolto
-azzeccato
-bagnato
-basso
-breve
-burrascoso
-capace
-carico
-celato
-chiaro
-ciascuno
-cieco
-circondato
-colmo (di)
-combattuto
-commosso
-commovente
-consapevole
-coperto
-corpulento
-cruento
-cupo
-davanti
-dedito
-deluso
-demoralizzato
-diafano
-diffidente
-diritto
-discutibile
-dolcificante
-durevole
-ennesimo
-equivoco
-esigente
-estenuante
-esterno
-estraneo
-abito
-abitudine
-acconciatura
-accoppiamento
-accordo
-affetto
-agio
-alba
-aldilà
-allenamento
-allontanamento
-andirivieni
-anello
-angolo
-annientamento
-anticipo
-appendiabiti
-assenza
-attaccamento
-atteggiamento
-attimo
-atto
-attrezzo
-autista
-autore (-trice)
-avamposto
-avanzo
-avversario (-a)
-azienda
-azzeramento
-bagliore
-basso
-bellezza
-bersaglio
-bivio
-borraccia
-bosco
-bozza
-bufala
-bussola
-caccia
-calco
-cambiamento
-campanello
-campionato
-cancelleria
-cancello
-capacità
-carattere
-carico
-carrello
-cartella
-cascata
-caso
-cattività
-causa
-cenere
-certezza
-cespuglio
-cestino
-chiarezza
-chiaro
-chioma
-cieco
-cima
-circolo
-circostanza
-clausura
-collaboratore
-collezionista
-colmo
-colpo
-commozione
-compagnia
-confine
-confronto
-conoscente
-conoscenza
-consapevolezza
-coperto
-corazza
-cornice
-correttezza
-corridoio
-corrispondenza
-corteccia
-corteggiamento
-crepuscolo
-crociera
-cumulo
-davanti
-fondo
-metà
-motivo
-origine
-ragione
-riguardo
-voce
-deriva
-destrezza
-dietro
-diritto
-disagio
-discesa
-disinvoltura
-dispiacere
-distacco
-distanza
-divieto
-dolcificante
-ebbrezza
-epoca
-equivoco
-eredità
-ereditiera
-esigenza
-esilio
-esitazione
-esito
-esterno
-esterno
-estraneità
-estraneo
-estro
-fallimento
-abbandonare
-abbandonare gli studi
-abbandonare la speranza
-abbandonarsi
-abbandonarsi a qc
-abbandonarsi alla fantasia
-abbandonarsi a un vizio
-abbassare
-abbassare la cresta
-abbassare la voce
-abbassarsi
-abbassarsi a fare qc
-abbozzare
-abbracciare
-abitare
-abitare in Italia
-abitare in Lazio
-abitare a Roma
-abitare in campagna
-abitare in città
-abituarsi (a)
-abituarsi a (fare) qc
-abusare (di)
-abusare di qc
-accadere
-accendere
-accendere un fuoco
-accendere l'auto
-accendere le luci
-accendersi
-accettare
-accettare una sfida
-accettare un invito
-accogliere
-accogliere qn a braccia aperte
-accompagnare
-accompagnare qn alla porta
-accontentare
-accontentarsi (di)
-accontentarsi di qc
-accontentarsi di poco
-accorciare
-accorciarsi
-accorgersi (di)
-accorgersi di qc
-accumulare
-accumularsi
-adattare
-adattarsi
-adattarsi a qc
-addobbare
-addolcire
-aderire (a)
-addormentarsi
-addormentarsi in piede
-adorare
-adottare
-affascinare
-affaticare
-affermare
-affaticarsi
-afferrare
-afferrare qn per un braccio
-afferrarsi (a)
-affiancare
-affittare
-affliggere
-affrettare
-affrettare il passo
-affrettarsi
-affrettarsi a fare qc
-affogare
-affrontare
-affrontarsi
-agevolare
-aggiungere
-aggiustare
-agire
-agire bene/male
-aiutare
-aiutare qn (a fare qc)
-aiutarsi
-alimentare
-alimentarsi
-allagare
-allenare
-allenarsi
-allontanare
-allontanarsi
-allungare
-allungarsi
-alzare
-alzare gli occhi al cielo
-alzare le spalle
-alzare la cresta
-alzarsi
-alzarsi in piedi
-alzarsi da tavolo
-alzarsi dal letto
-alzarsi con il piede sbagliato
-amare
-amare fare qc
-ambientare
-ambientarsi
-ammalarsi
-ammalarsi di qc
-ammaliare
-ammazzare
-ammazzare il tempo
-ammazzarsi
-ammettere
-ammirare
-andare
-andare a casa
-andare a dormire
-andare a fare qc
-andare a finire qc
-andare a prendere qc
-andare a trovare qn
-andare al lavoro
-andare al mercato
-andare dal dentista
-andare dal dottore
-andare fiero di qn/qc
-andare in banca
-andare in farmacia
-andare in macchina
-andare in moto
-andare avanti
-andare via
-andarsene
-angosciare
-angosciarsi
-angosciarsi per qu/qc
-annegare
-annegarsi
-annoiare
-annoiarsi
-annoverare
-anticipare
-apparire
-apparire all'improvviso
-apparire in sogno
-appartenere
-appartenere a qn/qc
-appendere
-appendersi
-apprendere
-approfittare (di)
-approfittare di qc/qc
-approfondire
-approvare
-apprezzare
-aprire
-aprire la finestra
-aprire la porta
-aprire gli occhi
-aprire le orecchie
-arginare
-arrabbiarsi
-arrendersi (a)
-arrivare
-arrivare (a)
-arrivare ad un accordo
-arrivare a buon punto
-arrivare a casa
-arrivare a fare qc
-arrivare ad una conclusione
-arrivare al lavoro
-arrivare dal dentista
-arrivare dal dottore
-arrivare in banca
-arrivare in farmacia
-arrivare in anticipo
-arrivare in orario
-arrivare in ritardo
-asciugare
-ascoltare
-ascoltare qn fare qc
-aspettare
-aspettare la fine di qc
-aspettare la fine
-aspettarsi
-assaggiare
-assicurare
-assicurare contro qc
-assicurare qc a qn
-assicurare a qn che
-assicurarsi
-assicurarsi contro qc
-assistere
-assomigliare
-assomigliarsi
-assorbire
-assumere
-attaccare
-attaccare qc a qu
-attendere
-attendere a qc
-attingere
-attirare
-attrarre
-attraversare
-attraversare la strada
-attraversare un brutto periodo
-aumentare
-avere
-aver bisogno di fare qc
-aver bisogno di qc
-aver voglia di fare qc
-aver voglia di qc
-avere qc da bere
-avere qc da fare
-avere qc da mangiare
-avvenire
-avvertire
-avvertire qu (di qc)
-avvicinare
-avvicinare qc a qn/qc
-avvicinare qn
-avvicinarsi
-avvicinarsi a qn/qc
-avvisare
-avvincere
-avvolgere
-avvolgere qc attorno a qu/qc
-avvolgersi
-azzardare
-azzeccare
-bagnare
-bagnarsi
-ballare
-balzare
-balzare giù da qc
-balzare giù dal letto
-balzare in piedi
-balzare agli occhi
-bandire
-barare
-barattare
-barattare qc (con qc)
-basare
-basare qc su qc
-basarsi
-basarsi su qc
-bastare
-battere
-battere i denti
-battere le mani
-battere i piede
-bere
-bisognare
-bloccare
-bloccarsi
-bocciare
-bollire
-bollire di rabbia
-bruciare
-bruciare dal desiderio di fare qc
-bruciarsi
-bussare
-bussare alla porta
-buttare
-buttare (via)
-buttare qc a qn
-buttare giù
-buttarsi
-buttarsi giù
-cacciare
-cacciare fuori la lingua
-cacciare un urlo
-cacciarsi
-cacciarsi nei pasticci
-cadere
-cadere morto
-cadere in piedi
-cadere ammalato
-calcolare
-calmare
-calmarsi
-calpestare
-cambiare
-cambiare casa
-cambiare idea
-cambiare argomento
-cambiare qc con qn
-cambiare qc per qc
-cambiare treno/aereo
-camminare
-camminare sulle uova
-cancellare
-candidare
-candidarsi
-cantare
-capire
-capire male qc
-far capire qc a qu
-capitare
-capitare bene/male
-capita a tutti
-caricare
-caricare qu di qc
-caricare la dose
-causare
-cedere
-cedere il passo a qn
-cedere il passo a qc
-cedere a qc
-celare
-celarsi
-celebrare
-cercare
-cercare (di)
-cessare
-cessare di fare qc
-chiacchierare
-chiamare
-chiamarsi
-chiedere
-chiedere di qn
-chiedere qc a qn
-chiedere qu di fare qc
-chiedere il prezzo di qc
-chiedere un consiglio a qu
-chiedere notizie di qu
-chiedere un favore a qu
-chiedere di qu
-chiedersi
-chiudere
-chiudersi
-chiudere a chiave la porta
-chiudere a chiave
-chiudere la bocca
-chiudere un occhio
-circondare
-circondare qu di qc
-circondarsi (di)
-circondarsi di qu/qc
-coccolare
-cogliere
-cogliere qc al volo
-cogliere qu in flagrante
-coinvolgere
-coinvolgere qu in qc
-colare
-collegare
-collegarsi
-colpire
-colpire qu con un pugno
-colpire nel segno
-coltivare
-combattere
-combattere contro qc
-combattere per qc
-cominciare
-cominciare a fare qc
-commuovere
-commuoversi
-comparire
-compatire
-compiacere
-compiacersi
-compiacersi con qu per qc
-compiere
-compiere gli anni
-comportarsi
-comprare
-comprendere
-comunicare
-concedere
-concludere
-condurre
-condurre a termine qc
-confondere
-confondersi
-confondersi tra la folla
-confrontare
-conoscere
-conosco i miei polli
-conoscersi
-conquistare
-consegnare
-considerare
-consistere
-consistere di qc
-consolare
-consolarsi
-consolarsi di qc
-constatare
-consumare
-consumarsi
-contagiare
-contare
-contare i giorni/le ore/i minuti
-contare di fare qc
-contare su qu/qc
-contenere
-contenersi
-continuare
-contraddire
-contraddirsi
-contrarre
-controllare
-controllarsi
-convertire
-convertire qu a qc
-convertire qc in qc
-convertirsi
-convertirsi in qc
-convertirsi a qc
-convincere
-convincere qu (di qc)
-convincersi
-convincersi (di qc)
-coprire
-coprirsi
-coprirsi di qc
-correggere
-correggersi
-correre
-correre dietro a qu
-corrompere
-corrompersi
-costeggiare
-costituire
-costituirsi
-costringere
-costringere qu a fare qc
-costruire
-covare
-credere
-credere in qu/qc
-credere a qu
-crescere
-crollare
-cucinare
-cucire
-cuocere
-dare
-dare qc a qu
-dare una notizia a qn
-dare un consiglio a qn
-dare un esame
-dare una festa
-dare su qc
-dare peso a qc
-dare qc da fare a qn
-dare da mangiare a qn
-dare da bere a qn
-darsi
-decidere
-decidere di fare qc
-decidere di qc
-decidersi
-decidersi a fare qc
-decifrare
-depositare
-depositarsi
-deprimere
-deprimersi
-descrivere
-desiderare
-desiderare fare qc
-lasciare a desiderare
-destare
-destarsi
-determinare
-detestare
-difendere
-difendersi
-difendersi da qu/qc
-difendersi contro qu/qc
-diffondere
-diffondersi
-digerire
-dimagrire
-dimenticare
-dimenticarsi
-dimostrare
-dimostrarsi
-dipendere
-dipendere da qu/qc
-dipingere
-dipingere su qc
-dire
-dire di sì/no
-dire bugie
-dir male di qu
-avere da dire su qu
-lasciar dire
-voler dire
-dirigere
-dirigere qu/qc a [o verso] qu/qc
-dirigersi
-dirigersi verso qu
-dirigersi verso [o a] qc
-disattivare
-discutere
-discutere di [o su] qc
-disegnare
-disegnare di fare qc
-disfare
-disfarsi
-disfarsi di qc/qu
-disgustare
-disgustarsi
-disgustarsi di qc
-disperare
-disperare di qc
-disperare di fare qc
-disperarsi
-dispiacere
-distaccare
-distaccarsi
-distinguere
-distinguersi
-distrarre
-distrarsi
-distruggere
-diventare
-divertire
-divertirsi
-divertirsi a fare qc
-dividere
-dividersi
-divorare
-domandare
-domandare qc a qu
-domandare un consiglio a qu
-domandare notizie di qu
-domandare il prezzo di qc
-domandare un favore a qu
-domandarsi
-dormire
-dormire in piedi
-dormire sonni tranquilli/agitati
-dovere
-durare
-echeggiare
-eleggere
-elevare
-elevarsi
-eliminare
-eludere
-emergere
-emettere
-entrare
-entrare in acqua
-entrare in casa
-entrare dalla porta/finestra
-fare entrare qu
-entrare in contatto con qu
-esagerare
-esagerare con qc
-esagerare in qc
-esaminare
-esasperare
-esasperarsi
-esaurire
-esaurirsi
-escludere
-esemplificare
-esibire
-esibirsi
-esistere
-esprimere
-esprimersi
-evitare
+ibrido
+identificarsi
+idioma
+idratata
+illudere
+imballare
+imbattersi
+imbranato
+imbrunire
+imbruttire
+immergere
+immergere nel
+impacciare
+impadronirsi
+impagabile
+impalcatura
+imparare
+imparentato
+impazzire
+impegnativo
+impersonare
+impiegare
+impiegare
+impiegare più
+impiegato
+implicare
+imponente
+imporre
+imprecisato
+imprendibile
+impresa
+impressionante
+in colpa
+in fin dei conti
+in fretta
+in giro
+in incubo
+in materia
+in media
+in modo
+in omaggio
+in orario
+in qualche modo
+in quanto
+in quanto a
+in senso ampio
+in tondo
+in visita
+inappagato
+incalzante
+incalzato
+incapace
+incarico
+incastrato
+incertezza
+inchinarsi
+inchiodato
+inchiostro
+inciampare
+incitare
+includere
+incominciare
+incompiuto
+inconfondibile
+inconsapevole
+inconsapevolmente
+incontrare
+incontro
+incrostato
+incubo
+incuriosito
+indagare
+indebolire
+indebolirsi
+indecifrabile
+indicare
+indicazioni
+indietro
+indimenticabile
+indiscreta
+individuare
+indovinare
+indumento
+indurito
+ineffabile
+ineluttabile
+inerpicarsi
+inesistente
+inevitabilmente
+inezia
+infarto
+infastidire
+infastidirsi
+infetto
+infilare
+influenzare
+infondere
+infondere nuova
+informare
+ingarbugliarsi
+inghiottire
+inginocchiarsi
+ingombrare
+ingrassare
+innalzare
+innalzarsi
+innamorarsi
+innamorato
+innegabile
+inoltre
+inquietante
+inquietante
+inquieto
+inquinamento
+inquinare
+insieme a
+insistere
+insofferente
+insolito
+insopportabile
+insospettito
+insulso
+insuperabile
+intanto
+intendere
+interagire
+interferire
+interiore
+intero
+interrompere
+intervenire
+intervenire
+intervento
+intorno
+intrappolato
+intricata
+introdurre
+intrufolarsi
+invadere
+invidiare
+invitare
+involucro
+irrefrenabile
+irreprensibile
+isolato
+l'unica pecca
+laborioso
+lagnarsi
+lamentarsi
+lampo
+lanciare
+lanciare
+lanciarsi
+lanciarsi in
+lancinante
+lasciare
+lasciare alle spalle
+lattiginoso
+lavare
+lavarsi
+lavastoviglie
+lavorare
+legare
+legare
+leggere
+leggermente
+lentezza
+lettore
+lettura
+lezioso
+liberare
+libricino
+licenziare
+licenziarsi
+lieve
+limare
+limitare
+lineamento
+liquidare
+località
+lodare
+logoro
+lontananza
+lotta
+lottare
+lottare per
+lunga permanenza
+lungo meno
+lutto
+lutto
+macchiare
+maestro
+maggioranza
+malapena
+malconcio
+maledire
+maledizioni
+malgrado
+malinteso
+mancare
+manchevole
+mancia
+manciata
+mandare
+mangiare
+maniche
+manna
+mano a mano
+mantenere
+marea
+mascherare
+massiccio
+matita
+matrigna
+medicare
+membra
+memorabile
+mendicante
+mensola
+mentire
+menzionato
+merce
+meritare
+mestiere
+metodico
+mettere
+mettere al riparo
+mettere la spunta alle voci
+mettersi
+mettiamo che
+mezzi migliori
+mi dispiace per lui
+mi rendo conto
+micino
+micio
+migliorare
+migrare
+minacciare
+minaccioso
+minestra
+mingherlino
+minore
+mirare
+misfatto
+misurare
+mite
+mitico
+moderare
+modificare
+momentaneo
+mordere
+mordere
+morire
+mortale
+mostrare
+mucchio
+multa
+mutevole
+muto

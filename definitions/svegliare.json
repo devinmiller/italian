@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "svegliare",
+                        "headword_full": "svegliare <span class=\"phonetics\">[zveʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. svegliare <span class=\"sense\">(dal sonno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">svegliare</strong>",
+                                        "target": "to wake (up)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. svegliare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(animare: persone)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">svegliare</strong>",
+                                        "target": "to liven up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. svegliare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(suscitare: emozioni)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">svegliare</strong>",
+                                        "target": "to awaken"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "svegliare",
+                        "headword_full": "svegliare <span class=\"phonetics\">[zveʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "svegliare <span class=\"reflection\">svegliarsi</span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">svegliarsi</span>",
+                                        "target": "to wake up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

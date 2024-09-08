@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "quaderno",
+                        "headword_full": "quaderno <span class=\"phonetics\">[kua<span class=\"separator\">·</span>ˈdɛr<span class=\"separator\">·</span>no]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"sense\">(di scuola)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">quaderno</strong>",
+                                        "target": "notebook"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">quaderno</strong> a quadretti/a righe</span>",
+                                        "target": "notebook with squared/lined pages"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

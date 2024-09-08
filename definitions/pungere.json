@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pungere",
+                        "headword_full": "pungere <span class=\"flexion\">&lt;pungo, punsi, punto&gt;</span> <span class=\"phonetics\">[ˈpun<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. pungere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pungere</strong> <span class=\"sense\">(soggetto: spina, spillo)</span>",
+                                        "target": "to prick"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">pungere</strong> <span class=\"sense\">(insetto, ortica)</span>",
+                                        "target": "to sting"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. pungere <span class=\"sense\">(offendere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pungere</strong>",
+                                        "target": "to offend"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "pungere",
+                        "headword_full": "pungere <span class=\"flexion\">&lt;pungo, punsi, punto&gt;</span> <span class=\"phonetics\">[ˈpun<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "pungere <span class=\"reflection\">pungersi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">pungersi</span>",
+                                        "target": "to prick oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vicenda",
+                        "headword_full": "vicenda <span class=\"phonetics\">[vi<span class=\"separator\">·</span>ˈtʃɛn<span class=\"separator\">·</span>da]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. vicenda <span class=\"sense\">(evento, caso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vicenda</strong>",
+                                        "target": "event"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vicenda <span class=\"sense\">(storia, faccenda)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vicenda</strong>",
+                                        "target": "story"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. vicenda <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">vicenda</strong></span> <span class=\"sense\">(l&#39;un l&#39;altro)</span>",
+                                        "target": "each other"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">vicenda</strong></span> <span class=\"sense\">(a turno)</span>",
+                                        "target": "in turns"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

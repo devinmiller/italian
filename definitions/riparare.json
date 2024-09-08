@@ -1,0 +1,88 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "riparare",
+                        "headword_full": "riparare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>pa<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. riparare <span class=\"sense\">(accomodare: abiti, radio, muro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riparare</strong>",
+                                        "target": "to fix"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. riparare <span class=\"sense\">(proteggere: da sole, vento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riparare</strong>",
+                                        "target": "to protect"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. riparare <span class=\"sense\">(rimediare a: torto, ingiustizia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riparare</strong>",
+                                        "target": "to put right"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "riparare",
+                        "headword_full": "riparare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>pa<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(provvedere)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">riparare</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to put <acronym title=\"something\">sth</acronym> right"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "riparare",
+                        "headword_full": "riparare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>pa<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">ripararsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. riparare <span class=\"sense\">(cercare riparo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">ripararsi</span>",
+                                        "target": "to shelter"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. riparare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(proteggersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">ripararsi</span>",
+                                        "target": "to protect oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

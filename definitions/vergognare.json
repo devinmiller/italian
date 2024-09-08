@@ -1,0 +1,25 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">shame</strong>",
+                "target": "far vergognare"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">put</strong> <acronym title=\"somebody\">sb</acronym> to shame</span>",
+                "target": "fare vergognare <acronym title=\"qualcuno\">qu</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to put <acronym title=\"somebody\">sb</acronym> to <strong class=\"tilde\">shame</strong></span>",
+                "target": "far vergognare <acronym title=\"qualcuno\">qu</acronym>"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">turn back</strong>",
+                "target": "tornare indietro"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">head back</strong>",
+                "target": "tornare indietro"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">whip back</strong>",
+                "target": "tornare indietro di scatto"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">tornare <strong class=\"tilde\">indietro</strong></span>",
+                "target": "to turn back"
+            }
+        ]
+    }
+]

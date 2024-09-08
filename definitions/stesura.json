@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "stesura",
+                        "headword_full": "stesura <span class=\"phonetics\">[ste<span class=\"separator\">·</span>ˈsu:<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. stesura <span class=\"topic\"><acronym title=\"administration\">ADMIN</acronym></span> <span class=\"sense\">(di contratto, documento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stesura</strong>",
+                                        "target": "drawing up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. stesura <span class=\"topic\"><acronym title=\"literature, poetry\">LIT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stesura</strong>",
+                                        "target": "writing"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

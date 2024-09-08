@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "onirico",
+                        "headword_full": "onirico <span class=\"feminine\">(-a)</span> <span class=\"flexion\">&lt;-ci, -che&gt;</span> <span class=\"phonetics\">[o<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ko]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(letteratura, musica, visione)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">onirico</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "oneiric"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

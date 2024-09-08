@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vetrina",
+                        "headword_full": "vetrina <span class=\"phonetics\">[ve<span class=\"separator\">·</span>ˈtri:<span class=\"separator\">·</span>na]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. vetrina <span class=\"sense\">(di negozio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vetrina</strong>",
+                                        "target": "window"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi in <strong class=\"tilde\">vetrina</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to put oneself on display"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vetrina <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(evento, luogo rappresentativo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vetrina</strong>",
+                                        "target": "showcase"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. vetrina <span class=\"sense\">(mobile)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vetrina</strong>",
+                                        "target": "display cabinet"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

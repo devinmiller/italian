@@ -1,0 +1,115 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "stringere",
+                        "headword_full": "stringere <span class=\"flexion\">&lt;stringo, strinsi, stretto&gt;</span> <span class=\"phonetics\">[ˈstrin<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. stringere <span class=\"sense\">(serrare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stringere</strong>",
+                                        "target": "to squeeze (together)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">stringere</strong> la mano a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to shake <acronym title=\"somebody's\">sb's</acronym> hand"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">stringere</strong> <acronym title=\"qualcuno\">qu</acronym> fra le braccia</span>",
+                                        "target": "to hug <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. stringere <span class=\"sense\">(vite)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stringere</strong>",
+                                        "target": "to tighten"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. stringere <span class=\"sense\">(denti, pugni)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stringere</strong>",
+                                        "target": "to clench"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. stringere <span class=\"sense\">(vestito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stringere</strong>",
+                                        "target": "to take in"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. stringere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(riassumere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stringere</strong>",
+                                        "target": "to condense"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">stringi, stringi</span>",
+                                        "target": "when it comes down to it"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. stringere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">stringere</strong> alleanza</span>",
+                                        "target": "to make an alliance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">stringere</strong> amicizia</span>",
+                                        "target": "to make friends"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "stringere",
+                        "headword_full": "stringere <span class=\"flexion\">&lt;stringo, strinsi, stretto&gt;</span> <span class=\"phonetics\">[ˈstrin<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">stringersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. stringere <span class=\"sense\">(avvicinarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">stringersi attorno a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to gather around <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. stringere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">stringersi nelle spalle</span>",
+                                        "target": "to shrug"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

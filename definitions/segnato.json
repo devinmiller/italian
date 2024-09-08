@@ -1,0 +1,43 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">careworn</strong>",
+                "target": "segnato, -a dalle preoccupazioni"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">weather-beaten</strong> face</span>",
+                "target": "volto <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> segnato dalle intemperie"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">unmarked</strong> <span class=\"collocator\">cards, bills</span>",
+                "target": "non segnato, -a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">I&#39;ve <strong class=\"tilde\">marked</strong> the route on the map</span>",
+                "target": "ho segnato l&#39;itinerario sulla carta"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">short-handed</strong> goal</span>",
+                "target": "un gol segnato con la squadra non al completo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">the prize <strong class=\"tilde\">crowned</strong> his career</span>",
+                "target": "il premio ha segnato il culmine della sua carriera"
+            }
+        ]
+    }
+]

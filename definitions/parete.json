@@ -1,0 +1,169 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "parete",
+                        "headword_full": "parete <span class=\"phonetics\">[pa<span class=\"separator\">·</span>ˈre:<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">parete</strong>",
+                                        "target": "wall"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tra le -i domestiche</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "at home"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "parere",
+                        "headword_full": "parere<sup>1</sup> <span class=\"flexion\">&lt;paio, parvi, parso&gt;</span> <span class=\"phonetics\">[pa<span class=\"separator\">·</span>ˈre:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. parere <span class=\"sense\">(apparire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">parere</strong>",
+                                        "target": "to seem"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi pare di averlo visto</span>",
+                                        "target": "I think I saw him"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non mi par vero</span>",
+                                        "target": "I can&#39;t believe it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">pare di sì/no</span>",
+                                        "target": "it seems so/not"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">pare impossibile</span>",
+                                        "target": "it seems impossible"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">pare che non sia vero</span>",
+                                        "target": "it seems it&#39;s not true"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a quanto pare</span>",
+                                        "target": "apparently"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. parere <span class=\"sense\">(avere l&#39;impressione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">ti pare di aver ragione?</span>",
+                                        "target": "do you think you&#39;re right?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">che te ne pare?</span>",
+                                        "target": "what do you think?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non ti pare?</span>",
+                                        "target": "don&#39;t you think?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ma Le pare!</span>",
+                                        "target": "not at all!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fai come ti pare</span>",
+                                        "target": "do as you like"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "parere",
+                        "headword_full": "parere<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. parere <span class=\"sense\">(opinione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">parere</strong>",
+                                        "target": "opinion"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a mio <strong class=\"tilde\">parere</strong></span>",
+                                        "target": "in my opinion"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere del <strong class=\"tilde\">parere</strong> che …</span>",
+                                        "target": "to be of the opinion that …"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. parere <span class=\"sense\">(di esperto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">parere</strong>",
+                                        "target": "advice"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "parere",
+                        "headword_full": "parere <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "secondo <strong class=\"tilde\">parere</strong> <span class=\"grammar SUBST\"><acronym title=\"masculine\">m</acronym></span> <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>",
+                                        "target": "second opinion"
+                                    },
+                                    {
+                                        "source": "chiedere un secondo <strong class=\"tilde\">parere</strong> <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>",
+                                        "target": "to request a second opinion"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sentimento",
+                        "headword_full": "sentimento <span class=\"phonetics\">[sen<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. sentimento <span class=\"sense\">(il sentire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sentimento</strong>",
+                                        "target": "feeling"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sentimento <span class=\"info\"><acronym title=\"plurale\">pl</acronym></span> <span class=\"sense\">(modo di pensare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sentimento</strong>",
+                                        "target": "sentiments <span class=\"number\"><acronym title=\"plurale\">pl</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

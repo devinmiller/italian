@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "valigia",
+                        "headword_full": "valigia <span class=\"flexion\">&lt;-gie [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> -ge]&gt;</span> <span class=\"phonetics\">[va<span class=\"separator\">·</span>ˈli:<span class=\"separator\">·</span>dʒa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">valigia</strong>",
+                                        "target": "suitcase"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> preparare] la <strong class=\"tilde\">valigia</strong></span>",
+                                        "target": "to pack (one&#39;s suitcase)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">disfare la <strong class=\"tilde\">valigia</strong></span>",
+                                        "target": "to unpack (one&#39;s suitcase)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">valigia</strong> ventiquattr&#39;ore</span>",
+                                        "target": "overnight bag"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare le -gie</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to pack one&#39;s bags"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

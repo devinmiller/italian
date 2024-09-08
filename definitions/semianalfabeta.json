@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "semianalfabeta",
+                        "headword_full": "semianalfabeta <span class=\"flexion\">&lt;-i <span class=\"info\"><acronym title=\"masculine\">m</acronym></span>, -e <span class=\"info\"><acronym title=\"feminine\">f</acronym></span>&gt;</span> <span class=\"phonetics\">[se<span class=\"separator\">·</span>mi<span class=\"separator\">·</span>an<span class=\"separator\">·</span>al<span class=\"separator\">·</span>fa<span class=\"separator\">·</span>ˈbɛ:<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">semianalfabeta</strong>",
+                                        "target": "semi-literate"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "semianalfabeta",
+                        "headword_full": "semianalfabeta <span class=\"flexion\">&lt;-i <span class=\"info\"><acronym title=\"masculine\">m</acronym></span>, -e <span class=\"info\"><acronym title=\"feminine\">f</acronym></span>&gt;</span> <span class=\"phonetics\">[se<span class=\"separator\">·</span>mi<span class=\"separator\">·</span>an<span class=\"separator\">·</span>al<span class=\"separator\">·</span>fa<span class=\"separator\">·</span>ˈbɛ:<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine and feminine\">mf</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">semianalfabeta</strong>",
+                                        "target": "semi-literate"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

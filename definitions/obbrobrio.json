@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "obbrobrio",
+                        "headword_full": "obbrobrio <span class=\"flexion\">&lt;-i&gt;</span> <span class=\"phonetics\">[ob<span class=\"separator\">·</span>ˈbrɔ:<span class=\"separator\">·</span>brio]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. obbrobrio <span class=\"sense\">(azione vergognosa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">obbrobrio</strong>",
+                                        "target": "disgrace"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. obbrobrio <span class=\"sense\">(cosa brutta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">obbrobrio</strong>",
+                                        "target": "horror"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

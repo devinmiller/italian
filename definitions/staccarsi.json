@@ -1,0 +1,119 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "staccare",
+                        "headword_full": "staccare <span class=\"phonetics\">[stak<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. staccare <span class=\"sense\">(francobollo, etichetta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">staccare</strong>",
+                                        "target": "to remove"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. staccare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">staccare</strong> <span class=\"sense\">(quadro)</span>",
+                                        "target": "to take down"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">staccare</strong> <span class=\"sense\">(bottone)</span>",
+                                        "target": "to take off"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. staccare <span class=\"topic\"><acronym title=\"railway\">RAIL</acronym></span> <span class=\"sense\">(vagone)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">staccare</strong>",
+                                        "target": "to detach"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. staccare <span class=\"sense\">(assegno, ricevuta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">staccare</strong>",
+                                        "target": "to write"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. staccare <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">staccare</strong>",
+                                        "target": "to outdistance"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. staccare <span class=\"sense\">(parole, sillabe)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">staccare</strong>",
+                                        "target": "to articulate"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "staccare",
+                        "headword_full": "staccare <span class=\"phonetics\">[stak<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(finire di lavorare)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">staccare</strong>",
+                                        "target": "to knock off"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "staccare",
+                        "headword_full": "staccare <span class=\"phonetics\">[stak<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">staccarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. staccare <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">staccarsi da <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to come off <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. staccare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(allontanarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">staccarsi</span>",
+                                        "target": "to detach oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

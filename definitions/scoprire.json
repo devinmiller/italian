@@ -1,0 +1,80 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scoprire",
+                        "headword_full": "scoprire <span class=\"flexion\">&lt;scopro, scoprii [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> scopersi], scoperto&gt;</span> <span class=\"phonetics\">[sko<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. scoprire <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scoprire</strong>",
+                                        "target": "to discover"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scoprire</strong> l&#39;acqua calda</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to reinvent the wheel"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scoprire <span class=\"sense\">(pentola, statua, gambe)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scoprire</strong>",
+                                        "target": "to uncover"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. scoprire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(palesare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scoprire</strong>",
+                                        "target": "to reveal"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "scoprire",
+                        "headword_full": "scoprire <span class=\"flexion\">&lt;scopro, scoprii [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> scopersi], scoperto&gt;</span> <span class=\"phonetics\">[sko<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">scoprirsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. scoprire <span class=\"sense\">(spogliarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">scoprirsi</span>",
+                                        "target": "to take some clothes off"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">si è scoperta troppo</span>",
+                                        "target": "she was wearing too few clothes"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scoprire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(rivelarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">scoprirsi</span>",
+                                        "target": "to give oneself away"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

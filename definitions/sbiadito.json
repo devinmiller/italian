@@ -1,0 +1,80 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sbiadito",
+                        "headword_full": "sbiadito <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[zbia<span class=\"separator\">·</span>ˈdi:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. sbiadito <span class=\"sense\">(colore, tessuto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sbiadito</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "faded"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sbiadito <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sbiadito</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(ricordo)</span>",
+                                        "target": "faint"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">sbiadito</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(stile)</span>",
+                                        "target": "colorless"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sbiadire",
+                        "headword_full": "sbiadire <span class=\"flexion\">&lt;sbiadisco&gt;</span> <span class=\"phonetics\">[zbia<span class=\"separator\">·</span>ˈdi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sbiadire</strong>",
+                                        "target": "to fade"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sbiadire",
+                        "headword_full": "sbiadire <span class=\"flexion\">&lt;sbiadisco&gt;</span> <span class=\"phonetics\">[zbia<span class=\"separator\">·</span>ˈdi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "sbiadire <span class=\"reflection\">sbiadirsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sbiadirsi</span>",
+                                        "target": "to fade"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

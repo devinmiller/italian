@@ -1,0 +1,132 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">insofar as</strong>",
+                "target": "per quanto <span class=\"modus\">+subj</span>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">however</strong>",
+                "target": "per quanto <span class=\"modus\">+subj</span>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as far as <strong class=\"tilde\">possible</strong></span>",
+                "target": "per quanto è possibile"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">oddly</strong> enough</span>",
+                "target": "per quanto strano sembri"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as far as I <strong class=\"tilde\">know</strong></span>",
+                "target": "per quanto ne so"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as <strong class=\"tilde\">near</strong> as I can guess</span>",
+                "target": "per quanto ne so"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as <strong class=\"tilde\">far</strong> as I know …</span>",
+                "target": "per quanto ne so…"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as <strong class=\"tilde\">far</strong> as possible</span>",
+                "target": "per quanto possibile"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">for</strong> all I know</span>",
+                "target": "per quanto ne so"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">however</strong> hard she tries …</span>",
+                "target": "per quanto ci provi…"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as far as I&#39;m <strong class=\"tilde\">concerned</strong></span>",
+                "target": "per quanto mi riguarda"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as <strong class=\"tilde\">far</strong> back as I remember …</span>",
+                "target": "per quanto riesco a ricordare …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">strangely</strong> enough …</span>",
+                "target": "per quanto (possa sembrare) strano, …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">oddly [<span class=\"or\"><acronym title=\"or\">or</acronym></span> strangely] <strong class=\"tilde\">enough</strong></span>",
+                "target": "per quanto possa sembrare strano"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">as</strong> nice <strong class=\"tilde\">as</strong> the day is, …</span>",
+                "target": "per quanto sia una bella giornata …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">I&#39;m not very good where money is <strong class=\"tilde\">concerned</strong></span>",
+                "target": "non sono molto abile per quanto riguarda i soldi"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">per <strong class=\"tilde\">quanto</strong></span> <span class=\"modus\">+<acronym title=\"subjunctive\">subj</acronym></span>",
+                "target": "as far as"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">per quanto riguarda …</span>",
+                "target": "as far as … is concerned"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">per <strong class=\"tilde\">quanto</strong> ne sappia io</span>",
+                "target": "as far as I know"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">sono <strong class=\"tilde\">dolente</strong> per quanto è successo</span>",
+                "target": "I am sorry about what happened"
+            }
+        ]
+    }
+]

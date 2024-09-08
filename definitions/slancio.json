@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "slancio",
+                        "headword_full": "slancio <span class=\"flexion\">&lt;-ci&gt;</span> <span class=\"phonetics\">[ˈzlan<span class=\"separator\">·</span>tʃo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. slancio <span class=\"sense\">(balzo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">slancio</strong>",
+                                        "target": "leap"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. slancio <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(impeto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">slancio</strong>",
+                                        "target": "gusto"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in uno <strong class=\"tilde\">slancio</strong> di entusiasmo</span>",
+                                        "target": "in a burst of enthusiasm"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "traguardo",
+                        "headword_full": "traguardo <span class=\"phonetics\">[tra<span class=\"separator\">·</span>ˈguar<span class=\"separator\">·</span>do]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. traguardo <span class=\"sense\">(in gara)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">traguardo</strong>",
+                                        "target": "finishing line"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tagliare il <strong class=\"tilde\">traguardo</strong></span>",
+                                        "target": "to cross the finishing line"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. traguardo <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(obiettivo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">traguardo</strong>",
+                                        "target": "goal"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. traguardo <span class=\"sense\">(di arma)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">traguardo</strong>",
+                                        "target": "sight"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

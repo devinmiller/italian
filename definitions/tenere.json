@@ -1,0 +1,346 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tenere",
+                        "headword_full": "tenere <span class=\"flexion\">&lt;tengo, tenni, tenuto&gt;</span> <span class=\"phonetics\">[te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. tenere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong> <span class=\"sense\">(in mano, in braccio)</span>",
+                                        "target": "to hold"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong> <span class=\"sense\">(non lasciar sfuggire)</span>",
+                                        "target": "to hold onto"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ecco il resto: tenga!</span>",
+                                        "target": "here&#39;s your change"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tenere <span class=\"sense\">(mantenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong>",
+                                        "target": "to keep"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> la finestra aperta</span>",
+                                        "target": "to keep the window open"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> il posto a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to keep <acronym title=\"somebody's\">sb's</acronym> seat"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> la lingua a freno</span>",
+                                        "target": "to hold one&#39;s tongue"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> a mente <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to bear <acronym title=\"something\">sth</acronym> in mind"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> le distanze</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to keep one&#39;s distance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> una promessa</span>",
+                                        "target": "to keep a promise"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tenersi buono <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to keep <acronym title=\"somebody\">sb</acronym> sweet"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> <acronym title=\"qualcosa\">qc</acronym> da conto</span>",
+                                        "target": "to take care of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> la destra/sinistra</span>",
+                                        "target": "to keep to the right/left"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. tenere <span class=\"sense\">(contenere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong>",
+                                        "target": "to hold"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. tenere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong> <span class=\"sense\">(discorso, conferenza)</span>",
+                                        "target": "to give"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong> <span class=\"sense\">(riunione)</span>",
+                                        "target": "to hold"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">la riunione si terrà domani mattina</span>",
+                                        "target": "the meeting will take place tomorrow morning"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. tenere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong> <span class=\"sense\">(occupare)</span>",
+                                        "target": "to take up"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong> <span class=\"sense\">(dominare)</span>",
+                                        "target": "to hold"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> banco</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to hold the stage"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. tenere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> conto di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to bear <acronym title=\"something\">sth</acronym> in mind"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> compagnia a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to keep <acronym title=\"somebody\">sb</acronym> company"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> d&#39;occhio <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to keep an eye on <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">l&#39;auto tiene bene la strada</span>",
+                                        "target": "the car handles the road well"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "tenere",
+                        "headword_full": "tenere <span class=\"flexion\">&lt;tengo, tenni, tenuto&gt;</span> <span class=\"phonetics\">[te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. tenere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong> <span class=\"sense\">(reggere: scaffale)</span>",
+                                        "target": "to hold up"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tenere</strong> <span class=\"sense\">(colla)</span>",
+                                        "target": "to stick"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> duro</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(resistere)</span>",
+                                        "target": "to hang on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tenere <span class=\"sense\">(dare importanza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to care about <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tengo a …</span> <span class=\"modus\">+inf</span>",
+                                        "target": "I would like to …"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. tenere <span class=\"sense\">(parteggiare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> per <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to be on <acronym title=\"somebody's\">sb's</acronym> side"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> per una squadra</span>",
+                                        "target": "to support a team"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "tenere",
+                        "headword_full": "tenere <span class=\"flexion\">&lt;tengo, tenni, tenuto&gt;</span> <span class=\"phonetics\">[te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">tenersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. tenere <span class=\"sense\">(reggersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">tenersi</span>",
+                                        "target": "to hold on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tenere <span class=\"sense\">(mantenersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">tenersi</span>",
+                                        "target": "to keep"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tenersi a distanza da <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to keep one&#39;s distance from <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tenersi aggiornato</span>",
+                                        "target": "to keep up to date"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> pronto</span>",
+                                        "target": "to be ready"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tenersi in piedi</span>",
+                                        "target": "to stand up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. tenere <span class=\"sense\">(trattenersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">tenersi</span>",
+                                        "target": "to keep oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tenersi dal ridere</span>",
+                                        "target": "to keep oneself from laughing"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. tenere <span class=\"sense\">(attenersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">tenersi a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to stick to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tenero",
+                        "headword_full": "tenero <span class=\"phonetics\">[ˈtɛ:<span class=\"separator\">·</span>ne<span class=\"separator\">·</span>ro]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. tenero <span class=\"sense\">(parte tenera)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenero</strong>",
+                                        "target": "tender part"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tenero <span class=\"sense\">(sentimento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenero</strong>",
+                                        "target": "feelings <span class=\"number\"><acronym title=\"plurale\">pl</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tra quei due c&#39;è del <strong class=\"tilde\">tenero</strong></span>",
+                                        "target": "those two have feelings for each other"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tenero",
+                        "headword_full": "tenero <span class=\"feminine\">(-a)</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. tenero:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenero</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(morbido: carne)</span>",
+                                        "target": "tender"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tenero</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(legno, pietra)</span>",
+                                        "target": "soft"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tenero:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tenero</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(affettuoso: sguardo, parole)</span>",
+                                        "target": "tender"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tenero</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(non severo: madre, padre)</span>",
+                                        "target": "soft"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">che <strong class=\"tilde\">tenero!</strong></span>",
+                                        "target": "how sweet!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. tenero <span class=\"sense\">(giovane)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">in -a età</span>",
+                                        "target": "at a tender age"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

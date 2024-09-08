@@ -1,0 +1,78 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "rinascere",
+                        "headword_full": "rinascere <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈnaʃ<span class=\"separator\">·</span>ʃe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. rinascere <span class=\"sense\">(nascere di nuovo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rinascere</strong>",
+                                        "target": "to be born again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. rinascere <span class=\"topic\"><acronym title=\"botany\">BOT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rinascere</strong>",
+                                        "target": "to spring up again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. rinascere <span class=\"sense\">(unghie, capelli)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rinascere</strong>",
+                                        "target": "to grow back"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. rinascere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rinascere</strong>",
+                                        "target": "to become a new person"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "rinato",
+                        "headword_full": "rinato <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "rinato <span class=\"reference_qualification\"><acronym title=\"past participle\">pp</acronym> di</span> <span class=\"indirect_reference_RQ\"> rinascere</span>",
+                                "translations": [
+                                    {
+                                        "source": "",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

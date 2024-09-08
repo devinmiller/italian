@@ -1,0 +1,205 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "salto",
+                        "headword_full": "salto <span class=\"phonetics\">[ˈsal<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. salto <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym>, a</span> <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">salto</strong>",
+                                        "target": "jump"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">salto</strong> in alto</span>",
+                                        "target": "high jump"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">salto</strong> in lungo</span>",
+                                        "target": "long jump"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">salto</strong> con l&#39;asta</span>",
+                                        "target": "pole vault"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">salto</strong> mortale</span>",
+                                        "target": "somersault"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare i -i mortali</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to bust a gut"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare quattro -i</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to dance"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. salto <span class=\"sense\">(scappata)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">fare un <strong class=\"tilde\">salto</strong> in centro</span>",
+                                        "target": "to pop into town"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare un <strong class=\"tilde\">salto</strong> da <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to drop in on <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in un <strong class=\"tilde\">salto</strong> vado e torno</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "I&#39;ll take just a second"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. salto <span class=\"sense\">(rapido passaggio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">salto</strong>",
+                                        "target": "step up the ladder"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. salto <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">salto</strong>",
+                                        "target": "leap"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "saltare",
+                        "headword_full": "saltare <span class=\"phonetics\">[sal<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere o avere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. saltare <span class=\"sense\">(da terra)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">saltare</strong>",
+                                        "target": "to jump"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> dalla finestra</span>",
+                                        "target": "to jump out of the window"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> dal ponte</span>",
+                                        "target": "to jump off the bridge"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> dalla gioia</span>",
+                                        "target": "to jump for joy"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> al collo di <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(abbracciare)</span>",
+                                        "target": "to throw one&#39;s arms around <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> al collo di <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(aggredire)</span>",
+                                        "target": "to jump on <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> fuori</span> <span class=\"sense\">(essere trovato)</span>",
+                                        "target": "to turn up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> fuori</span> <span class=\"sense\">(esprimere)</span>",
+                                        "target": "to come out with"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> agli occhi (a <acronym title=\"qualcuno\">qu</acronym>)</span>",
+                                        "target": "to jump out (at <acronym title=\"somebody\">sb</acronym>)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> in mente</span>",
+                                        "target": "to think of"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ma cosa ti è saltato in mente?</span>",
+                                        "target": "what got into you?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> di palo in frasca</span>",
+                                        "target": "to jump from one subject to another"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. saltare <span class=\"sense\">(esplodere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> in aria</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to blow up"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "saltare",
+                        "headword_full": "saltare <span class=\"phonetics\">[sal<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. saltare <span class=\"sense\">(ostacolo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">saltare</strong>",
+                                        "target": "to jump (over)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> la corda</span>",
+                                        "target": "to jump rope"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. saltare <span class=\"topic\"><acronym title=\"food and cooking\">FOOD</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">saltare</strong>",
+                                        "target": "to sauté"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. saltare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(omettere, non frequentare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">saltare</strong>",
+                                        "target": "to skip"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">saltare</strong> il pasto</span>",
+                                        "target": "to skip a meal"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

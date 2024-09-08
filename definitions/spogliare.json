@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "spogliare",
+                        "headword_full": "spogliare <span class=\"phonetics\">[spoʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. spogliare <span class=\"sense\">(svestire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spogliare</strong>",
+                                        "target": "to undress"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spogliare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(derubare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spogliare</strong>",
+                                        "target": "to strip"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "spogliare",
+                        "headword_full": "spogliare <span class=\"phonetics\">[spoʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">spogliarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. spogliare <span class=\"sense\">(svestirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">spogliarsi</span>",
+                                        "target": "to undress"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spogliare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(privarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">spogliarsi di <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(beni,)</span>",
+                                        "target": "to strip oneself of <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

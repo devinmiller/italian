@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sorridere",
+                        "headword_full": "sorridere <span class=\"phonetics\">[sor<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sorridere <span class=\"sense\">(ridere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sorridere</strong>",
+                                        "target": "to smile"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sorridere</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to smile at <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sorridere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(riuscire gradito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sorridere</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to appeal to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. sorridere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(apparire favorevole)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sorridere</strong>",
+                                        "target": "to smile on"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">la vita mi sorride</span>",
+                                        "target": "life is good"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "rifare",
+                        "headword_full": "rifare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈfa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. rifare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rifare</strong> <span class=\"sense\">(esame)</span>",
+                                        "target": "to retake"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">rifare</strong> <span class=\"sense\">(compito)</span>",
+                                        "target": "to redo"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. rifare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rifare</strong> <span class=\"sense\">(stanza)</span>",
+                                        "target": "to clean"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">rifare</strong> <span class=\"sense\">(letto)</span>",
+                                        "target": "to make"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. rifare <span class=\"sense\">(imitare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rifare</strong>",
+                                        "target": "to imitate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. rifare <span class=\"sense\">(compensare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rifare</strong>",
+                                        "target": "to compensate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. rifare <span class=\"sense\">(compiere un&#39;altra volta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rifare</strong>",
+                                        "target": "to do again"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">rifare</strong> la strada</span>",
+                                        "target": "to retrace one&#39;s steps"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "rifare",
+                        "headword_full": "rifare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈfa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">rifarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. rifare <span class=\"sense\">(diventare nuovamente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">rifarsi</span>",
+                                        "target": "to become again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. rifare:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">rifarsi di <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(prendersi la rivincita)</span>",
+                                        "target": "to get one&#39;s revenge for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. rifare <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">rifare</strong> una vita</span>",
+                                        "target": "to rebuild one&#39;s life"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">rifare</strong> gli occhi</span>",
+                                        "target": "to be a sight for sore eyes"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">rifare</strong> la bocca [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> il seno] </span>",
+                                        "target": "to have one&#39;s mouth <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> breasts]</span> redone"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "urlare",
+                        "headword_full": "urlare <span class=\"phonetics\">[ur<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. urlare <span class=\"sense\">(persona, scimmia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">urlare</strong>",
+                                        "target": "to scream"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. urlare <span class=\"sense\">(parlare forte)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">urlare</strong>",
+                                        "target": "to shout"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. urlare <span class=\"sense\">(vento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">urlare</strong>",
+                                        "target": "to howl"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "urlare",
+                        "headword_full": "urlare <span class=\"phonetics\">[ur<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. urlare <span class=\"sense\">(dire a voce alta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">urlare</strong>",
+                                        "target": "to shout"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. urlare <span class=\"sense\">(cantare a voce alta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">urlare</strong>",
+                                        "target": "to belt out"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

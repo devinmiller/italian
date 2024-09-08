@@ -1,0 +1,41 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "silenzio",
+                        "headword_full": "silenzio <span class=\"flexion\">&lt;-i&gt;</span> <span class=\"phonetics\">[si<span class=\"separator\">·</span>ˈlɛn<span class=\"separator\">·</span>tsio]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">silenzio</strong>",
+                                        "target": "silence"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare <strong class=\"tilde\">silenzio</strong></span>",
+                                        "target": "to be quiet"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">passare <acronym title=\"qualcosa\">qc</acronym> sotto <strong class=\"tilde\">silenzio</strong></span>",
+                                        "target": "to hush <acronym title=\"something\">sth</acronym> up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">silenzio</strong> stampa</span>",
+                                        "target": "press silence"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

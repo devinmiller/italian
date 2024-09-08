@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "radere",
+                        "headword_full": "radere <span class=\"flexion\">&lt;rado, rasi, raso&gt;</span> <span class=\"phonetics\">[ˈra:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. radere <span class=\"sense\">(barba, baffi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">radere</strong>",
+                                        "target": "to shave"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. radere <span class=\"sense\">(distruggere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">radere</strong> al suolo</span>",
+                                        "target": "to raze to the ground"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. radere <span class=\"sense\">(sfiorare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">radere</strong>",
+                                        "target": "to graze"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "radere",
+                        "headword_full": "radere <span class=\"flexion\">&lt;rado, rasi, raso&gt;</span> <span class=\"phonetics\">[ˈra:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "radere <span class=\"reflection\">radersi</span> <span class=\"sense\">(barba, baffi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">radersi</span>",
+                                        "target": "to shave"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

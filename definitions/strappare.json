@@ -1,0 +1,66 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "strappare",
+                        "headword_full": "strappare <span class=\"phonetics\">[strap<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. strappare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">strappare</strong> <span class=\"sense\">(ramo, fiore)</span>",
+                                        "target": "to break off"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">strappare</strong> <span class=\"sense\">(pagina)</span>",
+                                        "target": "to tear out"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">strappare</strong> <span class=\"sense\">(carta)</span>",
+                                        "target": "to tear up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. strappare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">strappare</strong> <span class=\"sense\">(cuore)</span>",
+                                        "target": "to break"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">strappare</strong> <span class=\"sense\">(promessa, confessione)</span>",
+                                        "target": "to extract"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "strappare",
+                        "headword_full": "strappare <span class=\"phonetics\">[strap<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "strappare <span class=\"reflection\">strapparsi</span> <span class=\"sense\">(lacerarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">strapparsi</span>",
+                                        "target": "to break"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "puntare",
+                        "headword_full": "puntare <span class=\"phonetics\">[pun<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. puntare <span class=\"sense\">(appoggiare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">puntare</strong>",
+                                        "target": "to brace"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">puntare</strong> i piedi</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to dig one&#39;s heels in"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. puntare <span class=\"sense\">(dirigere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">puntare</strong>",
+                                        "target": "to point"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">puntare</strong> il dito verso <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to point the finger at <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. puntare <span class=\"sense\">(scommettere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">puntare</strong> <acronym title=\"qualcosa\">qc</acronym> su <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to bet <acronym title=\"something\">sth</acronym> on <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "puntare",
+                        "headword_full": "puntare <span class=\"phonetics\">[pun<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. puntare <span class=\"sense\">(dirigersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">puntare</strong> su <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to head for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. puntare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(mirare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">puntare</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be after <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. puntare <span class=\"sense\">(contare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">puntare</strong> su <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to count on <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "uccidere",
+                        "headword_full": "uccidere <span class=\"phonetics\">[ut<span class=\"separator\">·</span>ˈtʃi:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"info\">uccido, uccisi, ucciso</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">uccidere</strong>",
+                                        "target": "to kill"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "uccidere",
+                        "headword_full": "uccidere <span class=\"phonetics\">[ut<span class=\"separator\">·</span>ˈtʃi:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"info\">uccido, uccisi, ucciso</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">uccidersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. uccidere <span class=\"sense\">(suicidarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">uccidersi</span>",
+                                        "target": "to kill oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. uccidere <span class=\"sense\">(vicendevolmente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">uccidersi</span>",
+                                        "target": "to kill each other"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. uccidere <span class=\"sense\">(perdere la vita)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">uccidersi</span>",
+                                        "target": "to be killed"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

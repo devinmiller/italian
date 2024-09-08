@@ -1,0 +1,137 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "oltre",
+                        "headword_full": "oltre <span class=\"phonetics\">[ˈol<span class=\"separator\">·</span>tre]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "1. oltre <span class=\"sense\">(di tempo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oltre</strong>",
+                                        "target": "longer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. oltre <span class=\"sense\">(di luogo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oltre</strong>",
+                                        "target": "further"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare <strong class=\"tilde\">oltre</strong></span>",
+                                        "target": "to go further"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare troppo <strong class=\"tilde\">oltre</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to go too far"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "oltre",
+                        "headword_full": "oltre <span class=\"phonetics\">[ˈol<span class=\"separator\">·</span>tre]</span> <span class=\"wordclass\"><acronym title=\"preposition\">PREP</acronym></span>",
+                        "wordclass": "preposition",
+                        "arabs": [
+                            {
+                                "header": "1. oltre <span class=\"sense\">(dall&#39;altra parte di)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oltre</strong>",
+                                        "target": "beyond"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. oltre <span class=\"sense\">(pi di)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oltre</strong>",
+                                        "target": "more than"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">oltre</strong> il 15 giugno</span>",
+                                        "target": "no later than June 15"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. oltre <span class=\"sense\">(in aggiunta, in più)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">oltre</strong> a</span>",
+                                        "target": "apart from"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. oltre <span class=\"sense\">(eccetto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">oltre</strong> a</span>",
+                                        "target": "apart from"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "oltremisura",
+                        "headword_full": "oltremisura, <span class=\"headword\">oltre misura</span> <span class=\"phonetics\">[ol<span class=\"separator\">·</span>tre<span class=\"separator\">·</span>mi<span class=\"separator\">·</span>ˈzu:<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oltremisura</strong>",
+                                        "target": "excessively"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "oltremodo",
+                        "headword_full": "oltremodo, <span class=\"headword\">oltre modo</span> <span class=\"phonetics\">[ol<span class=\"separator\">·</span>tre<span class=\"separator\">·</span>ˈmɔ:<span class=\"separator\">·</span>do]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oltremodo</strong>",
+                                        "target": "extremely"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

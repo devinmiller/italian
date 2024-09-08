@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sfiancare",
+                        "headword_full": "sfiancare <span class=\"phonetics\">[sfiaŋ<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(spossare)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sfiancare</strong>",
+                                        "target": "to exhaust"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sfiancare",
+                        "headword_full": "sfiancare <span class=\"phonetics\">[sfiaŋ<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "sfiancare <span class=\"reflection\">sfiancarsi</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(spossarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sfiancarsi</span>",
+                                        "target": "to exhaust oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

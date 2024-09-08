@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "poggiare",
+                        "headword_full": "poggiare <span class=\"phonetics\">[pod<span class=\"separator\">·</span>ˈdʒa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(posare)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">poggiare</strong>",
+                                        "target": "to place"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "poggiare",
+                        "headword_full": "poggiare <span class=\"phonetics\">[pod<span class=\"separator\">·</span>ˈdʒa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(<strong class=\"tilde\">poggiare</strong> su <acronym title=\"qualcosa\">qc</acronym>)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">poggiare</strong> <span class=\"topic\">arch</span>",
+                                        "target": "to rest on <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">poggiare</strong> <span class=\"rhetoric\">teoria</span>",
+                                        "target": "to be based on <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

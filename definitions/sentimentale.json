@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sentimentale",
+                        "headword_full": "sentimentale <span class=\"phonetics\">[sen<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>men<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>le]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sentimentale</strong>",
+                                        "target": "sentimental"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

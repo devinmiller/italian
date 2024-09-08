@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ottenere",
+                        "headword_full": "ottenere <span class=\"phonetics\">[ot<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ottenere <span class=\"sense\">(conseguire: risultato, totale, vittoria)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ottenere</strong>",
+                                        "target": "to obtain"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ottenere <span class=\"sense\">(ricevere: ricompensa, premio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ottenere</strong>",
+                                        "target": "to gain"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ottenere <span class=\"sense\">(ricavare: prodotto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ottenere</strong>",
+                                        "target": "to obtain"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

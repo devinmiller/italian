@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vagabondare",
+                        "headword_full": "vagabondare <span class=\"phonetics\">[va<span class=\"separator\">·</span>ga<span class=\"separator\">·</span>bon<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. vagabondare <span class=\"sense\">(fare il vagabondo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vagabondare</strong>",
+                                        "target": "to live as a vagrant"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vagabondare <span class=\"sense\">(girovagare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vagabondare</strong>",
+                                        "target": "to wander"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

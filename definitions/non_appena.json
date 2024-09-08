@@ -1,0 +1,36 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">the <strong class=\"tilde\">moment</strong> that …</span>",
+                "target": "(non) appena …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">as</strong> soon as</span>",
+                "target": "non appena"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">at your earliest (possible) convenience</span>",
+                "target": "non appena possibile"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">non</strong> appena</span>",
+                "target": "as soon as"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tappa",
+                        "headword_full": "tappa <span class=\"phonetics\">[ˈtap<span class=\"separator\">·</span>pa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. tappa <span class=\"sense\">(sosta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tappa</strong>",
+                                        "target": "stop"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tappa <span class=\"sense\">(percorso, momento decisivo)</span> <span class=\"topic\"><acronym title=\"anche\">a.</acronym> <acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tappa</strong>",
+                                        "target": "stage"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">bruciare le -e</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to get somewhere fast"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

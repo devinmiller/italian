@@ -1,0 +1,110 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "trattare",
+                        "headword_full": "trattare <span class=\"phonetics\">[trat<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. trattare <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trattare</strong>",
+                                        "target": "to treat"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. trattare <span class=\"sense\">(argomento, pratica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trattare</strong>",
+                                        "target": "to deal with"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. trattare <span class=\"sense\">(affare, compravendita)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trattare</strong>",
+                                        "target": "to negotiate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. trattare <span class=\"topic\"><acronym title=\"commerce\">COMM</acronym></span> <span class=\"sense\">(articoli)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trattare</strong>",
+                                        "target": "to sell"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "trattare",
+                        "headword_full": "trattare <span class=\"phonetics\">[trat<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. trattare <span class=\"sense\">(avere per argomento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">trattare</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be about <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. trattare <span class=\"sense\">(avere a che fare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">trattare</strong> con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to deal with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. trattare <span class=\"sense\">(impersonale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">dimmi pure di cosa si tratta</span>",
+                                        "target": "tell me what&#39;s the matter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">deve trattarsi di un errore</span>",
+                                        "target": "there must be some mistake"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "trattare",
+                        "headword_full": "trattare <span class=\"phonetics\">[trat<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "trattare <span class=\"reflection\">trattarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">trattarsi</span>",
+                                        "target": "to treat oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

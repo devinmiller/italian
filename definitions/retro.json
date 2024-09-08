@@ -1,0 +1,81 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "retro",
+                        "headword_full": "retro<sup>1</sup> <span class=\"phonetics\">[ˈrɛ:<span class=\"separator\">·</span>tro]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">vedi <strong class=\"tilde\">retro</strong></span>",
+                                        "target": "see over"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "retro",
+                        "headword_full": "retro<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">retro</strong>",
+                                        "target": "back"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sul <strong class=\"tilde\">retro</strong></span>",
+                                        "target": "on the back"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "retro",
+                        "headword_full": "retro<sup>3</sup> <span class=\"flexion\">&lt;inv&gt;</span> <span class=\"phonetics\">[re<span class=\"separator\">·</span>ˈtro]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">retro</strong> <span class=\"sense\">(abbigliamento, arredamento)</span>",
+                                        "target": "retro"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">retro</strong> <span class=\"sense\">(mostra)</span>",
+                                        "target": "retrospective"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

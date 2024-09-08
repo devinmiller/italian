@@ -1,0 +1,129 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "percorso",
+                        "headword_full": "percorso <span class=\"phonetics\">[per<span class=\"separator\">·</span>ˈkor<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. percorso <span class=\"sense\">(tragitto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">percorso</strong>",
+                                        "target": "route"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. percorso <span class=\"sense\">(tempo di percorrenza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">percorso</strong>",
+                                        "target": "journey"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. percorso <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(nell&#39;equitazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">percorso</strong>",
+                                        "target": "round"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. percorso <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">percorso</strong>",
+                                        "target": "path"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "percorso",
+                        "headword_full": "percorso <span class=\"feminine\">(-a)</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "percorso <span class=\"reference_qualification\"><acronym title=\"past participle\">pp</acronym> di</span> <span class=\"indirect_reference_RQ\"> percorrere</span>",
+                                "translations": [
+                                    {
+                                        "source": "",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "percorso",
+                        "headword_full": "percorso <span class=\"feminine\">(-a)</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">percorso</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "covered"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "percorrere",
+                        "headword_full": "percorrere <span class=\"phonetics\">[per<span class=\"separator\">·</span>ˈkor<span class=\"separator\">·</span>re<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. percorrere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">percorrere</strong> <span class=\"sense\">(distanza)</span>",
+                                        "target": "to cover"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">percorrere</strong> <span class=\"sense\">(strada)</span>",
+                                        "target": "to drive along"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. percorrere <span class=\"sense\">(territorio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">percorrere</strong>",
+                                        "target": "to travel through"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

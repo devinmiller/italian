@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "penultimo",
+                        "headword_full": "penultimo <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[pe<span class=\"separator\">·</span>ˈnul<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>mo]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">penultimo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "penultimate"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "penultimo",
+                        "headword_full": "penultimo <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[pe<span class=\"separator\">·</span>ˈnul<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>mo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">penultimo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "penultimate"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

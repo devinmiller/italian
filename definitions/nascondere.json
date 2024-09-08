@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "nascondere",
+                        "headword_full": "nascondere <span class=\"flexion\">&lt;nascondo, nascosi, nascosto&gt;</span> <span class=\"phonetics\">[nas<span class=\"separator\">·</span>ˈkon<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. nascondere <span class=\"sense\">(oggetto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nascondere</strong>",
+                                        "target": "to hide"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. nascondere <span class=\"sense\">(sentimento, verità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nascondere</strong>",
+                                        "target": "to conceal"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nascondere</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to hide <acronym title=\"something\">sth</acronym> from <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "nascondere",
+                        "headword_full": "nascondere <span class=\"flexion\">&lt;nascondo, nascosi, nascosto&gt;</span> <span class=\"phonetics\">[nas<span class=\"separator\">·</span>ˈkon<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "nascondere <span class=\"reflection\">nascondersi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">nascondersi</span>",
+                                        "target": "to hide"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

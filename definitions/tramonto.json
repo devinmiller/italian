@@ -1,0 +1,73 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tramonto",
+                        "headword_full": "tramonto <span class=\"phonetics\">[tra<span class=\"separator\">·</span>ˈmon<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. tramonto <span class=\"topic\"><acronym title=\"astrology, astronomy\">ASTRO</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tramonto</strong> <span class=\"sense\">(del sole)</span>",
+                                        "target": "sunset"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tramonto</strong> <span class=\"sense\">(di astri)</span>",
+                                        "target": "setting"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tramonto <span class=\"sense\">(di civiltà)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tramonto</strong>",
+                                        "target": "decline"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tramontare",
+                        "headword_full": "tramontare <span class=\"phonetics\">[tra<span class=\"separator\">·</span>mon<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. tramontare <span class=\"topic\"><acronym title=\"astrology, astronomy\">ASTRO</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tramontare</strong>",
+                                        "target": "to set"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tramontare <span class=\"sense\">(civiltà)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tramontare</strong>",
+                                        "target": "to decline"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

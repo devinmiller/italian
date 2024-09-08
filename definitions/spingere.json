@@ -1,0 +1,81 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "spingere",
+                        "headword_full": "spingere <span class=\"flexion\">&lt;spingo, spinsi, spinto&gt;</span> <span class=\"phonetics\">[ˈspin<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. spingere <span class=\"sense\">(spostare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spingere</strong>",
+                                        "target": "to push"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spingere <span class=\"sense\">(premere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spingere</strong>",
+                                        "target": "to press"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. spingere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(indurre)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">spingere</strong> <acronym title=\"qualcuno\">qu</acronym> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to drive <acronym title=\"somebody\">sb</acronym> to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. spingere <span class=\"sense\">(fare ressa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spingere</strong>",
+                                        "target": "to push and shove"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "spingere",
+                        "headword_full": "spingere <span class=\"flexion\">&lt;spingo, spinsi, spinto&gt;</span> <span class=\"phonetics\">[ˈspin<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">spingersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. spingere <span class=\"sense\">(inoltrarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">spingersi</span>",
+                                        "target": "to go on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spingere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(osare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">non pensavo che potesse spingersi fino a tal punto</span>",
+                                        "target": "I didn&#39;t think he <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> she]</span> would go that far"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "salotto",
+                        "headword_full": "salotto <span class=\"phonetics\">[sa<span class=\"separator\">·</span>ˈlɔt<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. salotto <span class=\"sense\">(stanza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">salotto</strong>",
+                                        "target": "living room"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. salotto <span class=\"sense\">(mobilio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">salotto</strong>",
+                                        "target": "living room furniture"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. salotto <span class=\"sense\">(letterario, aritstico)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">salotto</strong>",
+                                        "target": "salon"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "servire",
+                        "headword_full": "servire <span class=\"phonetics\">[ser<span class=\"separator\">·</span>ˈvi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">servire</strong> <span class=\"sense\">(gener)</span>",
+                                        "target": "to serve"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">servire</strong> <span class=\"sense\">(come domestico)</span>",
+                                        "target": "to work"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">servire</strong> <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(re, dio)</span>",
+                                        "target": "to serve <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">servire</strong> la patria</span>",
+                                        "target": "to serve one&#39;s country"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "servire",
+                        "headword_full": "servire <span class=\"phonetics\">[ser<span class=\"separator\">·</span>ˈvi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere o avere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. servire <span class=\"sense\">(essere utile)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">servire</strong>",
+                                        "target": "to be useful"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">servire</strong> a niente</span>",
+                                        "target": "to be useless"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">servire</strong> a niente</span> <span class=\"sense\">(aver bisogno)</span>",
+                                        "target": "to need"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi serve una sedia</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "I need a chair"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. servire <span class=\"topic\"><acronym title=\"military\">MIL</acronym>, <acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">servire</strong>",
+                                        "target": "to serve"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "servire",
+                        "headword_full": "servire <span class=\"phonetics\">[ser<span class=\"separator\">·</span>ˈvi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">servirsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. servire <span class=\"sense\">(usare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">servirsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to use <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. servire <span class=\"sense\">(a tavola)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">servirsi</span>",
+                                        "target": "to help oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">servitevi pure</span>",
+                                        "target": "help yourselves"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. servire <span class=\"sense\">(essere cliente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">servirsi</span>",
+                                        "target": "to shop"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

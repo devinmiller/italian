@@ -1,0 +1,94 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ricordare",
+                        "headword_full": "ricordare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>kor<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ricordare <span class=\"sense\">(serbare memoria di)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ricordare</strong> <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to remember <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ricordare <span class=\"sense\">(richiamare alla memoria)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ricordare</strong> a <acronym title=\"qualcuno\">qu</acronym> <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to remind <acronym title=\"somebody\">sb</acronym> of <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ricordare <span class=\"sense\">(far presente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ricordare</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to remind <acronym title=\"somebody\">sb</acronym> about <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. ricordare <span class=\"sense\">(assomigliare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ricordare</strong> <acronym title=\"qualcuno\">qu</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to remind <acronym title=\"somebody\">sb</acronym> of <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. ricordare <span class=\"sense\">(citare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricordare</strong>",
+                                        "target": "to mention"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. ricordare <span class=\"sense\">(commemorare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricordare</strong>",
+                                        "target": "to commemorate"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ricordare",
+                        "headword_full": "ricordare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>kor<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "ricordare <span class=\"reflection\">ricordarsi</span> <span class=\"sense\">(serbare memoria di)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">ricordarsi di <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to remember <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">me ne ricorderò</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(minaccia)</span>",
+                                        "target": "I won&#39;t forget it"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

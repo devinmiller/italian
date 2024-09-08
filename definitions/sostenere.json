@@ -1,0 +1,102 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sostenere",
+                        "headword_full": "sostenere <span class=\"phonetics\">[sos<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sostenere <span class=\"sense\">(reggere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sostenere</strong>",
+                                        "target": "to hold up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sostenere <span class=\"sense\">(spese)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sostenere</strong>",
+                                        "target": "to bear"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. sostenere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sostenere</strong> <span class=\"sense\">(persona, legge, famiglia)</span>",
+                                        "target": "to support"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">sostenere</strong> <span class=\"sense\">(tesi, idea)</span>",
+                                        "target": "to hold"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sostiene la tesi che …</span>",
+                                        "target": "he maintains that …"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. sostenere <span class=\"sense\">(esame)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sostenere</strong>",
+                                        "target": "to take"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. sostenere <span class=\"sense\">(affermare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sostenere</strong>",
+                                        "target": "to maintain"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sostiene di essere figlio di un attore famoso</span>",
+                                        "target": "he maintains that he is the son of a famous actor"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sostenere",
+                        "headword_full": "sostenere <span class=\"phonetics\">[sos<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">sostenersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sostenere <span class=\"sense\">(tenersi ritto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sostenersi</span>",
+                                        "target": "to support oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sostenere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(mantenersi vigoroso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sostenersi</span>",
+                                        "target": "to keep in good shape"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

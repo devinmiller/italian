@@ -1,0 +1,86 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "prefisso",
+                        "headword_full": "prefisso<sup>1</sup> <span class=\"phonetics\">[pre<span class=\"separator\">·</span>ˈfis<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "prefisso <span class=\"reference_qualification\"><acronym title=\"past participle\">pp</acronym> di</span> <span class=\"indirect_reference_RQ\"> prefiggere</span>",
+                                "translations": [
+                                    {
+                                        "source": "",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "prefisso",
+                        "headword_full": "prefisso<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. prefisso <span class=\"topic\"><acronym title=\"linguistics, grammar\">LING</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">prefisso</strong>",
+                                        "target": "prefix"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. prefisso <span class=\"topic\"><acronym title=\"telecommunications\">TELEC</acronym></span> <span class=\"sense\">(<strong class=\"tilde\">prefisso</strong> (telefonico))</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">prefisso</strong>",
+                                        "target": "area code"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "prefissare",
+                        "headword_full": "prefissare <span class=\"phonetics\">[pre<span class=\"separator\">·</span>fis<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">prefissare</strong>",
+                                        "target": "to arrange in advance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">prefissarsi una meta</span>",
+                                        "target": "to set oneself a goal"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

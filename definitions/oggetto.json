@@ -1,0 +1,103 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "oggetto",
+                        "headword_full": "oggetto <span class=\"phonetics\">[od<span class=\"separator\">·</span>ˈdʒɛt<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. oggetto <span class=\"sense\">(cosa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oggetto</strong>",
+                                        "target": "object"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i preziosi</span>",
+                                        "target": "valuables"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. oggetto <span class=\"sense\">(scopo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oggetto</strong>",
+                                        "target": "object"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">avere per <strong class=\"tilde\">oggetto</strong></span>",
+                                        "target": "to have the aim of"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. oggetto <span class=\"sense\">(argomento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oggetto</strong>",
+                                        "target": "subject"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">oggetto</strong> del discorso</span>",
+                                        "target": "subject of the speech"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. oggetto <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oggetto</strong>",
+                                        "target": "matter"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. oggetto <span class=\"topic\"><acronym title=\"philosophy\">PHILOS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oggetto</strong>",
+                                        "target": "object"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. oggetto <span class=\"topic\"><acronym title=\"linguistics, grammar\">LING</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oggetto</strong>",
+                                        "target": "object"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">oggetto</strong> <span class=\"sense\">(complemento <strong class=\"tilde\">oggetto</strong>)</span>",
+                                        "target": "direct object"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. oggetto <span class=\"topic\"><acronym title=\"administration\">ADMIN</acronym></span> <span class=\"sense\">(nelle lettere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">oggetto</strong>",
+                                        "target": "re:"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">con riferimento a quanto indicato in <strong class=\"tilde\">oggetto</strong> …</span> <span class=\"topic\"><acronym title=\"administration\">ADMIN</acronym></span>",
+                                        "target": "with reference to the subject of this letter …"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

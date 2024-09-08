@@ -1,0 +1,85 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "risolvere",
+                        "headword_full": "risolvere <span class=\"flexion\">&lt;risolvo, risolsi, risolto [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> risoluto]&gt;</span> <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈsɔl<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. risolvere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">risolvere</strong> <span class=\"sense\">(equazione, problema, indovinello)</span>",
+                                        "target": "to solve"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">risolvere</strong> <span class=\"sense\">(questione, controversia)</span>",
+                                        "target": "to resolve"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. risolvere <span class=\"sense\">(dubbio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">risolvere</strong>",
+                                        "target": "to settle"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. risolvere <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span> <span class=\"sense\">(contratto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">risolvere</strong>",
+                                        "target": "to cancel"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "risolvere",
+                        "headword_full": "risolvere <span class=\"flexion\">&lt;risolvo, risolsi, risolto [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> risoluto]&gt;</span> <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈsɔl<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">risolversi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. risolvere <span class=\"sense\">(decidersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">risolversi a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to decide to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. risolvere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(andare a finire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">risolversi in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to turn into <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. risolvere <span class=\"sense\">(problema, questione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">risolversi</span>",
+                                        "target": "to resolve oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "smisurato",
+                        "headword_full": "smisurato <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[zmi<span class=\"separator\">·</span>zu<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">smisurato</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(spazio)</span>",
+                                        "target": "enormous"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">smisurato</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(amore)</span>",
+                                        "target": "excessive"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

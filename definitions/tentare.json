@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tentare",
+                        "headword_full": "tentare <span class=\"phonetics\">[ten<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. tentare <span class=\"sense\">(provare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tentare</strong>",
+                                        "target": "to try"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tentare</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to try to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tentare <span class=\"sense\">(allettare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tentare</strong>",
+                                        "target": "to tempt"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "unire",
+                        "headword_full": "unire <span class=\"flexion\">&lt;unisco&gt;</span> <span class=\"phonetics\">[u<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. unire <span class=\"sense\">(collegare: fili, cavi, tessuti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">unire</strong>",
+                                        "target": "to join"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. unire <span class=\"sense\">(aggiungere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">unire</strong>",
+                                        "target": "to add"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. unire <span class=\"sense\">(allegare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">unire</strong>",
+                                        "target": "to enclose"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. unire <span class=\"sense\">(persone)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">unire</strong>",
+                                        "target": "to unite"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">unire</strong> in matrimonio</span>",
+                                        "target": "to join in matrimony"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "unire",
+                        "headword_full": "unire <span class=\"flexion\">&lt;unisco&gt;</span> <span class=\"phonetics\">[u<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">unirsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. unire <span class=\"sense\">(legarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">unirsi</span>",
+                                        "target": "to be united"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">unirsi in matrimonio</span>",
+                                        "target": "to be joined in matrimony"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. unire <span class=\"sense\">(associarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">unirsi</span>",
+                                        "target": "to join together"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. unire <span class=\"sense\">(accompagnarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">unirsi a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to join <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

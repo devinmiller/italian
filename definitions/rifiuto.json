@@ -1,0 +1,59 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "rifiuto",
+                        "headword_full": "rifiuto <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈfiu:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. rifiuto <span class=\"sense\">(negazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rifiuto</strong>",
+                                        "target": "refusal"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. rifiuto <span class=\"info\"><acronym title=\"plurale\">pl</acronym></span> <span class=\"sense\">(immondizie)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rifiuto</strong>",
+                                        "target": "garbage"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i organici (compostabili)</span>",
+                                        "target": "organic waste"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i nucleari [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> radioattivi] </span>",
+                                        "target": "nuclear <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> radioactive]</span> waste"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i tossici</span>",
+                                        "target": "toxic waste"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. rifiuto <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">essere un <strong class=\"tilde\">rifiuto</strong> della società</span>",
+                                        "target": "to be the dregs of society"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

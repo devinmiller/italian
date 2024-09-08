@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ubbidire",
+                        "headword_full": "ubbidire <span class=\"phonetics\">[ub<span class=\"separator\">·</span>bi<span class=\"separator\">·</span>ˈdi:<span class=\"separator\">·</span>re]</span> <span class=\"info\">ubbidisco</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ubbidire</strong>",
+                                        "target": "to obey"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ubbidire</strong> a <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to obey <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

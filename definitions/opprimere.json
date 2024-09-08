@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "opprimere",
+                        "headword_full": "opprimere <span class=\"flexion\">&lt;opprimo, oppressi, oppresso&gt;</span> <span class=\"phonetics\">[op<span class=\"separator\">·</span>ˈpri:<span class=\"separator\">·</span>me<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. opprimere <span class=\"sense\">(vessare: tiranno, governo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">opprimere</strong>",
+                                        "target": "to oppress"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. opprimere <span class=\"sense\">(affliggere: persona, angoscia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">opprimere</strong>",
+                                        "target": "to oppress"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

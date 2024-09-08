@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pigro",
+                        "headword_full": "pigro <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[ˈpi:<span class=\"separator\">·</span>gro]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(indolente)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pigro</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "lazy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "pigro",
+                        "headword_full": "pigro <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[ˈpi:<span class=\"separator\">·</span>gro]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pigro</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "lazybones <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

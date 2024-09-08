@@ -1,0 +1,128 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vivere",
+                        "headword_full": "vivere<sup>1</sup> <span class=\"flexion\">&lt;vivo, vissi, vissuto&gt;</span> <span class=\"phonetics\">[ˈvi:<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. vivere <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vivere</strong>",
+                                        "target": "to live"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vivere</strong> alla giornata</span>",
+                                        "target": "to live from day to day"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vivere</strong> di <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to live on <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vivere</strong> per <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to live for <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vivere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(durare, sopravvivere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vivere</strong>",
+                                        "target": "to live on"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "vivere",
+                        "headword_full": "vivere<sup>1</sup> <span class=\"flexion\">&lt;vivo, vissi, vissuto&gt;</span> <span class=\"phonetics\">[ˈvi:<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. vivere <span class=\"sense\">(condurre: vita)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vivere</strong>",
+                                        "target": "to lead"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vivere <span class=\"sense\">(passare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vivere</strong>",
+                                        "target": "to live through"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. vivere <span class=\"sense\">(sentire: dolore, gioia, fede)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vivere</strong>",
+                                        "target": "to live through"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. vivere <span class=\"sense\">(parte, personaggio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vivere</strong>",
+                                        "target": "to live"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. vivere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(godere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vivere</strong>",
+                                        "target": "to enjoy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vivere",
+                        "headword_full": "vivere<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"number\"><acronym title=\"singolare\">sing</acronym></span> <span class=\"sense\">(modo di vivere)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vivere</strong>",
+                                        "target": "life"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per quieto <strong class=\"tilde\">vivere</strong></span>",
+                                        "target": "for a quiet life"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

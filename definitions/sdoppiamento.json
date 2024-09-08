@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sdoppiamento",
+                        "headword_full": "sdoppiamento <span class=\"phonetics\">[zdop<span class=\"separator\">·</span>pia<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. sdoppiamento <span class=\"sense\">(divisione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sdoppiamento</strong>",
+                                        "target": "splitting"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sdoppiamento <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sdoppiamento</strong> della personalità</span>",
+                                        "target": "split personality"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

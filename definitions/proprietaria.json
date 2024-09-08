@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "proprietario",
+                        "headword_full": "proprietario <span class=\"feminine\">(-a)</span> <span class=\"flexion\">&lt;-i, -ie&gt;</span> <span class=\"phonetics\">[pro<span class=\"separator\">·</span>prie<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>rio]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">proprietario</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "owner"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

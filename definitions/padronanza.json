@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "padronanza",
+                        "headword_full": "padronanza <span class=\"phonetics\">[pa<span class=\"separator\">·</span>dro<span class=\"separator\">·</span>ˈnan<span class=\"separator\">·</span>tsa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. padronanza <span class=\"sense\">(di materia, argomento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">padronanza</strong>",
+                                        "target": "command"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. padronanza <span class=\"sense\">(di emozioni)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">padronanza</strong>",
+                                        "target": "control"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

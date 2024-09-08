@@ -1,0 +1,46 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "padella",
+                        "headword_full": "padella <span class=\"phonetics\">[pa<span class=\"separator\">·</span>ˈdɛl<span class=\"separator\">·</span>la]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. padella <span class=\"sense\">(pentola)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">padella</strong>",
+                                        "target": "frying pan"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">padella</strong> antiaderente</span>",
+                                        "target": "nonstick frying pan"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">cadere dalla <strong class=\"tilde\">padella</strong> nella brace</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to jump out of the frying pan into the fire"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. padella <span class=\"sense\">(per malati)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">padella</strong>",
+                                        "target": "bedpan"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tirare",
+                        "headword_full": "tirare <span class=\"phonetics\">[ti<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. tirare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong> <span class=\"sense\">(carro)</span>",
+                                        "target": "to pull"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong> <span class=\"sense\">(cassetto)</span>",
+                                        "target": "to open"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong> <span class=\"sense\">(tenda)</span>",
+                                        "target": "to draw"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> <acronym title=\"qualcuno\">qu</acronym> per i capelli</span>",
+                                        "target": "to pull <acronym title=\"somebody's\">sb's</acronym> hair"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> su <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to pick <acronym title=\"something\">sth</acronym> up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> su le maniche</span>",
+                                        "target": "to roll up one&#39;s sleeves"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> su i figli</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to bring up one&#39;s children"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tirarsi su</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to cheer up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tirarsi indietro</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to back out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">una parola tira l&#39;altra</span>",
+                                        "target": "one thing you say leads to another"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tirare <span class=\"sense\">(fune)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to stretch"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> <acronym title=\"qualcosa\">qc</acronym> per le lunghe</span>",
+                                        "target": "to let <acronym title=\"something\">sth</acronym> run on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. tirare <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(dente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to take out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. tirare <span class=\"sense\">(linea)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to trace"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. tirare <span class=\"sense\">(lanciare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to throw"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> (in porta)</span>",
+                                        "target": "to score"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. tirare <span class=\"sense\">(sparare: colpo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to fire"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. tirare <span class=\"sense\">(nel ciclismo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> (il gruppo)</span>",
+                                        "target": "to be the pacemaker"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. tirare <span class=\"sense\">(dare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to give"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> un sberla a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to give <acronym title=\"somebody\">sb</acronym> a slap"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> calci</span>",
+                                        "target": "to kick"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> pugni</span>",
+                                        "target": "to punch"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. tirare <span class=\"sense\">(stampare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to print"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. tirare <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> il fiato</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to breathe a sigh of relief"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> a lucido</span>",
+                                        "target": "to polish"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> le somme</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to take stock"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> a sorte</span>",
+                                        "target": "to draw out of a hat"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "tirare",
+                        "headword_full": "tirare <span class=\"phonetics\">[ti<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. tirare <span class=\"style\">gener</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to pull"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tirare <span class=\"sense\">(vento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to blow"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">con l&#39;aria che tira</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "the way things are (today)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. tirare <span class=\"sense\">(abito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to be tight"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. tirare <span class=\"sense\">(camino)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to draw"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. tirare <span class=\"sense\">(sparare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tirare</strong>",
+                                        "target": "to shoot"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. tirare <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> sul prezzo</span>",
+                                        "target": "to bargain"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> avanti</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to get by"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> diritto</span>",
+                                        "target": "to keep right on going"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tirare</strong> a campare</span>",
+                                        "target": "The expression <span class=\"emphasize\">tirare a campare</span> (to get by) expresses a certain philosophy of life that involves avoiding getting worked up or worrying about things, especially in difficult situations. The art of getting through difficulties without getting too caught up in them is found also in the political and administrative arenas."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "realizzare",
+                        "headword_full": "realizzare <span class=\"phonetics\">[re<span class=\"separator\">·</span>a<span class=\"separator\">·</span>lid<span class=\"separator\">·</span>ˈdza:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">realizzare</strong>",
+                                        "target": "to realize"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "realizzare",
+                        "headword_full": "realizzare <span class=\"phonetics\">[re<span class=\"separator\">·</span>a<span class=\"separator\">·</span>lid<span class=\"separator\">·</span>ˈdza:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">realizzarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. realizzare <span class=\"sense\">(aspirazioni)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">realizzarsi</span>",
+                                        "target": "to come true"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. realizzare <span class=\"sense\">(come persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">realizzarsi</span>",
+                                        "target": "to find fulfillment"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,561 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "passo",
+                        "headword_full": "passo <span class=\"phonetics\">[ˈpas<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. passo <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passo</strong>",
+                                        "target": "step"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare due [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> quattro] -i</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to go for a little walk"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare il <strong class=\"tilde\">passo</strong> più lungo della gamba</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to bite off more than one can chew"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">muovere i primi -i</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to take one&#39;s first steps"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tornare sui propri -i</span>",
+                                        "target": "to retrace one&#39;s steps"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tornare sui propri -i</span> <span class=\"sense\">(cambiare idea)</span>",
+                                        "target": "to change one&#39;s mind"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tornare sui propri -i</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "one step at a time"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere a pochi -i</span>",
+                                        "target": "to be a stone&#39;s throw away"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. passo <span class=\"sense\">(andatura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passo</strong>",
+                                        "target": "pace"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">passo</strong> d&#39;uomo</span>",
+                                        "target": "at walking pace"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">camminare di buon <strong class=\"tilde\">passo</strong></span>",
+                                        "target": "to proceed at a brisk pace"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passo</strong> <strong class=\"tilde\">passo</strong></span>",
+                                        "target": "step by step"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">e via di questo <strong class=\"tilde\">passo</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "and so on"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">di questo <strong class=\"tilde\">passo</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "like this"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere al <strong class=\"tilde\">passo</strong> con i tempi</span>",
+                                        "target": "to be up to date"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. passo <span class=\"sense\">(impronta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passo</strong>",
+                                        "target": "footprint"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. passo <span class=\"topic\"><acronym title=\"technology\">TECH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passo</strong>",
+                                        "target": "thread"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. passo <span class=\"topic\"><acronym title=\"automobile\">AUTO</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passo</strong>",
+                                        "target": "wheelbase"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. passo <span class=\"topic\">film</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passo</strong>",
+                                        "target": "gauge"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. passo <span class=\"sense\">(brano)</span> <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passo</strong>",
+                                        "target": "passage"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. passo <span class=\"sense\">(passaggio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passo</strong> carrabile [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> carraio] </span>",
+                                        "target": "driveway"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. passo <span class=\"sense\">(valico)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passo</strong>",
+                                        "target": "pass"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. passo <span class=\"sense\">(stretto di mare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passo</strong>",
+                                        "target": "strait"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. passo <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">fare un <strong class=\"tilde\">passo</strong> falso</span>",
+                                        "target": "to slip up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare il primo <strong class=\"tilde\">passo</strong></span>",
+                                        "target": "to make the first move"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "passare",
+                        "headword_full": "passare <span class=\"phonetics\">[pas<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. passare <span class=\"sense\">(transitare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to pass"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> per <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to pass through <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">di qui non si passa</span>",
+                                        "target": "you can&#39;t go this way"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> per la mente</span>",
+                                        "target": "to go through one&#39;s mind"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> inosservato</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to go unnoticed"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> sopra a <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to overlook <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. passare <span class=\"sense\">(strada, canale)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to run"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. passare <span class=\"sense\">(andare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to call in"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> a prendere <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to call for <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> a trovare <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to go and see <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">passo da te più tardi</span>",
+                                        "target": "I&#39;ll drop by your place later"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. passare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong> <span class=\"sense\">(attraversare un&#39;apertura)</span>",
+                                        "target": "to get in"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong> <span class=\"sense\">(penetrare)</span>",
+                                        "target": "to come in"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. passare <span class=\"sense\">(trasferirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to go"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. passare <span class=\"sense\">(da una persona all&#39;altra)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to pass"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> alla storia</span>",
+                                        "target": "to go down in history"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. passare <span class=\"sense\">(trascorrere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to go by"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. passare <span class=\"sense\">(cambiare stato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> da <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to change from <acronym title=\"something\">sth</acronym> to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. passare <span class=\"sense\">(cambiare argomento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to move on"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. passare <span class=\"sense\">(sparire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to pass"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> di moda</span>",
+                                        "target": "to go out of fashion"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> di mente</span>",
+                                        "target": "to go out of <acronym title=\"somebody's\">sb's</acronym> head"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. passare <span class=\"sense\">(essere accettabile)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to do"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per questa volta passi!</span>",
+                                        "target": "I&#39;ll let it go this time!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "12. passare <span class=\"sense\">(a livello superiore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to change"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> di grado</span>",
+                                        "target": "to be promoted"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> di ruolo</span>",
+                                        "target": "to be made permanent"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "13. passare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong> <span class=\"sense\">(agli esami)</span>",
+                                        "target": "to pass"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong> <span class=\"sense\">(legge)</span>",
+                                        "target": "to be passed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "14. passare <span class=\"sense\">(essere considerato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> per <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be considered <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "15. passare <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to pass"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "passare",
+                        "headword_full": "passare <span class=\"phonetics\">[pas<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. passare <span class=\"sense\">(attraversare: confine)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to cross"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. passare <span class=\"sense\">(oltrepassare: semaforo, strada)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to go past"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. passare <span class=\"sense\">(trafiggere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to go through"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. passare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(superare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to pass"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> il segno</span> <span class=\"example\">[<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> la misura]</span>",
+                                        "target": "to go too far"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ha passato la sessantina</span>",
+                                        "target": "he&#39;s over sixty"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. passare <span class=\"sense\">(trascorrere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to spend"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">passarsela bene/male</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to get on well/badly"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. passare <span class=\"sense\">(dare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to pass"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. passare <span class=\"topic\"><acronym title=\"telecommunications\">TELEC</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> <acronym title=\"qualcuno\">qu</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to put <acronym title=\"somebody\">sb</acronym> through to <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi può passare la signora Magnetti, per favore?</span>",
+                                        "target": "can you put Mrs. Magnetti on, please"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le passo il servizio assistenza</span>",
+                                        "target": "I&#39;ll transfer you to customer service"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. passare <span class=\"sense\">(notizia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to tell"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> la voce</span>",
+                                        "target": "to spread the word"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. passare <span class=\"sense\">(patire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to undergo"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">passarne di tutti i colori</span>",
+                                        "target": "to go through it"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. passare <span class=\"sense\">(perdonare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to forgive"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. passare <span class=\"sense\">(legge)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to pass"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "12. passare <span class=\"sense\">(superare: esame, controllo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to pass"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "13. passare <span class=\"sense\">(patate, verdura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to purée"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "14. passare <span class=\"sense\">(spugna, mano di vernice)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">passare</strong>",
+                                        "target": "to apply"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "15. passare <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">passarla liscia</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to get away with it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">passare</strong> <acronym title=\"qualcosa\">qc</acronym> sotto silenzio</span>",
+                                        "target": "to say nothing about <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

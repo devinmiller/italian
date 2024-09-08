@@ -1,0 +1,53 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pettinare",
+                        "headword_full": "pettinare <span class=\"phonetics\">[pet<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pettinare</strong>",
+                                        "target": "to comb"
+                                    },
+                                    {
+                                        "source": "<span class=\"sense\">(acconciare)</span> <span class=\"example\"> <strong class=\"tilde\">pettinare</strong> <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to do <acronym title=\"somebody's\">sb's</acronym> hair"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "pettinare",
+                        "headword_full": "pettinare <span class=\"phonetics\">[pet<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">pettinarsi</span> <span class=\"sense\">(ravviarsi i capelli)</span>",
+                                        "target": "to comb one&#39;s hair"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">pettinarsi</span> <span class=\"sense\">(acconciarsi)</span>",
+                                        "target": "to do one&#39;s hair"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

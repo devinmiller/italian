@@ -1,0 +1,81 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "restare",
+                        "headword_full": "restare <span class=\"phonetics\">[res<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. restare <span class=\"sense\">(continuare a stare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">restare</strong>",
+                                        "target": "to remain"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">restare</strong> in piedi/seduto</span>",
+                                        "target": "to remain standing/seated"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">restare</strong> indietro</span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to get behind"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. restare <span class=\"sense\">(diventare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">restare</strong>",
+                                        "target": "to be"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">restare</strong> deluso</span>",
+                                        "target": "to be disappointed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. restare <span class=\"sense\">(trovarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">restare</strong> d&#39;accordo</span>",
+                                        "target": "to agree"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. restare <span class=\"sense\">(avanzare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">restare</strong>",
+                                        "target": "to be left"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non gli rimane altro che accettare</span>",
+                                        "target": "he has no choice but to accept"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. restare <span class=\"sense\">(essere situato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">restare</strong>",
+                                        "target": "to be"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

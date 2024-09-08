@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "riferimento",
+                        "headword_full": "riferimento <span class=\"phonetics\">[ri<span class=\"separator\">·</span>fe<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"sense\">(richiamo)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riferimento</strong>",
+                                        "target": "reference"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare <strong class=\"tilde\">riferimento</strong> a</span>",
+                                        "target": "to refer to"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">punto di <strong class=\"tilde\">riferimento</strong></span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "reference point"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "reato",
+                        "headword_full": "reato <span class=\"phonetics\">[re<span class=\"separator\">·</span>ˈa:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">reato</strong>",
+                                        "target": "crime"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">corpo del <strong class=\"tilde\">reato</strong></span>",
+                                        "target": "material evidence"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">il fatto non costituisce <strong class=\"tilde\">reato</strong></span>",
+                                        "target": "it was not a criminal offense"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-i contro l&#39;ambiente</span>",
+                                        "target": "crimes against the environment"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

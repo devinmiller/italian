@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "stancare",
+                        "headword_full": "stancare <span class=\"phonetics\">[staŋ<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. stancare <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">stancare</strong> <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to tire <acronym title=\"somebody\">sb</acronym> out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. stancare <span class=\"sense\">(cose, discorso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stancare</strong>",
+                                        "target": "to weary"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "stancare",
+                        "headword_full": "stancare <span class=\"phonetics\">[staŋ<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">stancarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. stancare <span class=\"sense\">(affaticarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">stancarsi</span>",
+                                        "target": "to get tired"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. stancare <span class=\"sense\">(stufarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">stancarsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to grow tired of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">stancarsi di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to grow tired of <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

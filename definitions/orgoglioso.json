@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "orgoglioso",
+                        "headword_full": "orgoglioso <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[or<span class=\"separator\">·</span>goʎ<span class=\"separator\">·</span>ˈʎo:<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">orgoglioso</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "proud"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere <strong class=\"tilde\">orgoglioso</strong> di <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be proud of <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

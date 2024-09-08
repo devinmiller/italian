@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "rovesciamento",
+                        "headword_full": "rovesciamento <span class=\"phonetics\">[ro<span class=\"separator\">·</span>veʃ<span class=\"separator\">·</span>ʃa<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. rovesciamento <span class=\"sense\">(di situazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rovesciamento</strong>",
+                                        "target": "reversal"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. rovesciamento <span class=\"sense\">(di governo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rovesciamento</strong>",
+                                        "target": "overturning"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

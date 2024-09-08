@@ -1,0 +1,64 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "travolgente",
+                        "headword_full": "travolgente <span class=\"phonetics\">[tra<span class=\"separator\">·</span>vol<span class=\"separator\">·</span>ˈdʒɛn<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(coinvolgente: entusiasmo)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">travolgente</strong>",
+                                        "target": "overwhelming"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "travolgere",
+                        "headword_full": "travolgere <span class=\"phonetics\">[tra<span class=\"separator\">·</span>ˈvɔl<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. travolgere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">travolgere</strong> <span class=\"sense\">(trascinare via)</span>",
+                                        "target": "to sweep away"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">travolgere</strong> <span class=\"sense\">(con veicolo)</span>",
+                                        "target": "to run over"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. travolgere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(sentimento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">travolgere</strong>",
+                                        "target": "to overwhelm"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

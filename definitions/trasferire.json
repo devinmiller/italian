@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "trasferire",
+                        "headword_full": "trasferire <span class=\"flexion\">&lt;trasferisco&gt;</span> <span class=\"phonetics\">[tras<span class=\"separator\">·</span>fe<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. trasferire <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trasferire</strong>",
+                                        "target": "to transfer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. trasferire <span class=\"sense\">(cosa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trasferire</strong>",
+                                        "target": "to transport"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "trasferire",
+                        "headword_full": "trasferire <span class=\"flexion\">&lt;trasferisco&gt;</span> <span class=\"phonetics\">[tras<span class=\"separator\">·</span>fe<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "trasferire <span class=\"reflection\">trasferirsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">trasferirsi</span>",
+                                        "target": "to move"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

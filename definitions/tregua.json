@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tregua",
+                        "headword_full": "tregua <span class=\"phonetics\">[ˈtre:<span class=\"separator\">·</span>gua]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. tregua <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tregua</strong>",
+                                        "target": "truce"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tregua <span class=\"sense\">(sosta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tregua</strong>",
+                                        "target": "rest"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">senza <strong class=\"tilde\">tregua</strong></span>",
+                                        "target": "nonstop"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

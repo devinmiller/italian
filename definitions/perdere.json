@@ -1,0 +1,193 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "perdere",
+                        "headword_full": "perdere <span class=\"flexion\">&lt;perdo, persi [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> perdei] [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> perdetti], perso [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> perduto]&gt;</span> <span class=\"phonetics\">[ˈpɛr<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. perdere <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perdere</strong>",
+                                        "target": "to lose"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">perdere</strong> la vita</span>",
+                                        "target": "to lose one&#39;s life"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">perdere</strong> (il) colore</span> <span class=\"sense\">(tessuto)</span>",
+                                        "target": "to fade"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">perdere</strong> le staffe</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to lose one&#39;s temper"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">perdere</strong> la testa</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to lose one&#39;s head"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">perdere</strong> ogni speranza</span>",
+                                        "target": "to lose all hope"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. perdere <span class=\"sense\">(treno, film, evento, occasione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perdere</strong>",
+                                        "target": "to miss"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non ti sei perso niente</span>",
+                                        "target": "you haven&#39;t missed anything"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. perdere <span class=\"sense\">(sprecare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perdere</strong>",
+                                        "target": "to waste"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. perdere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perdere</strong> <span class=\"sense\">(acqua, gas)</span>",
+                                        "target": "to leak"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">perdere</strong> <span class=\"sense\">(sangue)</span>",
+                                        "target": "to lose"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. perdere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">lasciar <strong class=\"tilde\">perdere</strong> <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to forget <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">lasciamo <strong class=\"tilde\">perdere</strong></span>",
+                                        "target": "let&#39;s forget it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">perdere</strong> <acronym title=\"qualcuno\">qu</acronym> di vista</span>",
+                                        "target": "to let <acronym title=\"somebody\">sb</acronym> out of your sight"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare <acronym title=\"qualcosa\">qc</acronym> a tempo perso</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to do <acronym title=\"something\">sth</acronym> in one&#39;s spare time"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "perdere",
+                        "headword_full": "perdere <span class=\"flexion\">&lt;perdo, persi [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> perdei] [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> perdetti], perso [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> perduto]&gt;</span> <span class=\"phonetics\">[ˈpɛr<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(diminuire)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">perdere</strong> di <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(interesse, valore)</span>",
+                                        "target": "to lose <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "perdere",
+                        "headword_full": "perdere <span class=\"flexion\">&lt;perdo, persi [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> perdei] [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> perdetti], perso [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> perduto]&gt;</span> <span class=\"phonetics\">[ˈpɛr<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">perdersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. perdere <span class=\"sense\">(smarrirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">perdersi</span>",
+                                        "target": "to get lost"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">perdersi d&#39;animo</span>",
+                                        "target": "to get discouraged"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">perdersi in chiacchiere</span>",
+                                        "target": "to waste time chatting"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">perdersi in un bicchiere d&#39;acqua</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to be easily discouraged"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. perdere <span class=\"sense\">(svanire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">perdersi</span>",
+                                        "target": "to disappear"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. perdere <span class=\"sense\">(rovinarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">perdersi</span>",
+                                        "target": "to be ruined"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">perdersi dietro a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to fall head over heels for <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "perdere",
+                        "headword_full": "perdere <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "perdersi <acronym title=\"qualcosa\">qc</acronym>",
+                                        "target": "to miss <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

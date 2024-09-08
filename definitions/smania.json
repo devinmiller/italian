@@ -1,0 +1,73 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "smania",
+                        "headword_full": "smania <span class=\"phonetics\">[ˈzma:<span class=\"separator\">·</span>nia]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. smania <span class=\"sense\">(agitazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">smania</strong>",
+                                        "target": "agitation"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">perché hai tutta questa <strong class=\"tilde\">smania?</strong></span>",
+                                        "target": "why are you so agitated?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. smania <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(intenso desidero)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">smania</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "thirst for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "smaniare",
+                        "headword_full": "smaniare <span class=\"phonetics\">[zma<span class=\"separator\">·</span>ˈnia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. smaniare <span class=\"sense\">(agitarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">smaniare</strong>",
+                                        "target": "to be agitated"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. smaniare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(desiderare fortemente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">smaniare</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to long to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

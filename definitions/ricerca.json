@@ -1,0 +1,107 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ricerca",
+                        "headword_full": "ricerca <span class=\"flexion\">&lt;-che&gt;</span> <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈtʃɛr<span class=\"separator\">·</span>ka]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. ricerca <span class=\"sense\">(di lavoro, di colpevole, di cause)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricerca</strong>",
+                                        "target": "search"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare alla <strong class=\"tilde\">ricerca</strong> di <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to go looking for <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">motore di <strong class=\"tilde\">ricerca</strong></span> <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>",
+                                        "target": "search engine"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ricerca <span class=\"topic\">scient</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricerca</strong>",
+                                        "target": "research"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">centro di -che</span>",
+                                        "target": "research center"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dottorato di <strong class=\"tilde\">ricerca</strong></span>",
+                                        "target": "PhD"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ricerca <span class=\"sense\">(indagine)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricerca</strong>",
+                                        "target": "investigation"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ricerca</strong> di mercato</span>",
+                                        "target": "market research"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. ricerca <span class=\"sense\">(a scuola)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricerca</strong>",
+                                        "target": "research"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ricercare",
+                        "headword_full": "ricercare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>tʃer<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ricercare <span class=\"sense\">(indagare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricercare</strong>",
+                                        "target": "to investigate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ricercare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(parole)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricercare</strong>",
+                                        "target": "to look for"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

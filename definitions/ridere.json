@@ -1,0 +1,78 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ridere",
+                        "headword_full": "ridere <span class=\"flexion\">&lt;rido, risi, riso&gt;</span> <span class=\"phonetics\">[ˈri:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ridere</strong>",
+                                        "target": "to laugh"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ridere</strong> fino alle lacrime</span>",
+                                        "target": "to laugh until one cries"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare per <strong class=\"tilde\">ridere</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to joke"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi <strong class=\"tilde\">ridere</strong> dietro</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to make a fool of oneself"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">far <strong class=\"tilde\">ridere</strong> i polli</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to make everybody laugh"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ma non farmi <strong class=\"tilde\">ridere!</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "don&#39;t make me laugh!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ride bene chi ride ultimo</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "he who laughs last laughs longest <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ridere",
+                        "headword_full": "ridere <span class=\"flexion\">&lt;rido, risi, riso&gt;</span> <span class=\"phonetics\">[ˈri:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">ridersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ridere <span class=\"sense\">(burlarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">ridersi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to laugh at <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ridere <span class=\"sense\">(infischiarsene)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">ridersi</span>",
+                                        "target": "to not care"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

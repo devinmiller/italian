@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ritenere",
+                        "headword_full": "ritenere <span class=\"phonetics\">[ri<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ritenere <span class=\"sense\">(considerare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ritenere</strong>",
+                                        "target": "to consider"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ritenere <span class=\"sense\">(trattenere: somma, importo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ritenere</strong>",
+                                        "target": "to deduct"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ritenere",
+                        "headword_full": "ritenere <span class=\"phonetics\">[ri<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈne:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "ritenere <span class=\"reflection\">ritenersi</span> <span class=\"sense\">(considerarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">ritenersi</span>",
+                                        "target": "to consider oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "prestito",
+                        "headword_full": "prestito <span class=\"phonetics\">[ˈprɛs<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. prestito <span class=\"sense\">(somma)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">prestito</strong>",
+                                        "target": "loan"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. prestito <span class=\"sense\">(atto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">dare in [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> a] <strong class=\"tilde\">prestito</strong> <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to lend <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">prendere in [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> a] <strong class=\"tilde\">prestito</strong> <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to borrow <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

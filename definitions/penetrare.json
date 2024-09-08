@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "penetrare",
+                        "headword_full": "penetrare <span class=\"phonetics\">[pe<span class=\"separator\">·</span>ne<span class=\"separator\">·</span>ˈtra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(in un materiale)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">penetrare</strong> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to penetrate <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">penetrare</strong> in <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(in un luogo)</span>",
+                                        "target": "to get into <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "penetrare",
+                        "headword_full": "penetrare <span class=\"phonetics\">[pe<span class=\"separator\">·</span>ne<span class=\"separator\">·</span>ˈtra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. penetrare <span class=\"sense\">(significato, concetto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">penetrare</strong>",
+                                        "target": "to understand"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. penetrare <span class=\"sense\">(sessualmente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">penetrare</strong>",
+                                        "target": "to penetrate"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

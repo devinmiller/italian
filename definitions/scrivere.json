@@ -1,0 +1,41 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scrivere",
+                        "headword_full": "scrivere <span class=\"flexion\">&lt;scrivo, scrissi, scritto&gt;</span> <span class=\"phonetics\">[ˈskri:<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scrivere</strong>",
+                                        "target": "to write"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scrivere</strong> a mano</span>",
+                                        "target": "to write by hand"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scrivere</strong> alla lavagna</span>",
+                                        "target": "to write on the board"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come si scrive?</span>",
+                                        "target": "how do you spell?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

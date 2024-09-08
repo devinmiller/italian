@@ -1,0 +1,88 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "seguire",
+                        "headword_full": "seguire <span class=\"phonetics\">[se<span class=\"separator\">·</span>ˈgui:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. seguire <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">seguire</strong> <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to follow <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">seguire</strong> la moda</span>",
+                                        "target": "to follow fashion"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">seguire</strong> il consiglio di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to follow <acronym title=\"somebody's\">sb's</acronym> advice"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. seguire <span class=\"sense\">(corso di studi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">seguire</strong>",
+                                        "target": "to take"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. seguire:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">seguire</strong> <span class=\"sense\">(con lo sguardo)</span>",
+                                        "target": "to watch"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">seguire</strong> <span class=\"sense\">(con l&#39;attenzione)</span>",
+                                        "target": "to follow"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "seguire",
+                        "headword_full": "seguire <span class=\"phonetics\">[se<span class=\"separator\">·</span>ˈgui:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. seguire <span class=\"sense\">(venir dopo, derivare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">seguire</strong>",
+                                        "target": "to follow"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ne segue che …</span>",
+                                        "target": "it follows that …"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. seguire <span class=\"sense\">(continuare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">seguire</strong>",
+                                        "target": "to continue"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

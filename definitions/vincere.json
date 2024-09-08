@@ -1,0 +1,109 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vincere",
+                        "headword_full": "vincere <span class=\"flexion\">&lt;vinco, vinsi, vinto&gt;</span> <span class=\"phonetics\">[ˈvin<span class=\"separator\">·</span>tʃe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. vincere <span class=\"sense\">(superare: nemico, avversario)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vincere</strong>",
+                                        "target": "to beat"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vincere <span class=\"sense\">(guerra, concorso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vincere</strong>",
+                                        "target": "to win"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vincere</strong> una causa</span> <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>",
+                                        "target": "to win a case"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. vincere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vincere</strong> <span class=\"sense\">(ottenere: premio)</span>",
+                                        "target": "to win"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">vincere</strong> <span class=\"sense\">(posto, cattedra)</span>",
+                                        "target": "to obtain"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vincere</strong> un terno al lotto</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to hit the jackpot"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. vincere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(superare: difficoltà, timidezza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vincere</strong>",
+                                        "target": "to overcome"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. vincere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">chi la dura la vince</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "patience always pays"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "vincere",
+                        "headword_full": "vincere <span class=\"flexion\">&lt;vinco, vinsi, vinto&gt;</span> <span class=\"phonetics\">[ˈvin<span class=\"separator\">·</span>tʃe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(prevalere)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vincere</strong>",
+                                        "target": "to win"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "vincere",
+                        "headword_full": "vincere <span class=\"flexion\">&lt;vinco, vinsi, vinto&gt;</span> <span class=\"phonetics\">[ˈvin<span class=\"separator\">·</span>tʃe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "vincere <span class=\"reflection\">vincersi</span> <span class=\"sense\">(dominarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">vincersi</span>",
+                                        "target": "to control oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

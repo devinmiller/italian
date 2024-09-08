@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "notare",
+                        "headword_full": "notare <span class=\"phonetics\">[no<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. notare <span class=\"sense\">(rilevare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">notare</strong>",
+                                        "target": "to notice"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi <strong class=\"tilde\">notare</strong></span>",
+                                        "target": "to attract attention"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. notare <span class=\"sense\">(prender nota)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">notare</strong>",
+                                        "target": "to note"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. notare <span class=\"sense\">(considerare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">notare</strong>",
+                                        "target": "to note"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">far <strong class=\"tilde\">notare</strong> a <acronym title=\"qualcuno\">qu</acronym> <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to point <acronym title=\"something\">sth</acronym> out to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

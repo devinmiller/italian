@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "voragine",
+                        "headword_full": "voragine <span class=\"phonetics\">[vo<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>dʒi<span class=\"separator\">·</span>ne]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. voragine <span class=\"sense\">(baratro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">voragine</strong>",
+                                        "target": "chasm"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. voragine <span class=\"sense\">(gorgo d&#39;acqua)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">voragine</strong>",
+                                        "target": "whirlpool"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

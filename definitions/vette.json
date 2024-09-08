@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vetta",
+                        "headword_full": "vetta <span class=\"phonetics\">[ˈvet<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. vetta <span class=\"sense\">(cima: di monte, campanile, albero)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vetta</strong>",
+                                        "target": "peak"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in <strong class=\"tilde\">vetta</strong></span>",
+                                        "target": "at the top"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vetta <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(di classifica, graduatoria)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vetta</strong>",
+                                        "target": "top"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. vetta <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(di successo, carriera)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vetta</strong>",
+                                        "target": "peak"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

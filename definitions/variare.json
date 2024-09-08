@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "variare",
+                        "headword_full": "variare <span class=\"phonetics\">[va<span class=\"separator\">·</span>ˈria:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(modifica)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. variare <span class=\"sense\">(modificare: data, programma)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">variare</strong>",
+                                        "target": "to change"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. variare <span class=\"sense\">(diversificare: alimentazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">variare</strong>",
+                                        "target": "to vary"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. variare <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">variare</strong>",
+                                        "target": "to vary on"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "variare",
+                        "headword_full": "variare <span class=\"phonetics\">[va<span class=\"separator\">·</span>ˈria:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(subire cambiamenti)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">variare</strong>",
+                                        "target": "to vary"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

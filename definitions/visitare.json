@@ -1,0 +1,60 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "visitare",
+                        "headword_full": "visitare <span class=\"phonetics\">[vi<span class=\"separator\">·</span>zi<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. visitare <span class=\"sense\">(medico)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">visitare</strong>",
+                                        "target": "to examine"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi <strong class=\"tilde\">visitare</strong> da uno specialista</span>",
+                                        "target": "to go and see a specialist"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. visitare <span class=\"sense\">(luogo: città, museo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">visitare</strong>",
+                                        "target": "to visit"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. visitare <span class=\"sense\">(andare a trovare: amici, parenti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">visitare</strong>",
+                                        "target": "to visit with"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. visitare <span class=\"sense\">(ispezionare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">visitare</strong>",
+                                        "target": "to inspect"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

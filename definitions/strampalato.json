@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "strampalato",
+                        "headword_full": "strampalato <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[stram<span class=\"separator\">·</span>pa<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(stravagante: persona, discorso)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">strampalato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "strange"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

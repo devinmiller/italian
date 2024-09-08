@@ -1,0 +1,53 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pulire",
+                        "headword_full": "pulire <span class=\"flexion\">&lt;pulisco&gt;</span> <span class=\"phonetics\">[pu<span class=\"separator\">·</span>ˈli:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pulire</strong>",
+                                        "target": "to clean"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">pulirsi le orecchie</span>",
+                                        "target": "to clean out one&#39;s ears"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">pulirsi la bocca</span>",
+                                        "target": "to wipe one&#39;s mouth"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "pulire",
+                        "headword_full": "pulire <span class=\"flexion\">&lt;pulisco&gt;</span> <span class=\"phonetics\">[pu<span class=\"separator\">·</span>ˈli:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "pulire <span class=\"reflection\">pulirsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">pulirsi</span>",
+                                        "target": "to clean oneself up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

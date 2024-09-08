@@ -1,0 +1,161 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vestire",
+                        "headword_full": "vestire<sup>1</sup> <span class=\"phonetics\">[ves<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. vestire <span class=\"sense\">(abbigliare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vestire</strong>",
+                                        "target": "to dress"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vestire <span class=\"sense\">(fornire di vestiti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vestire</strong>",
+                                        "target": "to clothe"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. vestire <span class=\"sense\">(indossare: abito, uniforme, taglia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vestire</strong>",
+                                        "target": "to wear"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vestire</strong> la divisa</span>",
+                                        "target": "to wear uniform"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vestire</strong> la toga</span>",
+                                        "target": "to be a magistrate"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vestire</strong> il saio [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> la tonaca] </span>",
+                                        "target": "to take holy orders"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. vestire <span class=\"sense\">(cadere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vestire</strong>",
+                                        "target": "to fit"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "vestire",
+                        "headword_full": "vestire<sup>1</sup> <span class=\"phonetics\">[ves<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(abbigliarsi in un certo modo)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vestire</strong>",
+                                        "target": "to dress"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vestire</strong> di bianco/nero</span>",
+                                        "target": "to dress in white/black"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "vestire",
+                        "headword_full": "vestire<sup>1</sup> <span class=\"phonetics\">[ves<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">vestirsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. vestire <span class=\"sense\">(abbigliarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">vestirsi</span>",
+                                        "target": "to get dressed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vestire <span class=\"sense\">(abbigliarsi in un certo modo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">vestirsi</span>",
+                                        "target": "to dress"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sapere <strong class=\"tilde\">vestire</strong></span>",
+                                        "target": "to be well-dressed"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">si veste da un grande sarto</span>",
+                                        "target": "he buys his clothes from one of the best tailors"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. vestire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(ricoprirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">vestire</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be attired in <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vestire",
+                        "headword_full": "vestire<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. vestire <span class=\"sense\">(abbigliamento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vestire</strong>",
+                                        "target": "clothing"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vestire <span class=\"sense\">(modo di vestire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vestire</strong>",
+                                        "target": "fashion sense"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "svuotare",
+                        "headword_full": "svuotare <span class=\"phonetics\">[zvuo<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. svuotare <span class=\"sense\">(vuotare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">svuotare</strong>",
+                                        "target": "to empty"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. svuotare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(privare di)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">svuotare</strong> <acronym title=\"qualcosa\">qc</acronym> di senso</span> <span class=\"example\">[<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> significato]</span>",
+                                        "target": "to deprive <acronym title=\"something\">sth</acronym> of meaning"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

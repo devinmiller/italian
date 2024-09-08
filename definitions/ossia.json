@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ossia",
+                        "headword_full": "ossia <span class=\"phonetics\">[os<span class=\"separator\">·</span>ˈsi:<span class=\"separator\">·</span>a]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ossia</strong>",
+                                        "target": "that is"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

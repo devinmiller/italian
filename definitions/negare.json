@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "negare",
+                        "headword_full": "negare <span class=\"phonetics\">[ne<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. negare <span class=\"sense\">(contestare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">negare</strong>",
+                                        "target": "to deny"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. negare <span class=\"sense\">(rifiutare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">negare</strong>",
+                                        "target": "to deny"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

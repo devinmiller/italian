@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scivolare",
+                        "headword_full": "scivolare <span class=\"phonetics\">[ʃi<span class=\"separator\">·</span>vo<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. scivolare <span class=\"sense\">(perdere l&#39;equilibrio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scivolare</strong>",
+                                        "target": "to slip"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scivolare</strong> di mano a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to slip out of <acronym title=\"somebody's\">sb's</acronym> hand"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scivolare <span class=\"sense\">(scorrere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scivolare</strong>",
+                                        "target": "to slide"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

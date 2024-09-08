@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "traboccare",
+                        "headword_full": "traboccare <span class=\"phonetics\">[tra<span class=\"separator\">·</span>bok<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. traboccare <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(liquido)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">traboccare</strong>",
+                                        "target": "to overflow"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. traboccare <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(recipiente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">traboccare</strong>",
+                                        "target": "to overflow"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

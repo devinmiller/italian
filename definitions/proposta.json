@@ -1,0 +1,59 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "proposta",
+                        "headword_full": "proposta <span class=\"phonetics\">[pro<span class=\"separator\">·</span>ˈpos<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">proposta</strong>",
+                                        "target": "proposal"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">proposta</strong> di matrimonio</span>",
+                                        "target": "marriage proposal"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">proposta</strong> di legge</span>",
+                                        "target": "bill"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "proposto",
+                        "headword_full": "proposto <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "proposto <span class=\"reference_qualification\"><acronym title=\"past participle\">pp</acronym> di</span> <span class=\"indirect_reference_RQ\"> proporre</span>",
+                                "translations": [
+                                    {
+                                        "source": "",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">pots</strong> of money</span>",
+                "target": "un mucchio di soldi"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">crop</strong> of lies</span>",
+                "target": "un mucchio di bugie"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">oodles</strong> of money</span>",
+                "target": "un mucchio di soldi"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">raft</strong> of options</span>",
+                "target": "un mucchio di possibilità"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">loads</strong> [<span class=\"or\"><acronym title=\"or\">or</acronym></span> a <strong class=\"tilde\">load</strong>] of …</span>",
+                "target": "un mucchio di…"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a (whole) <strong class=\"tilde\">bunch</strong> of problems</span>",
+                "target": "un mucchio di problemi"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">plenty</strong> of money/time</span>",
+                "target": "un mucchio di soldi/tempo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">to laugh all the way to the <strong class=\"tilde\">bank</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                "target": "fare un mucchio di soldi"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to have <strong class=\"tilde\">piles</strong> of <acronym title=\"something\">sth</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                "target": "avere un mucchio di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to make a <strong class=\"tilde\">pile</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                "target": "fare un mucchio di soldi"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">pour</strong> time into <acronym title=\"something\">sth</acronym></span>",
+                "target": "dedicare un mucchio di tempo a <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "soglia",
+                        "headword_full": "soglia <span class=\"flexion\">&lt;-glie&gt;</span> <span class=\"phonetics\">[ˈsɔʎ<span class=\"separator\">·</span>ʎa]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">soglia</strong>",
+                                        "target": "threshold"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">soglia</strong> della porta</span>",
+                                        "target": "doorstep"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">soglia</strong> del dolore</span>",
+                                        "target": "pain threshold"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">è alla soglia dei 40</span>",
+                                        "target": "he&#39;s <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> she&#39;s]</span> pushing 40"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">la primavera è alle -e</span>",
+                                        "target": "spring is nearly here"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "solere",
+                        "headword_full": "solere <span class=\"flexion\">&lt;soglio, solei, solito&gt;</span> <span class=\"phonetics\">[soˈle:re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">solere</strong> fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to usually do <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> be in the habit of doing]</span> <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

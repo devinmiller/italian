@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "proprietà",
+                        "headword_full": "proprietà <span class=\"flexion\">&lt;-&gt;</span> <span class=\"phonetics\">[pro<span class=\"separator\">·</span>prie<span class=\"separator\">·</span>ˈta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. proprietà:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">proprietà</strong> <span class=\"sense\">(diritto)</span>",
+                                        "target": "ownership"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">proprietà</strong> <span class=\"sense\">(bene, caratteristica)</span>",
+                                        "target": "property"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. proprietà <span class=\"sense\">(di linguaggio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">proprietà</strong>",
+                                        "target": "correctness"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scampare",
+                        "headword_full": "scampare <span class=\"phonetics\">[skam<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(sfuggire: a pericolo, morte, massacro)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scampare</strong>",
+                                        "target": "to escape"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "scampare",
+                        "headword_full": "scampare <span class=\"phonetics\">[skam<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(sfuggire a: morte, prigione)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scampare</strong>",
+                                        "target": "to escape"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">scamparla</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to have a lucky escape"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

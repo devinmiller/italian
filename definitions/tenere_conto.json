@@ -1,0 +1,90 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">reckon without</strong>",
+                "target": "non tenere conto di"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">tally</strong>",
+                "target": "tenere il conto di"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">pass over</strong>",
+                "target": "non tenere conto di"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">allow for</strong>",
+                "target": "tenere conto di"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to keep <strong class=\"tilde\">count</strong> of <acronym title=\"something\">sth</acronym></span>",
+                "target": "tenere il conto di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to keep a <strong class=\"tilde\">tally</strong> (of <acronym title=\"something\">sth</acronym>)</span>",
+                "target": "tenere il conto (di <acronym title=\"qualcosa\">qc</acronym>)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">prize</strong> <acronym title=\"something\">sth</acronym> highly</span>",
+                "target": "tenere <acronym title=\"qualcosa\">qc</acronym> in gran conto"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to keep an <strong class=\"tilde\">account</strong> of <acronym title=\"something\">sth</acronym></span>",
+                "target": "tenere il conto di <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> <acronym title=\"qualcosa\">qc</acronym> da conto</span>",
+                "target": "to take care of <acronym title=\"something\">sth</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">tenere</strong> conto di <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to bear <acronym title=\"something\">sth</acronym> in mind"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">tenere da <strong class=\"tilde\">conto</strong> <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to take great care of <acronym title=\"something\">sth</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">tenere <strong class=\"tilde\">conto</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to take account of <acronym title=\"something\">sth</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">tenere in gran <strong class=\"tilde\">conto</strong> <acronym title=\"qualcuno\">qu</acronym>/<acronym title=\"qualcosa\">qc</acronym></span>",
+                "target": "to hold <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym> in high regard"
+            }
+        ]
+    }
+]

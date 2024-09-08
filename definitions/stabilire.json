@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "stabilire",
+                        "headword_full": "stabilire <span class=\"flexion\">&lt;stabilisco&gt;</span> <span class=\"phonetics\">[sta<span class=\"separator\">·</span>bi<span class=\"separator\">·</span>ˈli:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. stabilire <span class=\"sense\">(dimora, sede)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stabilire</strong>",
+                                        "target": "to set up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. stabilire <span class=\"sense\">(decidere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stabilire</strong>",
+                                        "target": "to establish"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "stabilire",
+                        "headword_full": "stabilire <span class=\"flexion\">&lt;stabilisco&gt;</span> <span class=\"phonetics\">[sta<span class=\"separator\">·</span>bi<span class=\"separator\">·</span>ˈli:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "stabilire <span class=\"reflection\">stabilirsi</span> <span class=\"sense\">(prendere dimora)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">stabilirsi</span>",
+                                        "target": "to set up home"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

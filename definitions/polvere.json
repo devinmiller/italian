@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "polvere",
+                        "headword_full": "polvere <span class=\"phonetics\">[ˈpol<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. polvere <span class=\"sense\">(sui mobili, in strada)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">polvere</strong>",
+                                        "target": "dust"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">togliere la <strong class=\"tilde\">polvere</strong></span>",
+                                        "target": "to do the dusting"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ridurre <acronym title=\"qualcuno\">qu</acronym> in <strong class=\"tilde\">polvere</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to pulverize <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. polvere <span class=\"sense\">(sostanza sminuzzata)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">polvere</strong>",
+                                        "target": "powder"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">polvere</strong> di carbone/d&#39;oro</span>",
+                                        "target": "coal/gold dust"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in <strong class=\"tilde\">polvere</strong></span>",
+                                        "target": "powdered"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">caffè in <strong class=\"tilde\">polvere</strong></span>",
+                                        "target": "instant coffee"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. polvere <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">polvere</strong> da sparo</span>",
+                                        "target": "gunpowder"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

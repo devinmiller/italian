@@ -1,0 +1,60 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "seducente",
+                        "headword_full": "seducente <span class=\"phonetics\">[se<span class=\"separator\">·</span>du<span class=\"separator\">·</span>ˈtʃɛn<span class=\"separator\">·</span>te]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(donna, posa)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">seducente</strong>",
+                                        "target": "seductive"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sedurre",
+                        "headword_full": "sedurre <span class=\"flexion\">&lt;seduco, sedussi, sedotto&gt;</span> <span class=\"phonetics\">[se<span class=\"separator\">·</span>ˈdur<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sedurre <span class=\"sense\">(donna, uomo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sedurre</strong>",
+                                        "target": "to seduce"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sedurre <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(attrarre)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sedurre</strong>",
+                                        "target": "to appeal to"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

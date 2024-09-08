@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "spezzare",
+                        "headword_full": "spezzare <span class=\"phonetics\">[spet<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. spezzare <span class=\"sense\">(rompere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spezzare</strong>",
+                                        "target": "to break"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spezzare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(dividere: viaggio, periodo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">spezzare</strong> <acronym title=\"qualcosa\">qc</acronym> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to break <acronym title=\"something\">sth</acronym> into <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "spezzare",
+                        "headword_full": "spezzare <span class=\"phonetics\">[spet<span class=\"separator\">·</span>ˈtsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "spezzare <span class=\"reflection\">spezzarsi</span> <span class=\"sense\">(rompersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">spezzarsi</span>",
+                                        "target": "to break"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

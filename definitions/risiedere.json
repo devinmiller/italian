@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "risiedere",
+                        "headword_full": "risiedere <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈsiɛ:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. risiedere <span class=\"sense\">(abitare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">risiedere</strong>",
+                                        "target": "to be based"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. risiedere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(consistere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">risiedere</strong> in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to lie in <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

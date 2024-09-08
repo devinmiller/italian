@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "struggere",
+                        "headword_full": "struggere <span class=\"flexion\">&lt;struggo, strussi, strutto&gt;</span> <span class=\"phonetics\">[ˈstrud<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(consumare lentamente)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">struggere</strong>",
+                                        "target": "to consume"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "struggere",
+                        "headword_full": "struggere <span class=\"flexion\">&lt;struggo, strussi, strutto&gt;</span> <span class=\"phonetics\">[ˈstrud<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "struggere <span class=\"reflection\">struggersi</span> <span class=\"sense\">(consumarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">struggersi d&#39;amore per <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to be dying of love for <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

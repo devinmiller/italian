@@ -1,0 +1,107 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sistemare",
+                        "headword_full": "sistemare <span class=\"phonetics\">[sis<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sistemare <span class=\"sense\">(mettere a posto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sistemare</strong>",
+                                        "target": "to tidy (up)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sistemare <span class=\"sense\">(faccenda)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sistemare</strong>",
+                                        "target": "to sort out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. sistemare <span class=\"sense\">(procurare un lavoro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sistemare</strong>",
+                                        "target": "to fix up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. sistemare <span class=\"sense\">(procurare un alloggio a)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sistemare</strong>",
+                                        "target": "to put"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">abbiamo sistemato i tuoi amici nella stanza degli ospiti</span>",
+                                        "target": "we&#39;ve put your friends in the guest room"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. sistemare <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(punire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sistemare</strong>",
+                                        "target": "to chew out"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sistemare",
+                        "headword_full": "sistemare <span class=\"phonetics\">[sis<span class=\"separator\">·</span>te<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">sistemarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sistemare <span class=\"sense\">(trovare lavoro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sistemarsi</span>",
+                                        "target": "to find a job"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sistemare <span class=\"sense\">(trovare alloggio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sistemarsi</span>",
+                                        "target": "to find a place to stay"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per una notte mi sono sistemato sul divano letto</span>",
+                                        "target": "for one night I slept on the sofa bed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. sistemare <span class=\"sense\">(sposarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sistemarsi</span>",
+                                        "target": "to settle down"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

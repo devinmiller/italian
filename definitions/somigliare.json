@@ -1,0 +1,57 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "somigliare",
+                        "headword_full": "somigliare <span class=\"phonetics\">[so<span class=\"separator\">·</span>miʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(essere simile)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">somigliare</strong>",
+                                        "target": "to look like"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">somigliare</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to look like <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tua sorella ti somiglia tantissimo</span>",
+                                        "target": "your sister looks a lot like you"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "somigliare",
+                        "headword_full": "somigliare <span class=\"phonetics\">[so<span class=\"separator\">·</span>miʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">somigliarsi</span> <span class=\"sense\">(essere simile: fisicamente)</span>",
+                                        "target": "to look alike"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">somigliarsi</span> <span class=\"sense\">(di carattere)</span>",
+                                        "target": "to be alike"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

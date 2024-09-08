@@ -1,0 +1,60 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">by <strong class=\"tilde\">force</strong> of circumstance</span>",
+                "target": "per cause di forza maggiore"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">lack</strong> the energy to do <acronym title=\"something\">sth</acronym></span>",
+                "target": "non avere la forza per fare <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">he is an <strong class=\"tilde\">asset</strong> to the team</span>",
+                "target": "è un punto di forza per la squadra"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">summon up</strong> the courage/strength to do <acronym title=\"something\">sth</acronym></span>",
+                "target": "fare appello al proprio coraggio/alla propria forza per fare <acronym title=\"qualcosa\">qc</acronym>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">per <strong class=\"tilde\">forza</strong></span> <span class=\"sense\">(controvoglia)</span>",
+                "target": "against one&#39;s will"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">per <strong class=\"tilde\">forza</strong></span> <span class=\"sense\">(naturalmente)</span>",
+                "target": "of course"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">per <strong class=\"tilde\">amore</strong> o per forza</span>",
+                "target": "willy-nilly"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">per -i di forza maggiore</span>",
+                "target": "due to circumstances beyond one&#39;s control"
+            }
+        ]
+    }
+]

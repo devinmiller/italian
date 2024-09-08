@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "raffinato",
+                        "headword_full": "raffinato <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[raf<span class=\"separator\">·</span>fi<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">raffinato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "refined"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

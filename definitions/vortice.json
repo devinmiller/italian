@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vortice",
+                        "headword_full": "vortice <span class=\"phonetics\">[ˈvɔr<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>tʃe]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. vortice:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vortice</strong> <span class=\"sense\">(di acqua)</span>",
+                                        "target": "whirlpool"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">vortice</strong> <span class=\"sense\">(di aria, sabbia)</span>",
+                                        "target": "whirlwind"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">vortice</strong> <span class=\"sense\">(di polvere)</span>",
+                                        "target": "dust devil"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. vortice <span class=\"sense\">(movimento rotatorio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vortice</strong>",
+                                        "target": "whirl"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. vortice <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(susseguirsi: di azioni, pensieri)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vortice</strong>",
+                                        "target": "whirlwind"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

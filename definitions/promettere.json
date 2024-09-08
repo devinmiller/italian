@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "promettere",
+                        "headword_full": "promettere <span class=\"phonetics\">[pro<span class=\"separator\">·</span>ˈmet<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">promettere</strong>",
+                                        "target": "to promise"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">promettere</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to promise to do <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">promettere</strong> bene/male</span>",
+                                        "target": "to be/not to be promising"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

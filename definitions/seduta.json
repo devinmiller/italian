@@ -1,0 +1,117 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "seduta",
+                        "headword_full": "seduta <span class=\"phonetics\">[se<span class=\"separator\">·</span>ˈdu:<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"sense\">(riunione)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">seduta</strong>",
+                                        "target": "meeting"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">seduta</strong> stante</span>",
+                                        "target": "during the meeting"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">seduta</strong> stante</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "immediately"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sedere",
+                        "headword_full": "sedere<sup>1</sup> <span class=\"flexion\">&lt;siedo, sedetti [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> sedei], seduto&gt;</span> <span class=\"phonetics\">[se<span class=\"separator\">·</span>ˈde:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sedere</strong>",
+                                        "target": "to be sitting"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">è seduto sulla panca</span>",
+                                        "target": "he is sitting on the bench"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi a <strong class=\"tilde\">sedere</strong></span>",
+                                        "target": "to sit down"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sedere</strong> a tavola</span>",
+                                        "target": "to sit (down) at the table"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sedere",
+                        "headword_full": "sedere<sup>1</sup> <span class=\"flexion\">&lt;siedo, sedetti [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> sedei], seduto&gt;</span> <span class=\"phonetics\">[se<span class=\"separator\">·</span>ˈde:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "sedere <span class=\"reflection\">sedersi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sedersi</span>",
+                                        "target": "to sit (down)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sedersi a tavola</span>",
+                                        "target": "to sit (down) at the table"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sedere",
+                        "headword_full": "sedere<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"topic\"><acronym title=\"anatomy\">ANAT</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sedere</strong>",
+                                        "target": "bottom"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi stai prendendo per il <strong class=\"tilde\">sedere?</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "are you pulling my leg?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

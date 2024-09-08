@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "permettere",
+                        "headword_full": "permettere <span class=\"phonetics\">[per<span class=\"separator\">·</span>ˈmet<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. permettere <span class=\"sense\">(dare il permesso per)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">permettere</strong>",
+                                        "target": "to allow"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">permettere</strong> a <acronym title=\"qualcuno\">qu</acronym> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to allow <acronym title=\"somebody\">sb</acronym> to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. permettere <span class=\"sense\">(dare la possibilità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">permettere</strong>",
+                                        "target": "to permit"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. permettere <span class=\"sense\">(concedersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">permettere</strong>",
+                                        "target": "to afford"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "permettere",
+                        "headword_full": "permettere <span class=\"phonetics\">[per<span class=\"separator\">·</span>ˈmet<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "permettere <span class=\"reflection\">permettersi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">permettersi</span>",
+                                        "target": "to take the liberty"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come si permette!</span>",
+                                        "target": "how dare you!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tizio",
+                        "headword_full": "tizio <span class=\"feminine\">(-a)</span> <span class=\"flexion\">&lt;-zi, -zie&gt;</span> <span class=\"phonetics\">[ˈtit<span class=\"separator\">·</span>tsio]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tizio</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "guy<span class=\"feminine\">(woman)</span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">un <strong class=\"tilde\">tizio</strong> qualunque</span>",
+                                        "target": "an ordinary guy"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">Tizio, Caio e Sempronio</span>",
+                                        "target": "Tom, Dick, and Harry"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

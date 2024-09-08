@@ -1,0 +1,89 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "opera",
+                        "headword_full": "opera <span class=\"phonetics\">[ˈɔ:<span class=\"separator\">·</span>pe<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. opera <span class=\"sense\">(attività)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">opera</strong>",
+                                        "target": "work"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettersi <strong class=\"tilde\">all&#39;opera</strong></span>",
+                                        "target": "to get to work"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">è <strong class=\"tilde\">opera</strong> sua</span>",
+                                        "target": "it&#39;s his/her work"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. opera <span class=\"sense\">(prodotto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">opera</strong>",
+                                        "target": "work"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">-e pubbliche</span>",
+                                        "target": "works"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. opera <span class=\"topic\"><acronym title=\"literature, poetry\">LIT</acronym>, arte</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">opera</strong>",
+                                        "target": "work"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">opera</strong> d&#39;arte</span>",
+                                        "target": "work of art"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. opera <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">opera</strong>",
+                                        "target": "opera"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">opera</strong> buffa</span>",
+                                        "target": "comic opera"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">opera</strong> lirica</span>",
+                                        "target": "opera"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. opera <span class=\"sense\">(teatro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">opera</strong>",
+                                        "target": "play"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "spiegazione",
+                        "headword_full": "spiegazione <span class=\"phonetics\">[spie<span class=\"separator\">·</span>gat<span class=\"separator\">·</span>ˈtsio:<span class=\"separator\">·</span>ne]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spiegazione</strong>",
+                                        "target": "explanation"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">avere una <strong class=\"tilde\">spiegazione</strong> con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to sort things out with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

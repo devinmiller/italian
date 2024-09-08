@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ossatura",
+                        "headword_full": "ossatura <span class=\"phonetics\">[os<span class=\"separator\">·</span>sa<span class=\"separator\">·</span>ˈtu:<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. ossatura <span class=\"topic\"><acronym title=\"anatomy\">ANAT</acronym></span> <span class=\"sense\">(insieme delle ossa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ossatura</strong>",
+                                        "target": "skeleton"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ossatura <span class=\"topic\"><acronym title=\"anatomy\">ANAT</acronym></span> <span class=\"sense\">(struttura ossea)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ossatura</strong>",
+                                        "target": "bone structure"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ossatura <span class=\"sense\">(struttura portante: di edificio, economia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ossatura</strong>",
+                                        "target": "framework"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

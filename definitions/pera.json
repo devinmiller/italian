@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pera",
+                        "headword_full": "pera <span class=\"phonetics\">[ˈpe:<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. pera <span class=\"sense\">(frutto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pera</strong>",
+                                        "target": "pear"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. pera <span class=\"style\">sl</span> <span class=\"sense\">(di eroina)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pera</strong>",
+                                        "target": "fix"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi una <strong class=\"tilde\">pera</strong></span>",
+                                        "target": "to give oneself a fix"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. pera <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">pera</strong></span> <span class=\"sense\">(sconclusionato)</span>",
+                                        "target": "illogical"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

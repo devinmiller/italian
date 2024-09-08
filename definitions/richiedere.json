@@ -1,0 +1,74 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "richiedere",
+                        "headword_full": "richiedere <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈkiɛ:<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. richiedere <span class=\"sense\">(chiedere di nuovo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">richiedere</strong>",
+                                        "target": "to ask again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. richiedere <span class=\"sense\">(con fermezza: aiuto, sostegno, sussidio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">richiedere</strong>",
+                                        "target": "to request"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. richiedere <span class=\"topic\"><acronym title=\"administration\">ADMIN</acronym></span> <span class=\"sense\">(congedo, permesso di soggiorno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">richiedere</strong>",
+                                        "target": "to apply for"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. richiedere <span class=\"sense\">(esigere: concentrazione, impegno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">richiedere</strong>",
+                                        "target": "to require"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. richiedere <span class=\"sense\">(parere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">richiedere</strong>",
+                                        "target": "to ask for"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. richiedere <span class=\"sense\">(libri, oggetti prestati)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">richiedere</strong>",
+                                        "target": "to request the return of"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

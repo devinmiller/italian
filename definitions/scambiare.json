@@ -1,0 +1,92 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scambiare",
+                        "headword_full": "scambiare <span class=\"phonetics\">[skam<span class=\"separator\">·</span>ˈbia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. scambiare <span class=\"sense\">(confondere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scambiare</strong> <acronym title=\"qualcuno\">qu</acronym> per <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to mistake <acronym title=\"somebody\">sb</acronym> for <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scambiare</strong> <acronym title=\"qualcosa\">qc</acronym> per <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to mistake <acronym title=\"something\">sth</acronym> for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scambiare <span class=\"sense\">(fare uno scambio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scambiare</strong>",
+                                        "target": "to exchange"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scambiare</strong> <acronym title=\"qualcosa\">qc</acronym> con <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to exchange <acronym title=\"something\">sth</acronym> for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. scambiare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scambiare</strong> <span class=\"sense\">(impressioni, opinioni)</span>",
+                                        "target": "to share"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">scambiare</strong> <span class=\"sense\">(parole)</span>",
+                                        "target": "to exchange"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scambiare</strong> due chiacchiere</span>",
+                                        "target": "to have a chat"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "scambiare",
+                        "headword_full": "scambiare <span class=\"phonetics\">[skam<span class=\"separator\">·</span>ˈbia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">scambiarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. scambiare <span class=\"sense\">(sostituirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">scambiarsi</span>",
+                                        "target": "to change over"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">scambiarsi di posto</span>",
+                                        "target": "to change places"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scambiare <span class=\"sense\">(dare l&#39;un l&#39;altro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">scambiarsi</span>",
+                                        "target": "to exchange"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

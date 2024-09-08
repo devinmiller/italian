@@ -1,0 +1,83 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tornare",
+                        "headword_full": "tornare <span class=\"phonetics\">[tor<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. tornare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tornare</strong> <span class=\"sense\">(venire di nuovo)</span>",
+                                        "target": "to come back"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">tornare</strong> <span class=\"sense\">(andare di nuovo)</span>",
+                                        "target": "to go back"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tornare</strong> in mente a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to come back to <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tornare</strong> a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be able to do <acronym title=\"something\">sth</acronym> again"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tornare</strong> in sé</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to be back to one&#39;s old self"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tornare</strong> sull&#39;argomento</span>",
+                                        "target": "to come back to a subject"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tornare</strong> su una decisione</span>",
+                                        "target": "to change one&#39;s mind"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tornare <span class=\"sense\">(ridiventare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tornare</strong>",
+                                        "target": "to become again"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tornare</strong> utile</span>",
+                                        "target": "to become useful again"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tornare</strong> di moda</span>",
+                                        "target": "to become fashionable again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. tornare <span class=\"sense\">(essere esatto, giusto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">il conto torna</span>",
+                                        "target": "the calculation is correct"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">c&#39;è qualcosa che non mi torna</span>",
+                                        "target": "there&#39;s something not quite right here"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

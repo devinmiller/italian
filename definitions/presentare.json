@@ -1,0 +1,129 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "presentare",
+                        "headword_full": "presentare <span class=\"phonetics\">[pre<span class=\"separator\">·</span>zen<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. presentare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">presentare</strong> <span class=\"sense\">(mostrare: documento, passaporto)</span>",
+                                        "target": "to show"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">presentare</strong> <span class=\"sense\">(sottoporre: domanda, proposta)</span>",
+                                        "target": "to submit"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. presentare <span class=\"sense\">(far conoscere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">presentare</strong> <acronym title=\"qualcuno\">qu</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to introduce <acronym title=\"somebody\">sb</acronym> to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. presentare <span class=\"sense\">(comportare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">presentare</strong>",
+                                        "target": "to offer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. presentare <span class=\"sense\">(prodotto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">presentare</strong>",
+                                        "target": "to present"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. presentare <span class=\"style\"><acronym title=\"formal language\">form</acronym></span> <span class=\"sense\">(saluti)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">presentare</strong>",
+                                        "target": "to give"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. presentare <span class=\"sense\">(programma televisivo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">presentare</strong>",
+                                        "target": "to host"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "presentare",
+                        "headword_full": "presentare <span class=\"phonetics\">[pre<span class=\"separator\">·</span>zen<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">presentarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. presentare <span class=\"sense\">(andare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">presentarsi</span>",
+                                        "target": "to go"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. presentare <span class=\"sense\">(apparire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">presentarsi</span>",
+                                        "target": "to appear"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">presentarsi bene/male</span>",
+                                        "target": "to make a good/bad impression"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. presentare <span class=\"sense\">(farsi conoscere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">presentarsi</span>",
+                                        "target": "to introduce oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. presentare:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">presentarsi</span> <span class=\"sense\">(occasione)</span>",
+                                        "target": "to present itself"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">presentarsi</span> <span class=\"sense\">(difficoltà)</span>",
+                                        "target": "to come up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tetto",
+                        "headword_full": "tetto <span class=\"phonetics\">[ˈtet<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. tetto <span class=\"sense\">(di edificio, vettura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tetto</strong>",
+                                        "target": "roof"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tetto</strong> scorrevole</span>",
+                                        "target": "sunroof"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tetto <span class=\"sense\">(casa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tetto</strong>",
+                                        "target": "home"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">rimanere senza <strong class=\"tilde\">tetto</strong></span>",
+                                        "target": "to be homeless"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. tetto <span class=\"sense\">(limite massimo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tetto</strong>",
+                                        "target": "ceiling"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

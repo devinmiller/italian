@@ -1,0 +1,208 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "portare",
+                        "headword_full": "portare <span class=\"phonetics\">[por<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. portare <span class=\"sense\">(trasportare, trascinare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">portare</strong>",
+                                        "target": "to carry"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. portare <span class=\"sense\">(trasferire, accompagnare, prendere con sé)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">portare</strong>",
+                                        "target": "to take"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> <acronym title=\"qualcosa\">qc</acronym> in tavola</span>",
+                                        "target": "to serve <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> su/giù</span>",
+                                        "target": "to take up/down"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> dentro/fuori</span>",
+                                        "target": "to take in/out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> fuori <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(a cena, al cinema)</span>",
+                                        "target": "to take <acronym title=\"somebody\">sb</acronym> out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> a spasso <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to take <acronym title=\"somebody\">sb</acronym> for a walk"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> via</span> <span class=\"sense\">(allontanare)</span>",
+                                        "target": "to take away"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> via</span> <span class=\"sense\">(rubare)</span>",
+                                        "target": "to steal"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. portare <span class=\"sense\">(dare, causare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">portare</strong>",
+                                        "target": "to bring"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> <acronym title=\"qualcosa\">qc</acronym> in dote</span>",
+                                        "target": "to bring a dowry of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> <acronym title=\"qualcosa\">qc</acronym> in regalo</span>",
+                                        "target": "to give <acronym title=\"something\">sth</acronym> as a present"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> bene [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> fortuna] a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to bring <acronym title=\"somebody\">sb</acronym> good luck"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> male [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> sfortuna] a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to bring <acronym title=\"somebody\">sb</acronym> bad luck"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. portare <span class=\"sense\">(indossare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">portare</strong>",
+                                        "target": "to wear"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. portare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">portare</strong> <span class=\"sense\">(condurre)</span>",
+                                        "target": "to lead"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">portare</strong> <span class=\"sense\">(veicoli)</span>",
+                                        "target": "to go"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. portare <span class=\"sense\">(taglia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">portare</strong>",
+                                        "target": "to take"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">porto la 44/il 39</span>",
+                                        "target": "I wear a size 44/39"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. portare <span class=\"sense\">(indurre)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> <acronym title=\"qualcuno\">qu</acronym> a <acronym title=\"qualcosa\">qc</acronym>/a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to lead <acronym title=\"somebody\">sb</acronym> to <acronym title=\"something\">sth</acronym>/to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. portare <span class=\"sense\">(proporre, presentare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">portare</strong>",
+                                        "target": "to provide"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> un esempio</span>",
+                                        "target": "to provide an example"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. portare <span class=\"sense\">(dimostrare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> bene/male gli anni</span>",
+                                        "target": "not to look/to look one&#39;s age"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. portare <span class=\"sense\">(provare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> rancore a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to bear <acronym title=\"somebody\">sb</acronym> a grudge"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> rispetto a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to show respect for <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">portare</strong> pazienza</span>",
+                                        "target": "to have patience"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. portare <span class=\"sense\">(reggere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">portare</strong>",
+                                        "target": "to support"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "portare",
+                        "headword_full": "portare <span class=\"phonetics\">[por<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">portarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. portare <span class=\"sense\">(recarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">portarsi</span>",
+                                        "target": "to go"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. portare <span class=\"sense\">(stare di salute)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">portarsi</span>",
+                                        "target": "to be"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

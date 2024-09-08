@@ -1,0 +1,80 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "svolgere",
+                        "headword_full": "svolgere <span class=\"phonetics\">[ˈzvɔl<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. svolgere <span class=\"sense\">(gomitolo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">svolgere</strong>",
+                                        "target": "to unwind"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. svolgere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">svolgere</strong> <span class=\"sense\">(idea, tema)</span>",
+                                        "target": "to set out"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">svolgere</strong> <span class=\"sense\">(programma, piano)</span>",
+                                        "target": "to carry out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. svolgere <span class=\"sense\">(lavoro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">svolgere</strong>",
+                                        "target": "to do"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">svolge la professione dell&#39;avvocato</span>",
+                                        "target": "he&#39;s <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> she&#39;s]</span> a lawyer"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "svolgere",
+                        "headword_full": "svolgere <span class=\"phonetics\">[ˈzvɔl<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">svolgersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. svolgere <span class=\"sense\">(accadere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">svolgersi</span>",
+                                        "target": "to happen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. svolgere <span class=\"topic\"><acronym title=\"theatre\">THEAT</acronym>, <acronym title=\"literature, poetry\">LIT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">svolgersi</span>",
+                                        "target": "to be set"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "stordito",
+                        "headword_full": "stordito <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[stor<span class=\"separator\">·</span>ˈdi:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. stordito <span class=\"sense\">(tramortito)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stordito</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "dazed"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. stordito <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(sventato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stordito</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "scatterbrained"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">personally</strong>, I don&#39;t think it matters</span>",
+                "target": "per conto mio non credo che abbia importanza"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">per <strong class=\"tilde\">conto</strong> mio/tuo/suo</span>",
+                "target": "on my/your/his <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> her]</span> own"
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tessera",
+                        "headword_full": "tessera <span class=\"phonetics\">[ˈtɛs<span class=\"separator\">·</span>se<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. tessera <span class=\"sense\">(documento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tessera</strong>",
+                                        "target": "membership card"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tessera</strong> magnetica</span>",
+                                        "target": "swipe card"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">tessera</strong> sanitaria</span>",
+                                        "target": "<span class=\"explanation\">card entitling its bearer to health care</span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. tessera <span class=\"sense\">(di mosaico)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tessera</strong>",
+                                        "target": "tile"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. tessera <span class=\"sense\">(del domino)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tessera</strong>",
+                                        "target": "domino"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

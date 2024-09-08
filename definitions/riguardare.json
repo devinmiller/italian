@@ -1,0 +1,80 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "riguardare",
+                        "headword_full": "riguardare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>guar<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. riguardare <span class=\"sense\">(guardare di nuovo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riguardare</strong>",
+                                        "target": "to look at again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. riguardare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riguardare</strong> <span class=\"sense\">(rivedere)</span>",
+                                        "target": "to revise"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">riguardare</strong> <span class=\"sense\">(ricontrollare)</span>",
+                                        "target": "to check"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. riguardare <span class=\"sense\">(concernere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riguardare</strong>",
+                                        "target": "to concern"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per quanto riguarda …</span>",
+                                        "target": "as far as … is concerned"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "riguardare",
+                        "headword_full": "riguardare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>guar<span class=\"separator\">·</span>ˈda:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">riguardarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. riguardare <span class=\"sense\">(stare in guardia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">riguardarsi da <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to steer clear of <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. riguardare <span class=\"sense\">(aver cura della salute)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">riguardarsi</span>",
+                                        "target": "to look after oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

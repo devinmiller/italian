@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "preferire",
+                        "headword_full": "preferire <span class=\"flexion\">&lt;preferisco&gt;</span> <span class=\"phonetics\">[pre<span class=\"separator\">·</span>fe<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">preferire</strong>",
+                                        "target": "to prefer"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">preferire</strong> il nuoto allo sci</span>",
+                                        "target": "I prefer swimming to skiing"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

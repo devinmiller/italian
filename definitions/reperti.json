@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "reperto",
+                        "headword_full": "reperto <span class=\"phonetics\">[re<span class=\"separator\">·</span>ˈpɛr<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. reperto <span class=\"sense\">(archeologico)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">reperto</strong>",
+                                        "target": "find"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. reperto <span class=\"sense\">(giudiziario)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">reperto</strong>",
+                                        "target": "exhibit"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. reperto <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">reperto</strong>",
+                                        "target": "report"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

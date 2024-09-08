@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tostapane",
+                        "headword_full": "tostapane <span class=\"flexion\">&lt;-&gt;</span> <span class=\"phonetics\">[tos<span class=\"separator\">·</span>ta<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>ne]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tostapane</strong>",
+                                        "target": "toaster"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

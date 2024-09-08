@@ -1,0 +1,103 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "occupare",
+                        "headword_full": "occupare <span class=\"phonetics\">[ok<span class=\"separator\">·</span>ku<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. occupare <span class=\"sense\">(casa, fabbrica, scuola)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">occupare</strong>",
+                                        "target": "to occupy"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. occupare <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span> <span class=\"sense\">(città paese)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">occupare</strong>",
+                                        "target": "to occupy"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. occupare <span class=\"sense\">(abitare: appartamento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">occupare</strong>",
+                                        "target": "to occupy"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. occupare <span class=\"sense\">(riempire: spazio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">occupare</strong>",
+                                        "target": "to take up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. occupare <span class=\"sense\">(ricoprire: carica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">occupare</strong>",
+                                        "target": "to hold"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "occupare",
+                        "headword_full": "occupare <span class=\"phonetics\">[ok<span class=\"separator\">·</span>ku<span class=\"separator\">·</span>ˈpa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">occuparsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. occupare <span class=\"sense\">(interessarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">occuparsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be involved in"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. occupare <span class=\"sense\">(prendersi cura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">occuparsi di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to look after <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. occupare <span class=\"sense\">(impicciarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">occuparsi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to interfere with <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">occupati dei fatti tuoi</span>",
+                                        "target": "mind your own business"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

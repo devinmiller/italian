@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sconfiggere",
+                        "headword_full": "sconfiggere <span class=\"flexion\">&lt;sconfiggo, sconfissi, sconfitto&gt;</span> <span class=\"phonetics\">[skon<span class=\"separator\">·</span>ˈfid<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sconfiggere <span class=\"topic\"><acronym title=\"anche\">a.</acronym> <acronym title=\"military\">MIL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sconfiggere</strong>",
+                                        "target": "to defeat"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sconfiggere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(eliminare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sconfiggere</strong>",
+                                        "target": "to overcome"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

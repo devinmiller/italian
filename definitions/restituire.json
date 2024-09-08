@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "restituire",
+                        "headword_full": "restituire <span class=\"flexion\">&lt;restituisco&gt;</span> <span class=\"phonetics\">[res<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>tu<span class=\"separator\">·</span>ˈi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">restituire</strong> <span class=\"sense\">(libro, vestito, CD)</span>",
+                                        "target": "to give back"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">restituire</strong> <span class=\"sense\">(soldi)</span>",
+                                        "target": "to refund"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

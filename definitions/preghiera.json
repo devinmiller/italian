@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "preghiera",
+                        "headword_full": "preghiera <span class=\"phonetics\">[pre<span class=\"separator\">·</span>ˈgiɛ:<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. preghiera <span class=\"topic\"><acronym title=\"religion\">REL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">preghiera</strong>",
+                                        "target": "prayer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. preghiera <span class=\"sense\">(richiesta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">preghiera</strong>",
+                                        "target": "request"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scarno",
+                        "headword_full": "scarno <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[ˈskar<span class=\"separator\">·</span>no]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. scarno <span class=\"sense\">(viso, mani)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scarno</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "bony"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scarno <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(povero: programma, sito, arredamento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scarno</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "meager"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

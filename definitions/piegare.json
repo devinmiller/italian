@@ -1,0 +1,83 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "piegare",
+                        "headword_full": "piegare <span class=\"phonetics\">[pie<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. piegare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">piegare</strong> <span class=\"sense\">(sbarra, fil di ferro, braccia, gambe, testa, corpo)</span>",
+                                        "target": "to bend"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">piegare</strong> <span class=\"sense\">(foglio, vestiti)</span>",
+                                        "target": "to fold"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. piegare <span class=\"sense\">(dominare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">piegare</strong>",
+                                        "target": "to subdue"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "piegare",
+                        "headword_full": "piegare <span class=\"phonetics\">[pie<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(voltare)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">piegare</strong>",
+                                        "target": "to turn"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "piegare",
+                        "headword_full": "piegare <span class=\"phonetics\">[pie<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">piegarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. piegare <span class=\"sense\">(incurvarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">piegarsi</span>",
+                                        "target": "to bend schiena"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. piegare <span class=\"sense\">(arrendersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">piegarsi</span>",
+                                        "target": "to submit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

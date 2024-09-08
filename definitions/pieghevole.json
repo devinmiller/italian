@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pieghevole",
+                        "headword_full": "pieghevole <span class=\"phonetics\">[pie<span class=\"separator\">·</span>ˈge:<span class=\"separator\">·</span>vo<span class=\"separator\">·</span>le]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. pieghevole <span class=\"sense\">(metallo, ramo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pieghevole</strong>",
+                                        "target": "pliant"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. pieghevole <span class=\"sense\">(sedia, tavolo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pieghevole</strong>",
+                                        "target": "folding"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

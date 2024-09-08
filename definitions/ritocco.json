@@ -1,0 +1,68 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ritocco",
+                        "headword_full": "ritocco <span class=\"flexion\">&lt;-cchi&gt;</span> <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈtok<span class=\"separator\">·</span>ko]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ritocco</strong> <span class=\"sense\">(rifinitura)</span>",
+                                        "target": "alteration"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">ritocco</strong> <span class=\"topic\"><acronym title=\"photography\">PHOTO</acronym></span>",
+                                        "target": "retouching"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ritoccare",
+                        "headword_full": "ritoccare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>tok<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ritoccare <span class=\"sense\">(toccare di nuovo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ritoccare</strong>",
+                                        "target": "to touch again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ritoccare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ritoccare</strong> <span class=\"sense\">(correggere: disegno)</span>",
+                                        "target": "to retouch"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">ritoccare</strong> <span class=\"sense\">(trucco, labbra)</span>",
+                                        "target": "to touch up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

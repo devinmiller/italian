@@ -1,0 +1,87 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "trovare",
+                        "headword_full": "trovare <span class=\"phonetics\">[tro<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. trovare <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trovare</strong>",
+                                        "target": "to find"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare a <strong class=\"tilde\">trovare</strong> <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to visit <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ti trovo bene</span>",
+                                        "target": "you look well"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">trovare</strong> da ridire</span>",
+                                        "target": "to find <acronym title=\"something\">sth</acronym> to criticize"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. trovare <span class=\"sense\">(pensare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trovare</strong>",
+                                        "target": "to think"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">trovare</strong> <acronym title=\"qualcuno\">qu</acronym> simpatico</span>",
+                                        "target": "to like <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "trovare",
+                        "headword_full": "trovare <span class=\"phonetics\">[tro<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">trovarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. trovare <span class=\"sense\">(essere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">trovarsi</span>",
+                                        "target": "to be"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">trovarsi bene con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to get on well with <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">trovarsi d&#39;accordo</span>",
+                                        "target": "to agree"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. trovare <span class=\"sense\">(incontrarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">trovarsi</span>",
+                                        "target": "to meet"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

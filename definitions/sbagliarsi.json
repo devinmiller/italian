@@ -1,0 +1,78 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sbagliare",
+                        "headword_full": "sbagliare <span class=\"phonetics\">[zbaʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sbagliare <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(colpo, mira)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sbagliare</strong>",
+                                        "target": "to miss"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sbagliare <span class=\"sense\">(scambiare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sbagliare</strong>",
+                                        "target": "to get wrong"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sbagliare</strong> i calcoli</span>",
+                                        "target": "to make a mistake in the calculations"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sbagliare</strong> indirizzo</span>",
+                                        "target": "to get the wrong address"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sbagliare</strong> strada</span>",
+                                        "target": "to take the wrong road"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sbagliare</strong> treno</span>",
+                                        "target": "to catch the wrong train"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sbagliare",
+                        "headword_full": "sbagliare <span class=\"phonetics\">[zbaʎ<span class=\"separator\">·</span>ˈʎa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym>, <acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "sbagliare <span class=\"reflection\">sbagliarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sbagliare</strong>",
+                                        "target": "to make a mistake"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sbagliare</strong> a leggere/scrivere</span>",
+                                        "target": "to read/write <acronym title=\"something\">sth</acronym> wrong"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sbagliando s&#39;impara</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "you live and learn"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

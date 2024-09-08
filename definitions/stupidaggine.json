@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "stupidaggine",
+                        "headword_full": "stupidaggine <span class=\"phonetics\">[stu<span class=\"separator\">·</span>pi<span class=\"separator\">·</span>ˈdad<span class=\"separator\">·</span>dʒi<span class=\"separator\">·</span>ne]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stupidaggine</strong>",
+                                        "target": "stupidity"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

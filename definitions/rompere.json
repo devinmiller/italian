@@ -1,0 +1,125 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "rompere",
+                        "headword_full": "rompere <span class=\"flexion\">&lt;rompo, ruppi, rotto&gt;</span> <span class=\"phonetics\">[ˈrom<span class=\"separator\">·</span>pe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. rompere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rompere</strong> <span class=\"sense\">(vetro, vaso)</span>",
+                                        "target": "to smash"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">rompere</strong> <span class=\"sense\">(bastone)</span>",
+                                        "target": "to break"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">rompere</strong> i timpani a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to deafen <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">rompere</strong> la faccia a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to smash <acronym title=\"somebody's\">sb's</acronym> face in"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">rompere</strong> le scatole [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> palle] a <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to annoy <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. rompere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(silenzio, incanto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rompere</strong>",
+                                        "target": "to break"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. rompere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rompere</strong> <span class=\"sense\">(interrompere: amicizia)</span>",
+                                        "target": "to break off"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">rompere</strong> <span class=\"sense\">(dieta)</span>",
+                                        "target": "to stop"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. rompere <span class=\"sense\">(file, righe)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rompere</strong>",
+                                        "target": "to break"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "rompere",
+                        "headword_full": "rompere <span class=\"flexion\">&lt;rompo, ruppi, rotto&gt;</span> <span class=\"phonetics\">[ˈrom<span class=\"separator\">·</span>pe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(troncare)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">rompere</strong> con <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to break up with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "rompere",
+                        "headword_full": "rompere <span class=\"flexion\">&lt;rompo, ruppi, rotto&gt;</span> <span class=\"phonetics\">[ˈrom<span class=\"separator\">·</span>pe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">rompersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. rompere <span class=\"sense\">(spezzarsi: vaso, bicchiere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">rompersi</span>",
+                                        "target": "to smash"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">rompersi la testa</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to rack one&#39;s brains"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">rompersi un braccio/una gamba</span>",
+                                        "target": "to break one&#39;s arm/leg"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. rompere <span class=\"sense\">(macchina, radio, lavatrice)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">rompersi</span>",
+                                        "target": "to break down"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

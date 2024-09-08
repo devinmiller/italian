@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "trincea",
+                        "headword_full": "trincea <span class=\"flexion\">&lt;-cee&gt;</span> <span class=\"phonetics\">[trin<span class=\"separator\">·</span>ˈtʃɛ:<span class=\"separator\">·</span>a]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trincea</strong>",
+                                        "target": "trench"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "spendere",
+                        "headword_full": "spendere <span class=\"flexion\">&lt;spendo, spesi, speso&gt;</span> <span class=\"phonetics\">[ˈspɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. spendere <span class=\"sense\">(soldi, tempo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spendere</strong>",
+                                        "target": "to spend"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">spendere</strong> molto in vestiti</span>",
+                                        "target": "he <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> she]</span> spends a lot on clothes"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">spendere</strong> e spandere</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to spend money like water"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spendere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(impiegare: energie, forze)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spendere</strong>",
+                                        "target": "to expend"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

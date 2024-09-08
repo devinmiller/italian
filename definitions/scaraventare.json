@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scaraventare",
+                        "headword_full": "scaraventare <span class=\"phonetics\">[ska<span class=\"separator\">·</span>ra<span class=\"separator\">·</span>ven<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(gettare con impeto)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scaraventare</strong>",
+                                        "target": "to hurl"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "scaraventare",
+                        "headword_full": "scaraventare <span class=\"phonetics\">[ska<span class=\"separator\">·</span>ra<span class=\"separator\">·</span>ven<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "scaraventare <span class=\"reflection\">scaraventarsi</span> <span class=\"sense\">(gettarsi con impeto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">scaraventarsi</span>",
+                                        "target": "to hurl oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scatola",
+                        "headword_full": "scatola <span class=\"phonetics\">[ˈska:<span class=\"separator\">·</span>to<span class=\"separator\">·</span>la]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. scatola:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scatola</strong> <span class=\"sense\">(di biscotti, delle scarpe)</span>",
+                                        "target": "tin"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">scatola</strong> <span class=\"sense\">(di carne, piselli)</span>",
+                                        "target": "can"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">cibo in <strong class=\"tilde\">scatola</strong></span>",
+                                        "target": "canned food"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scatola <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">rompere [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> far girare] le -e a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to get on <acronym title=\"somebody's\">sb's</acronym> nerves"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">levarsi dalle -e</span>",
+                                        "target": "to get out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. scatola <span class=\"sense\">(elemento, dispositivo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scatola</strong> cranica</span>",
+                                        "target": "cranium"
+                                    },
+                                    {
+                                        "source": "<span class=\"topic\"><acronym title=\"aviation\">AVIAT</acronym></span> <span class=\"example\"> <strong class=\"tilde\">scatola</strong> nera</span>",
+                                        "target": "black box"
+                                    },
+                                    {
+                                        "source": "<span class=\"topic\"><acronym title=\"automobile\">AUTO</acronym></span> <span class=\"example\"> <strong class=\"tilde\">scatola</strong> dello sterzo</span>",
+                                        "target": "steering box"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

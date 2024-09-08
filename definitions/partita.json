@@ -1,0 +1,167 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "partita",
+                        "headword_full": "partita <span class=\"phonetics\">[par<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. partita <span class=\"sense\">(incontro sportivo, gioco)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">partita</strong>",
+                                        "target": "game"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare una <strong class=\"tilde\">partita</strong> a carte/scacchi</span>",
+                                        "target": "to have a game of cards/chess"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dare <strong class=\"tilde\">partita</strong> vinta a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to admit defeat at the hands of <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. partita <span class=\"topic\"><acronym title=\"commerce\">COMM</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">partita</strong>",
+                                        "target": "entry"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">partita</strong> semplice/doppia</span>",
+                                        "target": "single-entry/double-entry bookkeeping"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">partita</strong> IVA</span>",
+                                        "target": "VAT number"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. partita <span class=\"sense\">(di caccia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">partita</strong>",
+                                        "target": "party"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. partita <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">partita</strong>",
+                                        "target": "partita"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "partire",
+                        "headword_full": "partire <span class=\"phonetics\">[par<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. partire <span class=\"sense\">(andare via)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">partire</strong>",
+                                        "target": "to leave"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">partire</strong> per Napoli</span>",
+                                        "target": "to leave for Naples"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">partire</strong> per le vacanze</span>",
+                                        "target": "to go away on vacation"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">partire</strong> in quarta</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to jump right in"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">partire</strong> è un po&#39; morire</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "parting is such sweet sorrow"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. partire <span class=\"sense\">(colpo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">partire</strong>",
+                                        "target": "to go off"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. partire <span class=\"sense\">(macchina)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">partire</strong>",
+                                        "target": "to start"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">partire</strong> <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>",
+                                        "target": "to start"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. partire <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(avere inizio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">partire</strong>",
+                                        "target": "to start"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">partire</strong> da</span>",
+                                        "target": "starting from"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. partire <span class=\"sense\">(provenire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">partire</strong> da <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to come from <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. partire <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">partire</strong> <span class=\"sense\">(rompersi)</span>",
+                                        "target": "to break"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">partire</strong> <span class=\"sense\">(staccarsi)</span>",
+                                        "target": "to come off"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pazzo",
+                        "headword_full": "pazzo <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[ˈpat<span class=\"separator\">·</span>tso]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. pazzo <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pazzo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "mad"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. pazzo <span class=\"sense\">(insensato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pazzo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "crazy"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere <strong class=\"tilde\">pazzo</strong> da legare</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to be a raving lunatic"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere innamorato <strong class=\"tilde\">pazzo</strong> di <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to be madly in love with <acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare <strong class=\"tilde\">pazzo</strong> per <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be crazy about <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">darsi alla -a gioia</span>",
+                                        "target": "to live it up"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "pazzo",
+                        "headword_full": "pazzo <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[ˈpat<span class=\"separator\">·</span>tso]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. pazzo <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pazzo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "madman <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">pazzo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "madwoman <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. pazzo <span class=\"sense\">(persona insensata)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pazzo</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "crazy person"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

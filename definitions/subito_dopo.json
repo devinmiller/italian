@@ -1,0 +1,43 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">next</strong> to</span>",
+                "target": "subito dopo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">immediately</strong> after …</span>",
+                "target": "subito dopo…"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be (the) <strong class=\"tilde\">next</strong> to do <acronym title=\"something\">sth</acronym></span>",
+                "target": "fare <acronym title=\"qualcosa\">qc</acronym> subito dopo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">just</strong> after 10 o&#39;clock</span>",
+                "target": "subito dopo le 10"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">second-best</strong></span> <span class=\"collocator\">person</span>",
+                "target": "venire subito dopo il migliore"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">I&#39;ll call him (right) <strong class=\"tilde\">after</strong> I&#39;ve taken a shower</span>",
+                "target": "lo chiamerò subito dopo aver fatto la doccia"
+            }
+        ]
+    }
+]

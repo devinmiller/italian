@@ -1,0 +1,30 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">aural</strong>",
+                "target": "uditivo, -a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">ear <strong class=\"tilde\">duct</strong></span>",
+                "target": "canale uditivo"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">condotto</strong> uditivo</span>",
+                "target": "auditory canal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "previsto",
+                        "headword_full": "previsto <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "previsto <span class=\"reference_qualification\"><acronym title=\"past participle\">pp</acronym> di</span> <span class=\"indirect_reference_RQ\"> prevedere</span>",
+                                "translations": [
+                                    {
+                                        "source": "",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "prevedere",
+                        "headword_full": "prevedere <span class=\"phonetics\">[pre<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>ˈde:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. prevedere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">prevedere</strong> <span class=\"sense\">(anticipare)</span>",
+                                        "target": "to foresee"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">prevedere</strong> <span class=\"sense\">(programmare)</span>",
+                                        "target": "to plan"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. prevedere <span class=\"sense\">(prescrivere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">prevedere</strong>",
+                                        "target": "to provide for"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

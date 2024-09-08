@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sperduto",
+                        "headword_full": "sperduto <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[sper<span class=\"separator\">·</span>ˈdu:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. sperduto <span class=\"sense\">(paese, luogo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sperduto</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "remote"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sperduto <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sperduto</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "lost"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

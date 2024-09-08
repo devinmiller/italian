@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "schiacciato",
+                        "headword_full": "schiacciato <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[skiat<span class=\"separator\">·</span>ˈtʃa:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. schiacciato <span class=\"sense\">(naso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">schiacciato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "flat"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. schiacciato <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span> <span class=\"sense\">(tiro <strong class=\"tilde\">schiacciato</strong>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">schiacciato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "smash"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

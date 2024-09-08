@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "panchina",
+                        "headword_full": "panchina <span class=\"phonetics\">[paŋ<span class=\"separator\">·</span>ˈki:<span class=\"separator\">·</span>na]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">panchina</strong>",
+                                        "target": "bench"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">rimanere in <strong class=\"tilde\">panchina</strong></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to stay on the bench"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

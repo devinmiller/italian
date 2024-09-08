@@ -1,0 +1,72 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ripetere",
+                        "headword_full": "ripetere <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈpɛ:<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ripetere <span class=\"sense\">(rifare: esperimento, esame)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ripetere</strong>",
+                                        "target": "to repeat"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ripetere <span class=\"sense\">(ripassare: lezione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ripetere</strong>",
+                                        "target": "to go over again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ripetere <span class=\"sense\">(ridire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ripetere</strong>",
+                                        "target": "to repeat"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ripetere",
+                        "headword_full": "ripetere <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈpɛ:<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">ripetersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ripetere <span class=\"sense\">(dire o fare le stesse cose)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">ripetersi</span>",
+                                        "target": "to repeat oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ripetere <span class=\"sense\">(accadere di nuovo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">ripetersi</span>",
+                                        "target": "to happen again"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "padrone",
+                        "headword_full": "padrone <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[pa<span class=\"separator\">·</span>ˈdro:<span class=\"separator\">·</span>ne]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. padrone <span class=\"sense\">(proprietario)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">padrone</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "owner"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">padrone</strong> di casa</span>",
+                                        "target": "landlord"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. padrone <span class=\"sense\">(datore di lavoro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">padrone</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "employer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. padrone <span class=\"sense\">(dominatore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">padrone</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "master"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere <strong class=\"tilde\">padrone</strong> di fare <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(libero)</span>",
+                                        "target": "to be free to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. padrone <span class=\"sense\">(conoscitore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">padrone</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "expert"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

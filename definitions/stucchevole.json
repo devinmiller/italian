@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "stucchevole",
+                        "headword_full": "stucchevole <span class=\"phonetics\">[stuk<span class=\"separator\">·</span>ˈke:<span class=\"separator\">·</span>vo<span class=\"separator\">·</span>le]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. stucchevole <span class=\"sense\">(cibo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stucchevole</strong>",
+                                        "target": "sickly"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. stucchevole <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(noioso: discorso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stucchevole</strong>",
+                                        "target": "tiresome"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

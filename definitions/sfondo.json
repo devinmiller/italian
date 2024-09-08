@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sfondo",
+                        "headword_full": "sfondo <span class=\"phonetics\">[ˈsfon<span class=\"separator\">·</span>do]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sfondo</strong>",
+                                        "target": "background"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sullo <strong class=\"tilde\">sfondo</strong></span>",
+                                        "target": "in the background"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

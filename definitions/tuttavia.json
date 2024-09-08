@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tuttavia",
+                        "headword_full": "tuttavia <span class=\"phonetics\">[tut<span class=\"separator\">·</span>ta<span class=\"separator\">·</span>ˈvi:<span class=\"separator\">·</span>a]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tuttavia</strong>",
+                                        "target": "but"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

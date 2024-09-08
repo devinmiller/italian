@@ -1,0 +1,33 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "puntiglioso",
+                        "headword_full": "puntiglioso <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[pun<span class=\"separator\">·</span>tiʎ<span class=\"separator\">·</span>ˈʎo:<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">puntiglioso</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(persona)</span>",
+                                        "target": "punctilious"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">puntiglioso</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(lavoro)</span>",
+                                        "target": "painstaking"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "squillare",
+                        "headword_full": "squillare <span class=\"phonetics\">[skuil<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere o avere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. squillare <span class=\"sense\">(trombe)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">squillare</strong>",
+                                        "target": "to sound"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. squillare <span class=\"sense\">(telefono, campanello)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">squillare</strong>",
+                                        "target": "to ring"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">regarding</strong>",
+                "target": "quanto a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">as</strong> far <strong class=\"tilde\">as</strong></span> <span class=\"sense\">(concerning)</span>",
+                "target": "quanto a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">with <strong class=\"tilde\">regard</strong> to …</span>",
+                "target": "quanto a …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">for my <strong class=\"tilde\">part</strong></span>",
+                "target": "quanto a me"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">contrary to</strong> what he says</span>",
+                "target": "contrariamente a quanto dice"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">by the <strong class=\"tilde\">sound</strong> of it</span>",
+                "target": "a quanto pare"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">allegedly</strong>",
+                "target": "a quanto si dice"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to stick to a <strong class=\"tilde\">schedule</strong></span>",
+                "target": "attenersi a quanto previsto"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">by the <strong class=\"tilde\">look</strong> of things</span>",
+                "target": "a quanto pare"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">supposedly</strong>",
+                "target": "a quanto pare"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">as <strong class=\"tilde\">far</strong> back as I remember …</span>",
+                "target": "per quanto riesco a ricordare …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">according to <strong class=\"tilde\">witnesses</strong></span>",
+                "target": "a quanto dicono i testimoni"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">by her own <strong class=\"tilde\">account</strong></span>",
+                "target": "a quanto dice lei stessa"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">as</strong> for her/him/me/them …</span>",
+                "target": "quanto a lei/lui/me/loro …"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">how long does pasta take to <strong class=\"tilde\">cook?</strong></span>",
+                "target": "quanto ci mette a cuocere la pasta?"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a quanto mi consta</span>",
+                "target": "as far as I know"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a quanto pare</span>",
+                "target": "apparently"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">con riferimento a quanto indicato in <strong class=\"tilde\">oggetto</strong> …</span> <span class=\"topic\"><acronym title=\"administration\">ADMIN</acronym></span>",
+                "target": "with reference to the subject of this letter …"
+            }
+        ]
+    }
+]

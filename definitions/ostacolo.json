@@ -1,0 +1,81 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ostacolo",
+                        "headword_full": "ostacolo <span class=\"phonetics\">[os<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>ko<span class=\"separator\">·</span>lo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. ostacolo <span class=\"sense\">(impedimento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ostacolo</strong>",
+                                        "target": "obstacle"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ostacolo <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(intralcio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ostacolo</strong>",
+                                        "target": "hindrance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere <strong class=\"tilde\">d&#39;ostacolo</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to be a hindrance to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ostacolo <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">corsa a -i</span>",
+                                        "target": "obstacle race"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ostacolare",
+                        "headword_full": "ostacolare <span class=\"phonetics\">[os<span class=\"separator\">·</span>ta<span class=\"separator\">·</span>ko<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ostacolare</strong> <span class=\"sense\">(movimenti)</span>",
+                                        "target": "to obstruct"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">ostacolare</strong> <span class=\"sense\">(decisioni)</span>",
+                                        "target": "to block"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">ostacolare</strong> <span class=\"sense\">(ingresso, sviluppo, ricerca)</span>",
+                                        "target": "to hinder"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

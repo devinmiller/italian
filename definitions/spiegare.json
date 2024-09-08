@@ -1,0 +1,84 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "spiegare",
+                        "headword_full": "spiegare <span class=\"phonetics\">[spie<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. spiegare <span class=\"sense\">(far capire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spiegare</strong>",
+                                        "target": "to explain"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spiegare <span class=\"sense\">(tovaglia, cartina)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spiegare</strong>",
+                                        "target": "to unfold"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. spiegare <span class=\"sense\">(ali, vele)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spiegare</strong>",
+                                        "target": "to spread"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. spiegare <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span> <span class=\"sense\">(truppe)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spiegare</strong>",
+                                        "target": "to deploy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "spiegare",
+                        "headword_full": "spiegare <span class=\"phonetics\">[spie<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">spiegarsi</span> <span class=\"sense\">(chiarirsi)</span>",
+                                        "target": "to explain (oneself)"
+                                    },
+                                    {
+                                        "source": "<span class=\"reflection\">spiegarsi</span> <span class=\"sense\">(con un&#39;altra persona)</span>",
+                                        "target": "to sort things out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">cerca di spiegarti</span>",
+                                        "target": "try to explain"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi spiego?, mi sono spiegato?</span>",
+                                        "target": "do you understand?"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">what</strong> is more</span>",
+                "target": "per di più"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">into the <strong class=\"tilde\">bargain</strong></span>",
+                "target": "per di più"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">boot</strong></span>",
+                "target": "per di più"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to <strong class=\"tilde\">outbid</strong> <acronym title=\"somebody\">sb</acronym> (for <acronym title=\"something\">sth</acronym>)</span>",
+                "target": "offrire più di <acronym title=\"qualcuno\">qu</acronym> (per <acronym title=\"qualcosa\">qc</acronym>)"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">they pay her <strong class=\"tilde\">extra</strong> to work nights</span>",
+                "target": "le danno di più per il lavoro notturno"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">tutor</strong> <span class=\"topic\"><acronym title=\"school, education\">SCHOOL</acronym>, <acronym title=\"university\">UNIV</acronym></span> <span class=\"sense\">(private teacher)</span>",
+                "target": "tutor <span class=\"explanation\">professore di riferimento per uno o più studenti</span> <span class=\"info\"><acronym title=\"invariable\">inv</acronym></span>"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">per di <strong class=\"tilde\">più</strong></span>",
+                "target": "what&#39;s more"
+            }
+        ]
+    }
+]

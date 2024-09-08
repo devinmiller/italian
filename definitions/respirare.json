@@ -1,0 +1,66 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "respirare",
+                        "headword_full": "respirare <span class=\"phonetics\">[res<span class=\"separator\">·</span>pi<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. respirare <span class=\"topic\"><acronym title=\"biology\">BIOL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">respirare</strong>",
+                                        "target": "to breathe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">respirare</strong> con la bocca</span>",
+                                        "target": "to breathe through one&#39;s mouth"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">respirare</strong> col naso</span>",
+                                        "target": "to breathe through one&#39;s nose"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">respirare</strong> a pieni polmoni</span>",
+                                        "target": "to take deep breaths"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. respirare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(riposarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">respirare</strong>",
+                                        "target": "to have a rest"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "respirare",
+                        "headword_full": "respirare <span class=\"phonetics\">[res<span class=\"separator\">·</span>pi<span class=\"separator\">·</span>ˈra:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">respirare</strong>",
+                                        "target": "to breathe"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "nascere",
+                        "headword_full": "nascere <span class=\"flexion\">&lt;nasco, nacqui, nato&gt;</span> <span class=\"phonetics\">[ˈnaʃ<span class=\"separator\">·</span>ʃe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. nascere <span class=\"sense\">(persone, animali)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nascere</strong>",
+                                        "target": "to be born"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non sono nato ieri</span>",
+                                        "target": "I wasn&#39;t born yesterday"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. nascere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nascere</strong> <span class=\"sense\">(pianta)</span>",
+                                        "target": "to come up"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">nascere</strong> <span class=\"sense\">(fiore)</span>",
+                                        "target": "to come out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. nascere <span class=\"sense\">(fiumi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nascere</strong>",
+                                        "target": "to rise"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. nascere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nascere</strong> <span class=\"sense\">(sole)</span>",
+                                        "target": "to rise"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">nascere</strong> <span class=\"sense\">(giorno)</span>",
+                                        "target": "to break"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. nascere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(avere origine: tradizione, iniziativa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nascere</strong>",
+                                        "target": "to come from"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. nascere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(formarsi: associazione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nascere</strong>",
+                                        "target": "to be created"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. nascere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(amore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nascere</strong>",
+                                        "target": "to be born"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. nascere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">far <strong class=\"tilde\">nascere</strong></span> <span class=\"sense\">(dubbio, sospetto)</span>",
+                                        "target": "to give rise to"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

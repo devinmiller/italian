@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "riassumere",
+                        "headword_full": "riassumere <span class=\"phonetics\">[ri<span class=\"separator\">·</span>as<span class=\"separator\">·</span>ˈsu:<span class=\"separator\">·</span>me<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. riassumere <span class=\"sense\">(operaio)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riassumere</strong>",
+                                        "target": "to re-employ"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. riassumere <span class=\"sense\">(carica, funzione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riassumere</strong>",
+                                        "target": "to take on again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. riassumere <span class=\"sense\">(riepilogare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riassumere</strong>",
+                                        "target": "to recap"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

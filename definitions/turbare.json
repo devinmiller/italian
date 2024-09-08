@@ -1,0 +1,63 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "turbare",
+                        "headword_full": "turbare <span class=\"phonetics\">[tur<span class=\"separator\">·</span>ˈba:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. turbare <span class=\"sense\">(cerimonia, svolgimento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">turbare</strong>",
+                                        "target": "to disrupt"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. turbare <span class=\"sense\">(pace, rapporto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">turbare</strong>",
+                                        "target": "to disturb"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. turbare <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">turbare</strong>",
+                                        "target": "to upset"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "turbare",
+                        "headword_full": "turbare <span class=\"phonetics\">[tur<span class=\"separator\">·</span>ˈba:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "turbare <span class=\"reflection\">turbarsi</span> <span class=\"sense\">(agitarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">turbarsi</span>",
+                                        "target": "to get upset"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

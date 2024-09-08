@@ -1,0 +1,64 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "preavviso",
+                        "headword_full": "preavviso <span class=\"phonetics\">[pre<span class=\"separator\">·</span>av<span class=\"separator\">·</span>ˈvi:<span class=\"separator\">·</span>zo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. preavviso <span class=\"sense\">(avviso preventivo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">preavviso</strong>",
+                                        "target": "warning"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">preavviso</strong> di pagamento</span>",
+                                        "target": "payment notice"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. preavviso <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span> <span class=\"sense\">(comunicazione, periodo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">preavviso</strong>",
+                                        "target": "notice"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "preavvisare",
+                        "headword_full": "preavvisare <span class=\"phonetics\">[pre<span class=\"separator\">·</span>av<span class=\"separator\">·</span>vi<span class=\"separator\">·</span>ˈza:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">preavvisare</strong>",
+                                        "target": "to inform in advance"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

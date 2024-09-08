@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "stupire",
+                        "headword_full": "stupire <span class=\"flexion\">&lt;stupisco&gt;</span> <span class=\"phonetics\">[stu<span class=\"separator\">·</span>ˈpi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(meravigliare)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">stupire</strong>",
+                                        "target": "to amaze"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "stupire",
+                        "headword_full": "stupire <span class=\"flexion\">&lt;stupisco&gt;</span> <span class=\"phonetics\">[stu<span class=\"separator\">·</span>ˈpi:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "stupire <span class=\"reflection\">stupirsi</span> <span class=\"sense\">(meravigliarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">stupirsi</span>",
+                                        "target": "to be amazed"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,279 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "venire",
+                        "headword_full": "venire <span class=\"flexion\">&lt;vengo, venni, venuto&gt;</span> <span class=\"phonetics\">[ve<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. venire <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to come"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> da <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to come from <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">far <strong class=\"tilde\">venire</strong></span> <span class=\"sense\">(chiamare)</span>",
+                                        "target": "to call out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. venire <span class=\"sense\">(uscire: liquido)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to come out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. venire <span class=\"sense\">(cadere: pioggia, neve)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to fall"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. venire <span class=\"sense\">(alla mente)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to occur"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi è venuta un&#39;idea</span>",
+                                        "target": "I&#39;ve had an idea"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. venire <span class=\"sense\">(malattie)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">mi sta venendo l&#39;influenza</span>",
+                                        "target": "I&#39;m coming down with the flu"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. venire:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> da …</span> <span class=\"modus\">+inf</span> <span class=\"sense\">(sentire l&#39;impulso di)</span>",
+                                        "target": "to feel like …"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. venire <span class=\"sense\">(ricordare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to remember"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non mi viene!</span>",
+                                        "target": "I don&#39;t remember!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. venire <span class=\"sense\">(riuscire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to turn out (well)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non mi viene mai la maionese</span>",
+                                        "target": "my mayonnaise never turns out well"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. venire:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong> <span class=\"sense\">(risultare: numero)</span>",
+                                        "target": "to come to"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong> <span class=\"sense\">(nel lotto, nella tombola)</span>",
+                                        "target": "to come up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. venire <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(costare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to come to"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> a costare</span>",
+                                        "target": "to come to a total of"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. venire <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(spettare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to come out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ci vengono 100 euro a testa</span>",
+                                        "target": "it comes out at 100 euros each"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "12. venire <span class=\"sense\">(nascere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to arrive"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "13. venire <span class=\"sense\">(crescere: pianta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to come up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "14. venire <span class=\"sense\">(con participio passato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">venire</strong>",
+                                        "target": "to be"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "15. venire <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">venire</strong></span> <span class=\"sense\">(in futuro)</span>",
+                                        "target": "to come"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">andare e <strong class=\"tilde\">venire</strong></span>",
+                                        "target": "to come and go"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">come viene viene</span> <span class=\"sense\">(alla meno peggio)</span>",
+                                        "target": "come what may"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> a conoscenza di <acronym title=\"qualcosa\">qc</acronym></span> <span class=\"sense\">(essere informato)</span>",
+                                        "target": "to come to know of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> al dunque [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> sodo] </span>",
+                                        "target": "to get to the point"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> alla luce</span> <span class=\"sense\">(nascere: bambino)</span>",
+                                        "target": "to be born"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> alla luce</span> <span class=\"sense\">(essere scoperto: cosa)</span>",
+                                        "target": "to come to light"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> dentro</span> <span class=\"sense\">(entrare)</span>",
+                                        "target": "to come in"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> fuori</span> <span class=\"sense\">(uscire)</span>",
+                                        "target": "to come out"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> giù</span> <span class=\"sense\">(scendere)</span>",
+                                        "target": "to come down"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> in mente a <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"sense\">(essere ricordato)</span>",
+                                        "target": "to come to <acronym title=\"somebody's\">sb's</acronym> mind"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> incontro a <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(aiutare)</span>",
+                                        "target": "to come to <acronym title=\"somebody's\">sb's</acronym> help"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> meno</span> <span class=\"sense\">(mancare)</span>",
+                                        "target": "to be lacking"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> prima di <acronym title=\"qualcosa\">qc</acronym>/<acronym title=\"qualcuno\">qn</acronym></span> <span class=\"sense\">(precedere, essere più importante)</span>",
+                                        "target": "to come before <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> su</span> <span class=\"sense\">(salire)</span>",
+                                        "target": "to come up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> su</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(crescere)</span>",
+                                        "target": "to grow up"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> via</span> <span class=\"sense\">(spostarsi: persona)</span>",
+                                        "target": "to come away"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> via</span> <span class=\"sense\">(staccarsi: cosa)</span>",
+                                        "target": "to come off"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">venire</strong> via</span> <span class=\"sense\">(scomparire: macchia)</span>",
+                                        "target": "to come out"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "venire",
+                        "headword_full": "venire <span class=\"flexion\">&lt;vengo, venni, venuto&gt;</span> <span class=\"phonetics\">[ve<span class=\"separator\">·</span>ˈni:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "venire <span class=\"reflection\">venirsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">venirsene</span> <span class=\"sense\">(procedere)</span>",
+                                        "target": "to come"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">venirsene (via)</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(allontanarsi)</span>",
+                                        "target": "to walk out"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

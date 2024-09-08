@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "tascabile",
+                        "headword_full": "tascabile <span class=\"phonetics\">[task<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>bi<span class=\"separator\">·</span>le]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"sense\">(libro, edizione)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tascabile</strong>",
+                                        "target": "pocket"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">computer <strong class=\"tilde\">tascabile</strong></span>",
+                                        "target": "palmtop"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "tascabile",
+                        "headword_full": "tascabile <span class=\"phonetics\">[task<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>bi<span class=\"separator\">·</span>le]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"sense\">(libro)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">tascabile</strong>",
+                                        "target": "paperback"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ostinato",
+                        "headword_full": "ostinato <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[os<span class=\"separator\">·</span>ti<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. ostinato <span class=\"sense\">(persona)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ostinato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "obstinate"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ostinato <span class=\"sense\">(dolore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ostinato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "persistent"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ostinato <span class=\"sense\">(ricerca)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ostinato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "relentless"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

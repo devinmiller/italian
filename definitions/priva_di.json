@@ -1,0 +1,114 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">devoid</strong> of <acronym title=\"something\">sth</acronym></span>",
+                "target": "esser privo di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">tactless</strong>",
+                "target": "privo, -a di tatto"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">risk-free</strong>",
+                "target": "privo, -a di rischi"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">passionless</strong>",
+                "target": "privo di passione"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">humorless</strong>",
+                "target": "privo, -a di umorismo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">bereft</strong> of <acronym title=\"something\">sth</acronym></span>",
+                "target": "essere privo di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be <strong class=\"tilde\">bare</strong> of <acronym title=\"something\">sth</acronym></span>",
+                "target": "essere privo di <acronym title=\"qualcosa\">qc</acronym>"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">indiscreet</strong> <span class=\"sense\">(tactless)</span>",
+                "target": "privo, -a di tatto"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">rootless</strong>",
+                "target": "privo, -a di radici"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"example\">to be morally <strong class=\"tilde\">bankrupt</strong></span>",
+                "target": "essere privo di moralità"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"tilde\">unimaginative</strong>",
+                "target": "privo/a di fantasia"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">valueless</strong>",
+                "target": "privo, -a di valore"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">privo</strong> di</span>",
+                "target": "without"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">essere privo di -i</span>",
+                "target": "to have no money"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">privo</strong> di sensi</span>",
+                "target": "unconscious"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">privo di <strong class=\"tilde\">conoscenza</strong></span>",
+                "target": "unconscious"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">privo di -i</span>",
+                "target": "unsound"
+            }
+        ]
+    }
+]

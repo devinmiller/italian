@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sottomettere",
+                        "headword_full": "sottomettere <span class=\"phonetics\">[sot<span class=\"separator\">·</span>to<span class=\"separator\">·</span>ˈmet<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(popolo)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sottomettere</strong>",
+                                        "target": "to subjugate"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sottomettere",
+                        "headword_full": "sottomettere <span class=\"phonetics\">[sot<span class=\"separator\">·</span>to<span class=\"separator\">·</span>ˈmet<span class=\"separator\">·</span>te<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "sottomettere <span class=\"reflection\">sottomettersi</span> <span class=\"sense\">(assogettarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sottomettersi</span>",
+                                        "target": "to submit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

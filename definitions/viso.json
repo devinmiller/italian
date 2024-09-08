@@ -1,0 +1,46 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "viso",
+                        "headword_full": "viso <span class=\"phonetics\">[ˈvi:<span class=\"separator\">·</span>zo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. viso <span class=\"sense\">(volto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">viso</strong>",
+                                        "target": "face"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. viso <span class=\"sense\">(espressione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">viso</strong>",
+                                        "target": "expression"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">viso</strong> aperto</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "openly"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">far buon <strong class=\"tilde\">viso</strong> a cattivo gioco</span>",
+                                        "target": "to put a brave face on things"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

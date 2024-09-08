@@ -1,0 +1,129 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "piacere",
+                        "headword_full": "piacere<sup>1</sup> <span class=\"flexion\">&lt;piaccio, piacqui, piaciuto&gt;</span> <span class=\"phonetics\">[pia<span class=\"separator\">·</span>ˈtʃe:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">mi piace nuotare</span>",
+                                        "target": "I like swimming"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi piace molto la pasta</span>",
+                                        "target": "I like pasta a lot"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">quello rosso mi piace di più di quello verde</span>",
+                                        "target": "I like the red one more than the green one"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">il libro che mi piace di più</span>",
+                                        "target": "the book I like best"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi piacerebbe rivederti</span>",
+                                        "target": "I&#39;d like to see you again"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi piacerebbe che tu mi accompagnassi</span>",
+                                        "target": "I&#39;d like you to come with me"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">che ti piaccia o no</span>",
+                                        "target": "whether you like it or not"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "piacere",
+                        "headword_full": "piacere<sup>2</sup> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. piacere <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">piacere</strong>",
+                                        "target": "pleasure"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">provare <strong class=\"tilde\">piacere</strong> a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to take pleasure in doing <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">viaggio di <strong class=\"tilde\">piacere</strong></span>",
+                                        "target": "pleasure trip"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">piacere!</strong></span>",
+                                        "target": "it&#39;s a pleasure!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">è un <strong class=\"tilde\">piacere</strong> conoscerla</span>",
+                                        "target": "pleased to meet you"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">con (molto) <strong class=\"tilde\">piacere!</strong></span>",
+                                        "target": "with (great) pleasure!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. piacere <span class=\"sense\">(favore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">piacere</strong>",
+                                        "target": "favor"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare un <strong class=\"tilde\">piacere</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to do <acronym title=\"somebody\">sb</acronym> a favor"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fammi il (santo) <strong class=\"tilde\">piacere</strong> di …</span> <span class=\"modus\">+inf</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "please …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ma mi faccia il <strong class=\"tilde\">piacere!</strong></span>",
+                                        "target": "for goodness sake <strong class=\"tilde\">piacere!</strong>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">per <strong class=\"tilde\">piacere</strong></span>",
+                                        "target": "please"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. piacere <span class=\"sense\">(volontà)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">piacere</strong></span>",
+                                        "target": "as much as one likes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

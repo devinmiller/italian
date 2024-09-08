@@ -1,0 +1,76 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ripasso",
+                        "headword_full": "ripasso <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈpas<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ripasso</strong>",
+                                        "target": "revision"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ripassare",
+                        "headword_full": "ripassare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>pas<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(ritornare)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ripassare</strong>",
+                                        "target": "to call in again"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ripassare",
+                        "headword_full": "ripassare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>pas<span class=\"separator\">·</span>ˈsa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ripassare <span class=\"sense\">(passare sopra)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ripassare</strong>",
+                                        "target": "to go over again"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ripassare <span class=\"sense\">(ripetere: lezione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ripassare</strong>",
+                                        "target": "to revise"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

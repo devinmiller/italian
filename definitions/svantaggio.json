@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "svantaggio",
+                        "headword_full": "svantaggio <span class=\"flexion\">&lt;-ggi&gt;</span> <span class=\"phonetics\">[zvan<span class=\"separator\">·</span>ˈtad<span class=\"separator\">·</span>dʒo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. svantaggio <span class=\"sense\">(condizione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">svantaggio</strong>",
+                                        "target": "disadvantage"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere in <strong class=\"tilde\">svantaggio</strong> rispetto a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to be at a disadvantage compared to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. svantaggio <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">essere in <strong class=\"tilde\">svantaggio</strong></span>",
+                                        "target": "to be behind"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

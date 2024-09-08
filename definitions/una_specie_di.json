@@ -1,0 +1,24 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">a <strong class=\"tilde\">kind</strong> of soup</span>",
+                "target": "una specie di minestra"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">una <strong class=\"tilde\">specie</strong> di</span>",
+                "target": "a kind of"
+            }
+        ]
+    }
+]

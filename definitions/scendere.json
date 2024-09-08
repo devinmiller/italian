@@ -1,0 +1,102 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scendere",
+                        "headword_full": "scendere <span class=\"flexion\">&lt;scendo, scesi, sceso&gt;</span> <span class=\"phonetics\">[ˈʃen<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. scendere <span class=\"sense\">(andare giù)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scendere</strong>",
+                                        "target": "to go down"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scendere</strong> a valle</span>",
+                                        "target": "to go back down the mountain/hill"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scendere</strong> a patti con <acronym title=\"qualcuno\">qu</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to come to an agreement with <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scendere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scendere</strong> <span class=\"sense\">(smontare: da macchina)</span>",
+                                        "target": "to get out of"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">scendere</strong> <span class=\"sense\">(da bus, treno)</span>",
+                                        "target": "to get off"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">scendere</strong> <span class=\"sense\">(da cavallo)</span>",
+                                        "target": "to dismount"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. scendere <span class=\"sense\">(essere in pendenza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scendere</strong>",
+                                        "target": "to descend"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. scendere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scendere</strong> <span class=\"sense\">(calare)</span>",
+                                        "target": "to drop"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">scendere</strong> <span class=\"sense\">(notte)</span>",
+                                        "target": "to fall"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">scendere</strong> <span class=\"sense\">(sole)</span>",
+                                        "target": "to set"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. scendere <span class=\"sense\">(di grado)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scendere</strong>",
+                                        "target": "to decline"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. scendere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scendere</strong> in piazza</span>",
+                                        "target": "to take to the streets"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scendere</strong> in campo</span> <span class=\"rhetoric\"><acronym title=\"anche\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "to take the field"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

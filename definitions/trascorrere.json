@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "trascorrere",
+                        "headword_full": "trascorrere <span class=\"phonetics\">[tras<span class=\"separator\">·</span>ˈkor<span class=\"separator\">·</span>re<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(vacanze, giornata)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trascorrere</strong>",
+                                        "target": "to spend"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "trascorrere",
+                        "headword_full": "trascorrere <span class=\"phonetics\">[tras<span class=\"separator\">·</span>ˈkor<span class=\"separator\">·</span>re<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span> <span class=\"sense\">(tempo)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">trascorrere</strong>",
+                                        "target": "to pass"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

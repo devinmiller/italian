@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "paesaggio",
+                        "headword_full": "paesaggio <span class=\"flexion\">&lt;-ggi&gt;</span> <span class=\"phonetics\">[pae<span class=\"separator\">·</span>ˈzad<span class=\"separator\">·</span>dʒo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. paesaggio <span class=\"topic\"><acronym title=\"geography\">GEOG</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">paesaggio</strong>",
+                                        "target": "landscape"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">paesaggio</strong> alpino</span>",
+                                        "target": "Alpine landscape"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. paesaggio <span class=\"sense\">(panorama)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">paesaggio</strong>",
+                                        "target": "view"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. paesaggio <span class=\"sense\">(pittura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">paesaggio</strong>",
+                                        "target": "landscape (painting)"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">paesaggio</strong> <span class=\"topic\"><acronym title=\"photography\">PHOTO</acronym></span>",
+                                        "target": "landscape (photograph)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

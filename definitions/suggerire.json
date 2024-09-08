@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "suggerire",
+                        "headword_full": "suggerire <span class=\"flexion\">&lt;suggerisco&gt;</span> <span class=\"phonetics\">[sud<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. suggerire <span class=\"sense\">(a scuola)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">suggerire</strong> la risposta a <acronym title=\"qualcuno\">qn</acronym></span>",
+                                        "target": "to tell <acronym title=\"somebody\">sb</acronym> the answer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. suggerire <span class=\"topic\"><acronym title=\"theatre\">THEAT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">suggerire</strong>",
+                                        "target": "to prompt"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. suggerire <span class=\"sense\">(consigliare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">suggerire</strong>",
+                                        "target": "to suggest"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">suggerire</strong> a <acronym title=\"qualcuno\">qu</acronym> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to suggest that <acronym title=\"somebody\">sb</acronym> does <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

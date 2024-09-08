@@ -1,0 +1,36 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">it&#39;s <strong class=\"tilde\">none</strong> too warm</span>",
+                "target": "fa tutt&#39;altro che caldo"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">to be far from <strong class=\"tilde\">easy</strong></span>",
+                "target": "essere tutt&#39;altro che facile"
+            }
+        ]
+    },
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">tutt&#39;altro</span>",
+                "target": "on the contrary"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\"><strong class=\"tilde\">tutt&#39;altro</strong></span>",
+                "target": "quite the contrary"
+            }
+        ]
+    }
+]

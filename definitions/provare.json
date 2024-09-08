@@ -1,0 +1,110 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "provare",
+                        "headword_full": "provare <span class=\"phonetics\">[pro<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. provare <span class=\"topic\"><acronym title=\"technology\">TECH</acronym>, scient</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">provare</strong> <span class=\"sense\">(gener)</span>",
+                                        "target": "to try"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">provare</strong> <span class=\"sense\">(gener)</span>",
+                                        "target": "to test"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">provare</strong> <span class=\"sense\">(abito, scarpe)</span>",
+                                        "target": "to try on"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">provare</strong> a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to try to do <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">provarci</span>",
+                                        "target": "to try"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. provare <span class=\"sense\">(indebolire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">provare</strong>",
+                                        "target": "to weaken"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. provare <span class=\"sense\">(dolore, simpatia, pietà)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">provare</strong>",
+                                        "target": "to feel"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. provare <span class=\"sense\">(dimostrare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">provare</strong>",
+                                        "target": "to prove"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. provare <span class=\"topic\"><acronym title=\"music\">MUS</acronym>, <acronym title=\"theatre\">THEAT</acronym>, film</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">provare</strong>",
+                                        "target": "to rehearse"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "provare",
+                        "headword_full": "provare <span class=\"phonetics\">[pro<span class=\"separator\">·</span>ˈva:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">provarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. provare <span class=\"sense\">(osare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">provarsi</span>",
+                                        "target": "to dare"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">provarsi a fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to dare to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. provare <span class=\"sense\">(mettersi alla prova)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">provarsi in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to try <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

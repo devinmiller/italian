@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "urto",
+                        "headword_full": "urto <span class=\"phonetics\">[ˈur<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. urto <span class=\"sense\">(colpo, spinta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">urto</strong>",
+                                        "target": "shove"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">resistente agli -i</span>",
+                                        "target": "shockproof"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. urto <span class=\"sense\">(scontro, collisione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">urto</strong>",
+                                        "target": "collision"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. urto <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">forza <strong class=\"tilde\">d&#39;urto</strong></span>",
+                                        "target": "strike force"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">terapia <strong class=\"tilde\">d&#39;urto</strong></span>",
+                                        "target": "massive-dose therapy"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

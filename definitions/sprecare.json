@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sprecare",
+                        "headword_full": "sprecare <span class=\"phonetics\">[spre<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(tempo, denaro)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sprecare</strong>",
+                                        "target": "to waste"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sprecare",
+                        "headword_full": "sprecare <span class=\"phonetics\">[spre<span class=\"separator\">·</span>ˈka:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">sprecarsi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sprecare <span class=\"rhetoric\"><acronym title=\"ironic\">iron</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sprecarsi</span>",
+                                        "target": "to exert oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sprecare <span class=\"sense\">(perdersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">sprecarsi in <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to waste one&#39;s energy on <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

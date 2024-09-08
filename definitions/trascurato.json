@@ -1,0 +1,31 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">unkempt</strong> <span class=\"collocator\">garden</span>",
+                "target": "trascurato, -a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">uncared-for</strong>",
+                "target": "trascurato, -a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">neglected</strong>",
+                "target": "trascurato, -a"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<strong class=\"headword\">overgrown</strong>",
+                "target": "trascurato, -a"
+            }
+        ]
+    }
+]

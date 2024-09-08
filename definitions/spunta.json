@@ -1,0 +1,123 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "spuntare",
+                        "headword_full": "spuntare <span class=\"phonetics\">[spun<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. spuntare <span class=\"sense\">(penna, lapis)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spuntare</strong>",
+                                        "target": "to break the point of"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spuntare <span class=\"sense\">(capelli, baffi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spuntare</strong>",
+                                        "target": "to trim"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. spuntare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(superare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">spuntarla</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to win through"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. spuntare <span class=\"sense\">(depennare: lista)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spuntare</strong>",
+                                        "target": "to cross out"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "spuntare",
+                        "headword_full": "spuntare <span class=\"phonetics\">[spun<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. spuntare <span class=\"sense\">(venir fuori)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spuntare</strong>",
+                                        "target": "to poke up"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spuntare <span class=\"sense\">(fiori)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spuntare</strong>",
+                                        "target": "to come out"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. spuntare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spuntare</strong> <span class=\"sense\">(sole)</span>",
+                                        "target": "to rise"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">spuntare</strong> <span class=\"sense\">(giorno)</span>",
+                                        "target": "to break"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. spuntare <span class=\"sense\">(apparire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spuntare</strong>",
+                                        "target": "to appear"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">da dove spunti?</span>",
+                                        "target": "where did you spring from?"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "spuntare",
+                        "headword_full": "spuntare <span class=\"phonetics\">[spun<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "spuntare <span class=\"reflection\">spuntarsi</span> <span class=\"sense\">(penna, lapis)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">spuntarsi</span>",
+                                        "target": "to become blunt"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

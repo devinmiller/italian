@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "possesso",
+                        "headword_full": "possesso <span class=\"phonetics\">[pos<span class=\"separator\">·</span>ˈsɛs<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. possesso <span class=\"sense\">(di bene, facoltà)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">possesso</strong>",
+                                        "target": "possession"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">entrare in <strong class=\"tilde\">possesso</strong> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to come into possession of <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. possesso <span class=\"sense\">(padronanza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">possesso</strong>",
+                                        "target": "command"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">essere nel pieno <strong class=\"tilde\">possesso</strong> delle proprie facoltà mentali</span>",
+                                        "target": "to be in full possession of one&#39;s faculties"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. possesso <span class=\"info\"><acronym title=\"plurale\">pl</acronym></span> <span class=\"sense\">(proprietà terriera)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">possesso</strong>",
+                                        "target": "property"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

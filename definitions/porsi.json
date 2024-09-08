@@ -1,0 +1,59 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "porsi",
+                        "headword_full": "porsi <span class=\"phonetics\">[ˈpɔr<span class=\"separator\">·</span>si]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "porsi <span class=\"reference_qualification\">1. <acronym title=\"person, personal\">pers</acronym> <acronym title=\"singolare\">sing</acronym> pass rem di</span> <span class=\"indirect_reference_RQ\"> porgere</span>",
+                                "translations": [
+                                    {
+                                        "source": "",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "porgere",
+                        "headword_full": "porgere <span class=\"flexion\">&lt;porgo, porsi, porto&gt;</span> <span class=\"phonetics\">[ˈpɔr<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(dare)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">porgere</strong>",
+                                        "target": "to hand"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">porgere</strong> la mano</span>",
+                                        "target": "to hold out one&#39;s hand"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">porgere</strong> orecchio</span>",
+                                        "target": "to pay attention"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "studiare",
+                        "headword_full": "studiare <span class=\"phonetics\">[stu<span class=\"separator\">·</span>ˈdia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. studiare <span class=\"sense\">(per imparare <acronym title=\"qualcosa\">qc</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">studiare</strong>",
+                                        "target": "to study"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">studiare</strong> al liceo/all&#39;università</span>",
+                                        "target": "to be a high school/university student"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. studiare <span class=\"sense\">(esaminare, indagare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">studiare</strong>",
+                                        "target": "to examine"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. studiare <span class=\"sense\">(parole, mosse)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">studiare</strong>",
+                                        "target": "to weigh"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "studiare",
+                        "headword_full": "studiare <span class=\"phonetics\">[stu<span class=\"separator\">·</span>ˈdia:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "studiare <span class=\"reflection\">studiarsi</span> <span class=\"sense\">(osservarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">studiarsi</span>",
+                                        "target": "to weigh each other up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

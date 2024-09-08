@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "puntura",
+                        "headword_full": "puntura <span class=\"phonetics\">[pun<span class=\"separator\">·</span>ˈtu:<span class=\"separator\">·</span>ra]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. puntura <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(iniezione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">puntura</strong>",
+                                        "target": "injection"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. puntura:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">puntura</strong> <span class=\"sense\">(di zanzara)</span>",
+                                        "target": "bite"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">puntura</strong> <span class=\"sense\">(di ago, spina)</span>",
+                                        "target": "prick"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. puntura <span class=\"sense\">(fitta)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">puntura</strong>",
+                                        "target": "sharp pain"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

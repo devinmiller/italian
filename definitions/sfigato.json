@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sfigato",
+                        "headword_full": "sfigato <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[sfi<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>to]</span> <span class=\"style\"><acronym title=\"vulgar\">vulg</acronym></span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. sfigato <span class=\"sense\">(sfortunato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sfigato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "unlucky"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sfigato <span class=\"sense\">(squallido)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sfigato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "bleak"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sfigato",
+                        "headword_full": "sfigato <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[sfi<span class=\"separator\">·</span>ˈga:<span class=\"separator\">·</span>to]</span> <span class=\"style\"><acronym title=\"vulgar\">vulg</acronym></span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span> <span class=\"sense\">(sfortunato)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sfigato</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "unlucky person"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "spigolo",
+                        "headword_full": "spigolo <span class=\"phonetics\">[ˈspi:<span class=\"separator\">·</span>go<span class=\"separator\">·</span>lo]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. spigolo <span class=\"sense\">(angolo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spigolo</strong>",
+                                        "target": "sharp edge"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spigolo <span class=\"info\"><acronym title=\"plurale\">pl</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(asprezza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spigolo</strong>",
+                                        "target": "rough edges"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

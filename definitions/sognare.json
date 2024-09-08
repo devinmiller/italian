@@ -1,0 +1,94 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sognare",
+                        "headword_full": "sognare <span class=\"phonetics\">[soɲ<span class=\"separator\">·</span>ˈɲa:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sognare <span class=\"sense\">(vedere in sogno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sognare</strong>",
+                                        "target": "to dream"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ho sognato che …</span>",
+                                        "target": "I dreamed (that) …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ho sognato il nonno</span>",
+                                        "target": "I dreamed about (my) granddad"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sognare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(desiderare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sognare</strong>",
+                                        "target": "to dream of"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sogno una casa al mare</span>",
+                                        "target": "I dream of (having) a house on the coast"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. sognare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(illudersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">te la puoi <strong class=\"tilde\">sognare!</strong></span>",
+                                        "target": "in your dreams!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">te lo sogni che venga!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "in your dreams he&#39;s <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> she&#39;s]</span> coming!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. sognare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(immaginare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">non mi sarei mai sognata di finire in questa città</span>",
+                                        "target": "I never dreamed I&#39;d end up living here"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "sognare",
+                        "headword_full": "sognare <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"tilde\">sognare</strong> non costa nulla",
+                                        "target": "a man can dream"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

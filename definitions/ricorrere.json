@@ -1,0 +1,83 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ricorrere",
+                        "headword_full": "ricorrere <span class=\"phonetics\">[ri<span class=\"separator\">·</span>ˈkor<span class=\"separator\">·</span>re<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. ricorrere <span class=\"sense\">(tornare indietro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricorrere</strong>",
+                                        "target": "to rush back"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. ricorrere <span class=\"sense\">(rivolgersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ricorrere</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to turn to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. ricorrere <span class=\"sense\">(servirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ricorrere</strong> a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to use <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. ricorrere <span class=\"sense\">(festa, anniversario)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricorrere</strong>",
+                                        "target": "to take place"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. ricorrere <span class=\"sense\">(ripetersi: evento, fenomeno)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricorrere</strong>",
+                                        "target": "to recur"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. ricorrere <span class=\"sense\">(comparire: parola)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ricorrere</strong>",
+                                        "target": "to appear"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. ricorrere <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">ricorrere</strong> alle vie legali</span>",
+                                        "target": "to take legal action"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

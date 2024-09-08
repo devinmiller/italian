@@ -1,0 +1,50 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sforzo",
+                        "headword_full": "sforzo <span class=\"phonetics\">[ˈsfɔr<span class=\"separator\">·</span>tso]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. sforzo <span class=\"sense\">(impiego di forze)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sforzo</strong>",
+                                        "target": "effort"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">senza <strong class=\"tilde\">sforzo</strong> non si ottiene nulla</span>",
+                                        "target": "you won&#39;t get anywhere if you don&#39;t try"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">fare uno <strong class=\"tilde\">sforzo</strong></span>",
+                                        "target": "to make an effort"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non fare -i!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "don&#39;t tire yourself out!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sforzo <span class=\"topic\"><acronym title=\"technology\">TECH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sforzo</strong>",
+                                        "target": "stress"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

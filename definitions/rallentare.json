@@ -1,0 +1,58 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "rallentare",
+                        "headword_full": "rallentare <span class=\"phonetics\">[ral<span class=\"separator\">·</span>len<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. rallentare <span class=\"sense\">(rendere più lento)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rallentare</strong>",
+                                        "target": "to slow down"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">rallentare</strong> il passo</span>",
+                                        "target": "to slow down"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. rallentare <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(diventare meno intenso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rallentare</strong>",
+                                        "target": "to slacken"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "rallentare",
+                        "headword_full": "rallentare <span class=\"phonetics\">[ral<span class=\"separator\">·</span>len<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rallentare</strong>",
+                                        "target": "to slow down"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scurire",
+                        "headword_full": "scurire <span class=\"flexion\">&lt;scurisco&gt;</span> <span class=\"phonetics\">[sku<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span> <span class=\"sense\">(colore, metallo)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scurire</strong>",
+                                        "target": "to make darker"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "scurire",
+                        "headword_full": "scurire <span class=\"flexion\">&lt;scurisco&gt;</span> <span class=\"phonetics\">[sku<span class=\"separator\">·</span>ˈri:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "scurire <span class=\"reflection\">scurirsi</span> <span class=\"sense\">(colore, capelli, pelle, metallo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">scurirsi</span>",
+                                        "target": "to become darker"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

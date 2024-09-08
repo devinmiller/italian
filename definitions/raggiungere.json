@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "raggiungere",
+                        "headword_full": "raggiungere <span class=\"phonetics\">[rad<span class=\"separator\">·</span>ˈdʒun<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. raggiungere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">raggiungere</strong> <span class=\"sense\">(meta, vetta)</span>",
+                                        "target": "to reach"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">raggiungere</strong> <span class=\"sense\">(persone)</span>",
+                                        "target": "to join"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. raggiungere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(obiettivo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">raggiungere</strong>",
+                                        "target": "to achieve"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. raggiungere <span class=\"sense\">(colpire: bersaglio, cuore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">raggiungere</strong>",
+                                        "target": "to hit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

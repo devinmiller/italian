@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sorgere",
+                        "headword_full": "sorgere <span class=\"flexion\">&lt;sorgo, sorsi, sorto&gt;</span> <span class=\"phonetics\">[ˈsor<span class=\"separator\">·</span>dʒe<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sorgere <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sorgere</strong>",
+                                        "target": "to rise"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sorgere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(manifestarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sorgere</strong>",
+                                        "target": "to arise"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi sorge un dubbio</span>",
+                                        "target": "I&#39;m starting to wonder"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

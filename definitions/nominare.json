@@ -1,0 +1,55 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "nominare",
+                        "headword_full": "nominare <span class=\"phonetics\">[no<span class=\"separator\">·</span>mi<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. nominare <span class=\"sense\">(citare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nominare</strong>",
+                                        "target": "to mention"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mai sentito <strong class=\"tilde\">nominare!</strong></span>",
+                                        "target": "I&#39;ve never heard of him <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> her]</span> <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> it]</span> !"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. nominare:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nominare</strong> <span class=\"sense\">(eleggere)</span>",
+                                        "target": "to nominate"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">nominare</strong> <span class=\"sense\">(commissione, avvocato)</span>",
+                                        "target": "to appoint"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. nominare <span class=\"sense\">(chiamare: via, pianta, astro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nominare</strong>",
+                                        "target": "to name"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

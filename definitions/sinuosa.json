@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sinuoso",
+                        "headword_full": "sinuoso <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[si<span class=\"separator\">·</span>nu<span class=\"separator\">·</span>ˈo:<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sinuoso</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "winding"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sentire",
+                        "headword_full": "sentire <span class=\"phonetics\">[sen<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sentire:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sentire</strong> <span class=\"sense\">(con le orecchie)</span>",
+                                        "target": "to hear"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">sentire</strong> <span class=\"sense\">(ascoltare)</span>",
+                                        "target": "to listen to"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi <strong class=\"tilde\">sentire</strong></span>",
+                                        "target": "to make one&#39;s voice heard"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">stare a <strong class=\"tilde\">sentire</strong> (<acronym title=\"qualcuno\">qu</acronym>)</span>",
+                                        "target": "to listen (to <acronym title=\"somebody\">sb</acronym>)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sentire <span class=\"sense\">(con il naso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sentire</strong>",
+                                        "target": "to smell"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. sentire <span class=\"sense\">(col gusto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sentire</strong>",
+                                        "target": "to taste"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. sentire <span class=\"sense\">(col tatto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sentire</strong>",
+                                        "target": "to feel"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. sentire <span class=\"sense\">(provare, accorgersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sentire</strong>",
+                                        "target": "to feel"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sentire</strong> stanchezza</span>",
+                                        "target": "to feel tired"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sentire</strong> fame</span>",
+                                        "target": "to feel hungry"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sentire</strong> sonno</span>",
+                                        "target": "to feel sleepy"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sentire caldo/freddo</span>",
+                                        "target": "to feel hot/cold"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. sentire <span class=\"sense\">(venire a sapere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sentire</strong>",
+                                        "target": "to hear"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ho sentito che …</span>",
+                                        "target": "I heard that …"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sentire",
+                        "headword_full": "sentire <span class=\"phonetics\">[sen<span class=\"separator\">·</span>ˈti:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "sentire <span class=\"reflection\">sentirsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">sentirsi</span>",
+                                        "target": "to feel"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi sento bene</span>",
+                                        "target": "I feel well"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi sento male</span>",
+                                        "target": "I feel ill"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sentirsi svenire</span>",
+                                        "target": "to feel faint"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non me la sento</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "I don&#39;t feel like it"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non me la sento di venire con voi</span>",
+                                        "target": "I don&#39;t feel like coming with you"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

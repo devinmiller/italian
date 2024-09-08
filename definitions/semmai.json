@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "semmai",
+                        "headword_full": "semmai <span class=\"phonetics\">[sem<span class=\"separator\">·</span>ˈma:<span class=\"separator\">·</span>i]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">semmai</strong>",
+                                        "target": "if anything"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

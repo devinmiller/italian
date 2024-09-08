@@ -1,0 +1,42 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "provvedimento",
+                        "headword_full": "provvedimento <span class=\"phonetics\">[prov<span class=\"separator\">·</span>ve<span class=\"separator\">·</span>di<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. provvedimento <span class=\"sense\">(misura)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">provvedimento</strong>",
+                                        "target": "step"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">prendere -i</span>",
+                                        "target": "to take steps"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. provvedimento <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">provvedimento</strong>",
+                                        "target": "measure"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

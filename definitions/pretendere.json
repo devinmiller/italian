@@ -1,0 +1,47 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pretendere",
+                        "headword_full": "pretendere <span class=\"phonetics\">[pre<span class=\"separator\">·</span>ˈtɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. pretendere <span class=\"sense\">(esigere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pretendere</strong>",
+                                        "target": "to demand"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. pretendere <span class=\"sense\">(presumere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pretendere</strong>",
+                                        "target": "to presume"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. pretendere <span class=\"sense\">(affermare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pretendere</strong>",
+                                        "target": "to claim"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

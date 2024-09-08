@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "persuadere",
+                        "headword_full": "persuadere <span class=\"flexion\">&lt;persuado, persuasi, persuaso&gt;</span> <span class=\"phonetics\">[per<span class=\"separator\">·</span>sua<span class=\"separator\">·</span>ˈde:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. persuadere <span class=\"sense\">(convincere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">persuadere</strong>",
+                                        "target": "to persuade"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">persuadere</strong> <acronym title=\"qualcuno\">qu</acronym> di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to persuade <acronym title=\"somebody\">sb</acronym> of <acronym title=\"something\">sth</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">persuadere</strong> <acronym title=\"qualcuno\">qu</acronym> di fare <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to persuade <acronym title=\"somebody\">sb</acronym> to do <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. persuadere <span class=\"sense\">(suscitare consenso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">persuadere</strong>",
+                                        "target": "to convince"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "persuadere",
+                        "headword_full": "persuadere <span class=\"flexion\">&lt;persuado, persuasi, persuaso&gt;</span> <span class=\"phonetics\">[per<span class=\"separator\">·</span>sua<span class=\"separator\">·</span>ˈde:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span> <span class=\"reflection\">persuadersi</span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "1. persuadere <span class=\"sense\">(convincersi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">persuadersi</span>",
+                                        "target": "to convince oneself"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. persuadere <span class=\"sense\">(capacitarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">persuadersi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to understand <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

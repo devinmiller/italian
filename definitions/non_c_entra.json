@@ -1,0 +1,19 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">la politica non c&#39;entra</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                "target": "politics has nothing to do with it"
+            },
+            {
+                "type": "translation",
+                "opendict": false,
+                "source": "<span class=\"example\">qui non c&#39;entra più nessuno</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                "target": "there&#39;s no room for anyone else"
+            }
+        ]
+    }
+]

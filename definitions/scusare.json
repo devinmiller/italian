@@ -1,0 +1,57 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scusare",
+                        "headword_full": "scusare <span class=\"phonetics\">[sku<span class=\"separator\">·</span>ˈza:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scusare</strong>",
+                                        "target": "to excuse"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">scusare</strong> <span class=\"sense\">(perdonare)</span>",
+                                        "target": "to forgive"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">scusi, che ore sono?</span>",
+                                        "target": "excuse me, do you have the time?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mi scusi!</span>",
+                                        "target": "I beg your pardon"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "scusare",
+                        "headword_full": "scusare <span class=\"phonetics\">[sku<span class=\"separator\">·</span>ˈza:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "scusare <span class=\"reflection\">scusarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">scusarsi con <acronym title=\"qualcuno\">qu</acronym> di/per <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to apologize to <acronym title=\"somebody\">sb</acronym> for <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

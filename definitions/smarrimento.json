@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "smarrimento",
+                        "headword_full": "smarrimento <span class=\"phonetics\">[zmar<span class=\"separator\">·</span>ri<span class=\"separator\">·</span>ˈmen<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. smarrimento <span class=\"sense\">(di oggetto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">smarrimento</strong>",
+                                        "target": "loss"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. smarrimento <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(mancanza di lucidità)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">smarrimento</strong>",
+                                        "target": "confusion"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

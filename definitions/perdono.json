@@ -1,0 +1,122 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "perdono",
+                        "headword_full": "perdono <span class=\"phonetics\">[per<span class=\"separator\">·</span>ˈdo:<span class=\"separator\">·</span>no]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. perdono <span class=\"topic\"><acronym title=\"religion\">REL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perdono</strong>",
+                                        "target": "forgiveness"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. perdono <span class=\"sense\">(scusa)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perdono</strong>",
+                                        "target": "pardon"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">chiedere <strong class=\"tilde\">perdono</strong> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "to apologize to <acronym title=\"somebody\">sb</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. perdono <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">perdono</strong> giudiziale</span>",
+                                        "target": "pardon"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "perdonare",
+                        "headword_full": "perdonare <span class=\"phonetics\">[per<span class=\"separator\">·</span>do<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. perdonare <span class=\"sense\">(per colpa, errore)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perdonare</strong>",
+                                        "target": "to forgive"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">perdonare</strong> <acronym title=\"qualcosa\">qc</acronym> a <acronym title=\"qualcuno\">qu</acronym></span>",
+                                        "target": "not to forgive <acronym title=\"somebody\">sb</acronym> <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. perdonare <span class=\"sense\">(per disturbo)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perdonare</strong>",
+                                        "target": "to excuse"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "perdonare",
+                        "headword_full": "perdonare <span class=\"phonetics\">[per<span class=\"separator\">·</span>do<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">perdonare</strong></span> <span class=\"sense\">(essere inesorabile)</span>",
+                                        "target": "not to forgive"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">una malattia che non perdona</span>",
+                                        "target": "an incurable disease"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "perdonare",
+                        "headword_full": "perdonare <span class=\"phonetics\">[per<span class=\"separator\">·</span>do<span class=\"separator\">·</span>ˈna:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "perdonare <span class=\"reflection\">perdonarsi</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"reflection\">perdonarsi</span>",
+                                        "target": "to forgive oneself"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

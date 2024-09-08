@@ -1,0 +1,125 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "riportare",
+                        "headword_full": "riportare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>por<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. riportare <span class=\"sense\">(portare di nuovo o indietro)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riportare</strong>",
+                                        "target": "to take back"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. riportare <span class=\"sense\">(riferire: notizie, dichiarazioni)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riportare</strong>",
+                                        "target": "to report"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. riportare <span class=\"sense\">(ricavare: impressione)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riportare</strong>",
+                                        "target": "to get"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. riportare <span class=\"topic\"><acronym title=\"mathematics\">MATH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riportare</strong>",
+                                        "target": "to carry over"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. riportare <span class=\"sense\">(ottenere: vittoria, utile)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riportare</strong>",
+                                        "target": "to achieve"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. riportare <span class=\"sense\">(subire: danni)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riportare</strong>",
+                                        "target": "to suffer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. riportare <span class=\"topic\">dir</span> <span class=\"sense\">(condanna)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">riportare</strong>",
+                                        "target": "to receive"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "riportare",
+                        "headword_full": "riportare <span class=\"phonetics\">[ri<span class=\"separator\">·</span>por<span class=\"separator\">·</span>ˈta:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "riportare <span class=\"reflection\">riportarsi</span> <span class=\"sense\">(richiamarsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">riportarsi a <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to refer to <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "riportare",
+                        "headword_full": "riportare <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "sull’etichetta è riportato: …",
+                                        "target": "the label reads: …"
+                                    },
+                                    {
+                                        "source": "sul giornale è riportato che...",
+                                        "target": "it says in the newspaper that..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

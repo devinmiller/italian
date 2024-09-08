@@ -1,0 +1,184 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "valere",
+                        "headword_full": "valere <span class=\"flexion\">&lt;valgo, valsi, valso&gt;</span> <span class=\"phonetics\">[va<span class=\"separator\">·</span>ˈle:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"auxiliary_verb\">+essere</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. valere <span class=\"sense\">(avere potere, influenza)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">valere</strong> nulla</span>",
+                                        "target": "to count for nothing"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">valere</strong> molto</span>",
+                                        "target": "to be worth a lot"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. valere <span class=\"sense\">(essere capace)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">valere</strong>",
+                                        "target": "to be good"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">valere</strong> poco</span>",
+                                        "target": "not to be very good"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">valere</strong> per tre [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> dieci] </span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "to be worth ten"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">farsi <strong class=\"tilde\">valere</strong></span>",
+                                        "target": "to show what one&#39;s worth"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. valere:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">valere</strong> <span class=\"sense\">(avere efficacia: legge)</span>",
+                                        "target": "to be valid"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">valere</strong> <span class=\"sense\">(norma)</span>",
+                                        "target": "to apply"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. valere <span class=\"sense\">(essere valido)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">valere</strong>",
+                                        "target": "to be valid"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non vale!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "that doesn&#39;t count!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. valere <span class=\"sense\">(costare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">valere</strong>",
+                                        "target": "to be worth"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">valere</strong> un tesoro [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> un occhio della testa] </span>",
+                                        "target": "to be priceless"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">non <strong class=\"tilde\">valere</strong> un fico (secco) [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> una lira] [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> una cicca] </span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "not to be worth a fig"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. valere <span class=\"sense\">(essere uguale a)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">valere</strong>",
+                                        "target": "to be the same as"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">uno vale l&#39;altro</span>",
+                                        "target": "they&#39;re both the same"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tanto vale [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> varrebbe] </span> <span class=\"modus\">+inf</span>",
+                                        "target": "it&#39;s all the same"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tanto vale che …</span>",
+                                        "target": "I <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> you]</span> <span class=\"target\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> he]</span> etc. might as well …"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">(non) <strong class=\"tilde\">valere</strong> la pena</span>",
+                                        "target": "(not) to be worth the effort"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">vale a dire</span> <span class=\"sense\">(cioé, ovvero)</span>",
+                                        "target": "that is"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">hai detto che arrivi tardi, vale a dire?</span>",
+                                        "target": "you said you&#39;ll be arriving late, but how late exactly?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. valere <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">il gioco non vale la candela</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "it&#39;s more trouble than it&#39;s worth"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a Carnevale ogni scherzo vale</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "<span class=\"explanation\">at Carnival time, anything goes</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "valere",
+                        "headword_full": "valere <span class=\"flexion\">&lt;valgo, valsi, valso&gt;</span> <span class=\"phonetics\">[va<span class=\"separator\">·</span>ˈle:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+avere</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. valere <span class=\"sense\">(rendere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">valere</strong>",
+                                        "target": "to earn"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. valere <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(procurare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">valere</strong>",
+                                        "target": "to earn"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "valere",
+                        "headword_full": "valere <span class=\"flexion\">&lt;valgo, valsi, valso&gt;</span> <span class=\"phonetics\">[va<span class=\"separator\">·</span>ˈle:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "reflexive verb",
+                        "arabs": [
+                            {
+                                "header": "valere <span class=\"reflection\">valersi</span> <span class=\"sense\">(servirsi)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">valersi di <acronym title=\"qualcosa\">qc</acronym></span>",
+                                        "target": "to make use of <acronym title=\"something\">sth</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "regalare",
+                        "headword_full": "regalare <span class=\"phonetics\">[re<span class=\"separator\">·</span>ga<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. regalare <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">regalare</strong>",
+                                        "target": "to give"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. regalare <span class=\"topic\"><acronym title=\"commerce\">COMM</acronym></span> <span class=\"sense\">(vendere a buon mercato)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">regalare</strong>",
+                                        "target": "to give away"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

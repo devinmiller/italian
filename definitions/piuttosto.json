@@ -1,0 +1,37 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "piuttosto",
+                        "headword_full": "piuttosto <span class=\"phonetics\">[piut<span class=\"separator\">·</span>ˈtɔs<span class=\"separator\">·</span>to]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span> <span class=\"sense\">(anzi, alquanto)</span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">piuttosto</strong>",
+                                        "target": "rather"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">piuttosto</strong> che … <span class=\"modus\">+inf</span> </span>",
+                                        "target": "rather than …"
+                                    },
+                                    {
+                                        "source": "<span class=\"sense\">(anziché)</span> <span class=\"example\"> <strong class=\"tilde\">piuttosto</strong> che</span>",
+                                        "target": "rather than"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

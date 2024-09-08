@@ -1,0 +1,123 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sospeso",
+                        "headword_full": "sospeso <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[sos<span class=\"separator\">·</span>ˈpe:<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "sospeso <span class=\"reference_qualification\"><acronym title=\"past participle\">pp</acronym> di</span> <span class=\"indirect_reference_RQ\"> sospendere</span>",
+                                "translations": [
+                                    {
+                                        "source": "",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "sospeso",
+                        "headword_full": "sospeso <span class=\"feminine\">(-a)</span> <span class=\"phonetics\">[sos<span class=\"separator\">·</span>ˈpe:<span class=\"separator\">·</span>so]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. sospeso:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sospeso</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(sollevato verso l&#39;alto)</span>",
+                                        "target": "raised"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">sospeso</strong> <span class=\"feminine\">(-a)</span> <span class=\"sense\">(che pende dall&#39;alto)</span>",
+                                        "target": "hanging"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ponte <strong class=\"tilde\">sospeso</strong></span>",
+                                        "target": "suspension bridge"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sospeso <span class=\"sense\">(interrotto)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sospeso</strong> <span class=\"feminine\">(-a)</span>",
+                                        "target": "suspended"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">col fiato <strong class=\"tilde\">sospeso</strong></span>",
+                                        "target": "with bated breath"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. sospeso <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(incerto, indeciso: pratica)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">in <strong class=\"tilde\">sospeso</strong></span>",
+                                        "target": "pending"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tenere <acronym title=\"qualcuno\">qu</acronym> in <strong class=\"tilde\">sospeso</strong></span>",
+                                        "target": "to keep <acronym title=\"somebody\">sb</acronym> in suspense"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. sospeso <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(ansioso)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">stare con il cuore <strong class=\"tilde\">sospeso</strong></span>",
+                                        "target": "to have one&#39;s heart in one&#39;s mouth"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sospendere",
+                        "headword_full": "sospendere <span class=\"phonetics\">[sos<span class=\"separator\">·</span>ˈpɛn<span class=\"separator\">·</span>de<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. sospendere <span class=\"sense\">(appendere)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sospendere</strong>",
+                                        "target": "to hang"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. sospendere <span class=\"sense\">(gener)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sospendere</strong>",
+                                        "target": "to suspend"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">sospendere</strong> <acronym title=\"qualcuno\">qu</acronym> da una carica</span>",
+                                        "target": "to suspend <acronym title=\"somebody\">sb</acronym> from office"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

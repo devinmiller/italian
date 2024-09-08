@@ -1,0 +1,113 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scalata",
+                        "headword_full": "scalata <span class=\"phonetics\">[ska<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>ta]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"sense\">(di montagna)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scalata</strong>",
+                                        "target": "ascent"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scalare",
+                        "headword_full": "scalare<sup>1</sup> <span class=\"phonetics\">[ska<span class=\"separator\">·</span>ˈla:<span class=\"separator\">·</span>re]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. scalare <span class=\"sense\">(disposto a scala)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scalare</strong>",
+                                        "target": "ladderlike"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scalare <span class=\"topic\"><acronym title=\"mathematics\">MATH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scalare</strong>",
+                                        "target": "scalar"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "scalare",
+                        "headword_full": "scalare<sup>2</sup> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. scalare <span class=\"sense\">(montagna)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scalare</strong>",
+                                        "target": "to climb"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">scalare</strong> un muro</span>",
+                                        "target": "to climb over"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. scalare <span class=\"topic\"><acronym title=\"commerce\">COMM</acronym></span> <span class=\"sense\">(scontare)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scalare</strong>",
+                                        "target": "to take off"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. scalare <span class=\"sense\">(capelli)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scalare</strong>",
+                                        "target": "to layer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. scalare <span class=\"topic\"><acronym title=\"automobile\">AUTO</acronym></span> <span class=\"sense\">(marcia)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">scalare</strong>",
+                                        "target": "to downshift"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

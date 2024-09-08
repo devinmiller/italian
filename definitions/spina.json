@@ -1,0 +1,90 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "spina",
+                        "headword_full": "spina <span class=\"phonetics\">[ˈspi:<span class=\"separator\">·</span>na]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. spina <span class=\"topic\"><acronym title=\"botany\">BOT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spina</strong>",
+                                        "target": "thorn"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. spina <span class=\"topic\"><acronym title=\"zoology\">ZOOL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spina</strong> <span class=\"sense\">(di istrice)</span>",
+                                        "target": "spine"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">spina</strong> <span class=\"sense\">(di pesce)</span>",
+                                        "target": "bone"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. spina <span class=\"topic\"><acronym title=\"anatomy\">ANAT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">spina</strong> dorsale</span>",
+                                        "target": "spine"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. spina <span class=\"topic\"><acronym title=\"electrical engineering\">ELEC</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spina</strong>",
+                                        "target": "plug"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">spina</strong> multipla</span>",
+                                        "target": "adapter"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. spina <span class=\"topic\"><acronym title=\"technology\">TECH</acronym></span> <span class=\"sense\">(di botte)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">spina</strong>",
+                                        "target": "tap"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">birra alla <strong class=\"tilde\">spina</strong></span>",
+                                        "target": "draft beer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. spina <span class=\"sense\">(<acronym title=\"phrase, idiom\">phrase</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">stare [<span class=\"or\"><acronym title=\"oppure\">o</acronym></span> essere] sulle -e</span>",
+                                        "target": "to be on tenterhooks"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">staccare la <strong class=\"tilde\">spina</strong></span>",
+                                        "target": "to wind down"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
