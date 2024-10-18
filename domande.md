@@ -12,3 +12,25 @@ mandare in confusione - you mess with my/my head
 fare vivere - to make live/experience
 furbo
 prendere una decisione
+
+gli auricolari = le cuffiette
+dolorante
+sollevare = lift?
+portare su = pick up?
+ubiaco/a = brillo/a = alticcio/a
+avevo paura perche avevo frequentato tre giorni di riunioni
+andare a decrescere = to go downhill
+fare bene/male - to be healthy/unhealthy
+mi fanno venire il nervoso
+candidarsi
+
+prendere in giro = make fun
+scherzo = prank, pratical joke
+battuta = joke / one-liner
+
+sto scherzando = i'm joking
+era una buttata = it was a joke
+never "era un scherzo"
+cattiva = malicious / evil / wicked / mean
+diabolico = evil
+malizioso = 
