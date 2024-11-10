@@ -130,3 +130,12 @@ primo in assoluto = first ever
 disponibilità = unavailability, unwillingness
 a meno che (non) = unless, except if, as long as
 incaricato = in charge, responsible
+piuttosto = rather, pretty, quite
+invecchiamento = aging
+coinvolto = involved
+prove = n.f. pl. evidence, tests
+devo far valere i miei soldi 
+
+se te ne intendi di
+hai presente
+recensito
