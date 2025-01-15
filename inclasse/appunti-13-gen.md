@@ -92,6 +92,27 @@ sale - salt
 salato - salty
 elettrico - electric
 
+prestito - loan (not house, not car?)
+mutuo - mortgage, loan (house only)
+anticipo - advance (dare un anticipo)
+ipoteca - mortgage? (mettere, avere)
+impegnare un gioiella
+
+thousand - MILLE!!!!
+protective - protettivo
+spuntino - snack
+rotta - route (come un aereo)
+"cogliere","vt.  (fiore, frutto) to pick, gather; fig. (momento, opportuno, occasione) to seize, take, grasp; avere colto"
+porsi - to ask (oneself)
+nebbia - fog
+noioso - boring
+ragione - f. reason
+prenderla sul ridere
+prestanti - (corpo) in shape, well-built
+
+un barile di lardo - insult, like fatty, but worse
+
+
 "stabilire","v. to establish; (fissare: prezzi, data) to set"
 "previsto","adj. expected, planned, scheduled"
 "esigenza","n. f. need, requirement, demand"
