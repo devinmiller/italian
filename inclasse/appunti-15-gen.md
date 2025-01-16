@@ -55,6 +55,15 @@ seppero
 
 altri verbi irregolari
 
+# vincere
+
+vinsi 
+vencesti
+vinse
+vincimmo
+vincesti
+vinsero
+
 tacere -> tacqui
 muovere -> mossi
 smuovere -> smossi

@@ -118,3 +118,47 @@ un barile di lardo - insult, like fatty, but worse
 "esigenza","n. f. need, requirement, demand"
 "fare a meno di","v. do without"
 
+Cicero said much about the Empire, having written many letters to his friends.
+Cicerone disse impero
+
+When Caeser crossed the Rubicon, the course of the world changed.
+
+When Marcus Aurelius died, the silver age of the empire died too.
+
+prendere a noleggio = noleggiar (mezzo di trasporto)
+prendere in affitto != affittare (immobili)
+prendere in gestione = gestire 
+allieva = studentessa
+soggiornare = allogiare -> allogio
+struggente = dramatica, dolorosa
+
+tuffo = dive
+
+la busta paga - paycheck
+la tredicesima
+la quattordicesima
+
+l'ufficio legale
+assumere il ruolo di - assume the role, take the job of
+assegnare (assign) un compito/mansione (task)
+
+mansionario - job description
+mancia - tip
+
+Come va?  Come stai?
+Si tira avanti
+
+ottimismo # pessimismo
+
+"manuale","n. m. handbook"
+
+un manuale tecnico che contiene un sacco di errori piccoli
+"Come Scrivere Il Codice Che Funziona Bene 
+La Maggior Parte del Tempo, Ma Ogni Tanto Tutto Rompe"
+
+cartaceo = adj. paper, printed
+la copertina rigida (hardcover) / flessibile (soft)
+scovare qualcosa di prezioso
+un occhio della testa = "an arm and a leg"
+un tacuino (per gli appunti)
+l'orologio va avanti
