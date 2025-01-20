@@ -180,13 +180,26 @@ apprendere = imparare
 "tirocinio" = "stage -> stagista (tempo determinato, rimborso spese)"
 il/la tirociante (gratuito)
 "attinente","adj. relevant (to)"
-"mettercela tutta"
-"avercela","to hold a grudge (against), have it in (for); to be angry"
+
+# I verbi Pronominali
+"andarci di mezzo","v. (con consequenze spiacevoli) essere coinvolto in qualcosa"
+"andarci piano (con qualcuno)","v. comportarsi con cautela; moderarsi"
+"andarsene","v. (con valore intensivo) andare via (da un posto)"
+"aspettarsela",""
+"avercela (con qualcuno)","to hold a grudge (against), have it in (for); to be angry"
+"averne (abbastanza)","v. "
+"arrabbiarsi"
 "cavarsela"
+"mettercela tutta"
 "metterci"
 "impresa"
 "pensarla",""
 "capirla",""
+
+Vacci piano con me, non capisco bene i verbi pronominali.
+Quando c'e un problema al lavoro, cerco di non andarci di mezzo.
+Se non ti piace il mio uso dei verbi, me ne andro e non ritornero mai.
+
 "fare il pieno","(fare benzina) fill up!"
 "pompa","n. f. pump"
 "alla fina","in the end"
