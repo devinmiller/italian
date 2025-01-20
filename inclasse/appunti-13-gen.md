@@ -56,9 +56,9 @@ dado - dice
 dada ha la forma un? cubo (cube)
 di argilla - ? un materiale
 di terracotta - terracotta 
-ambientarsi - ?
+"ambientarsi","(ambiente nuovo) to settle down, settle in"
 l'ultima spaiggia = last resort
-la folla - crowd
+"folla", "f. crowd, mob"
 osservatore, -trice
 sono a mio agio - a mio agio? at (my) ease
 addeguarsi - to conform?
@@ -77,12 +77,12 @@ assuefare
 È un esilarante
 fornitori di ristoranti
 vigili urbani
-rinforzzare
+"rinforzare","v. to strengthen, reinforce; fig. to intensify"
 carta d'identita
-inspirare
-espirare
-imbucare
-scompare
+"inspirare","v. to inhale; to breathe in"
+"espirare","v. to breathe out, exhale"
+"imbucare","v. to post (British), mail (US)"
+scomparire
 di cui non ho mai sentito parlare
 alterare - to alter (più negativo)?
 non ha un gusto proprio
@@ -98,6 +98,13 @@ anticipo - advance (dare un anticipo)
 ipoteca - mortgage? (mettere, avere)
 impegnare un gioiella
 
+"ironico","adj. ironic, ironical"
+"autoironico","adj. self-mocking"
+"sarcastico",""
+"redattore","editor; (articolo) writer; (dizionario) compiler"
+"redattrice",""
+"trucco","n. m. (cosmetico) makeup; trick, sham"
+relazione
 thousand - MILLE!!!!
 protective - protettivo
 spuntino - snack
@@ -117,13 +124,6 @@ un barile di lardo - insult, like fatty, but worse
 "previsto","adj. expected, planned, scheduled"
 "esigenza","n. f. need, requirement, demand"
 "fare a meno di","v. do without"
-
-Cicero said much about the Empire, having written many letters to his friends.
-Cicerone disse impero
-
-When Caeser crossed the Rubicon, the course of the world changed.
-
-When Marcus Aurelius died, the silver age of the empire died too.
 
 prendere a noleggio = noleggiar (mezzo di trasporto)
 prendere in affitto != affittare (immobili)
@@ -150,7 +150,7 @@ Si tira avanti
 
 ottimismo # pessimismo
 
-"manuale","n. m. handbook"
+"manuale","n. m. manual, handbook"
 
 un manuale tecnico che contiene un sacco di errori piccoli
 "Come Scrivere Il Codice Che Funziona Bene 
@@ -162,3 +162,53 @@ scovare qualcosa di prezioso
 un occhio della testa = "an arm and a leg"
 un tacuino (per gli appunti)
 l'orologio va avanti
+avere la lingua/bocca a terra
+
+"volto","n. m. (vista) face"
+le quinte = il retroscena
+"entrarci","v. to have nothing to do (with it)"
+"intrattenimento","n. m. entertainment"
+"rinnovare","v. to renew; (contratto) extend;"
+"tenacia","n. f. tenacity"
+"essere alle prime armi","(essere in esperto) to be a beginner"
+stipendio lordo (prime le tasse) != netto (dopo le tasse)
+"rubare","v. to steal, commit a theft"
+"sul campo" = "lavorando"
+"apprendista","n. m. apprentice, helper"
+apprendere = imparare
+"apprendistato","n. m. (tipo di contratto) apprenticeship"
+"tirocinio" = "stage -> stagista (tempo determinato, rimborso spese)"
+il/la tirociante (gratuito)
+"attinente","adj. relevant (to)"
+"mettercela tutta"
+"avercela","to hold a grudge (against), have it in (for); to be angry"
+"cavarsela"
+"metterci"
+"impresa"
+"pensarla",""
+"capirla",""
+"fare il pieno","(fare benzina) fill up!"
+"pompa","n. f. pump"
+"alla fina","in the end"
+"uscire"
+"gironzolare","v. (in modo pigro) to wander about; loiter"
+"imbattersi (in)","v. to run (into), bump (into), come across"
+"mescolare","v. to mix, stir, blend, shuffle"
+"sbirciare dalla finestra","to peek from the window"
+"sbirciare","v. to peep or peek (at)"
+percepito
+"soffrire","v. suffer; stand; bear"
+"centellinare","to sip, take more time at doing something, ration"
+"aggrapparsi","to cling (to)"
+"simile a","similar to"
+"diverso da","different from"
+"fa parte del gioco","that's the game, it's part of the game"
+"previsto"
+decappottabile
+cappotta
+(molto) trafficate
+pensionato
+imprevedibile
+fuoristrada
+cono d'ombra
+le rata mensile
