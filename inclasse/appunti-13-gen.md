@@ -185,13 +185,14 @@ il/la tirociante (gratuito)
 "andarci di mezzo","v. (con consequenze spiacevoli) essere coinvolto in qualcosa"
 "andarci piano (con qualcuno)","v. comportarsi con cautela; moderarsi"
 "andarsene","v. (con valore intensivo) andare via (da un posto)"
-"aspettarsela",""
+"aspettarsela","v. "
 "avercela (con qualcuno)","to hold a grudge (against), have it in (for); to be angry"
 "averne (abbastanza)","v. "
 "arrabbiarsi"
 "cavarsela"
 "mettercela tutta"
 "metterci"
+"prendersela","v. to take offense; blame, take in out (on)"
 "impresa"
 "pensarla",""
 "capirla",""
@@ -225,3 +226,64 @@ imprevedibile
 fuoristrada
 cono d'ombra
 le rata mensile
+"spuntarla","v. (vincere qualcosa) to make it, get it; win"
+"tenerci","v. "
+"svuotare il sacco" = sfogarsi
+"entrarci"
+
+mi diverto a (fare qualcosa)
+NEVER mi godo a (fare) -> c'è una bella giornata, mi godo il sole -> approfittare
+godersi + nome
+segnarsela (un torto) = appuntare qualcosa / prendere nota
+avere il nodo in gola
+"permaloso","adj. thin-skinned, touchy"
+prenderla sul personale
+
+(+) farcela = riusciere
+(-) non farcela = non riuscire (a sopportare questa cosa) = non ne posso più
+
+prenderla a cuore > affezionarsi a (qualcuno/qualcosa)
+provarci con qualcuno 
+    -> Marco ha consciuto Sara alla festa e ci ha provato con lei tutto il tempo
+    -> "attacare bottone"
+
+saperci = essere bravo in qualcosa
+saperla lunga = è furbo/a
+malizia (adj. malizioso) (negativo) ~ (non è sempre negativo) furbizia (adj. furbo)
+"smetterla"
+"uscirsene (con)","(avere un idea all'improvviso) to say something surprising or unexpected; come up with"
+Durante la riunione di lavoro Marta se n'è uscita con una proposta geniale.
+È stato un brutto periodo, ma ne (dal brutto periodo) sono uscito.
+A. Se sei al supermercato compri il latte, per favore.
+B. Mi dispiace, ne (dal supermercato) sono appena uscito.
+"vederci","to possess the faculty of sight"
+"vedersela"
+"cuore","n. m. heart"
+"tenga il resto","take the rest, keep the change (tip...mancia)"
+"scontrino","n. m. receipt, ticket, slip"
+"scarso","adj. scarce, poor, weak"
+"provvisione"
+"produrre","v. to produce, manufacture; make"
+"restituire","v. to return, give back"
+(see why this fails) "lavastoviglie","n. f. dishwasher"
+"pungente","adj. biting, stinging"
+"funzione","n. f. feature"
+"esondare","v. to overflow"
+"travolgere","v. to sweep away, run over; fig. to overwhelm"
+"ammirare","v. to admire, appreciate"
+"impiegare","v. to use, employ; (quantità di tempo) to take"
+"decisione","n. f. decision"
+"alimentare","v. to feed, nourish, fuel"
+"alimentare","adj. "
+
+All'attenzione (Al vaglio...) degli avvocati inglesi, la proposta di...
+
+"vero e proprio"
+
+una fila/coda si forma
+prestigio
+reputazione
+distogliere l'attenzione da
+rivendicano il loro passato
+interagire
+per provocare
