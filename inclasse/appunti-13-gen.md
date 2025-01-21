@@ -182,21 +182,25 @@ il/la tirociante (gratuito)
 "attinente","adj. relevant (to)"
 
 # I verbi Pronominali
-"andarci di mezzo","v. (con consequenze spiacevoli) essere coinvolto in qualcosa"
-"andarci piano (con qualcuno)","v. comportarsi con cautela; moderarsi"
-"andarsene","v. (con valore intensivo) andare via (da un posto)"
-"aspettarsela","v. "
-"avercela (con qualcuno)","to hold a grudge (against), have it in (for); to be angry"
-"averne (abbastanza)","v. "
+"andarci di mezzo","v. (essere coinvolto con consequenze spiacevoli) to be (negatively) involved, pay the price, get dragged into it"
+"andarci piano (con qualcuno)","v. (comportarsi con cautela) to go easy, not overdue it"
+"andarsene","v. (andare via con valore intensivo) to go away; leave"
+"aspettarsela","v. to expect it, see it coming"
+"avercela (con qualcuno)","v. to hold a grudge (against), have it in (for); to be angry"
+"averne (abbastanza)","v. to be fed up, have had enough"
 "arrabbiarsi"
-"cavarsela"
-"mettercela tutta"
-"metterci"
-"prendersela","v. to take offense; blame, take in out (on)"
-"impresa"
-"pensarla",""
 "capirla",""
+"cavarsela","v. to get by, to manage; to handle something (successfully)"
+"entrarci","v. to have sth do to with, be relavent; to be about"
+"imbattersi (in)","v. to run (into), bump (into), come across"
+"mettercela tutta","v. to put all of o.s. into sth; to do your very best, give it all you've got"
+"metterci"
+"pensarla",""
+"prendersela","v. to take offense; blame, take in out (on)"
+segnarsela (un torto) = appuntare qualcosa / prendere nota
+"spuntarla","v. (vincere qualcosa) to make it, get it; win"
 
+"impresa"
 Vacci piano con me, non capisco bene i verbi pronominali.
 Quando c'e un problema al lavoro, cerco di non andarci di mezzo.
 Se non ti piace il mio uso dei verbi, me ne andro e non ritornero mai.
@@ -206,7 +210,6 @@ Se non ti piace il mio uso dei verbi, me ne andro e non ritornero mai.
 "alla fina","in the end"
 "uscire"
 "gironzolare","v. (in modo pigro) to wander about; loiter"
-"imbattersi (in)","v. to run (into), bump (into), come across"
 "mescolare","v. to mix, stir, blend, shuffle"
 "sbirciare dalla finestra","to peek from the window"
 "sbirciare","v. to peep or peek (at)"
@@ -226,7 +229,6 @@ imprevedibile
 fuoristrada
 cono d'ombra
 le rata mensile
-"spuntarla","v. (vincere qualcosa) to make it, get it; win"
 "tenerci","v. "
 "svuotare il sacco" = sfogarsi
 "entrarci"
@@ -234,7 +236,6 @@ le rata mensile
 mi diverto a (fare qualcosa)
 NEVER mi godo a (fare) -> c'è una bella giornata, mi godo il sole -> approfittare
 godersi + nome
-segnarsela (un torto) = appuntare qualcosa / prendere nota
 avere il nodo in gola
 "permaloso","adj. thin-skinned, touchy"
 prenderla sul personale
