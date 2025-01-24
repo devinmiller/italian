@@ -190,9 +190,10 @@ il/la tirociante (gratuito)
 "averne (abbastanza)","v. to be fed up, have had enough"
 "arrabbiarsi"
 "capirla",""
-"cavarsela","v. to get by, to manage; to handle something (successfully)"
+"cavarsela","v. to get by, to manage; to handle something (successfully); get away with"
 "entrarci","v. to have sth do to with, be relavent; to be about"
 "imbattersi (in)","v. to run (into), bump (into), come across"
+"importarsene",""
 "mettercela tutta","v. to put all of o.s. into sth; to do your very best, give it all you've got"
 "metterci"
 "pensarla",""
@@ -206,6 +207,8 @@ Quando c'e un problema al lavoro, cerco di non andarci di mezzo.
 Se non ti piace il mio uso dei verbi, me ne andro e non ritornero mai.
 
 "fare il pieno","(fare benzina) fill up!"
+
+m'importa di te = ci tengo a te
 "pompa","n. f. pump"
 "alla fina","in the end"
 "uscire"
@@ -288,3 +291,144 @@ distogliere l'attenzione da
 rivendicano il loro passato
 interagire
 per provocare
+vigliacco
+"scondito","v. plain, unseasoned"
+"insipido","adj. tasteless, insipid"
+"rimanersi bene/male",""
+"rimanersi","v. to stay, remain"
+
+sono sazio/a = sono pieno/a
+di proposito
+    -> apposta != tutto a posto (tutto ok)
+a propsito = comunque
+non l'ho fatta proposita???
+"consegnare","v. to give, hand over; devliver, drop off"
+"preoccupazione","n. f. preoccupation, worry, concern"
+localizzatore
+"truffa","n. f. fraud, swindle, scam"
+"rete","n. f. net, mesh"
+"intricato"
+"smistamento","n. m. sorting, routing"
+"smistare","v. to sort (mail); to shunt (railroad cars)"
+"carambola","???"
+"sparire","v. to disappear, vanish; to go away"
+"nastro","ribbon, tape"
+"nastro trasportatore","n. m. conveyor belt"
+"ostacolo","n. m. obstacle, hurdle"
+"strisce",""
+"striscia","n. f. strip, band"
+"traccia","n. m. track, trace, sign, trail"
+"tenere traccia (di)","v. to keep track (of)"
+"aggiudicarsi","v. to win, be awarded"
+"risalire"
+"bancarella","n. f. (mercato) stall, stand"
+"scontro","n. m. crash, collision"
+"fiutare","v. to smell or sniff"
+"a caso","(causuale) at random?"
+(WHY DOES THIS FAIL!?!?!?!?) "serie"
+"imbarcare","v. to board, load; fig. to involve, entangle"
+"carta d'imbarco","n. boarding pass"
+"buffo","adj. funny, goofy"
+"imbracciare"
+"abbracciare"
+"prendere in braccio","v. to take into one's arms"
+"impugnare la pistola"
+
+impugnare -> una cosa piccola
+imbracciare -> una cosa grande
+pubblicittà
+Taffo
+agenzia di onoranze funebri
+il funerale
+
+le barre
+il lucchetto
+la moda (trend)
+
+###REMEMBER ME###
+"SUPERARE","v. to overcome, (esame) pass"
+###REMEMBER ME###
+
+"mettere al tappeto",""
+"mettere ko",""
+"stendere l'avversario",""
+
+"botta e risposta",""
+"vicenda","n. f. affair, event, story"
+ "rapimento","n. m. kidnapping, abduction"
+"pista","n. f. track"
+"una persona invadente"
+"seria"
+"cosa ne pensi di",""
+"che cosa pensi",""
+"hai qualche idea",""
+"non ho nessuna idea"
+"come facciamo a fare conoscere la petizione"
+"possiama darci del tv"
+"perdere di vista","v. to lose sight of"
+"una conversazione SUI programmi TV"
+"sono distrata da..."
+"cosa stai guardando ALLA TV"
+"UNA partita"
+Pago io per te ma Devin si arrangia
+"arrangiarsi","v. to make do; manage"
+"la/le serie (serie non combia mai)"
+"mistero","n. m. mysteria, enigma"
+"in ogni episodio risolve un crimine"
+"crimine","n. m. crime"
+"colpevole","n. m./f. culprit"
+"provo a scroprire il colpevole"
+"il documentario era girato/era registrato"
+"la consapevolezza su qc","the awareness of sth"
+"consapevole (di)","adj. aware (di), conscious (di)"
+"isolamento","n. m isolation"
+"solitudine","n. f. solitude, lonliness"
+"ci godiamo la solitudine"
+"scegliere DI",""
+"degenza"
+"reperte"
+"le stoviglie","n. f. pl. tableware"
+"impiegare","v. to use, employ; (tempo) to take"
+"battere","v. "
+"sintetico"
+"riassunto","n. m. summary, abstract"
+
+"sicuro"
+"girare in lungo e in largo",""
+"(non) avere la più pallida idea",""
+"stracchino"
+"omaggio"
+"sorteggio","n. m. random choice by chance; (lotteria) draw"
+"mucchio","n. m. heap, pile"
+"un prezzo esorbitante"
+"follia","n. f. madness, insanity, craziness"
+"il biglietto costa una follia"
+un occhio della testa = "an arm and a leg"
+"rovescia"
+"agevolazione","n. f. facilitation"
+"l'adrenalina entra in circolo"
+"ce l'avavo sulla punta della lingua"
+"risparmiare tempo"
+calzini
+"abbordabile","adj. approachable, accessible"
+"abbordare","v. (nave) to board, capture; to accost, approach"
+"interagire","v. <interagisco> to interact"
+"dinosauro","n. m. dinosaur"
+"giudicare","v. "
+(FIGURE OUT WHY pure ERRORS) "non ti giudico, scrive pure"
+"temporale"
+cagare
+scaricarsi
+scaricare
+evacuare
+"imbroglio",""
+"rasoio","n. m. razor"
+"ammettere la sconfita","to admit defeat"
+"ferramenta","n. f. hardware"
+"di tanto in tanto","from time to time"
+"un po di carica",""
+ho bisogno un po' di carico
+ho bisogno di tirarmi su
+cantare a sguarciagolla
+"innervosirsi"
+"la chiave di volta"
