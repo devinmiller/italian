@@ -1,8 +1,8 @@
 "lavantino"
-"lavello"
-"scolapiatti"
-"scolapasta"
-"tritarifiuti"
+"lavello","n. m. (acquaio, lavandino) kitchen sink; sink"
+"scolapiatti","n. m. <inv> drainer; dish rack"
+"scolapasta","n. m. <inv> (colapasta, colabrodo) colander (for pasta)"
+"tritarifiuti","n. m. <inv> garbage disposal"
 
 "incontrovertibile","adj. incontrovertible"
 "quote rosa"
@@ -172,21 +172,21 @@ la lettera, la spedisca
 
 ###
 "anche se","adv. <+indicativo> even if, even though"
-"benché","(sebbene) <+congiuntivo> although, though"
-"sebbene"
-"nonostante"
-"malgrado"
-"per quanto"
+"benché","conj. <+congiuntivo> (sebbene) <+congiuntivo> although, though"
+"sebbene","conj. <+congiuntivo> (bnechè, nonostante) although, though; albeit"
+"nonostante","conj. <+congiuntivo> though; despite (that)"
+"malgrado","conj. <+congiuntivo> enen though, although"
+"per quanto","conj. <+congiuntivo> as far as; as much as"
+
+##
+"affinché","conj. <+congiuntivo> so that, in order that"
+"perché","conj. <+congiuntivo> because, why; so, so that, in order that"
+"in modo che","conj. <+congiuntivo> (in modo da, di modo che) so that; so as to"
 
 ###
-"affinché","so that, in order that"
-"perché","conj. because, why; so, so that, in order that <+congiuntivo>"
-"in modo che"
-
-###
-"purché","(a condizione che, a patto che) provided (that), as long as, on condition that"
-"a patto che"
-"a condizione che"
+"purché","conj. <+congiuntivo> (a condizione che, a patto che) provided (that), as long as, on condition that"
+"a patto che","prep. <+congiuntivo> (a patto di) on the condition of; provided that"
+"a condizione che","prep. <+congiuntivo> (a patto che) on the condition that; provided that"
 
 ###
 "prima che"
@@ -197,13 +197,13 @@ la lettera, la spedisca
 "tranne che"
 
 ### 
-"come se"
-"quasi che"
+"come se","conj. <+congiuntivo> as if, as though"
+"quasi che","conj. <+congiuntivo> almost like; almost as if"
 
 ###
-"in caso"
+"in caso","conj. <+congiuntivo> (nel caso) in case"
 "nel caso in cui"
-"qualora","conj. in the event that; in case"
+"qualora","conj. <+congiuntivo> in the event that; in case"
 
 ###
 "amesso che"
@@ -332,18 +332,10 @@ rimorchio
 "torrefazione"
 
 "dormiglionna"
-"rinunciare"
 "bilancio"
-"tenere duro"
-"compartimentare","vt. to compartmentalize, partition; avere compartimentato"
-"delicatezza","n. f. delicacy; tactfulness"
 "copiare"
 "reggere","(sostenere, tenere) "
 
-"foschia","(nebbia) mist, fog"
-"nebbia","(foschia) fog"
-"indizio","n. m. (prova) evidence"
 "feriale","adj. weekday"
-"sapere da che parte","to know which side, know whose side"
 "essere in gioco","to be at stake"
 
