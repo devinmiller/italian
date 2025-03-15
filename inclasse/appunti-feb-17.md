@@ -121,8 +121,9 @@ in qualunque posto
 "non si offenderà (_futuro semplice per incertezza nel presente_) se le dico di no?"
 "non si sarà offesa (_futuro composto/anteriore per incertezza nel passato_)?"
 "offendersi","vr. to take offense, be offended"
-"mica","adv. (sempre informale) not (rienforces); (per caso) by chance"
+"mica","adv. (sempre informale) not (rienforces); (per caso) by chance; (come se fossi) as if, at all"
 "sconfitto"
+
 
 
 A. Vuoi che facciamo mezzoretta di pausa?

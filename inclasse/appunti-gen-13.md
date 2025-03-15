@@ -109,16 +109,12 @@ l'ufficio legale
 Come va?  Come stai?
 Si tira avanti
 
-ottimismo # pessimismo
-
 un manuale tecnico che contiene un sacco di errori piccoli
 "Come Scrivere Il Codice Che Funziona Bene 
 La Maggior Parte del Tempo, Ma Ogni Tanto Tutto Rompe"
 
-cartaceo = adj. paper, printed
 la copertina rigida (hardcover) / flessibile (soft)
 scovare qualcosa di prezioso
-un occhio della testa = "an arm and a leg"
 un tacuino (per gli appunti)
 l'orologio va avanti
 avere la lingua/bocca a terra
@@ -191,13 +187,9 @@ All'attenzione (Al vaglio...) degli avvocati inglesi, la proposta di...
 "vero e proprio"
 
 una fila/coda si forma
-prestigio
-reputazione
 distogliere l'attenzione da
 rivendicano il loro passato
-interagire
 per provocare
-vigliacco
 "rimanersi bene/male",""
 "rimanersi","v. to stay, remain"
 
@@ -245,11 +237,6 @@ la moda (trend)
 "scegliere DI",""
 "reperte"
 "battere","v. "
-"sintetico","adj. <-ci, -che> synthetic; (conisco, breve) concise, succint"
-"sicuro","adj. safe, secure; reliable; (certo) certain. sure"
-"girare in lungo e in largo","v. to go far and wide"
-"cercare in lungo e in largo","v. to search far and wide"
-"non (ne) avere la più pallida idea","v. to not have the slightest idea (about it)"
 "un prezzo esorbitante"
 "il biglietto costa una follia"
 costare un occhio della testa = "an arm and a leg"
@@ -262,11 +249,6 @@ calzino
 "temporale"
 cacare
 scaricarsi
-scaricare
-"evacuare"
-"imbroglio",""
-"ferramenta","n. f. hardware"
-"di tanto in tanto","from time to time"
 "un po di carica",""
 ho bisogno un po' di carico
 ho bisogno di tirarmi su
