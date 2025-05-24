@@ -8,7 +8,6 @@ aspettativa - prendere/-si un periodo di aspettativa - sebbatical (sabbatico)?
 fortuito - casuale
 un'idea balzana
 balzano/a - assurdo/a (irrealizzabile)
-fai-da-te - diy
 
 Il Gerundio Presente
 
@@ -251,6 +250,6 @@ cacare
 scaricarsi
 "un po di carica",""
 ho bisogno un po' di carico
-ho bisogno di tirarmi su
+ho bisogno di tirarmisu
 "cantare a sguarciagolla"
 "la chiave di volta"
