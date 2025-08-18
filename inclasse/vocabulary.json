@@ -1,0 +1,1147 @@
+[
+  {
+    "word": "abbonamento",
+    "hint": "subscription",
+    "forms": [
+      {
+        "pos": "s. m.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "contratto per cui, mediante il pagamento di un importo, si ha il diritto di ricevere un servizio per un determinato periodo di tempo",
+                "examples": [
+                  "fare, contrarre, sottoscrivere, rinnovare un abbonamento",
+                  "abbonamento alla televisione",
+                  "abbonamento mensile, annuale"
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "canone da pagarsi in base a tale contratto",
+                "examples": [
+                  "versare l'abbonamento"
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "documento che attesta l'esistenza del contratto e il pagamento del canone",
+                "examples": [
+                  "esibire l'abbonamento ferroviario al controllore"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accontentare",
+    "hint": "to satisfy",
+    "NAME_FIELD": "io accontento",
+    "forms": [
+      {
+        "pos": "v. tr.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "soddisfare, rendere contento",
+                "examples": [
+                  "vedrò di accontentarti"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "accontentarsi",
+        "hint": "to be content (with), to settle (for)",
+        "pos": "v. intr. pron.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "essere contento, saddisfatto (+di, anche seguito da inf.)",
+                "examples": [
+                  "non si accontenta mai di ciò che ha",
+                  "non ci si può accontentare di limitare i danni"
+                ]
+              },
+              {
+                "gloss": "ritenersi soddisfatto",
+                "examples": [
+                  "bisognerà accontentarsi",
+                  "mi accontento di un panino"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "fondamentali"
+    ]
+  },
+  {
+    "word": "intesa",
+    "hint": "agreement, understanding; arrangement",
+    "forms": [
+      {
+        "pos": "s. f.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "accordo tra persone o gruppi di persone",
+                "examples": [
+                  "tutto è regolato da un'intesa segreta",
+                  "tacita intesa",
+                  "essere, agire d'intesa"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "d'intesa",
+                    "glosses": [
+                      {
+                        "gloss": "d'accordo",
+                        "examples": [
+                          "come d'intesa, seguirò io la pratica"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "accordo tra Stati"
+              },
+              {
+                "gloss": "complesso degli Stati uniti da un tale accordo",
+                "examples": [
+                  "l'Intesa balcanica"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "fondamentali"
+    ]
+  },
+  {
+    "word": "mischiare",
+    "hint": "to mix, blend; to shuffle",
+    "forms": [
+      {
+        "pos": "v. tr.",
+        "NAME_FIELD": "io mischio",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "categories": [
+                  "anche fig."
+                ],
+                "gloss": "mescolare"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "mischiarsi",
+        "hint": "to mix blend (of liquids); to mingle (of people)",
+        "pos": "v. rifl. e rifl. recipr.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "mescolarsi"
+              },
+              {
+                "gloss": "confondersi",
+                "examples": [
+                  "mischiarsi alla folla"
+                ]
+              },
+              {
+                "categories": [
+                  "fig."
+                ],
+                "gloss": "intromettersi, impicciarsi"
+              }
+            ]
+          }
+        ],
+        "tags": [
+          "riflessivi"
+        ]
+      }
+    ],
+    "tags": [
+      "fondamentali"
+    ]
+  },
+  {
+    "word": "prospettare",
+    "hint": "to present, show; to face, overlook",
+    "NAME_FIELD": "io prospetto",
+    "forms": [
+      {
+        "pos": "v. tr.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "categories": [
+                  "fig."
+                ],
+                "gloss": "mostrare, esporre",
+                "examples": [
+                  "prospettare le circostanze, la situazione, un'ipotesi"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pos": "v. intr",
+        "aux": "essere",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "affacciarsi su un luogo",
+                "examples": [
+                  "il giardino prospetta sul lago"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "prospettarsi",
+        "hint": "to present o.s.",
+        "pos": "v. intr. pron.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "profilarsi, mostrarsi in un dato aspetto (gener. seguito da un compl. predicativo del soggetto)",
+                "examples": [
+                  "la situazione si prospettava difficile"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sbarcare",
+    "hint": "to unload (goods); to disembark (people); to survive, live through",
+    "forms": [
+      {
+        "pos": "v. tr.",
+        "NAME_FIELD": "io sbarco, tu sbarchi",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "scaricare, fare scendere a terra da un'imbarcazione persone o cose",
+                "examples": [
+                  "sbarcare passeggeri, truppe, merci"
+                ]
+              },
+              {
+                "categories": [
+                  "est."
+                ],
+                "gloss": "fare scendere da un qualsiasi mezzo di trasporto",
+                "examples": [
+                  "l'autobus ci sbarca in centro",
+                  "l'aereo sbarcò il malato al più vicino aeroporto"
+                ]
+              },
+              {
+                "categories": [
+                  "fig."
+                ],
+                "gloss": "allontanare da qlco",
+                "examples": [
+                  "sbarcare un partito dal governo"
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "categories": [
+                  "fig."
+                ],
+                "gloss": "passare, trascorrere, più o meno bene un determinato periodo di tempo",
+                "examples": [
+                  "abbiamo sbarcato anche questo inverno"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "sbarcare il lunario",
+                    "glosses": [
+                      {
+                        "gloss": "riuscire a vivere alla meno peggio a forza di piccoli espedienti, rinunce, sacrifici"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "categories": [
+                  "pop."
+                ],
+                "gloss": "sbarcarla (con il pron. la indeterm.), cavarsela, tirare avanti, anche nella forma pron. sbarcarsela"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pos": "v. intr.",
+        "aux": "essere",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "scendere a terra da una nave",
+                "examples": [
+                  "sbarcammo a Napoli"
+                ]
+              },
+              {
+                "categories": [
+                  "est."
+                ],
+                "gloss": "scendere da un qualsiasi mezzo di trasporto",
+                "examples": [
+                  "i passeggeri sbarcano dall'aereo"
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "mettere piede su un territorio nemico, o controllato, governato o sim. da nemici, spec. come operazione offensiva eseguita da reparti militari e sim.",
+                "examples": [
+                  "gli alleati sbarcarono di notte"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "fondamentali"
+    ]
+  },
+  {
+    "word": "tagliare",
+    "hints": [
+      "tr. to cut, to slash",
+      "tr. to spike (to add a small amount of one substance to another)",
+      "tr. to cleave (to break a single crystal such as a gemstone)",
+      "tr. to crop (a photo, etc.)"
+    ],
+    "forms": [
+      {
+        "pos": "v. tr.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "separare, fendere, dividere un corpo, usando una o più volte una lama affilata o altro strumento tagliente",
+                "examples": [
+                  "tagliare qlco. con il coltello, una lametta, la falce, la sega",
+                  "tagliare un tronco con la scure",
+                  "tagliare un pezzo di carne con la coltella",
+                  "tagliare un panno con le forbici"
+                ]
+              },
+              {
+                "gloss": "assol. avere un buon taglio, essere ben affilato",
+                "examples": [
+                  "una lama che taglia",
+                  "questo rasoio non taglia più"
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "dividere una o più parti dell'intero usando una lama o altro mezzo affilato",
+                "examples": [
+                  "tagliare mezzo metro da una pezza di tela",
+                  "mi tagli una fetta di dolce?"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "tagliare un bosco",
+                    "glosses": [
+                      {
+                        "gloss": "abbattere i fusti degli alberi in parte o totalmente"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare l'uva",
+                    "glosses": [
+                      {
+                        "gloss": "vendemmiare"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare un abito",
+                    "glosses": [
+                      {
+                        "gloss": "ritagliare da una stoffa le parti da confezionare"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare le pagine di un libro",
+                    "glosses": [
+                      {
+                        "gloss": "separarle tagliandole con un tagliacarte o altro strumento affilato lungo i margini congiunti"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare un diamante",
+                    "glosses": [
+                      {
+                        "gloss": "eseguirne la sfaccettatura"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare vini",
+                    "glosses": [
+                      {
+                        "gloss": "unire in una mescolanza un vino robusto con uno di gradazione inferiore"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare una droga",
+                    "glosses": [
+                      {
+                        "gloss": "accrescerne il peso e il volume mescolandola con sostanze affini solo per colore e consistenza, ma che spesso ne aumentano la tossicità"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare fuori",
+                    "glosses": [
+                      {
+                        "gloss": "dividere una formazione militare da un centro operativo"
+                      },
+                      {
+                        "gloss": "fig. escludere, isolare, estraniare da un gruppo, una comunità e sim."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "togliere o separare una parte con un taglio netto o una recisione",
+                "examples": [
+                  "tagliare un ramo dal tronco",
+                  "tagliare l'erba con la falce",
+                  "l'ingranaggio di lame gli ha tagliato una mano"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "tagliare una gamba",
+                    "glosses": [
+                      {
+                        "gloss": "amputarla"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare le gambe a qlcu.",
+                    "glosses": [
+                      {
+                        "gloss": "fig. indebolirlo fisicamente, spec. in riferimento ad alcolici; ostacolarlo seriamente così da impedirgli di portare a termine qlco. o di sostenersi con i propri mezzi"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare la testa",
+                    "glosses": [
+                      {
+                        "gloss": "decapitare"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare la testa al toro",
+                    "glosses": [
+                      {
+                        "gloss": "fig. prendere una decisione definitiva eliminando ogni esitazione"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare i panni addosso a qlcu.",
+                    "glosses": [
+                      {
+                        "gloss": "fig. dirne male, criticarlo dietro le spalle"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "categories": [
+                  "fig.",
+                  "anche assol."
+                ],
+                "gloss": "interrompere, troncare",
+                "examples": [
+                  "tagliare il discorso",
+                  "non dilungarti troppo: taglia!"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "taglia corto!",
+                    "glosses": [
+                      {
+                        "gloss": "fig. concludi!"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare la corda",
+                    "glosses": [
+                      {
+                        "gloss": "fig. andarsene di nascosto, scappare"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare i ponti con qlcu.",
+                    "glosses": [
+                      {
+                        "gloss": "fig. rompere con decisione le relazioni con qlcu."
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare il traguardo",
+                    "glosses": [
+                      {
+                        "gloss": "superare per primo la linea d'arrivo"
+                      },
+                      {
+                        "gloss": "fig. portare a termine felicemente qlco."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "separare in più parti con tagli adatti",
+                "examples": [
+                  "tagliare in due, in quattro, in diagonale"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "tagliare per il lungo",
+                    "glosses": [
+                      {
+                        "gloss": "nel senso della lunghezza"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare il salame, l'arrosto",
+                    "glosses": [
+                      {
+                        "gloss": "affettarli"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare un pollo",
+                    "glosses": [
+                      {
+                        "gloss": "dividerlo in parti, per distribuirlo ai commensali dopo che è stato cucinato"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare a pezzi",
+                    "glosses": [
+                      {
+                        "gloss": "ricavare vari pezzi con tagli opportuni"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare le carte",
+                    "glosses": [
+                      {
+                        "gloss": "fig. separarle, dopo averle mescolate, in due o più mazzetti da sovrapporre in ordine inverso per ricomporre il mazzo"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare la palla",
+                    "glosses": [
+                      {
+                        "gloss": "fig. nel calcio e nel tennis, imprimerle un particolare effetto con il tiro"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare una finestra",
+                    "glosses": [
+                      {
+                        "gloss": "una porta, aprirle, costruirle"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "tagliare una montagna",
+                    "glosses": [
+                      {
+                        "gloss": "spaccarla"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "gloss": "fendere, solcare",
+                "examples": [
+                  "i remi tagliano l'acqua",
+                  "la prua della barca tagliava le onde"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "una nebbia da tagliare col coltello",
+                    "glosses": [
+                      {
+                        "gloss": "fig. fittissima"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "incidere chirurgicamente",
+                "examples": [
+                  "tagliare un ascesso"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "fig. un freddo che taglia la faccia",
+                    "glosses": [
+                      {
+                        "gloss": "molto pungente, penetrante"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "fig. una lingua che taglia",
+                    "glosses": [
+                      {
+                        "gloss": "assai maldicente"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "fig. vino che taglia le gambe",
+                    "glosses": [
+                      {
+                        "gloss": "molto alcolico"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pos": "v. intr.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "percorrere la via più breve (+ per)",
+                "examples": [
+                  "tagliammo per il centro, per il bosco"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "tagliare diritto",
+                    "glosses": [
+                      {
+                        "gloss": "camminare evitando le strade non in linea retta"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "tagliarsi",
+        "pos": "v. tr. pron.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "prodursi uno o più tagli o incisioni, spec. involontariamente",
+                "examples": [
+                  "tagliarsi un dito",
+                  "si è tagliato la pelle del viso radendosi"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "tagliarsi la gola",
+                    "glosses": [
+                      {
+                        "gloss": "fig. uccidersi"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "gloss": "accorciarsi",
+                "examples": [
+                  "tagliarsi i capelli, le unghie"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "tagliarsi",
+        "pos": "v. intr. pron.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "rompersi, dividersi, lacerarsi",
+                "examples": [
+                  "il vestito si è tagliato in più punti",
+                  "col tempo, le pagine del manoscritto si sono tagliate"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "fondamentali"
+    ]
+  },
+  {
+    "word": "togliere",
+    "hints": [
+      "to take off, take away",
+      "to take out",
+      "to remove, delete, exclude"
+    ],
+    "forms": [
+      {
+        "pos": "v. tr.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "rimuovere da una posizione, spostare",
+                "examples": [
+                  "togliere la tovaglia dal tavolo",
+                  "togliere uno specchio dalla parete"
+                ]
+              },
+              {
+                "gloss": "levare via, cavare",
+                "examples": [
+                  "togliere i vestiti dall'armadio"
+                ]
+              },
+              {
+                "gloss": "levare di dosso",
+                "examples": [
+                  "togli tu le scarpe al bimbo?"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "togliere un divieto",
+                    "glosses": [
+                      {
+                        "gloss": "un ostacolo, un impedimento, rimuoverli"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliere qlcu. di mezzo",
+                    "glosses": [
+                      {
+                        "gloss": "allontanarlo"
+                      },
+                      {
+                        "gloss": "sopprimerlo"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliere qlco. di mezzo",
+                    "glosses": [
+                      {
+                        "gloss": "portarla via"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliere via",
+                    "glosses": [
+                      {
+                        "gloss": "distruggere, cancellare"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "gloss": "trasferire, destituire",
+                "examples": [
+                  "da un mese l'hanno tolto dall'ufficio",
+                  "togliere da un incarico"
+                ],
+                "categories": [
+                  "est."
+                ]
+              },
+              {
+                "gloss": "distrarre",
+                "examples": [
+                  "togliere da un pensiero, un timore"
+                ],
+                "categories": [
+                  "est."
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "non concedere più, riprendere",
+                "examples": [
+                  "togliere quel che si era dato"
+                ]
+              },
+              {
+                "gloss": "privare",
+                "examples": [
+                  "mi ha tolto il piacere di rivederlo; quell'avvenimento gli tolse l'uso della ragione"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "togliere il saluto",
+                    "glosses": [
+                      {
+                        "gloss": "non salutare più, per rancore o altro"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliere l'onore",
+                    "glosses": [
+                      {
+                        "gloss": "disonorare"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliere il rispetto",
+                    "glosses": [
+                      {
+                        "gloss": "mancare di rispetto verso qlcu."
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliere la reputazione",
+                    "glosses": [
+                      {
+                        "gloss": "screditare"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "gloss": "sottrarre, portare via con l'inganno",
+                "examples": [
+                  "togliere il fidanzato all'amica"
+                ]
+              },
+              {
+                "gloss": "strappare, portare via a forza",
+                "examples": [
+                  "togliere il figlio alla madre"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "togliere la vita",
+                    "glosses": [
+                      {
+                        "gloss": "uccidere"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "sottrarre una parte",
+                "examples": [
+                  "togliere meno della metà",
+                  "da dieci devi togliere quattro"
+                ]
+              }
+            ]
+          },
+          {
+            "glosses": [
+              {
+                "gloss": "liberare",
+                "examples": [
+                  "togliere qlcu. da una situazione imbarazzante"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "togliersi",
+        "pos": "v. tr. pron.",
+        "aux": "essere",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "categories": [
+                  "anche fig."
+                ],
+                "gloss": "levarsi di dosso",
+                "examples": [
+                  "togliersi la giacca, il cappotto, il cappello",
+                  "togliersi i guanti",
+                  " togliti dalla testa l'idea di partire!",
+                  "togliersi una preoccupazione"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "togliersi la fame",
+                    "glosses": [
+                      {
+                        "gloss": "sfamarsi"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliersi il cappello, togliersi tanto di cappello",
+                    "glosses": [
+                      {
+                        "gloss": "fig. considerare qlcu. o qlco. con rispettosa ammirazione"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliersi una voglia",
+                    "glosses": [
+                      {
+                        "gloss": "soddisfarla"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliersi la briga di fare qlco.",
+                    "glosses": [
+                      {
+                        "gloss": "fare qlco. non preoccupandosene più"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliersi un dente",
+                    "glosses": [
+                      {
+                        "gloss": "farselo estrarre, fig. liberarsi di qlco. di spiacevole"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "fig. togliersi una spina dal cuore",
+                    "glosses": [
+                      {
+                        "gloss": "eliminare un cruccio, una preoccupazione e sim."
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliersi la maschera",
+                    "glosses": [
+                      {
+                        "gloss": "fig. rivelare la propria natura"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliersi la vita",
+                    "glosses": [
+                      {
+                        "gloss": "suicidarsi"
+                      }
+                    ]
+                  },
+                  {
+                    "phrase": "togliersi qlcu. dai piedi",
+                    "glosses": [
+                      {
+                        "gloss": "fig. mandarlo via"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "tagliarsi",
+        "pos": "v. rifl.",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "levarsi (+ da)",
+                "examples": [
+                  "togliersi da una posizione scomoda"
+                ]
+              },
+              {
+                "gloss": "allontanarsi, partirsene",
+                "examples": [
+                  "togliersi di mezzo",
+                  "togliersi da un luogo",
+                  "togliersi dai piedi"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "trasgredire",
+    "hints": [
+      "tr. to transgress",
+      "tr. to disobey, to contravene",
+      "intr. to disobey, to contravene (with a)"
+    ],
+    "forms": [
+      {
+        "pos": "v. tr. e v. intr.",
+        "[NAME_FIELD]": "io trasgredisco, tu trasgredisci",
+        "aux": "avere",
+        "senses": [
+          {
+            "glosses": [
+              {
+                "gloss": "oltrepassare i limiti posti da una norma, non attenersi a quanto disposto da leggi e sim.",
+                "examples": [
+                  "trasgredire il comando di qlcu.",
+                  "trasgredire a un ordine"
+                ],
+                "phrases": [
+                  {
+                    "phrase": "trasgredire la legge",
+                    "glosses": [
+                      {
+                        "gloss": "violarla"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "gloss": "praticare forme di trasgressione",
+                "categories": [
+                  "assol."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "fondamentali"
+    ]
+  }
+]
