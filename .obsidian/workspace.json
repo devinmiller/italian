@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aggettivi.md",
+                "file": "modi-indefiniti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aggettivi"
+              "title": "modi-indefiniti"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aggettivi.md",
+                "file": "modi-indefiniti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aggettivi"
+              "title": "Backlinks for modi-indefiniti"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aggettivi.md",
+                "file": "modi-indefiniti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from aggettivi"
+              "title": "Outgoing links from modi-indefiniti"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aggettivi.md",
+                "file": "modi-indefiniti.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aggettivi"
+              "title": "Outline of modi-indefiniti"
             }
           }
         ]
@@ -185,20 +185,32 @@
   },
   "active": "589aa3055021cdf9",
   "lastOpenFiles": [
-    "articoli.md",
     "aggettivi.md",
-    "pronouns.md",
-    "AGENTS.md",
-    "inclasse/vocabulary.json",
+    "modi-indefiniti.md",
+    "preposizioni.md",
+    "preposizioni-terse.md",
+    "inclasse/appunti-feb-03.md",
+    "vocabolario/decollo.yaml",
+    "vocabolario/decollare.yaml",
+    "vocabolario/deccolare.yaml",
+    "vocabolario",
+    "articoli.md",
+    "tenses-constructs.md",
+    "prepositions-verbose.md",
     "prepositions-terse.md",
     "possessives.md",
+    "adjectives-possessive.md",
+    "alphabet.md",
+    "AGENTS.md",
+    "tenses-overview.md",
+    "pronouns.md",
+    "inclasse/vocabulary.json",
     "phrases-datetime.md",
     "object-pronouns.md",
     "introductions.md",
     "domande.md",
     "confusing-words.md",
     "articles.md",
-    "alphabet.md",
     "adjectives.md"
   ]
 }

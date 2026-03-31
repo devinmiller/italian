@@ -21,6 +21,11 @@ This file gives coding and editing agents context for working in this repository
 - Prefer **minimal, focused edits**: change only what the task requires; do not reorganize unrelated files.
 - **Preserve the learner’s voice** unless asked to rewrite for clarity or the voice is not naturally for a native Italian speaker.
 - For **Italian**: use standard Italian spelling and terminology; when grammar is ambiguous, prefer widely taught textbook patterns and note uncertainty briefly if relevant.
+- For **formatting**: prefer tables, lists, bullet points, etc. over blocks of text unless necessary to explain a concept.
+- For **page structure**: 
+  - The content of level 1 headings should only be links to lower level headings, but only in scenarios where there is more than 1 lower level heading, or unless explicitly asked.
+  - The content of level 1 headings should also include a brief, concise description of page contents.
+  - Keep related information together under the same heading.  
 - **CSV files**: keep consistent column order within a file; avoid breaking importers (assume comma-separated unless the file clearly uses another delimiter).
 - **Markdown**: match existing heading levels and list style in nearby sections.
 

@@ -1,0 +1,28 @@
+- word: decollare
+  forms:
+    - word: ''
+      pos: v. intr.
+      aux: essere
+      syl: de-col-la-re
+      prn: decollàre
+      hints:
+        - to take off, launch
+        - to get off the ground
+      props:
+        - conj: io decòllo
+      tags: null
+      senses:
+        - glosses:
+          - gloss: sollevarsi in volo, staccandosi dal suolo, da una superficie d'acqua, dal ponte di una portaerei e sim.
+            tags: 
+              - aeron.
+            props: null
+            examples: null
+            phrases: null
+          - gloss: avviarsi verso un positivo sviluppo, detto di un'attività, un progetto e sim.
+            tags: 
+              - fig.
+            props: null
+            examples: null
+            phrases: null
+        

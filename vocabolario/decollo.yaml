@@ -1,0 +1,31 @@
+- word: decollo
+  forms:
+    - word: ''
+      pos: s. m.
+      syl: de-col-lo
+      prn: decòllo
+      hints:
+        - take off, launch
+      props: null
+      tags: null
+      senses:
+        - glosses:
+          - gloss: atto o manovra del decollare
+            tags: 
+              - aeron.
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: fase di avvio di un processo di sviluppo industriale
+            tags: 
+              - fig.
+            props: null
+            examples: null
+            phrases: null
+          - gloss: fase di positivo avviamento, di sviluppo
+            tags: 
+            props: null
+            examples:
+             - il decollo dell'agriturismo
+            phrases: null

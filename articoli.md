@@ -1,15 +1,22 @@
 # Articoli
 
-Gli **articoli** accompagnano il nome e indicano se ci riferiamo a qualcosa di **determinato** (già noto o univoco nel contesto), di **indeterminato** (non specificato) o, con l’**articolo partitivo**, a una **parte o quantità non precisata** (come “del / della / dei…” o “un po’ di…”). La forma dipende dal **genere** e dal **numero** del nome e, per il maschile, anche dalla **lettera o suono iniziale** della parola che segue.
+Gli **articoli** accompagnano il nome.
+
+- [[#Articoli determinativi]]
+- [[#Articoli indeterminativi]]
+- [[#Articolo partitivo]]
+- [[#Preposizioni + articolo (richiamo)]]
 
 ## Articoli determinativi
 
-Servono quando parliamo di persone, cose o concetti **precisi** (l’equivalente di “il / lo / la / gli / le”).
+Si usano quando il riferimento è **determinato**: **già noto**, **univoco** nel contesto o **identificabile**.
+
+Per il **maschile**, _s + consonante_ indica la **s impura** (es. *st-*, *sc-*): *il sole*, non *lo sole*. La stessa suddivisione sull’**inizio** della parola vale anche per **uno** e per l’**articolo partitivo** nelle tabelle sotto.
 
 | Articoli determinativi | Singolare | Plurale |
 | ---------------------- | --------- | ------- |
 | **Maschile**           |           |         |
-| Nome che inizia per **z** o **s** + consonante | **lo** | **gli** |
+| Nome che inizia per **z**, **gn**, **pn**, **ps**, **x**, **y** o **s** + consonante | **lo** | **gli** |
 | Nome che inizia per **vocale** | **l’** | **gli** |
 | Nome che inizia per **altra consonante** | **il** | **i** |
 | **Femminile**          |           |         |
@@ -18,27 +25,29 @@ Servono quando parliamo di persone, cose o concetti **precisi** (l’equivalente
 
 ## Articoli indeterminativi
 
-Servono quando ci riferiamo a qualcosa di **generico** o **non ancora identificato** (l’equivalente di “un / uno / una / un’”).
+Indicano qualcosa di **non specificato** o **generico**, **non ancora identificato** nel discorso. Forme: *un*, *uno*, *una*, *un’*.
 
-| Articoli indeterminativi                              | Singolare |
-| ----------------------------------------------------- | --------- |
-| **Maschile**                                          |           |
-| Nome che inizia per **z** o **s** + consonante        | **uno**   |
-| Nome che inizia per **vocale** o **altra consonante** | **un**    |
-| **Femminile**                                         |           |
-| Nome che inizia per **consonante**                    | **una**   |
-| Nome che inizia per **vocale**                        | **un’**   |
+| Articoli indeterminativi | Singolare |
+| ------------------------ | --------- |
+| **Maschile**             |           |
+| Nome che inizia per **z**, **gn**, **pn**, **ps**, **x**, **y** o **s** + consonante | **uno** |
+| Nome che inizia per **vocale** o **altra consonante** | **un** |
+| **Femminile**            |           |
+| Nome che inizia per **consonante** | **una** |
+| Nome che inizia per **vocale** | **un’** |
 
-_Nota:_ gli articoli indeterminativi esistono solo al **singolare**; al plurale si usano **quantificatori** o l’**articolo partitivo** (es. _alcuni / alcune_, _dei / delle_) a seconda del contesto.
+_Nota:_ esistono solo al **singolare**. Al plurale: **articolo partitivo** o **indefiniti di quantità** (non articoli), es. _dei / delle_, _alcuni / alcune_.
 
 ## Articolo partitivo
 
-È la forma che si ottiene unendo la preposizione **di** all’articolo determinativo (**di** + _il/lo/l’/i/gli/la/le/l’_ → _del, dello, dell’, dei, degli, della, delle_). Si usa soprattutto con nomi **non numerabili** o per indicare una parte indeterminata di qualcosa.
+Serve per una **parte** o **quantità non precisata**, spesso con nomi **non numerabili**. *Un po’ di* esprime quantità ma **non** è *di* + articolo.
+
+La **forma** segue **genere**, **numero** e, al maschile, l’**inizio** del nome come nella tabella dei determinativi.
 
 | Articoli partitivi | Singolare | Plurale |
 | ------------------ | --------- | ------- |
 | **Maschile**       |           |         |
-| Nome che inizia per **z** o **s** + consonante | **dello** | **degli** |
+| Nome che inizia per **z**, **gn**, **pn**, **ps**, **x**, **y** o **s** + consonante | **dello** | **degli** |
 | Nome che inizia per **vocale** | **dell’** | **degli** |
 | Nome che inizia per **altra consonante** | **del** | **dei** |
 | **Femminile**      |           |         |
@@ -49,4 +58,4 @@ _Esempi:_ _Voglio dell’acqua._ _Hanno dei figli._ _Ci sono delle mele._
 
 ## Preposizioni + articolo (richiamo)
 
-Quando **di, a, da, in, su** (e a volte **con, per, tra/fra**) si uniscono all’articolo determinativo, si formano le **preposizioni articolate** (_al, dal, nel, sul, nella…_). Seguono le stesse regole di **il / lo / l’** ecc.; il dettaglio completo è nelle note sulle preposizioni (es. `prepositions-terse.md`).
+Quando **di, a, da, in, su** (e a volte **con, per, tra/fra**) si uniscono all’articolo determinativo, si formano le **preposizioni articolate** (_al, dal, nel, sul, nella…_). Seguono le stesse regole di **il / lo / l’** ecc.; il dettaglio è in `preposizioni-terse.md`.
