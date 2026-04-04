@@ -2,13 +2,17 @@
 
 Le preposizioni collegano nomi o infiniti ai verbi o tra loro.
 
-- [[#La preposizione a]]
+- [[#Preposizioni articolate]]
 - [[#La preposizione di]]
+- [[#La preposizione a]]
 - [[#La preposizione da]]
 - [[#La preposizione in]]
+- [[#La preposizione con]]
 - [[#La preposizione su]]
-- [[#Le preposizioni tra e fra]]
 - [[#La preposizione per]]
+- [[#Le preposizioni tra e fra]]
+
+## Preposizioni articolate
 
 Cinque delle preposizioni italiane più frequenti si contraggono con l’articolo determinativo che segue.
 
@@ -20,74 +24,111 @@ Cinque delle preposizioni italiane più frequenti si contraggono con l’articol
 | in           | nel  | nello| nella| nell'| nei | negli | nelle|
 | su           | sul  | sullo| sulla| sull'| sui | sugli | sulle|
 
-## La preposizione a
-
-La preposizione **a** corrisponde spesso all’inglese *in*, *to* o *at*.
-
-Si usa:
-
-1. Per parlare di un luogo: dove si trova qualcosa o dove qualcuno sta andando.
-1. Per dire quando o a che ora succederà qualcosa.
-1. Per dire che si dà qualcosa **a** qualcuno.
+Anche **con** si può unire all’articolo: **col**, **coi** (con *il* / *i*).
 
 ## La preposizione di
 
-**Di** si traduce spesso con *of*, *from*, *about* e a volte anche *in*.
+**Di** corrisponde spesso all’inglese *of*, *from*, *about* e a volte *in*. Con una **città** di provenienza con *essere* si usa *di* (*sono di Como*); con un **paese** di norma **da** + articolo o si riformula (*vengo dalla Spagna*).
 
-1. Indica il possesso (come l’inglese *’s* o *of*).
-1. Indica la **provenienza** da una **città** (*sono di Torino*). Con un **paese** non si usa *di* così: di norma **da** + articolo (*vengo dalla Spagna*) oppure si riformula (*sono spagnolo*).
-1. Esprime l’argomento: di cosa si parla.
-1. Indica la materia o la composizione.
-1. **Di** serve nei **comparativi**, come *than* in inglese.
-1. Si usa per specificare **quantità** (es. *un chilo di pasta*).
-1. Si usa per un **momento** del giorno o dell’anno.
+| Funzione | Esempio |
+|----------|---------|
+| Città di origine (con *essere*) | *Io sono di Como.* |
+| Momento preciso di un fatto | *Di mattina faccio sport.* |
+| Causa (stato d’animo, fame, sete…) | *Muoio di fame.* |
+| Argomento di cui si parla | *Il film parla di guerra.* |
+| Autore | *Il libro è di Dario Bressanini.* |
+| Materia degli oggetti | *Ho comprato un maglione di lana.* |
+| Complemento di specificazione | *Le chiavi della macchina sono nella borsa.* |
+| Quantità indefinita (articolo partitivo) | *Vuoi delle mele?* |
+| *Verbo + di + infinito* | *Penso di iniziare un corso di jujitsu.* |
+| Comparativo (*più* / *meno*) | *Roberto è più giovane di Luca.* |
+| Possesso | *L’appartamento è dei miei nonni.* |
+
+## La preposizione a
+
+**a** corrisponde spesso a *to*, *at*, a volte *in* (inglese).
+
+| Funzione | Esempio |
+|----------|---------|
+| Complemento di termine (a chi) | *Ho dato la mia penna a Sofia.* |
+| Città (dove si è o dove si va) | *Vado a Bologna.* |
+| Dopo *vicino*, *davanti*, *dietro*, *sopra*… | *Il parco è vicino a casa mia.* |
+| Ora esatta | *La lezione è alle 6.* |
+| Festività | *Ci vediamo a Natale.* |
+| Scopo (*uscire a* + infinito) | *Esco a fare la spesa.* |
+| *a piedi*, *a cavallo* | *Vado a scuola a piedi.* |
+| Modo o caratteristica (*a tre porte*) | *L’auto è a tre porte.* |
+| Nomi composti | *Forno a microonde.* |
+| Uguaglianza (*uguale a*) | *Le mie scarpe sono uguali alle tue.* |
+| *Iniziare a* / verbi simili + infinito | *Inizio a lavorare.* |
 
 ## La preposizione da
 
-La preposizione **da** corrisponde spesso a *since*, *from*, *by*.
+**da** corrisponde spesso a *from*, *since*, *by* (agente passivo).
 
-Indica:
-
-1. Movimento **da** un luogo (provenienza).
-1. Movimento **verso** una persona (es. *andare da* qualcuno).
-1. Un’azione iniziata nel passato che **continua** (durata fino a ora).
-1. L’**agente** nelle frasi passive.
+| Funzione | Esempio |
+|----------|---------|
+| Luogo di partenza / origine | *Vengo da Bari.* |
+| Persona che si va a trovare | *Sono dai miei genitori.* |
+| Durata fino al presente | *Abito a Barcellona da 5 anni.* |
+| Inizio di un intervallo orario | *Il negozio è aperto dalle 9 alle 16.* |
+| Età o fase della vita (*da bambino*…) | *Da bambino giocavo a calcio.* |
+| Causa (stato d’animo) | *Ho saltato dalla gioia.* |
+| Composizione di parole | *Occhiali da sole.* |
+| Diversità al comparativo | *Sono diversa da te.* |
+| Agente nella passiva | *L’uomo è stato investito da un’auto.* |
 
 ## La preposizione in
 
-Anche l’inglese ha *in*, ma gli usi non coincidono sempre.
+**in** non coincide sempre con l’inglese *in*.
 
-**In** in italiano indica:
+| Funzione | Esempio |
+|----------|---------|
+| Luogo (stato o direzione) | *Vado in palestra alle 8.* |
+| Anno o mese precisi | *Sono nato nel 1990.* |
+| Tempo necessario per un’azione | *Finisco questo compito in 5 minuti.* |
+| Mezzi di trasporto | *Vado in ufficio in macchina.* |
+| Materia (come *di*) | *Questa scatola è in metallo.* |
 
-1. Stato in un luogo.
-1. Movimento verso un luogo, soprattutto davanti a **paesi e regioni**.
-1. Mezzo di trasporto (*in treno*, *in macchina*…).
-1. Riferimenti al **tempo** (stagioni, momenti della giornata).
+## La preposizione con
+
+| Funzione | Esempio |
+|----------|---------|
+| Mezzo di trasporto | *Andiamo con la macchina.* |
+| Strumento / mezzo di lavoro | *Lavoro con il computer.* |
+| Compagnia | *Vivo con la mia coinquilina.* |
+| Caratteristica (avere *con*) | *È una casa con un grande giardino.* |
 
 ## La preposizione su
 
-**Su** corrisponde spesso a *on*, *onto*, *over*.
+**su** corrisponde spesso a *on*.
 
-Indica:
-
-1. Che qualcosa è **appoggiata sopra** qualcos’altro.
-1. L’**argomento** di cui si parla (*un libro su…*).
-
-## Le preposizioni tra e fra
-
-**Tra** e **fra** sono **sinonimi**; puoi usare l’una o l’altra.
-
-Significano *between* / *among* e servono per:
-
-1. Posizione **fra** due cose o luoghi.
-1. Una **scelta** fra due o più alternative.
+| Funzione | Esempio |
+|----------|---------|
+| Posizione sopra qualcosa | *Sono seduto sul divano.* |
+| Argomento | *La conferenza è sulla situazione economica italiana.* |
 
 ## La preposizione per
 
-**Per** corrisponde spesso a *for*, *by*, *because of*.
+**per** corrisponde spesso a *for*, *through*, *because of*.
 
-Indica:
+| Funzione | Esempio |
+|----------|---------|
+| Posizione (*per terra*…) | *Sono seduto per terra.* |
+| Luogo attraversato | *Passo per il parco.* |
+| Durata (quanto dura un’azione) | *Ho studiato italiano per 5 anni.* |
+| Scopo / fine | *Studio per diventare architetto.* |
+| Causa | *Non esce di casa per la pioggia.* |
+| Mezzo di comunicazione | *Manda i documenti per e-mail.* |
 
-1. Movimento **attraverso** un luogo per raggiungere una meta (*passare per*…).
-1. Una **causa** o un motivo.
-1. **Durata** nel tempo (quanto è durata un’azione già conclusa).
+## Le preposizioni tra e fra
+
+**Tra** e **fra** sono sinonimi: si può usare l’una o l’altra.
+
+| Funzione | Esempio |
+|----------|---------|
+| In mezzo a due elementi | *Il libro è tra la lampada e la sveglia.* |
+| Distanza o tratto mancante | *Tra 500 metri svolta a destra.* |
+| Tra quanto tempo (futuro) | *Ci vediamo tra un’ora.* |
+
+Parte delle tabelle e degli esempi si basa su materiale didattico di [Teachers Stefano](https://www.teacherstefano.com).

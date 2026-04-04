@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "modi-indefiniti.md",
+                "file": "articoli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "modi-indefiniti"
+              "title": "articoli"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modi-indefiniti.md",
+                "file": "modi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for modi-indefiniti"
+              "title": "Backlinks for modi"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "modi-indefiniti.md",
+                "file": "modi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from modi-indefiniti"
+              "title": "Outgoing links from modi"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "modi-indefiniti.md",
+                "file": "modi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of modi-indefiniti"
+              "title": "Outline of modi"
             }
           }
         ]
@@ -186,22 +186,22 @@
   "active": "589aa3055021cdf9",
   "lastOpenFiles": [
     "aggettivi.md",
+    "modi.md",
+    "AGENTS.md",
+    "articoli.md",
     "modi-indefiniti.md",
     "preposizioni.md",
-    "preposizioni-terse.md",
     "inclasse/appunti-feb-03.md",
     "vocabolario/decollo.yaml",
     "vocabolario/decollare.yaml",
     "vocabolario/deccolare.yaml",
     "vocabolario",
-    "articoli.md",
     "tenses-constructs.md",
     "prepositions-verbose.md",
     "prepositions-terse.md",
     "possessives.md",
     "adjectives-possessive.md",
     "alphabet.md",
-    "AGENTS.md",
     "tenses-overview.md",
     "pronouns.md",
     "inclasse/vocabulary.json",
