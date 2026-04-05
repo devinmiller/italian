@@ -1,0 +1,21 @@
+- word: sosta
+  forms:
+    - word: ''
+      pos: s. f.
+      syl: sò-sta
+      senses:
+        - glosses:
+          - gloss: arresto, fermata in un luogo per un tempo piuttosto breve
+            tags: null
+            props: null
+            examples:
+              - far sosta, fare una sosta
+            phrases: null
+          - gloss: parcheggio di autoveicoli
+            tags: null
+            props: null
+            examples:
+              - divieto di sosta
+            phrases:
+              - phrase: sosta a giorni alterni, consentita da un lato della via nei giorni pari e dall'altro nei giorni dispari
+              - phrase: sosta limitata, consentita per un tempo limitato, spesso con l'esposizione del disco orario

@@ -1,0 +1,29 @@
+- word: sostare
+  forms:
+    - word: ''
+      pos: v. intr.
+      aux: avere
+      syl: so-stà-re
+      senses:
+        - glosses:
+          - gloss: soffermarsi, restare in un luogo per un periodo di tempo piuttosto breve
+            tags: null
+            props: null
+            examples: 
+              - sostammo a Milano
+              - sostano in un albergo per la notte
+              - sostarono un'ora per riposarsi
+            phrases: null
+          - gloss: riferito a veicoli, parcheggiare
+            tags: null
+            props: null
+            examples:
+              - qui non si può sostare
+            phrases: null
+        - glosses:
+          - gloss: sospendere per breve tempo ciò che si sta facendo, fare una pausa
+            tags: null
+            props: null
+            examples:
+              - sostare dal lavoro, dallo studio
+            phrases: null

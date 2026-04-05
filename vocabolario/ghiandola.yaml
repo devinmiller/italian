@@ -1,0 +1,23 @@
+- word: ghiandola
+  forms:
+    - word: ''
+      pos: s. f.
+      syl: ghiàn-do-la
+      hints:
+        - gland
+      senses:
+        - glosses:
+          - gloss: organo che elabora determinate sostanze a varia attività prelevando gli elementi del sangue
+            tags:
+              - anat.
+            props: null
+            examples: null
+            phrases:
+              - phrase: ghiandola a secrezione esterna, ghiandola esocrina
+                glosses:
+                  - che riversa i suoi secreti attraverso condotti in cavità preformate del corpo
+                examples: null
+              - phrase: ghiandola a secrezione interna, ghiandola endocrina
+                glosses:
+                  - che riversa i secreti direttamente nel circolo sanguigno
+                examples: null
