@@ -1,0 +1,32 @@
+- word: moscio
+  forms:
+    - word: ''
+      pos: agg.
+      syl: mò-scio
+      props: null
+      tags:
+        - parola da salvare
+      hints: null
+      senses:
+        - glosses:
+          - gloss: floscio 
+            tags: null
+            props: null
+            examples: 
+              - cappello moscio
+            phrases: null
+          - gloss: vizzo, appassito
+            tags: null
+            props: null
+            examples: 
+              - carni mosce
+            phrases: null
+        - glosses:
+          - gloss: abbattuto, depresso
+            tags:
+              - fig.
+            props: null
+            examples:
+              - aspetto moscio
+              - se ne stava moscio moscio in un angolo
+            phrases: null

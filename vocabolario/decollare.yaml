@@ -2,14 +2,14 @@
   forms:
     - word: ''
       pos: v. intr.
-      aux: essere
       syl: de-col-là-re
+      props:
+        - aus: essere
+        - conj: io decòllo
+      tags: null
       hints:
         - to take off, launch
         - to get off the ground
-      props:
-        - conj: io decòllo
-      tags: null
       senses:
         - glosses:
           - gloss: sollevarsi in volo, staccandosi dal suolo, da una superficie d'acqua, dal ponte di una portaerei e sim.

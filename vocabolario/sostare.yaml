@@ -2,8 +2,13 @@
   forms:
     - word: ''
       pos: v. intr.
-      aux: avere
       syl: so-stà-re
+      props:
+        - aus: avere
+      tags: null
+      hints:
+        - (fermarsi) to stop, pause
+        - (macchina) to stop, park
       senses:
         - glosses:
           - gloss: soffermarsi, restare in un luogo per un periodo di tempo piuttosto breve

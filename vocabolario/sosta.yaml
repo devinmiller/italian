@@ -3,6 +3,12 @@
     - word: ''
       pos: s. f.
       syl: sò-sta
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - (fermata) stop, halt
+        - (pausa, interruzione) pause, break
       senses:
         - glosses:
           - gloss: arresto, fermata in un luogo per un tempo piuttosto breve
@@ -17,5 +23,26 @@
             examples:
               - divieto di sosta
             phrases:
-              - phrase: sosta a giorni alterni, consentita da un lato della via nei giorni pari e dall'altro nei giorni dispari
-              - phrase: sosta limitata, consentita per un tempo limitato, spesso con l'esposizione del disco orario
+              - phrase: sosta a giorni alterni
+                glosses:
+                  - consentita da un lato della via nei giorni pari e dall'altro nei giorni dispari
+              - phrase: sosta limitata
+                glosses:
+                  - consentita per un tempo limitato, spesso con l'esposizione del disco orario
+              - phrase: sosta vietata
+                glosses:
+                  - segnalata dal cartello di divieto di sosta
+              - phrase: merce in sosta
+                glosses:
+                  - non ritirata entro il periodo di svincolo
+        - glosses:
+          - gloss: pausa, tregua, interruzione spec. breve
+            tags:
+              - est.
+            props: null
+            examples:
+              - lavorare senza sosta
+              - un attimo di sosta
+              - una sosta dal lavoro 
+              - non dare sosta
+            phrases: null

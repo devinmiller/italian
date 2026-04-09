@@ -1,0 +1,30 @@
+- word: fiacco
+  forms:
+    - word: ''
+      pos: agg.
+      syl: fiàc-co
+      props: null
+      tags:
+        - parola da salvare
+      hints: null
+      senses:
+        - glosses:
+          - gloss: che non ha forza, vigore fisico o morale
+            tags: null
+            props:
+              - sin.: apatico, stanco
+              - contr.: energico, vigoroso
+            examples:
+              - una persona fiacca
+            phrases: null
+          - gloss: debole, poco brillante, noioso
+            tags:
+              - fig.
+            props: null
+            examples:
+              - un discorso fiacco
+              - una serata fiacca
+            phrases:
+              - phrase: borsa mercato fiacco, 
+                glosses:
+                  - con pochi movimenti
