@@ -3,10 +3,15 @@
     - word: ''
       pos: agg.
       syl: mò-scio
-      props: null
+      props:
+        - pl. m.: -sci
+        - pl. f.: -sce
       tags:
         - parola da salvare
-      hints: null
+      hints:
+        - (frutta, carne, pelle) soft, (fiore) wilted
+        - fig. (noioso) flat, dull
+        - fig. (avvilito) down
       senses:
         - glosses:
           - gloss: floscio 
