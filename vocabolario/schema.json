@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://italian-vocabulary.local/schema.json",
+  "title": "Vocabulary (YAML)",
+  "description": "Expected shape for *.yaml files in this directory: a non-empty array of lexemes with forms, sense groups, and glosses.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "$ref": "#/definitions/lexeme"
+  },
+  "$defs": {
+    "yamlLineOrMap": {
+      "description": "A string, or a single-key map produced by YAML when a line is parsed as 'key: value' (e.g. pl. m.: -chi, aus: avere).",
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": { "type": "string" }
+        }
+      ]
+    },
+    "nullableStringList": {
+      "type": ["null", "array"],
+      "items": { "type": "string" }
+    },
+    "nullablePropsList": {
+      "type": ["null", "array"],
+      "items": {
+        "$ref": "#/definitions/yamlLineOrMap"
+      }
+    },
+    "form": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["word", "pos", "syl", "props", "tags", "hints", "senses"],
+      "properties": {
+        "word": { "type": "string" },
+        "pos": { "type": "string" },
+        "syl": { "type": "string" },
+        "props": {
+          "$ref": "#/definitions/nullablePropsList"
+        },
+        "tags": {
+          "$ref": "#/definitions/nullableStringList"
+        },
+        "hints": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/yamlLineOrMap"
+          }
+        },
+        "senses": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/senseGroup" }
+        }
+      }
+    },
+    "senseGroup": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["glosses"],
+      "properties": {
+        "glosses": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/gloss" }
+        }
+      }
+    },
+    "gloss": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["gloss", "tags", "props", "examples", "phrases"],
+      "properties": {
+        "gloss": { "type": "string" },
+        "tags": {
+          "$ref": "#/definitions/nullableStringList"
+        },
+        "props": {
+          "$ref": "#/definitions/nullablePropsList"
+        },
+        "examples": {
+          "$ref": "#/definitions/nullableStringList"
+        },
+        "phrases": {
+          "type": ["null", "array"],
+          "items": { "$ref": "#/definitions/phrase" }
+        }
+      }
+    },
+    "phrase": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["phrase", "glosses"],
+      "properties": {
+        "phrase": { "type": "string" },
+        "glosses": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "examples": {
+          "$ref": "#/definitions/nullableStringList"
+        }
+      }
+    },
+    "lexeme": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["word", "forms"],
+      "properties": {
+        "word": { "type": "string" },
+        "forms": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/definitions/form" }
+        }
+      }
+    }
+  }
+}

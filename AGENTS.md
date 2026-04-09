@@ -16,6 +16,11 @@ This file gives coding and editing agents context for working in this repository
 | `flashcards/` | Flashcard exports and vocabulary lists (often CSV). |
 | `archive/` | Older or superseded notes and helper scripts. |
 
+## Language
+
+- **Italian study content** (notes, examples, glosses): standard Italian; voice per existing notes.
+- **Technical artifacts** (schemas, tooling docs, engineering notes, code comments for scripts): **English**, unless the user asks otherwise.
+
 ## Editing principles
 
 - Prefer **minimal, focused edits**: 
