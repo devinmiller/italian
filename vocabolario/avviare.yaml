@@ -2,12 +2,15 @@
   forms:
     - word: ''
       pos: v. tr.
-      syl: avvà-rire
+      syl: av-vi-à-re
       props:
-        pres: op avvìo
+        pres: io avvìo
       tags:
         - italiano fondamentale
-      hints: null
+      hints:
+        - (indirizzare) to direct, to lead
+        - (mettere in moto) to start, to put in motion
+        - (dare inizio a) to start up
       senses:
         - glosses:
           - gloss: mettere sulla via da percorrere

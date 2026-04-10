@@ -37,7 +37,8 @@
             "pres": { "type": "string" },
             "pass_rem": { "type": "string" },
             "part_pass": { "type": "string" },
-            "superl": { "type": "string" }
+            "superl": { "type": "string" },
+            "coniug": { "type": "string" }
           },
           "minProperties": 1,
           "additionalProperties": false

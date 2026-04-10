@@ -1,0 +1,44 @@
+- word: percorrere
+  forms:
+    - word: ''
+      pos: v. tr.
+      syl: per-cò-re-re
+      props:
+        coniug: come correre
+      tags:
+       - italiano fondamentale
+      hints:
+        - (distanza) to cover, (strada) to drive along
+        - (territorio) to travel through
+      senses:
+        - glosses:
+          - gloss: compiere un determinato tragitto
+            props: null
+            tags:
+              - anche fig.
+            examples:
+              - percorrere una strada in automobile, in bicicletta
+              - ha percorso 10 chilometri a piedi, a nuoto
+              - percorremmo a fatica gli ultimi chilometri
+              - percorrere una brillante carriera
+            phrases: null
+        - glosses:
+          - gloss: attraversare una determinata estensione, o un tratto di essa
+            props: null
+            tags:
+              - anche fig.
+            examples:
+              - percorrere una regione
+              - abbiamo percorso la Francia in lungo e in largo
+              - la strada percorre tutto il paese
+              - fu percorso da un brivido
+            phrases: null
+        - glosses:
+          - gloss: guardare, scorrere, esaminare, trattare
+            props: null
+            tags:
+              - fig.
+            examples:
+              - percorrere con lo sguardo la distesa del mare
+              - percorrere brevemente un argomento
+            phrases: null
