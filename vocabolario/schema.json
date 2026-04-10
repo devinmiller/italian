@@ -6,115 +6,139 @@
   "type": "array",
   "minItems": 1,
   "items": {
-    "$ref": "#/definitions/lexeme"
+    "$ref": "#/$defs/definition"
   },
   "$defs": {
-    "yamlLineOrMap": {
-      "description": "A string, or a single-key map produced by YAML when a line is parsed as 'key: value' (e.g. pl. m.: -chi, aus: avere).",
-      "oneOf": [
-        { "type": "string" },
-        {
-          "type": "object",
-          "minProperties": 1,
-          "additionalProperties": { "type": "string" }
-        }
-      ]
-    },
-    "nullableStringList": {
-      "type": ["null", "array"],
-      "items": { "type": "string" }
-    },
-    "nullablePropsList": {
-      "type": ["null", "array"],
-      "items": {
-        "$ref": "#/definitions/yamlLineOrMap"
-      }
-    },
-    "form": {
+    "definition": {
       "type": "object",
-      "additionalProperties": false,
-      "required": ["word", "pos", "syl", "props", "tags", "hints", "senses"],
-      "properties": {
-        "word": { "type": "string" },
-        "pos": { "type": "string" },
-        "syl": { "type": "string" },
-        "props": {
-          "$ref": "#/definitions/nullablePropsList"
-        },
-        "tags": {
-          "$ref": "#/definitions/nullableStringList"
-        },
-        "hints": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/yamlLineOrMap"
-          }
-        },
-        "senses": {
-          "type": "array",
-          "items": { "$ref": "#/definitions/senseGroup" }
-        }
-      }
-    },
-    "senseGroup": {
-      "type": "object",
-      "additionalProperties": false,
-      "required": ["glosses"],
-      "properties": {
-        "glosses": {
-          "type": "array",
-          "items": { "$ref": "#/definitions/gloss" }
-        }
-      }
-    },
-    "gloss": {
-      "type": "object",
-      "additionalProperties": false,
-      "required": ["gloss", "tags", "props", "examples", "phrases"],
-      "properties": {
-        "gloss": { "type": "string" },
-        "tags": {
-          "$ref": "#/definitions/nullableStringList"
-        },
-        "props": {
-          "$ref": "#/definitions/nullablePropsList"
-        },
-        "examples": {
-          "$ref": "#/definitions/nullableStringList"
-        },
-        "phrases": {
-          "type": ["null", "array"],
-          "items": { "$ref": "#/definitions/phrase" }
-        }
-      }
-    },
-    "phrase": {
-      "type": "object",
-      "additionalProperties": false,
-      "required": ["phrase", "glosses"],
-      "properties": {
-        "phrase": { "type": "string" },
-        "glosses": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "examples": {
-          "$ref": "#/definitions/nullableStringList"
-        }
-      }
-    },
-    "lexeme": {
-      "type": "object",
-      "additionalProperties": false,
-      "required": ["word", "forms"],
       "properties": {
         "word": { "type": "string" },
         "forms": {
           "type": "array",
-          "minItems": 1,
-          "items": { "$ref": "#/definitions/form" }
+          "items": { "$ref": "#/$defs/form" },
+          "minItems": 1
         }
-      }
+      },
+      "required": ["word", "forms"],
+      "additionalProperties": false
+    },
+    "form": {
+      "type": "object",      
+      "properties": {
+        "word": { "type": "string" },
+        "pos": { "enum": ["s. m.", "s. f.", "agg.", "v. tr.", "v. intr.", "v. tr. pron.", "v. intr. pron.", "v. rifl."] },
+        "syl": { "type": ["null", "string"] },
+        "props": {
+          "type": ["null", "object"],
+          "properties": {
+            "pl_m": { "type": "string" },
+            "pl_f": { "type": "string" },
+            "aus": { "enum": ["avere", "essere"] },
+            "pres": { "type": "string" },
+            "pass_rem": { "type": "string" },
+            "part_pass": { "type": "string" },
+            "superl": { "type": "string" }
+          },
+          "minProperties": 1,
+          "additionalProperties": false
+        },
+        "tags": {
+          "type": ["null", "array"],
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "hints": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        },
+        "senses": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/sense" },
+          "minItems": 1
+        }
+      },
+      "required": ["pos", "syl", "props", "tags", "hints", "senses"],
+      "additionalProperties": false
+    },
+    "sense": {
+      "type": "object",
+      "properties": {
+        "glosses": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/gloss" },
+          "minItems": 1
+        }
+      },
+      "required": ["glosses"],
+      "additionalProperties": false
+    },
+    "gloss": {
+      "type": "object",      
+      "properties": {
+        "gloss": { "type": "string" },
+        "tags": {
+          "type": ["null", "array"],
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "props": {
+          "type": ["null", "object"],
+          "properties": {
+            "sin": { "type": "string" },
+            "contr": { "type": "string" }
+          },
+          "minProperties": 1,
+          "additionalProperties": false
+        },
+        "examples": {
+          "type": ["null", "array"],
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "phrases": {
+          "type": ["null", "array"],
+          "items": { "$ref": "#/$defs/phrase" },
+          "minItems": 1
+        }
+      },
+      "required": ["gloss", "props", "tags", "examples", "phrases"],
+      "additionalProperties": false
+    },
+    "phrase": {
+      "type": "object",
+      "properties": {
+        "phrase": { "type": "string" },
+        "tags": {
+          "type": ["null", "array"],
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "glosses": {
+          "type": "array",
+          "items": { 
+            "type": "object",
+            "properties": {
+              "gloss": { "type": "string" },
+              "tags": {
+                "type": ["null", "array"],
+                "items": { "type": "string" },
+                "minItems": 1
+              }
+            },
+            "minProperties": 1,
+            "additionalProperties": false
+          }
+        },
+        "examples": {
+          "type": ["null", "array"],
+          "items": { "type": "string" },
+          "minItems": 1
+        }
+      },
+      "additionalProperties": false
     }
   }
 }

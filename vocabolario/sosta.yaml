@@ -25,16 +25,16 @@
             phrases:
               - phrase: sosta a giorni alterni
                 glosses:
-                  - consentita da un lato della via nei giorni pari e dall'altro nei giorni dispari
+                  - gloss: consentita da un lato della via nei giorni pari e dall'altro nei giorni dispari
               - phrase: sosta limitata
                 glosses:
-                  - consentita per un tempo limitato, spesso con l'esposizione del disco orario
+                  - gloss: consentita per un tempo limitato, spesso con l'esposizione del disco orario
               - phrase: sosta vietata
                 glosses:
-                  - segnalata dal cartello di divieto di sosta
+                  - gloss: segnalata dal cartello di divieto di sosta
               - phrase: merce in sosta
                 glosses:
-                  - non ritirata entro il periodo di svincolo
+                  - gloss: non ritirata entro il periodo di svincolo
         - glosses:
           - gloss: pausa, tregua, interruzione spec. breve
             tags:

@@ -1,0 +1,45 @@
+- word: avviare
+  forms:
+    - word: ''
+      pos: v. tr.
+      syl: avvà-rire
+      props:
+        pres: op avvìo
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+          - gloss: mettere sulla via da percorrere
+            tags: null
+            props: null
+            examples:
+              - avviare l'ospite alla stazione
+              - avviò il bambino verso la madre
+            phrases: null
+          - gloss: indirizzare verso un'attività
+            tags:
+              - fig.
+            props: null
+            examples:
+              - avviare qlcu. agli studi giuridici
+            phrases: null
+        - glosses:
+          - gloss: iniziare, dare principio, cominciare a eseguire
+            tags: null
+            props: null
+            examples:
+              - avviare una nuova costruzione
+              - avviare l'attività di un'impresa
+              - avviare un colloquio, un interrogatorio
+            phrases: null
+          - gloss: intraprendere
+            tags: null
+            props: null
+            examples:
+              - avviare un'indagine
+            phrases:
+              - phrase: avviare il fuoco
+                glosses:
+                  - gloss: accenderlo, appiccarlo
+      

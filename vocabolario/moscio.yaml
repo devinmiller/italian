@@ -4,8 +4,8 @@
       pos: agg.
       syl: mò-scio
       props:
-        - pl. m.: -sci
-        - pl. f.: -sce
+        pl_m: -sci
+        pl_f: -sce
       tags:
         - parola da salvare
       hints:

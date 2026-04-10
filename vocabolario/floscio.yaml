@@ -4,13 +4,13 @@
       pos: agg.
       syl: flò-scio
       props:
-        - pl. m.: -sci
-        - pl. f.: -sce
+        pl_m: -sci
+        pl_f: -sce
       tags:
         - parola da salvare
       hints:
-        - (non rigido: tessuto, cappello) floppy, limp
-        - (flacido: muscoli) flabby
+        - "(non rigido: tessuto, cappello) floppy, limp"
+        - "(flacido: muscoli) flabby"
       senses:
         - glosses:
           - gloss: privo di consistenza, non sodo
@@ -21,11 +21,11 @@
             phrases:
               - phrase: cappello floscio
                 glosses: 
-                  - di feltro non rigido
+                  - gloss: di feltro non rigido
           - gloss: flaccido
             tags: null
             props:
-              - sin. moscio
+              sin: moscio
             examples:
               - carni flosce
             phrases: null
@@ -35,7 +35,7 @@
               - fig.
               - raro
             props:
-              - sin. fiacco, molle
+              sin: fiacco, molle
             examples:
               - individuo floscio
             phrases: null

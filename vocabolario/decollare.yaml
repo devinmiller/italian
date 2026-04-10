@@ -4,8 +4,8 @@
       pos: v. intr.
       syl: de-col-là-re
       props:
-        - aus: essere
-        - conj: io decòllo
+        aus: essere
+        pres: io decòllo
       tags: null
       hints:
         - to take off, launch

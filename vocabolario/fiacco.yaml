@@ -4,8 +4,8 @@
       pos: agg.
       syl: fiàc-co
       props:
-        - pl. m.: -chi
-        - superl.: fiacchissimo
+        pl_m: -chi
+        superl: fiacchissimo
       tags:
         - parola da salvare
       hints:
@@ -14,21 +14,23 @@
       senses:
         - glosses:
           - gloss: che non ha forza, vigore fisico o morale
-            tags: null
             props:
-              - sin.: apatico, stanco
-              - contr.: energico, vigoroso
+              sin: apatico, stanco
+              contr: energico, vigoroso
+            tags: null
             examples:
               - una persona fiacca
             phrases: null
           - gloss: debole, poco brillante, noioso
+            props: null
             tags:
               - fig.
-            props: null
             examples:
               - un discorso fiacco
               - una serata fiacca
             phrases:
-              - phrase: <borsa> mercato fiacco
+              - phrase: mercato fiacco
+                tags:
+                  - borsa
                 glosses:
-                  - con pochi movimenti
+                  - gloss: con pochi movimenti

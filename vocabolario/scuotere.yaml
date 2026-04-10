@@ -1,0 +1,89 @@
+- word: scuotere
+  forms:
+    - word: ''
+      pos: v. tr.
+      syl: scuò-te-re
+      props:
+        pres: io scuòto
+        pass_rem: io scòssi
+        part_pass: scòsso
+      tags: 
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+          - gloss: agitare, sbattere con violenza facendo muovere in più direzioni
+            tags: null
+            props: null
+            examples: 
+              - il vento scuote gli alberi
+              - il terremoto scuote la terra
+            phrases: null
+        - glosses:
+          - gloss: cacciare fuori agitando, togliere
+            tags:
+              - est.
+              - anche fig.
+            props: null
+            examples:
+              - scuotere la polvere
+            phrases: null
+        - glosses:
+          - gloss: agitare, eccitare
+            tags:
+              - fig.
+              - anche assol.
+            props: null
+            examples:
+              - questo ronzio scuote i nervi
+              - il traffico scuote
+            phrases: null
+          - gloss: turbare, commuovere
+            tags:
+              - anche assol.
+            props: null
+            examples:
+              - le sue parole mi scossero
+              - è una scena che scuote
+            phrases: null
+    - word: scuotersi
+      pos: v. tr. pron.
+      syl: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      props:
+        aus: essere
+      senses:
+        - glosses:
+          - gloss: rimuovere o far cadere qlco. dalla propria persona scrollandosi
+            tags: null
+            props: null
+            examples:
+              - scuotersi la polvere di dosso
+            phrases: null
+    - word: scuotersi
+      pos: v. intr. pron.
+      syl: null
+      props:
+        aus: essere
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+          - gloss: scrollarsi, sobbalzare, con movimento repentino
+            tags: null
+            props: null
+            examples:
+              - a quel fragore tutti si scossero
+            phrases: null
+        - glosses:
+          - gloss: agitarsi, turbarsi, commuoversi
+            tags:
+              - fig.
+            props: null
+            examples:
+              - all'annuncio si scosse
+              - è un tipo che non si scuote mai
+            phrases: null
