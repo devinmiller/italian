@@ -89,7 +89,8 @@
           "type": ["null", "object"],
           "properties": {
             "sin": { "type": "string" },
-            "contr": { "type": "string" }
+            "contr": { "type": "string" },
+            "prep": { "enum": ["a", "in", "su", "per", "con", "da", "di", "tra", "fra"] }
           },
           "minProperties": 1,
           "additionalProperties": false

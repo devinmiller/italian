@@ -9,7 +9,8 @@
         part_pass: scòsso
       tags: 
         - italiano fondamentale
-      hints: null
+      hints:
+        - also fig. to shake
       senses:
         - glosses:
           - gloss: agitare, sbattere con violenza facendo muovere in più direzioni
@@ -18,7 +19,24 @@
             examples: 
               - il vento scuote gli alberi
               - il terremoto scuote la terra
-            phrases: null
+            phrases:
+              - phrase: scuotere le coperte, i tappeti
+                glosses:
+                  - gloss: per togliere la polvere
+              - phrase: scuotere il capo, la testa
+                glosses:
+                  - gloss: in segno di scontentezza, dubbio, o rifiuto
+              - phrase: scuotere le spalle
+                glosses:
+                  - gloss: in segno di indifferenza
+              - phrase: scuotere qlcu.
+                glosses:
+                  - gloss: scrollarlo con forza per svegliarlo
+                  - gloss: incoraggiarlo ad agire, e sim.
+                    tags:
+                      - est.
+                examples:
+                  - scuotere qlcu. dal sonno, dal torpore, dall'inerzia
         - glosses:
           - gloss: cacciare fuori agitando, togliere
             tags:
@@ -51,7 +69,8 @@
       syl: null
       tags:
         - italiano fondamentale
-      hints: null
+      hints:
+        - to shake off (oneself)
       props:
         aus: essere
       senses:
@@ -69,7 +88,9 @@
         aus: essere
       tags:
         - italiano fondamentale
-      hints: null
+      hints:
+        - to shake oneself
+        - to be shaken
       senses:
         - glosses:
           - gloss: scrollarsi, sobbalzare, con movimento repentino
@@ -77,7 +98,15 @@
             props: null
             examples:
               - a quel fragore tutti si scossero
-            phrases: null
+            phrases:
+              - phrase: scuotersi dal sonno
+                glosses:
+                  - gloss: svegliarsi bruscamente
+              - phrase: scuotersi dal sonno, dal torpore, dal letargo e sim.
+                glosses:
+                  - gloss: uscire da uno stato di inerzia, di abbattimento
+                    tags:
+                      - fig.
         - glosses:
           - gloss: agitarsi, turbarsi, commuoversi
             tags:

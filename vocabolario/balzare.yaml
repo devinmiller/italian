@@ -1,0 +1,55 @@
+- word: balzare
+  forms:
+    - word: ''
+      pos: v. intr.
+      syl: bal-zà-re
+      props:
+        aus: essere
+      tags:
+        - italiano fondamentale
+        - favole al telefono - capitolo 2
+      hints: 
+        - (saltare di scatto) to leap
+        - fig. (risaltare) to stand out
+      senses:
+        - glosses:
+            - gloss: saltare su di scatto, come fanno i corpi elastici
+              tags: null
+              props:
+                prep: su, in
+              examples:
+                - il gatto balzò sul davanzale
+                - il fantino balzò in sella
+              phrases: null
+            - gloss: lanciarsi
+              tags:
+                - est.
+              props: null
+              examples:
+                - balzare sul tram in moto
+              phrases: null
+            - gloss: muoversi repentinamente
+              tags: null
+              props:
+                prep: da
+              examples:
+                - balzare dalla poltrona
+              phrases:
+                - phrase: balzare di sella
+                  glosses:
+                    - gloss: saltare giù con un balzo
+                      tags: null
+                  examples:
+                    - balzò di sella e legò il cavallo
+        - glosses:
+          - gloss: risaltare con assoluta evidenza
+            tags:
+              - fig.
+            props: null
+            examples: null
+            phrases:
+              - phrase: balzare agli occhi
+                glosses:
+                  - gloss: apparire evidente
+                    tags: null
+                examples: null

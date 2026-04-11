@@ -1,0 +1,29 @@
+- word: optare
+  forms:
+    - word: ''
+      pos: v. intr.
+      syl: op-tà-re
+      props:
+        pres: io òpto
+        aus: avere
+      tags:
+        - parola da salvare
+      hints: 
+        - (scegliere) to choose
+        - to opt (for)
+      senses:
+        - glosses:
+          - gloss: scegliere tra due o più possibili soluzioni, tra due o più alternative
+            tags: null
+            props:
+              prep: per
+            examples:
+              - optai per il liceo classico, visto che ero debole in matematica
+            phrases: null
+        - glosses:
+          - gloss: acquistare con un'opzione
+            tags:
+              - borsa
+            props: null
+            examples: null
+            phrases: null
