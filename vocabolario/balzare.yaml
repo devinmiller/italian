@@ -16,7 +16,9 @@
             - gloss: saltare su di scatto, come fanno i corpi elastici
               tags: null
               props:
-                prep: su, in
+                prep: 
+                  - su
+                  - in
               examples:
                 - il gatto balzò sul davanzale
                 - il fantino balzò in sella
@@ -31,7 +33,8 @@
             - gloss: muoversi repentinamente
               tags: null
               props:
-                prep: da
+                prep: 
+                  - da
               examples:
                 - balzare dalla poltrona
               phrases:

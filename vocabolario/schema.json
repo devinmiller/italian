@@ -90,7 +90,11 @@
           "properties": {
             "sin": { "type": "string" },
             "contr": { "type": "string" },
-            "prep": { "enum": ["a", "in", "su", "per", "con", "da", "di", "tra", "fra"] }
+            "prep": { 
+              "type": "array",
+              "items": { "enum": ["a", "in", "su", "per", "con", "da", "di", "tra", "fra"] },
+              "minItems": 1
+            }
           },
           "minProperties": 1,
           "additionalProperties": false

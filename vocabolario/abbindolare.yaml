@@ -1,0 +1,27 @@
+- word: abbindolare
+  forms:
+    - word: ''
+      pos: v. tr.
+      syl: ab-bin-do-là-re
+      props:
+        pres: io abbìndolo
+        aus: avere
+      tags:
+        - parola da salvare
+      hints: null
+      senses:
+        - glosses:
+          - gloss: porre la matassa sul bindolo per fare il gomitolo
+            tags:
+              - raro
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: imbrogliare, ingannare
+            tags:
+              - fig.
+            props: null
+            examples:
+              - si è fatto abbindolare da quel truffatore
+            phrases: null

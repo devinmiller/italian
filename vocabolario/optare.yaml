@@ -16,7 +16,8 @@
           - gloss: scegliere tra due o più possibili soluzioni, tra due o più alternative
             tags: null
             props:
-              prep: per
+              prep: 
+                - per
             examples:
               - optai per il liceo classico, visto che ero debole in matematica
             phrases: null
