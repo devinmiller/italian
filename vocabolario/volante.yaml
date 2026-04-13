@@ -1,0 +1,36 @@
+- word: volante
+  forms:
+    - word: ''
+      pos: s. m.
+      syl: vo-làn-te
+      props: null
+      tags:
+        - italiano fondamentale
+        - macchina
+      hints: 
+        - steering wheel
+      senses:
+        - glosses:
+          - gloss: organo di forma circolare, fornito di razze per il comando di valvole e altri congegni; in particolare, quello fissato al piantone dello sterzo per la guida degli autoveicoli
+            tags:
+              - mecc.
+            props: null
+            examples:
+              - tenere il volante
+              - mettersi al volante
+            phrases:
+              - phrase: stare al volante
+                glosses:
+                  - gloss: guidare un autoveicolo
+                    tags: null
+                examples: null
+              - phrase: sport del volante
+                glosses:
+                  - gloss: automobilismo
+                    tags: null
+                examples: null
+              - phrase: asso del volante
+                glosses:
+                  - gloss: campione di automobilismo
+                    tags: null
+                examples: null

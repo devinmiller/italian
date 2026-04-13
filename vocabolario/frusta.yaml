@@ -1,0 +1,59 @@
+- word: frusta
+  forms:
+    - word: ''
+      pos: s. f.
+      syl: frù-sta
+      props: null
+      tags: null
+      hints: 
+        - (sferza) whip
+        - (da cucina) whisk
+      senses:
+        - glosses:
+          - gloss: lunga striscia di cuoio o corda intrecciata, fissata all'estremità di un bastone, con cui si incitano gli animali da tiro o, spec. un tempo, si punivano gli uomini percuotendoli
+            tags: null
+            props:
+              sin: sferza
+            examples:
+              - un cavallo bizzoso che ha bisogno di frusta
+            phrases:
+              - phrase: mettere alla frusta
+                glosses:
+                  - gloss: costringere al massimo sforzo
+                    tags:
+                      - fig.
+                examples: null
+              - phrase: maneggiare, agitare la frusta
+                glosses:
+                  - gloss: censurare, criticare
+                    tags:
+                      - fig.
+                examples: null
+        - glosses:
+          - gloss: rigida disciplina, severa punizione
+            tags:
+              - fig.
+            props: null
+            examples:
+              - quel fannullone ha bisogno della frusta
+            phrases: null
+        - glosses:
+          - gloss: utensile da cucina costituito da fili metallici ripiegati e fermati al manico, usato per far montare la panna, l'albume delle uova e sim.
+            tags: null
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: strumento a percussione, costituito da due tavolette di legno con cerniera, usato in orchestra spec. nella musica del Novecento
+            tags:
+              - mus.
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: sottile filoncino di pane
+            tags:
+              - centr.
+            props: null
+            examples: null
+            phrases: null

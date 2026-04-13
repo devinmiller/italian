@@ -1,0 +1,54 @@
+- word: siepe
+  forms:
+    - word: ''
+      pos: s. f.
+      syl: siè-pe
+      props: null
+      tags:
+        - italiano fondamentale
+        - favole al telefono - capitolo 2
+      hints: 
+        - hedge
+      senses:
+        - glosses:
+          - gloss: riparo di piante, rami o materiali diversi intorno a orti, campi, giardini e sim.
+            tags: null
+            props: null
+            examples: null
+            phrases:
+              - phrase: siepe viva, naturale
+                glosses:
+                  - gloss: con piante vegetanti
+                    tags: null
+                examples: null
+              - phrase: siepe morta, artificiale
+                glosses:
+                  - gloss: con frasche, rami secchi, e sim.
+                    tags: null
+                examples: null
+              - phrase: siepe ornamentale
+                glosses:
+                  - gloss: nei giardini per segnare i limiti tra le varie parti
+                    tags: null
+                examples: null
+        - glosses:
+          - gloss: quantità di persone o cose disposte insieme in modo tale da formare un riparo, un ostacolo, un impedimento
+            tags:
+              - est.
+            props: null
+            examples:
+              - una siepe di poliziotti
+              - una siepe di baionette
+            phrases: null
+        - glosses:
+          - gloss: nelle gare ippiche, tipo di ostacolo costituito da vegetazione o arbusti
+            tags:
+              - sport
+            props: null
+            examples: null
+            phrases:
+              - phrase: tremila siepi
+                glosses:
+                  - gloss: nell'atletica leggera, classica gara con ostacoli vari, che si disputa sulla distanza di tremila metri
+                    tags: null
+                examples: null

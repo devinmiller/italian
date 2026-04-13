@@ -1,0 +1,125 @@
+- word: pelare
+  forms:
+    - word: ''
+      pos: v. tr.
+      syl: pe-là-re
+      props:
+        pres: io pélo
+        aus: avere
+      tags: null
+      hints:
+        - (patate, castagne) to peel
+        - (pollo) to pluck, (selvaggina) to skin
+        - (tagliare a zero) to scalp
+        - (lasciare senza soldi) to rip off
+      senses:
+        - glosses:
+          - gloss: privare dei peli, delle penne e sim.
+            tags: null
+            props: null
+            examples:
+              - pelare la pelle di un animale dopo averlo scuoiato
+              - pelare un pollo, un'anatra, la selvaggina
+            phrases:
+              - phrase: pelare un campo, una radura, un prato
+                glosses:
+                  - gloss: renderli totalmente privi di vegetazione
+                    tags: null
+                examples: null
+              - phrase: gatta da pelare
+                glosses:
+                  - gloss: faccenda difficile da risolvere, problematica
+                    tags:
+                      - fig.
+                examples: null
+          - gloss: radere a zero
+            tags:
+              - scherz.
+            props: null
+            examples:
+              - gli hanno pelato il cranio a rasoio
+            phrases: null
+        - glosses:
+          - gloss: sbucciare
+            tags: null
+            props: null
+            examples:
+              - pelare castagne, patate
+            phrases: null
+        - glosses:
+          - gloss: levare quasi la pelle spec. per troppo freddo (anche assol.)
+            tags:
+              - fig.
+              - anche assol.
+            props: null
+            examples:
+              - un vento gelido che pela la faccia
+              - fa un freddo che pela!
+            phrases: null
+        - glosses:
+          - gloss: lasciare senza soldi, spillando denaro o praticando prezzi troppo alti e sim.
+            tags:
+              - fig.
+              - colloq.
+            props:
+              sin: spennare
+            examples:
+              - pelare il proprio padre, i clienti, i villeggianti
+            phrases: null
+    - word: pelarsi
+      pos: v. tr. pron.
+      syl: null
+      props:
+        aus: essere
+      tags: null
+      hints:
+        - (patate, ecc.) to peel (intensive / large quantity)
+        - (caduta, striscio) to skin (abrasion), to scrape
+      senses:
+        - glosses:
+          - gloss: pelare, sbucciare (con valore intens.)
+            tags: null
+            props: null
+            examples:
+              - s'è pelato un chilo di patate
+            phrases: null
+        - glosses:
+          - gloss: spellarsi, escoriarsi
+            tags: null
+            props: null
+            examples:
+              - strisciando sull'asfalto mi sono pelato un braccio
+            phrases: null
+    - word: pelarsi
+      pos: v. intr. pron.
+      syl: null
+      props:
+        aus: essere
+      tags: null
+      hints:
+        - (perdere i capelli) to lose one's hair
+        - (spellarsi) to peel
+      senses:
+        - glosses:
+          - gloss: perdere i capelli
+            tags: null
+            props: null
+            examples:
+              - nonostante la giovane età ha già cominciato a pelarsi
+            phrases: null
+        - glosses:
+          - gloss: disperarsi
+            tags:
+              - fig.
+              - fam.
+            props: null
+            examples:
+              - Nostro padre si pelò per la paura (G. Carducci)
+            phrases: null
+        - glosses:
+          - gloss: far pelo, creparsi, detto di muro e sim.
+            tags:
+              - †
+            props: null
+            examples: null
+            phrases: null

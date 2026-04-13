@@ -35,6 +35,7 @@
             "pl_f": { "type": "string" },
             "aus": { "enum": ["avere", "essere"] },
             "pres": { "type": "string" },
+            "fut": { "type": "string" },
             "pass_rem": { "type": "string" },
             "part_pass": { "type": "string" },
             "superl": { "type": "string" },

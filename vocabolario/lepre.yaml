@@ -1,0 +1,58 @@
+- word: lepre
+  forms:
+    - word: ''
+      pos: s. f.
+      syl: lè-pre
+      props: null
+      tags:
+        - italiano fondamentale
+        - favole al telefono - capitolo 2
+        - animale
+      hints:
+        - hare
+      senses:
+        - glosses:
+          - gloss: mammifero dei Leporidi con lunghe orecchie, pelliccia in genere grigio scura, corta coda e zampe posteriori atte al salto (*Lepus*)
+            tags:
+              - zool.
+            props: null
+            examples: null
+            phrases:
+              - phrase: lepre europea
+                glosses:
+                  - gloss: dorsalmente grigiastra, bianca inferiormente, si sposta a salti ed è ricercata dai cacciatori (*Lepus europaeus*)
+                    tags: null
+                examples: null
+              - phrase: lepre di mare
+                glosses:
+                  - gloss: aplisia
+                    tags: null
+                examples: null
+              - phrase: correre come una lepre
+                glosses:
+                  - gloss: molto velocemente
+                    tags:
+                      - fig.
+                examples: null
+        - glosses:
+          - gloss: lepre meccanica, nei cinodromi, dispositivo meccanico a forma di lepre, usato per invogliare i cani alla corsa
+            tags:
+              - mecc.
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: atleta che, nelle corse di fondo e mezzofondo, fa l'andatura per favorire la realizzazione di un buon risultato cronometrico da parte di altri corridori
+            tags:
+              - sport
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: carne dell'omonimo animale ucciso, usata come vivanda
+            tags: null
+            props: null
+            examples:
+              - lepre in salmì
+              - spezzatino di lepre
+            phrases: null

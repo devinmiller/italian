@@ -1,0 +1,39 @@
+- word: gabbare
+  forms:
+    - word: ''
+      pos: v. tr.
+      syl: gab-bà-re
+      props: null
+      tags:
+        - parola da salvare
+        - reato e pena
+      hints: 
+        - to swindle, trick, dupe
+      senses:
+        - glosses:
+          - gloss: ingannare, beffare
+            tags: null
+            props: null
+            examples:
+              - gabbare gli amici
+              - gabbare gli avversari
+              - gabbare il prossimo
+            phrases: null
+    - word: gabbarsi
+      pos: v. intr. pron.
+      syl: null
+      props:
+        aus: essere
+      tags: null
+      hints:
+        - (beffarsi) to make fun of, mock
+      senses:
+        - glosses:
+          - gloss: prendersi gioco, farsi beffe
+            tags: null
+            props:
+              prep:
+                - di
+            examples:
+              - perché vi gabbate della sua timidezza?
+            phrases: null

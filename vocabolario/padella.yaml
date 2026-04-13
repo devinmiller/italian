@@ -1,0 +1,85 @@
+- word: padella
+  forms:
+    - word: ''
+      pos: s. f.
+      syl: pa-dèl-la
+      props: null
+      tags:
+        - italiano fondamentale
+        - attrezzatura da cucina
+      hints:
+        - (pentola) frying pan
+        - (per malati) bedpan
+      senses:
+        - glosses:
+          - gloss: utensile da cucina, costituito da un recipiente di forma circolare, poco profondo e munito di un lungo manico, usato spec. per friggere
+            tags: null
+            props: null
+            examples:
+              - pesce, funghi in padella
+            phrases:
+              - phrase: padella da caldarroste
+                glosses:
+                  - gloss: bucherellata
+                    tags: null
+                examples: null
+          - gloss: padellata
+            tags:
+              - est.
+            props: null
+            examples:
+              - una padella di patate fritte
+            phrases:
+              - phrase: cadere dalla padella nella brace
+                tags:
+                  - fig.
+                glosses:
+                  - gloss: passare dal male al peggio
+        - glosses:
+          - gloss: un tempo, scaldaletto in rame, con coperchio bucherellato e lungo manico
+            tags:
+              - arcaico
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: vaso di terracotta con sego e lucignolo, un tempo usato come lampada
+            tags:
+              - arcaico
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: recipiente di forma piatta, con manico, usato per far evacuare a letto i malati impossibilitati ad alzarsi
+            tags:
+              - med.
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: crogiuolo da vetraio
+            tags:
+              - tecn.
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: macchia, spec. d'unto, su abiti e sim.
+            tags:
+              - sett.
+            props: null
+            examples:
+              - una gonna piena di padelle
+            phrases: null
+        - glosses:
+          - gloss: colpo grossolanamente mancato da un cacciatore
+            tags:
+              - gerg.
+            props: null
+            examples: null
+            phrases:
+              - phrase: fare padella, fare una padella
+                glosses:
+                  - gloss: sbagliare il bersaglio
+                    tags: null
+                examples: null

@@ -1,0 +1,72 @@
+- word: sbucciare
+  forms:
+    - word: ''
+      pos: v. tr.
+      syl: sbuc-cià-re
+      props:
+        pres: io sbùccio
+        fut: io sbuccerò
+        aus: avere
+      tags: null
+      hints:
+        - (patate, castagne) to peel
+        - to skin
+        - to shell
+      senses:
+        - glosses:
+          - gloss: privare della buccia
+            tags: null
+            props: null
+            examples:
+              - sbucciare le castagne
+            phrases: null
+        - glosses:
+          - gloss: produrre un'abrasione, una piccola ferita
+            tags: null
+            props: null
+            examples:
+              - lo spigolo gli sbucciò un braccio
+            phrases: null
+    - word: sbucciarsi
+      pos: v. tr. pron.
+      syl: null
+      props:
+        aus: essere
+      tags: null
+      hints:
+        - (patate, castagne) to peel
+        - to skin
+        - to scrape
+      senses:
+        - glosses:
+          - gloss: sbucciare (con valore intens.)
+            tags: null
+            props: null
+            examples:
+              - non sei capace di sbucciarti una mela?
+            phrases: null
+        - glosses:
+          - gloss: procurarsi una ferita su una parte del corpo
+            tags:
+              - fam.
+            props: null
+            examples:
+              - cadendo, si è sbucciato il gomito
+            phrases: null
+    - word: sbucciarsi
+      pos: v. intr. pron.
+      syl: null
+      props:
+        aus: essere
+      tags: null
+      hints:
+        - to scrape
+        - to peel
+      senses:
+        - glosses:
+          - gloss: spogliarsi dell'involucro, cambiare la pelle
+            tags: null
+            props: null
+            examples:
+              - un rettile che si sbuccia a primavera
+            phrases: null

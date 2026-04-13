@@ -8,7 +8,9 @@
         aus: avere
       tags:
         - parola da salvare
-      hints: null
+        - reato e pena
+      hints: 
+        - to trick, dupe
       senses:
         - glosses:
           - gloss: porre la matassa sul bindolo per fare il gomitolo
