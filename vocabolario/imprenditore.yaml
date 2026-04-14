@@ -1,0 +1,19 @@
+- word: imprenditore
+  forms:
+    - word: ''
+      pos: s. m.
+      syl: im-pren-di-tó-re
+      props: null
+      tags:
+        - italiano fondamentale
+        - persone e professioni
+      hints: null
+      senses:
+        - glosses:
+            - gloss: chi esercita professionalmente un'attività economica organizzata al fine della produzione e dello scambio di beni o di servizi
+              tags: null
+              props: null
+              examples:
+                - piccolo imprenditore
+                - imprenditore agricolo, commerciale, industriale
+              phrases: null

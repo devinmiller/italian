@@ -1,0 +1,43 @@
+- word: brontolare
+  forms:
+    - word: ''
+      pos: v. intr.
+      syl: bron-to-là-re
+      props:
+        pres: io bróntolo
+        aus: avere
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: lagnarsi a voce più o meno bassa proferendo parole di risentimento
+              tags: null
+              props:
+                sin: borbottare
+              examples:
+                - quando è in casa non fa che brontolare
+                - brontolare contro tutto
+              phrases: null
+        - glosses:
+            - gloss: rumoreggiare, di tuono, tempesta e sim.
+              tags: null
+              props: null
+              examples:
+                - il temporale si avvicina brontolando
+              phrases: null
+    - word: ''
+      pos: v. tr.
+      syl: bron-to-là-re
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: dire tra i denti, borbottare
+              tags: null
+              props: null
+              examples:
+                - brontolare insulti
+              phrases: null

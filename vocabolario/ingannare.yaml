@@ -1,0 +1,86 @@
+- word: ingannare
+  forms:
+    - word: ''
+      pos: v. tr.
+      syl: in-gan-nà-re
+      props: null
+      tags:
+        - italiano fondamentale
+        - reato e pena
+      hints: null
+      senses:
+        - glosses:
+            - gloss: indurre in errore mediante imbrogli, raggiri e sim.
+              tags: null
+              props: null
+              examples:
+                - quel negoziante inganna i clienti
+              phrases: null
+            - gloss: frodare, truffare
+              tags: null
+              props: null
+              examples:
+                - ingannare il fisco con false dichiarazioni
+                - ha ingannato molte persone con assegni a vuoto
+              phrases: null
+            - gloss: tradire un impegno di fedeltà
+              tags: null
+              props: null
+              examples:
+                - ingannare il marito, la moglie
+              phrases: null
+            - gloss: trarre in errore
+              tags:
+                - anche assol.
+              props: null
+              examples:
+                - l'apparenza inganna
+                - «guardate quanto gli uomini ingannano loro medesimi» (F. Guicciardini)
+              phrases: null
+            - gloss: sorprendere, spiazzare
+              tags: null
+              props: null
+              examples:
+                - ingannare il difensore con una finta
+              phrases: null
+        - glosses:
+            - gloss: deludere
+              tags: null
+              props: null
+              examples:
+                - ingannare le speranze, le attese, la fiducia di qlcu.
+              phrases: null
+            - gloss: eludere, vanificare
+              tags: null
+              props: null
+              examples:
+                - ingannare la vigilanza
+              phrases: null
+        - glosses:
+            - gloss: fig. cercare di attenuare sensazioni sgradevoli
+              tags:
+                - fig.
+              props: null
+              examples:
+                - ingannare l'attesa
+                - ingannare il tempo leggendo il giornale
+                - ingannare la fame
+              phrases: null
+    - word: ingannarsi
+      pos: v. intr. pron.
+      syl: in-gan-nà-rsi
+      props:
+        aus: essere
+      tags:
+        - italiano fondamentale
+        - reato e pena
+      hints: null
+      senses:
+        - glosses:
+            - gloss: sbagliarsi, prendere un abbaglio, giudicare falsamente
+              tags: null
+              props: null
+              examples:
+                - ingannarsi nel giudizio su qlco.
+                - se non m'inganno, abbiamo sbagliato strada
+              phrases: null

@@ -1,0 +1,27 @@
+- word: inondazione
+  forms:
+    - word: ''
+      pos: s. f.
+      syl: i-non-da-zió-ne
+      props: null
+      tags:
+        - italiano fondamentale
+        - meteo e clima
+      hints: null
+      senses:
+        - glosses:
+            - gloss: allagamento, alluvione
+              tags: null
+              props: null
+              examples:
+                - le inondazioni periodiche del Nilo
+                - l'inondazione di un territorio a scopo di difesa
+              phrases: null
+        - glosses:
+            - gloss: grande abbondanza
+              tags:
+                - fig.
+              props: null
+              examples:
+                - c'è una vera inondazione di turisti
+              phrases: null

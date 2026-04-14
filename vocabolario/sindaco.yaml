@@ -1,0 +1,27 @@
+- word: sindaco
+  forms:
+    - word: ''
+      pos: s. m.
+      syl: sìn-da-co
+      props:
+        pl_m: "-ci"
+        f: "-a"
+      tags:
+        - italiano fondamentale
+        - persone e professioni
+      hints: null
+      senses:
+        - glosses:
+            - gloss: capo dell'amministrazione comunale, eletto direttamente dai cittadini; è anche ufficiale del governo per determinate funzioni (liste di leva, anagrafe, igiene ecc.)
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: nelle società per azioni, professionista che ha l'obbligo di controllare l'amministrazione e vigilare sull'osservanza della legge e dell'atto costitutivo
+              tags:
+                - spec. al pl.
+                - dir.
+              props: null
+              examples: null
+              phrases: null

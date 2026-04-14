@@ -4,7 +4,8 @@
       pos: s. f.
       syl: frù-sta
       props: null
-      tags: null
+      tags:
+        - attrezzatura da cucina 
       hints: 
         - (sferza) whip
         - (da cucina) whisk

@@ -6,7 +6,8 @@
       props:
         pres: io pélo
         aus: avere
-      tags: null
+      tags:
+        - italiano fondamentale
       hints:
         - (patate, castagne) to peel
         - (pollo) to pluck, (selvaggina) to skin
@@ -71,7 +72,8 @@
       syl: null
       props:
         aus: essere
-      tags: null
+      tags:
+        - italiano fondamentale
       hints:
         - (patate, ecc.) to peel (intensive / large quantity)
         - (caduta, striscio) to skin (abrasion), to scrape
@@ -95,7 +97,8 @@
       syl: null
       props:
         aus: essere
-      tags: null
+      tags:
+        - italiano fondamentale
       hints:
         - (perdere i capelli) to lose one's hair
         - (spellarsi) to peel

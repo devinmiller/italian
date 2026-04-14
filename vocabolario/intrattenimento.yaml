@@ -1,0 +1,30 @@
+- word: intrattenimento
+  forms:
+    - word: ''
+      pos: s. m.
+      syl: in-trat-te-ni-mén-to
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: l'intrattenere
+              tags:
+                - raro
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: divertimento, passatempo
+              tags:
+                - est.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: apparecchio di intrattenimento, strumento per il gioco d'azzardo lecito, conforme ai requisiti di legge
+              tags:
+                - dir.
+              props: null
+              examples: null
+              phrases: null

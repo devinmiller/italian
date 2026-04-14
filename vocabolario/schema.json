@@ -33,6 +33,7 @@
           "properties": {
             "pl_m": { "type": "string" },
             "pl_f": { "type": "string" },
+            "f": { "type": "string" },
             "aus": { "enum": ["avere", "essere"] },
             "pres": { "type": "string" },
             "fut": { "type": "string" },
