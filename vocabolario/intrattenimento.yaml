@@ -5,7 +5,8 @@
       syl: in-trat-te-ni-mén-to
       props: null
       tags: null
-      hints: null
+      hints:
+        - entertainment
       senses:
         - glosses:
             - gloss: l'intrattenere

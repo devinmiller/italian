@@ -1,0 +1,35 @@
+- word: tronfio
+  forms:
+    - word: ''
+      pos: agg.
+      syl: trón-fio
+      props:
+        pl_m: '-i'
+      tags:
+        - parola da salvare
+      hints:
+        - (persona) conceited
+        - (parole) pompous 
+      senses:
+        - glosses:
+          - gloss: che è borioso, gonfio di superbia, pieno di sé e sim.
+            tags: null
+            props: null
+            examples:
+              - camminava tutto tronfio e pettoruto
+            phrases: null
+          - gloss: che rivela presunzione, tracotanza
+            tags:
+              - est.
+            props: null
+            examples: null
+            phrases: null
+        - glosses:
+          - gloss: di ciò che è troppo ampolloso, ridondante e sim.
+            tags:
+              - est.
+            props: null
+            examples:
+              - stile tronfio
+              - parole tronfie
+            phrases: null

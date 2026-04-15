@@ -1,0 +1,20 @@
+- word: scontroso
+  forms:
+    - word: ''
+      pos: agg. e s .m.
+      syl: scon-tró-so
+      props:
+        f: '-a'
+      tags: null
+      hints:
+        - (atteggiamento, carattere) surly
+      senses:
+        - glosses:
+            - gloss: che (o chi) ha un carattere poco socievole, è facile a offendersi, a irritarsi, a contraddire
+              tags: null
+              props:
+                sin: ombroso
+              examples:
+                - un ragazzo scontroso
+                - non fare la scontrosa
+              phrases: null

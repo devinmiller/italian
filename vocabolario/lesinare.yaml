@@ -1,0 +1,51 @@
+- word: lesinare
+  forms:
+    - word: ''
+      pos: v. tr.
+      syl: le-si-nà-re
+      props:
+        pres: io lésino
+        aus: avere
+      tags:
+        - parola da salvare
+      hints:
+        - to skimp (on something)
+      senses:
+        - glosses:
+            - gloss: spendere il meno possibile, cercare di non spendere
+              tags: null
+              props: null
+              examples:
+                - lesinare il centesimo
+              phrases: null
+            - gloss: limitare al massimo
+              tags:
+                - fig.
+              props: null
+              examples: null
+              phrases:
+                - phrase: non lesinare
+                  glosses:
+                    - gloss: offrire largamente
+                      tags:
+                        - fig.
+                  examples: 
+                    - non lesinare consigli
+                    - un film che non lesina immagini crude
+    - word: ''
+      pos: v. intr.
+      syl: le-si-nà-re
+      props:
+        aus: avere
+      tags:
+        - parola da salvare
+      hints:
+        - to skimp
+      senses:
+        - glosses:
+            - gloss: risparmiare il più possibile, fino alla tirchieria
+              tags: null
+              props: null
+              examples:
+                - lesinare sul mangiare, sulle spese
+              phrases: null

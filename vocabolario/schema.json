@@ -26,7 +26,7 @@
       "type": "object",      
       "properties": {
         "word": { "type": "string" },
-        "pos": { "enum": ["s. m.", "s. f.", "agg.", "v. tr.", "v. intr.", "v. tr. pron.", "v. intr. pron.", "v. rifl."] },
+        "pos": { "enum": ["s. m.", "s. f.", "agg.", "v. tr.", "v. intr.", "v. tr. pron.", "v. intr. pron.", "v. rifl.", "agg. e s. m."] },
         "syl": { "type": ["null", "string"] },
         "props": {
           "type": ["null", "object"],

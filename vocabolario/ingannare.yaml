@@ -7,7 +7,11 @@
       tags:
         - italiano fondamentale
         - reato e pena
-      hints: null
+      hints:
+        - (indurre in errore) to deceive
+        - (cliente, amici) to deceive, (marito, moglie) to cheat on
+        - fig. (speranza, fiducia) to betray
+        - fig. (attesa, nola) to while away
       senses:
         - glosses:
             - gloss: indurre in errore mediante imbrogli, raggiri e sim.
@@ -74,7 +78,8 @@
       tags:
         - italiano fondamentale
         - reato e pena
-      hints: null
+      hints:
+        - (sbagliarsi) to be mistaken
       senses:
         - glosses:
             - gloss: sbagliarsi, prendere un abbaglio, giudicare falsamente
