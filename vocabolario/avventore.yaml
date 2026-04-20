@@ -1,0 +1,21 @@
+- word: avventore
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: av-ven-tó-re
+      props:
+        f: -trice
+      tags:
+        - parola da salvare
+        - persone e professioni
+      hints:
+        - (cliente abituale) regular
+      senses:
+        - glosses:
+            - gloss: cliente abituale di un negozio o di un locale pubblico
+              tags: null
+              props: null
+              examples:
+                - il locale è pieno di avventori
+              phrases: null

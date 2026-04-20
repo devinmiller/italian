@@ -1,7 +1,8 @@
 - word: lepre
   forms:
     - word: ''
-      pos: s. f.
+      pos: 
+        - s. f.
       syl: lè-pre
       props: null
       tags:

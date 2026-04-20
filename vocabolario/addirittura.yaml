@@ -1,0 +1,37 @@
+- word: addirittura
+  forms:
+    - word: ''
+      pos:
+        - avv.
+      syl: ad-di-rit-tù-ra
+      props: null
+      tags:
+        - italiano fondamentale
+        - parola da ricordare
+      hints:
+        - (perfino) even
+        - (veramente) [~!] really!
+      senses:
+        - glosses:
+            - gloss: perfino, senz'altro
+              tags: null
+              props: null
+              examples:
+                - è addirittura mostruoso quello che dici
+                - voi calpestate addirittura ogni principio
+                - sembra che il tempo si sia addirittura fermato
+              phrases: null
+            - gloss: nientedimeno
+              tags:
+                - enfat.
+              props: null
+              examples:
+                - ti sei messo addirittura due maglioni!
+              phrases: null
+        - glosses:
+            - gloss: direttamente
+              tags: null
+              props: null
+              examples:
+                - è meglio che ci troviamo addirittura alla stazione
+              phrases: null

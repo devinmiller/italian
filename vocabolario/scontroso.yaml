@@ -1,7 +1,9 @@
 - word: scontroso
   forms:
     - word: ''
-      pos: agg. e s .m.
+      pos: 
+        - agg.
+        - s. m.
       syl: scon-tró-so
       props:
         f: '-a'

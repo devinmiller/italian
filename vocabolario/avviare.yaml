@@ -1,14 +1,16 @@
 - word: avviare
   forms:
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: av-vi-à-re
       props:
         pres: io avvìo
       tags:
         - italiano fondamentale
       hints:
-        - (indirizzare) to direct, to lead
+        - (indirizzare) to direct, lead
+        - "[~ qlcu a qlco] to direct sb toward sth"
         - (mettere in moto) to start, to put in motion
         - (dare inizio a) to start up
       senses:
@@ -45,4 +47,46 @@
               - phrase: avviare il fuoco
                 glosses:
                   - gloss: accenderlo, appiccarlo
+        - glosses:
+          - gloss: mettere in moto, in funzione
+            tags: null
+            props: null
+            examples:
+              - avviare il motore, il computer
+            phrases: null
+          - gloss: in tipografia, provvedere all'avviamento
+            tags: null
+            props: null
+            examples:
+              - avviare una macchina da stampa
+            phrases: null
+    - word: avviarsi
+      pos: 
+        - v. intr. pron.
+      syl: av-vi-àr-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - (dirigersi, incamminarsi) to set off
+        - fig. (stare per) [~ a fare qlco] to be about to do sth
+      senses:
+        - glosses:
+          - gloss: mettersi in via, incamminarsi
+            tags: null
+            props: null
+            examples:
+              - si avviarono di corsa verso l'uscita
+              - avviarsi alla fine, al trionfo
+            phrases: null
+        - glosses:
+          - gloss: essere sul punto di, stare per
+            tags:
+              - fig.
+            props:
+              prep: a, anche seguito da inf.
+            examples:
+              - si è già avviato alla conclusione del suo intervento
+              - si avvia a diventare un ottimo chirurgo
+            phrases: null
       

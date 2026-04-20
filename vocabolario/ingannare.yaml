@@ -1,7 +1,8 @@
 - word: ingannare
   forms:
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: in-gan-nà-re
       props: null
       tags:
@@ -12,6 +13,7 @@
         - (cliente, amici) to deceive, (marito, moglie) to cheat on
         - fig. (speranza, fiducia) to betray
         - fig. (attesa, nola) to while away
+        - "[~ il tempo] to pass the time"
       senses:
         - glosses:
             - gloss: indurre in errore mediante imbrogli, raggiri e sim.
@@ -71,7 +73,8 @@
                 - ingannare la fame
               phrases: null
     - word: ingannarsi
-      pos: v. intr. pron.
+      pos: 
+        - v. intr. pron.
       syl: in-gan-nà-rsi
       props:
         aus: essere

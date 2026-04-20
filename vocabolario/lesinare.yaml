@@ -1,7 +1,8 @@
 - word: lesinare
   forms:
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: le-si-nà-re
       props:
         pres: io lésino
@@ -9,7 +10,8 @@
       tags:
         - parola da salvare
       hints:
-        - to skimp (on something)
+        - to skimp
+        - "[~ il centesimo] to count the pennies"
       senses:
         - glosses:
             - gloss: spendere il meno possibile, cercare di non spendere
@@ -33,7 +35,8 @@
                     - non lesinare consigli
                     - un film che non lesina immagini crude
     - word: ''
-      pos: v. intr.
+      pos: 
+        - v. intr.
       syl: le-si-nà-re
       props:
         aus: avere
@@ -41,6 +44,7 @@
         - parola da salvare
       hints:
         - to skimp
+        - "[~ su qlco] to skimp on sth"
       senses:
         - glosses:
             - gloss: risparmiare il più possibile, fino alla tirchieria

@@ -1,13 +1,17 @@
 - word: sosta
   forms:
     - word: ''
-      pos: s. f.
+      pos: 
+        - s. f.
       syl: sò-sta
       props: null
       tags:
         - italiano fondamentale
       hints:
         - (fermata) stop, halt
+        - "[~ limitata] restricted parking"
+        - "[divieto di ~] no parking"
+        - "[parcheggiare in sosta vietata] to park in a no parking area"
         - (pausa, interruzione) pause, break
       senses:
         - glosses:

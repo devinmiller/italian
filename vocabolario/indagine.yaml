@@ -1,0 +1,37 @@
+- word: indagine
+  forms:
+    - pos:
+        - s. f.
+      syl: in-dà-gi-ne
+      props: null
+      tags:
+        - italiano fondamentale
+        - reato e pena
+      hints: null
+      senses:
+        - glosses:
+            - gloss: ricerca diligente, sistematica e approfondita
+              props: null
+              tags: null
+              examples:
+                - compiere un'indagine per scoprire le cause di un fenomeno
+              phrases: null
+            - gloss: studio, analisi
+              props: null
+              tags: null
+              examples:
+                - indagine storica, filosofica
+              phrases: null
+            - gloss: inchiesta
+              props: null
+              tags: null
+              examples:
+                - l'indagine poliziesca è fallita
+              phrases: null
+        - glosses:
+            - gloss: investigazione
+              props: null
+              tags: null
+              examples:
+                - le indagini della polizia proseguono
+              phrases: null

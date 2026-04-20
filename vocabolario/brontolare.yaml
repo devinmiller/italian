@@ -1,7 +1,8 @@
 - word: brontolare
   forms:
     - word: ''
-      pos: v. intr.
+      pos: 
+        - v. intr.
       syl: bron-to-là-re
       props:
         pres: io bróntolo
@@ -29,7 +30,8 @@
                 - il temporale si avvicina brontolando
               phrases: null
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: bron-to-là-re
       props: null
       tags:

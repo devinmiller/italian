@@ -1,0 +1,29 @@
+- word: perfino
+  forms:
+    - word: ''
+      pos:
+        - avv.
+      syl: per-fì-no
+      props: null
+      tags:
+        - italiano fondamentale
+        - parola da ricordare
+      hints: 
+        - (persino)even
+      senses:
+        - glosses:
+            - gloss: finanche, addirittura (esprime un limite massimo di possibilità)
+              tags: null
+              props: null
+              examples:
+                - perfino suo fratello lo respinge
+                - lo ha ammesso perfino lui
+                - perfino un bambino lo capisce
+              phrases: null
+        - glosses:
+            - gloss: anche, solamente
+              tags: null
+              props: null
+              examples:
+                - è vergogna perfino pensarlo
+              phrases: null

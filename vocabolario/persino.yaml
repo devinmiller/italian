@@ -1,0 +1,19 @@
+- word: persìno
+  forms:
+    - word: ''
+      pos:
+        - avv.
+      syl: per-sì-no
+      props: null
+      tags:
+        - italiano fondamentale
+        - parola da ricordare
+      hints:
+        - (perfino) even
+      senses:
+        - glosses:
+            - gloss: perfino
+              tags: null
+              props: null
+              examples: null
+              phrases: null

@@ -1,7 +1,8 @@
 - word: gabbare
   forms:
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: gab-bà-re
       props: null
       tags:
@@ -20,7 +21,8 @@
               - gabbare il prossimo
             phrases: null
     - word: gabbarsi
-      pos: v. intr. pron.
+      pos: 
+        - v. intr. pron.
       syl: null
       props:
         aus: essere

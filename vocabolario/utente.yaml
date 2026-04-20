@@ -1,0 +1,35 @@
+- word: utente
+  forms:
+    - word: utènte
+      pos:
+        - s. m.
+        - s. f.
+      syl: u-tèn-te
+      props: null
+      tags:
+        - persone e professioni
+      hints:
+        - user, consumer, subscriber
+        - (~ finale) end user
+      senses:
+        - glosses:
+            - gloss: chi usa un bene o un servizio
+              tags: null
+              props: null
+              examples:
+                - gli utenti della strada
+                - della televisione
+                - della Rete
+              phrases:
+                - phrase: utente finale
+                  glosses:
+                    - gloss: il destinatario ultimo di un bene o di un servizio
+                      tags: null
+        - glosses:
+            - gloss: chi usa un comune patrimonio culturale, sociale o spirituale
+              tags:
+                - est.
+              props: null
+              examples:
+                - gli utenti della lingua italiana
+              phrases: null

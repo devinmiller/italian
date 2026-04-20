@@ -1,7 +1,8 @@
 - word: siepe
   forms:
     - word: ''
-      pos: s. f.
+      pos: 
+        - s. f.
       syl: siè-pe
       props: null
       tags:

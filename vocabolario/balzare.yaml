@@ -1,7 +1,8 @@
 - word: balzare
   forms:
     - word: ''
-      pos: v. intr.
+      pos: 
+        - v. intr.
       syl: bal-zà-re
       props:
         aus: essere
@@ -10,7 +11,11 @@
         - favole al telefono - capitolo 2
       hints: 
         - (saltare di scatto) to leap
+        - "[~ giù da qlco] to leap down from sth"
+        - "[~ giù dal letto] to leap out of bed"
+        - "[~ in piedi] to leap to one's feet"
         - fig. (risaltare) to stand out
+        - "[~ agli occhi] to be obvious"
       senses:
         - glosses:
             - gloss: saltare su di scatto, come fanno i corpi elastici

@@ -1,0 +1,42 @@
+- word: alluvione
+  forms:
+    - word: ''
+      pos:
+        - s. f.
+      syl: al-lu-vió-ne
+      props: null
+      tags:
+        - italiano fondamentale
+        - meteo e clima
+      hints:
+        - fig. (inondazione) flood
+      senses:
+        - glosses:
+            - gloss: straripamento dei fiumi con allagamento dei terreni circostanti
+              tags: null
+              props:
+                sin: inondazione
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: sovrabbondanza, quantità eccessiva
+              tags:
+                - fig.
+              props: null
+              examples:
+                - un'alluvione di romanzi gialli, di serie televisive
+              phrases: null
+        - glosses:
+            - gloss: ogni deposito di detriti trasportati da corsi d'acqua superficiali
+              tags:
+                - geol.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: accumulo di terre portate dalla corrente fluviale, che accresce gradatamente i fondi rivieraschi e appartiene ai proprietari di questi
+              tags:
+                - dir.
+              props: null
+              examples: null
+              phrases: null

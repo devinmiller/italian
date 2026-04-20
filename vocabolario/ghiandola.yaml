@@ -1,7 +1,8 @@
 - word: ghiandola
   forms:
     - word: ''
-      pos: s. f.
+      pos: 
+        - s. f.
       syl: ghiàn-do-la
       props: null
       tags: null

@@ -1,7 +1,8 @@
 - word: decollo
   forms:
     - word: ''
-      pos: s. m.
+      pos: 
+        - s. m.
       syl: de-còl-lo
       props: null
       tags: null

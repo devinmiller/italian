@@ -26,7 +26,23 @@
       "type": "object",      
       "properties": {
         "word": { "type": "string" },
-        "pos": { "enum": ["s. m.", "s. f.", "agg.", "v. tr.", "v. intr.", "v. tr. pron.", "v. intr. pron.", "v. rifl.", "agg. e s. m."] },
+        "pos": { 
+          "type": "array",  
+          "items": { 
+            "enum": [
+              "s. m.", 
+              "s. f.", 
+              "agg.", 
+              "avv.", 
+              "v. tr.", 
+              "v. intr.", 
+              "v. tr. pron.", 
+              "v. intr. pron.", 
+              "v. rifl."
+            ] 
+          },
+          "minItems": 1
+        },
         "syl": { "type": ["null", "string"] },
         "props": {
           "type": ["null", "object"],
@@ -34,7 +50,13 @@
             "pl_m": { "type": "string" },
             "pl_f": { "type": "string" },
             "f": { "type": "string" },
-            "aus": { "enum": ["avere", "essere"] },
+            "aus": { 
+              "enum": [
+                "avere",
+                "essere",
+                "avere o essere"
+              ]
+            },
             "pres": { "type": "string" },
             "fut": { "type": "string" },
             "pass_rem": { "type": "string" },
@@ -94,7 +116,21 @@
             "contr": { "type": "string" },
             "prep": { 
               "type": "array",
-              "items": { "enum": ["a", "in", "su", "per", "con", "da", "di", "tra", "fra"] },
+              "items": { 
+                "enum": [
+                  "a", 
+                  "a, anche seguito da inf.", 
+                  "in", 
+                  "su", 
+                  "per", 
+                  "con", 
+                  "da", 
+                  "di", 
+                  "di, anche seguito da inf.", 
+                  "tra", 
+                  "fra"
+                ]
+              },
               "minItems": 1
             }
           },

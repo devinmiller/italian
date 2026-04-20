@@ -1,7 +1,8 @@
 - word: fiacco
   forms:
     - word: ''
-      pos: agg.
+      pos: 
+        - agg.
       syl: fiàc-co
       props:
         pl_m: -chi

@@ -1,0 +1,105 @@
+- word: rallentare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: ral-len-tà-re
+      props:
+        pres: io rallènto
+      tags:
+        - italiano fondamentale
+      hints:
+        - (rendere più lento) slow down
+        - "[~ il passo] to slow down the pace"
+        - fig. (diventare meno intenso) to slacken
+      senses:
+        - glosses:
+            - gloss: rendere lento, meno veloce
+              tags: null
+              props: null
+              examples:
+                - rallentare la corsa
+              phrases: null
+            - gloss: rendere meno teso, allentare
+              tags:
+                - raro
+              props: null
+              examples:
+                - rallentare una corda
+              phrases: null
+        - glosses:
+            - gloss: diminuire di intensità, attenuare
+              tags:
+                - fig.
+              props: null
+              examples:
+                - rallentare la sorveglianza
+              phrases:
+                - phrase: rallentare le visite
+                  tags: null
+                  glosses:
+                    - gloss: renderle meno frequenti, diradarle
+                  examples: null
+        - glosses:
+            - gloss: indicazione agogica equivalente al rallentando
+              tags:
+                - mus.
+                - raro
+              props:
+                contr: accelerare
+              examples: null
+              phrases: null
+    - word: ''
+      pos:
+        - v. intr.
+      syl: null
+      props:
+        pres: io rallènto
+        aus: avere nel sign. 1, avere o essere nel sign. 2
+      tags:
+        - italiano fondamentale
+      hints:
+        - to slow down
+      senses:
+        - glosses:
+            - gloss: diminuire la velocità
+              tags: null
+              props: null
+              examples:
+                - il treno ha rallentato
+                - c'è un incrocio, meglio rallentare
+              phrases: null
+        - glosses:
+            - gloss: diventare più lento, più raro o meno intenso
+              tags:
+                - fig.
+              props: null
+              examples:
+                - la crescita economica è rallentata
+                - il suo entusiasmo si è molto rallentato
+              phrases: null
+    - word: rallentarsi
+      pos:
+        - v. intr. pron.
+      syl: null
+      props:
+        aus: essere
+      tags:
+        - italiano fondamentale
+      hints:
+        - to slow down
+      senses:
+        - glosses:
+            - gloss: diminuire la velocità
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: diventare più lento, più raro o meno intenso
+              tags:
+                - fig.
+              props: null
+              examples:
+                - il suo entusiasmo si è molto rallentato
+              phrases: null

@@ -1,7 +1,8 @@
 - word: percorrere
   forms:
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: per-cò-re-re
       props:
         coniug: come correre

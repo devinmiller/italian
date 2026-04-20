@@ -1,7 +1,8 @@
 - word: tronfio
   forms:
     - word: ''
-      pos: agg.
+      pos: 
+        - agg.
       syl: trón-fio
       props:
         pl_m: '-i'

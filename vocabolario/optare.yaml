@@ -1,7 +1,8 @@
 - word: optare
   forms:
     - word: ''
-      pos: v. intr.
+      pos: 
+        - v. intr.
       syl: op-tà-re
       props:
         pres: io òpto
@@ -10,7 +11,8 @@
         - parola da salvare
       hints: 
         - (scegliere) to choose
-        - to opt (for)
+        - to opt
+        - "[~ per qlco] to opt for sth"
       senses:
         - glosses:
           - gloss: scegliere tra due o più possibili soluzioni, tra due o più alternative

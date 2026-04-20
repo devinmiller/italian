@@ -1,0 +1,54 @@
+- word: bottino
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: bot-tì-no
+      props: null
+      tags: null
+      hints:
+        - mil. booty
+        - (di furto) loot
+      senses:
+        - glosses:
+            - gloss: preda di guerra
+              tags: null
+              props: null
+              examples:
+                - i soldati fecero gran bottino
+              phrases: null
+            - gloss: ricavato di furti, rapine e sim.
+              tags:
+                - est.
+              props: null
+              examples:
+                - i rapinatori trovarono un magro bottino
+              phrases: null
+            - gloss: frutto, risultato di un'attività
+              tags:
+                - colloq.
+                - scherz.
+              props: null
+              examples:
+                - i cacciatori sono tornati con un ricco bottino
+                - magro bottino dei ciclisti italiani in Francia
+              phrases:
+                - phrase: fare bottino pieno
+                  tags: null
+                  glosses:
+                    - gloss: nel linguaggio giornalistico, vincere
+                      tags: null
+                  examples:
+                    - la Lazio a Torino ha fatto bottino pieno
+        - glosses:
+            - gloss: sacco destinato al corredo del soldato
+              tags:
+                - milit.
+              props: null
+              examples: null
+              phrases: null
+            - gloss: il bagaglio contenuto in tale sacco
+              tags: null
+              props: null
+              examples: null
+              phrases: null

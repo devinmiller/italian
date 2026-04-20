@@ -1,7 +1,8 @@
 - word: moscio
   forms:
     - word: ''
-      pos: agg.
+      pos: 
+        - agg.
       syl: mò-scio
       props:
         pl_m: -sci

@@ -1,0 +1,39 @@
+- word: soffitto
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: sof-fìt-to
+      props: null
+      tags:
+        - italiano fondamentale
+        - strutture ed edifici
+      hints:
+        - ceiling
+      senses:
+        - glosses:
+            - gloss: superficie inferiore di un solaio o di una volta che fa da cielo a un ambiente
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: nell'alpinismo, parte di una parete rocciosa che sporge in fuori ad angolo retto
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: tangenza
+              tags:
+                - aeron.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: soffitto di cristallo
+              tags:
+                - sociol.
+              props: null
+              examples: null
+              phrases: null

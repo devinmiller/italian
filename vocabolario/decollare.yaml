@@ -1,7 +1,8 @@
 - word: decollare
   forms:
     - word: ''
-      pos: v. intr.
+      pos: 
+        - v. intr.
       syl: de-col-là-re
       props:
         aus: essere

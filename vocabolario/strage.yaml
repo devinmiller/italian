@@ -1,0 +1,58 @@
+- word: strage
+  forms:
+    - pos:
+        - s. f.
+      syl: strà-ge
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: uccisione violenta di un gran numero di persone o animali insieme
+              tags: null
+              props: null
+              examples:
+                - fare una strage
+                - menare, seminare strage
+                - la strage degli innocenti
+                - la strage delle Twin Towers nel 2001
+                - i cacciatori hanno fatto strage di lepri
+              phrases: null
+            - gloss: grandissimo numero di decessi
+              tags:
+                - est.
+              props: null
+              examples:
+                - la peste fece strage fra le popolazioni in Europa nel XIV secolo
+              phrases: null
+        - glosses:
+            - gloss: distruzione, rovina di cose
+              tags: null
+              props: null
+              examples:
+                - la strage dell'eccedenza di mele prodotte nel Ferrarese
+              phrases:
+                - phrase: fare strage di cuori
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: fare innamorare di sé molte persone
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: esito rovinoso, risultato pesantemente negativo
+              tags:
+                - fig.
+              props: null
+              examples:
+                - che strage quest'anno agli esami!
+              phrases: null
+        - glosses:
+            - gloss: grande quantità, abbondanza
+              tags:
+                - fig.
+                - fam.
+              props: null
+              examples:
+                - dopo le ultime piogge c'è stata una strage di funghi
+              phrases: null

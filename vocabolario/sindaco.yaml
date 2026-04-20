@@ -1,7 +1,8 @@
 - word: sindaco
   forms:
     - word: ''
-      pos: s. m.
+      pos: 
+        - s. m.
       syl: sìn-da-co
       props:
         pl_m: "-ci"

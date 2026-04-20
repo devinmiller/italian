@@ -1,0 +1,26 @@
+- word: soffitta
+  forms:
+    - pos:
+        - s. f.
+      syl: sof-fìt-ta
+      props: null
+      tags:
+        - italiano fondamentale
+        - strutture ed edifici
+      hints:
+        - attic
+      senses:
+        - glosses:
+            - gloss: vano subito sotto il tetto, solaio
+              props: null
+              tags: null
+              examples:
+                - mettere, relegare in soffitta
+                - ridursi ad abitare in una soffitta
+              phrases: null
+        - glosses:
+            - gloss: parte del palcoscenico al di sopra degli elementi di scena, adibita ai servizi
+              props: null
+              tags: null
+              examples: null
+              phrases: null

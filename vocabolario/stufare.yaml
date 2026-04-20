@@ -1,0 +1,58 @@
+- word: stufare
+  forms:
+    - pos:
+        - v. tr.
+      syl: stu-fà-re
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - to stew
+        - fig. (stancare) to weary
+      senses:
+        - glosses:
+            - gloss: scaldare in stufe e sim.
+              tags:
+                - raro
+              props: null
+              examples:
+                - "stufare i bozzoli, riscaldarli con vapore acqueo o aria calda per impedirne lo sfarfallamento"
+              phrases: null
+        - glosses:
+            - gloss: cuocere a fuoco lento in un recipiente coperto
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: seccare, dare fastidio, noia
+              tags:
+                - fig.
+                - colloq.
+              props: null
+              examples:
+                - mi avete stufato!
+              phrases: null
+    - word: stufarsi
+      pos:
+        - v. intr. pron.
+      syl: stu-fàr-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - to get fed up
+        - "[~ di qlcu/qlco] to get fed up with sb/sth"
+      senses:
+        - glosses:
+            - gloss: seccarsi, annoiarsi
+              tags:
+                - fig.
+                - colloq.
+              props:
+                prep:
+                  - di
+              examples:
+                - ci siamo stufati di quella musica
+                - mi sono stufato di ascoltarti
+              phrases: null

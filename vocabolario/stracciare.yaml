@@ -1,0 +1,84 @@
+- word: stracciare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: strac-cià-re
+      props:
+        pres: io stràccio
+        fut: io straccerò
+      tags: null
+      hints:
+        - (lettera) to tear up, (vestito) to tear
+        - fig. (sport) to crush
+      senses:
+        - glosses:
+            - gloss: lacerare, rompere, tirando con violenza e riducendo in brandelli
+              tags: null
+              props: null
+              examples:
+                - stracciare un vestito, un lenzuolo, un documento, una lettera
+              phrases: null
+        - glosses:
+            - gloss: sfilacciare con pettine di ferro la seta dei bozzoli
+              tags:
+                - tess.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: in una competizione, vincere dimostrando grande superiorità nei confronti degli avversari
+              tags:
+                - fig.
+                - colloq.
+              props: null
+              examples:
+                - stracciare gli avversari
+                - ha stracciato tutti
+              phrases: null
+    - word: stracciarsi
+      pos:
+        - v. tr. pron.
+      syl: null
+      props:
+        aus: essere
+      tags: null
+      hints:
+        - (lacerarsi) to tear
+      senses:
+        - glosses:
+            - gloss: produrre una lacerazione, uno strappo in qlco. che si indossa
+              tags: null
+              props: null
+              examples:
+                - mi sono stracciata la gonna
+              phrases:
+                - phrase: stracciarsi i capelli
+                  tags:
+                    - raro
+                  glosses:
+                    - gloss: strapparseli
+                      tags: null
+                  examples: null
+                - phrase: stracciarsi le vesti
+                  glosses:
+                    - gloss: disperarsi; scandalizzarsi, pronunciare espressioni di sdegno (espressione usata nei Vangeli)
+                      tags:
+                        - fig.
+                  examples: null
+    - word: stracciarsi
+      pos:
+        - v. intr. pron.
+      syl: null
+      props: null
+      tags: null
+      hints:
+        - to tear
+      senses:
+        - glosses:
+            - gloss: lacerarsi
+              tags: null
+              props: null
+              examples:
+                - il foglio si è tutto stracciato
+              phrases: null

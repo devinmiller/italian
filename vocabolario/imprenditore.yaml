@@ -1,9 +1,11 @@
 - word: imprenditore
   forms:
     - word: ''
-      pos: s. m.
+      pos: 
+        - s. m.
       syl: im-pren-di-tó-re
-      props: null
+      props:
+        f: -trice
       tags:
         - italiano fondamentale
         - persone e professioni

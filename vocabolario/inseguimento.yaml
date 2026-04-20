@@ -1,0 +1,31 @@
+- word: inseguimento
+  forms:
+    - pos:
+        - s. m.
+      syl: in-se-gui-mén-to
+      props: null
+      tags:
+        - reato e pena
+      hints: null
+      senses:
+        - glosses:
+            - gloss: azione dell'inseguire
+              tags: null
+              props: null
+              examples:
+                - cominciare l'inseguimento
+                - gettarsi all'inseguimento
+              phrases: null
+        - glosses:
+            - gloss: gara ciclistica, individuale o a squadre, in cui i concorrenti, partendo da punti opposti della pista, cercano di guadagnare vicendevolmente terreno
+              tags:
+                - sport
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: in varie tecnologie, l'azione di tenere puntato un dispositivo (un'arma, un'antenna) a un oggetto (un aereo, un satellite) in movimento
+              tags: null
+              props: null
+              examples: null
+              phrases: null

@@ -1,0 +1,43 @@
+- word: complessivo
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: com-ples-sì-vo
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: che riguarda qlco. considerata nel suo insieme
+              tags: null
+              props:
+                sin: generale, globale
+              examples:
+                - studio complessivo delle opere di un autore
+                - visione complessiva della situazione
+                - ha formulato un giudizio complessivo sugli ultimi avvenimenti
+              phrases: null
+        - glosses:
+            - gloss: totale
+              tags: null
+              props: null
+              examples:
+                - la spesa complessiva
+              phrases: null
+    - word: complessivamente
+      pos:
+        - avv.
+      syl: null
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: nell'insieme, in tutto
+              tags: null
+              props: null
+              examples: null
+              phrases: null

@@ -1,7 +1,8 @@
 - word: padella
   forms:
     - word: ''
-      pos: s. f.
+      pos: 
+        - s. f.
       syl: pa-dèl-la
       props: null
       tags:
@@ -9,6 +10,7 @@
         - attrezzatura da cucina
       hints:
         - (pentola) frying pan
+        - "[cadere dalla ~ nella brace] fig. to jump out of the frying pan into the fire"
         - (per malati) bedpan
       senses:
         - glosses:

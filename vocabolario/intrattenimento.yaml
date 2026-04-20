@@ -1,7 +1,8 @@
 - word: intrattenimento
   forms:
     - word: ''
-      pos: s. m.
+      pos: 
+        - s. m.
       syl: in-trat-te-ni-mén-to
       props: null
       tags: null

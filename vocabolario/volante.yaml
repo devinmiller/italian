@@ -1,7 +1,8 @@
 - word: volante
   forms:
     - word: ''
-      pos: s. m.
+      pos: 
+        - s. m.
       syl: vo-làn-te
       props: null
       tags:

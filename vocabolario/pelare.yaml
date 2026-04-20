@@ -1,7 +1,8 @@
 - word: pelare
   forms:
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: pe-là-re
       props:
         pres: io pélo
@@ -68,7 +69,8 @@
               - pelare il proprio padre, i clienti, i villeggianti
             phrases: null
     - word: pelarsi
-      pos: v. tr. pron.
+      pos: 
+        - v. tr. pron.
       syl: null
       props:
         aus: essere
@@ -93,7 +95,8 @@
               - strisciando sull'asfalto mi sono pelato un braccio
             phrases: null
     - word: pelarsi
-      pos: v. intr. pron.
+      pos: 
+        - v. intr. pron.
       syl: null
       props:
         aus: essere
@@ -118,11 +121,4 @@
             props: null
             examples:
               - Nostro padre si pelò per la paura (G. Carducci)
-            phrases: null
-        - glosses:
-          - gloss: far pelo, creparsi, detto di muro e sim.
-            tags:
-              - †
-            props: null
-            examples: null
             phrases: null

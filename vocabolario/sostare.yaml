@@ -1,7 +1,8 @@
 - word: sostare
   forms:
     - word: ''
-      pos: v. intr.
+      pos: 
+        - v. intr.
       syl: so-stà-re
       props:
         aus: avere

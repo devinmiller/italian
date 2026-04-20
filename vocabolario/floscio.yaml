@@ -1,7 +1,8 @@
 - word: floscio
   forms:
     - word: ''
-      pos: agg.
+      pos: 
+        - agg.
       syl: flò-scio
       props:
         pl_m: -sci

@@ -1,7 +1,8 @@
 - word: abbindolare
   forms:
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: ab-bin-do-là-re
       props:
         pres: io abbìndolo

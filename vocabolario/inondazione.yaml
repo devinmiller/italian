@@ -1,7 +1,8 @@
 - word: inondazione
   forms:
     - word: ''
-      pos: s. f.
+      pos: 
+        - s. f.
       syl: i-non-da-zió-ne
       props: null
       tags:

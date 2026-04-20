@@ -1,0 +1,46 @@
+- word: viziato
+  forms:
+    - pos:
+        - agg.
+      syl: vi-zià-to
+      props: null
+      tags: null
+      hints: 
+        - (maleducato) spoiled
+        - (aria) stale
+      senses:
+        - glosses:
+            - gloss: che ha contratto cattive abitudini in seguito a un'educazione eccessivamente indulgente
+              props: null
+              tags: null
+              examples:
+                - un bambino viziato
+              phrases: null
+            - gloss: reso imperfetto
+              props: null
+              tags:
+                - fig.
+              examples:
+                - un ragionamento viziato da una premessa errata
+              phrases: null
+        - glosses:
+            - gloss: invalido, irregolare
+              props: null
+              tags:
+                - dir.
+              examples:
+                - atto processuale viziato
+              phrases: null
+        - glosses:
+            - gloss: inquinato
+              props: null
+              tags: null
+              examples:
+                - acqua viziata
+              phrases: null
+            - gloss: pesante, irrespirabile
+              props: null
+              tags: null
+              examples:
+                - aria viziata
+              phrases: null

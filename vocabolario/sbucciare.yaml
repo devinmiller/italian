@@ -1,7 +1,8 @@
 - word: sbucciare
   forms:
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: sbuc-cià-re
       props:
         pres: io sbùccio
@@ -28,7 +29,8 @@
               - lo spigolo gli sbucciò un braccio
             phrases: null
     - word: sbucciarsi
-      pos: v. tr. pron.
+      pos: 
+        - v. tr. pron.
       syl: null
       props:
         aus: essere
@@ -54,7 +56,8 @@
               - cadendo, si è sbucciato il gomito
             phrases: null
     - word: sbucciarsi
-      pos: v. intr. pron.
+      pos: 
+        - v. intr. pron.
       syl: null
       props:
         aus: essere

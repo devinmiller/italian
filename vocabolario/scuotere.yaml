@@ -1,7 +1,8 @@
 - word: scuotere
   forms:
     - word: ''
-      pos: v. tr.
+      pos: 
+        - v. tr.
       syl: scuò-te-re
       props:
         pres: io scuòto
@@ -11,6 +12,8 @@
         - italiano fondamentale
       hints:
         - also fig. to shake
+        - "[~ le spalle] to shrug"
+        - "[~ la testa] to shake one's head"
       senses:
         - glosses:
           - gloss: agitare, sbattere con violenza facendo muovere in più direzioni
@@ -65,7 +68,8 @@
               - è una scena che scuote
             phrases: null
     - word: scuotersi
-      pos: v. tr. pron.
+      pos: 
+        - v. tr. pron.
       syl: null
       tags:
         - italiano fondamentale
@@ -82,7 +86,8 @@
               - scuotersi la polvere di dosso
             phrases: null
     - word: scuotersi
-      pos: v. intr. pron.
+      pos: 
+        - v. intr. pron.
       syl: null
       props:
         aus: essere
