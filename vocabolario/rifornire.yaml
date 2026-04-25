@@ -1,0 +1,48 @@
+- word: rifornìre
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: ri-for-nì-re
+      props:
+        pres: io rifornìsco, tu rifornìsci
+        aus: avere
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: fornire di nuovo
+              tags:
+                - raro
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: fornire, provvedere
+              tags: null
+              props: null
+              examples:
+                - rifornire qlcu. di armi, di denaro
+              phrases: null
+            - gloss: approvvigionare
+              tags: null
+              props: null
+              examples:
+                - rifornire la casa del necessario
+              phrases: null
+    - word: rifornirsi
+      pos:
+        - v. rifl.
+      syl: ri-for-nìr-si
+      props:
+        aus: essere
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: provvedersi, fornirsi di qlco.
+              tags: null
+              props: null
+              examples:
+                - mi sono appena rifornito di vino
+              phrases: null

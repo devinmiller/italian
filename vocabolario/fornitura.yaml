@@ -1,0 +1,36 @@
+- word: fornitùra
+  forms:
+    - word: ''
+      pos:
+        - s. f.
+      syl: for-ni-tù-ra
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: il fornire
+              tags: null
+              props:
+                sin: rifornimento
+              examples: null
+              phrases: null
+            - gloss: ciò che si fornisce
+              tags: null
+              props: null
+              examples:
+                - una fornitura di benzina, di carbone
+              phrases:
+                - phrase: contratto di fornitura
+                  tags: 
+                    - dir.
+                  glosses:
+                    - gloss: contratto di somministrazione
+                      tags: null
+        - glosses:
+            - gloss: quantità di merci che si forniscono o che si prende l'impegno di fornire
+              tags: null
+              props: null
+              examples:
+                - rinnovare, raddoppiare la fornitura
+              phrases: null

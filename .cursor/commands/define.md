@@ -14,5 +14,6 @@ The following are general consideration when dealing with the definitions -
 4. The † symbol indicates an archiac form and any glosses that start with this symbol should be excluded.
 5. The ♦ symbol in front of the headword indicates that the word is "italiano fondamentale" and this tag should be added to all forms of the word.
 6. The ♣ symbol in front of the headword indicates that the word is "parola da salvare" and this tag should be added to all forms of the word.
+7. The ● symbol indicates a phrase for the gloss under which it is defined, it may appear as an asterisk (*) when OCR'd.
 
 This command will be available in chat with /define

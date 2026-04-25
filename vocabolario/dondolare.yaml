@@ -1,0 +1,55 @@
+- word: dondolare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: don-do-là-re
+      props:
+        pres: io dóndolo
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: far muovere in qua e in là una cosa sospesa, in equilibrio instabile o con un unico punto d'appoggio
+              tags: null
+              props: null
+              examples:
+                - dondolare una corda, una sedia
+                - dondolare la testa, la coda
+              phrases: null
+            - gloss: cullare
+              tags: null
+              props: null
+              examples:
+                - dondolare un bambino
+              phrases: null
+    - word: ''
+      pos:
+        - v. intr.
+        - v. rifl.
+      syl: don-do-là-re
+      props:
+        aus: avere
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: muoversi oscillando o ciondolando
+              tags: null
+              props: null
+              examples:
+                - l'altalena dondola
+                - dondolare da una parte e dall'altra
+                - dondolarsi pigramente su una sedia
+              phrases: null
+        - glosses:
+            - gloss: star bighelloni, senza far niente
+              tags:
+                - fig.
+              props:
+                sin: gingillarsi, oziare
+              examples:
+                - non fa che dondolarsi tutto il giorno per la casa
+              phrases: null

@@ -1,0 +1,75 @@
+- word: fornìre
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: for-nì-re
+      props:
+        pres: io fornìsco, tu fornìsci
+        aus: avere
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: provvedere, dotare del necessario
+              tags: null
+              props:
+                prep:
+                  - di
+                sin: corredare, munire
+              examples:
+                - fornire gli sfollati di pane e generi di prima necessità
+                - fornire qlcu. di denaro, di abiti
+                - fornire l'esercito di mezzi e materiali
+                - fornire di mobili il salotto
+              phrases: null
+        - glosses:
+            - gloss: dare, procurare
+              tags: null
+              props:
+                prep:
+                  - a
+              examples:
+                - fornire cibo e coperte ai profughi
+                - fornire informazioni ai turisti bloccati all'aeroporto
+                - imponendogli di fornire ogni giorno quella data qualità di lavoro (I. Svevo)
+              phrases: null
+            - gloss: produrre, esibire
+              tags:
+                - est.
+              props: null
+              examples:
+                - fornire una prova decisiva, un alibi di ferro
+              phrases: null
+    - word: fornìrsi
+      pos:
+        - v. rifl.
+      syl: for-nìr-si
+      props:
+        aus: essere
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: effettuare il rifornimento di tutto quanto è necessario a un dato fine
+              tags: null
+              props:
+                prep:
+                  - di
+              examples:
+                - si fornirono di tutto l'occorrente per l'esperimento, per la difesa
+              phrases: null
+        - glosses:
+            - gloss: acquistare abitualmente, essere cliente
+              tags: null
+              props:
+                prep:
+                  - a
+                  - da
+                  - in
+              examples:
+                - mi fornisco sempre ai grandi magazzini
+                - fornirsi dagli ambulanti, nei migliori negozi
+              phrases: null

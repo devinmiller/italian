@@ -1,0 +1,149 @@
+- word: trascinàre
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: tra-sci-nà-re
+      props:
+        aus: avere
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: tirare facendo strisciare per terra
+              tags: null
+              props: null
+              examples:
+                - trascinare una cassa, una valigia
+              phrases:
+                - phrase: trascinare una gamba
+                  glosses:
+                    - gloss: muoverla a fatica per ferita, malattia e sim.
+                      tags: null
+                  examples: null
+                - phrase: trascinare i piedi
+                  glosses:
+                    - gloss: strascicarli, strisciarli per terra
+                      tags: null
+                  examples: null
+                - phrase: trascinare la vita
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: stentare
+                      tags: null
+                  examples: null
+            - gloss: condurre a forza o con insistenza
+              tags:
+                - est.
+              props: null
+              examples:
+                - trascinare qlcu. in tribunale
+                - lo trascinammo alla conferenza
+              phrases: null
+            - gloss: tirarsi dietro qlco.
+              tags: null
+              props: null
+              examples:
+                - il torrente ha trascinato con sé piante e capanne
+                - l'abside ha trascinato nel crollo il campanile e le volte
+              phrases: null
+        - glosses:
+            - gloss: attirare con lusinghe
+              tags: null
+              props: null
+              examples:
+                - trascinare qlcu. sulla via del male
+              phrases: null
+            - gloss: guidare, spingere
+              tags:
+                - fig.
+              props: null
+              examples:
+                - mi sono lasciato trascinare dall'istinto (G. D'Annunzio)
+              phrases:
+                - phrase: trascinare la folla
+                  glosses:
+                    - gloss: esaltarla
+                      tags: null
+                  examples: null
+            - gloss: affascinare, avvincere, sedurre (con val. assol.)
+              tags:
+                - fig.
+              props: null
+              examples:
+                - trascina tutti con la sua simpatia
+                - una musica che trascina
+              phrases: null
+        - glosses:
+            - gloss: in un programma di elaborazione testi o di grafica, spostare un elemento visualizzato sullo schermo con un dispositivo di puntamento come un mouse
+              tags:
+                - inform.
+              props: null
+              examples: null
+              phrases: null
+    - word: trascinàrsi
+      pos:
+        - v. tr. pron.
+      syl: tra-sci-nàr-si
+      props:
+        aus: essere
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: tirare qlco. facendola strisciare (con valore intens.)
+              tags: null
+              props: null
+              examples:
+                - si è trascinata la valigia fino al treno
+              phrases: null
+            - gloss: portare con sé una persona restia o affaticata
+              tags:
+                - est.
+              props: null
+              examples:
+                - si trascina il marito dappertutto (L. Pirandello)
+              phrases: null
+    - word: trascinàrsi
+      pos:
+        - v. rifl.
+      syl: tra-sci-nàr-si
+      props:
+        aus: essere
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: strisciare per terra
+              tags: null
+              props: null
+              examples:
+                - trascinarsi nel fango
+              phrases: null
+            - gloss: spostarsi con grande fatica
+              tags:
+                - est.
+              props: null
+              examples:
+                - si trascinava per casa in pigiama
+                - trascinarsi al lavoro
+                - trascinarsi verso l'uscita
+              phrases: null
+    - word: trascinàrsi
+      pos:
+        - v. intr. pron.
+      syl: tra-sci-nàr-si
+      props:
+        aus: essere
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: prolungarsi, non accennare a finire
+              tags: null
+              props:
+                sin: protrarsi
+              examples:
+                - è una controversia che si trascina da tempo
+              phrases: null

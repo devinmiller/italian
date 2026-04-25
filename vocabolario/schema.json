@@ -73,7 +73,7 @@
           "minItems": 1
         },
         "hints": {
-          "type": "array",
+          "type": ["null", "array"],
           "items": {
             "type": "string"
           },

@@ -1,0 +1,27 @@
+- word: multa
+  forms:
+    - word: ''
+      pos:
+        - s. f.
+      syl: mùl-ta
+      props: null
+      tags:
+        - italiano fondamentale
+        - reato e pena
+      hints: null
+      senses:
+        - glosses:
+            - gloss: pena pecuniaria prevista per determinati reati
+              tags:
+                - dir.
+              props: null
+              examples:
+                - infliggere una multa
+              phrases: null
+            - gloss: correntemente, ammenda
+              tags: null
+              props: null
+              examples:
+                - pagare una multa
+                - multa per divieto di sosta
+              phrases: null

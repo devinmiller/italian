@@ -1,0 +1,27 @@
+- word: idrante
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: i-drán-te
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: apparecchio installato su una tubazione d'acqua, che permette l'attacco di una lancia per l'estinzione d'incendi, annaffiamento di strade e sim.
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+            - gloss: tubo usato per lanciare getti d'acqua
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: autobotte con impianto autonomo di presa, deposito o getto d'acqua
+              tags: null
+              props: null
+              examples: null
+              phrases: null
