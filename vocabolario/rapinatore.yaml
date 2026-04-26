@@ -1,0 +1,19 @@
+- word: rapinatore
+  forms:
+    - word: rapinatore
+      pos:
+        - s. m.
+      syl: ra-pi-na-tó-re
+      props:
+        f: -trice
+      tags:
+        - reato e pena
+      hints: null
+      senses:
+        - glosses:
+            - gloss: chi compie rapine a mano armata
+              props: null
+              tags: null
+              examples:
+                - i rapinatori della banca
+              phrases: null
