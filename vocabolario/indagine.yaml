@@ -7,7 +7,9 @@
       tags:
         - italiano fondamentale
         - reato e pena
-      hints: null
+      hints:
+        - (ricerca) research
+        - (reato) investigation
       senses:
         - glosses:
             - gloss: ricerca diligente, sistematica e approfondita

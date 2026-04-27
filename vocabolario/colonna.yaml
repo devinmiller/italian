@@ -1,0 +1,216 @@
+- word: colonna
+  forms:
+    - word: ''
+      pos:
+        - s. f.
+      syl: co-lón-na
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - gener. collumn
+        - "(di automobili: nel traffico) backup, (di veicoli militari) convoy"
+        - fig. (sostegno) mainstay
+        - cin. [~ cinema] soundtrack
+      senses:
+        - glosses:
+            - gloss: elemento architettonico verticale a sezione circolare, con funzione portante o, se addossata a un muro o a un pilastro, con funzione decorativa
+              tags: null
+              props: null
+              examples:
+                - colonna dorica, ionica, corinzia
+                - colonna coclide
+              phrases: null
+            - gloss: monumento onorario o commemorativo
+              tags:
+                - est.
+              props: null
+              examples:
+                - la colonna traiana
+              phrases:
+                - phrase: colonna d'infamia
+                  tags:
+                    - stor.
+                  glosses:
+                    - gloss: colonna, cippo usato come gogna per i condannati
+                      tags: null
+                  examples: null
+                - phrase: colonna infame
+                  tags:
+                    - stor.
+                  glosses:
+                    - gloss: eretta per ricordare un fatto esecrabile, spec. quella menzionata da A. Manzoni in riferimento al processo agli untori del 1630
+                      tags: null
+                  examples: null
+            - gloss: elemento caratterizzato da un notevole sviluppo verticale, che ha funzioni di sostegno e sim.
+              tags:
+                - est.
+              props: null
+              examples: null
+              phrases:
+                - phrase: colonna d'ormeggio
+                  tags: null
+                  glosses:
+                    - gloss: tronco di colonna sulle banchine dei porti per legarvi le gomene d'ormeggio delle navi
+                      tags: null
+                  examples: null
+                - phrase: Colonne d'Ercole
+                  tags: null
+                  glosses:
+                    - gloss: i promontori di Abila e Calpe, ai lati dello stretto di Gibilterra, dove secondo la leggenda si fermò Ercole
+                      tags: null
+                    - gloss: limite invalicabile, estremo grado raggiungibile e sim.
+                      tags:
+                        - fig.
+                  examples: null
+        - glosses:
+            - gloss: appoggio, sostegno principale
+              tags:
+                - fig.
+              props: null
+              examples:
+                - è una colonna dell'azienda
+                - le colonne della società, dell'università
+              phrases: null
+            - gloss: studente universitario del terzo anno
+              tags:
+                - fig.
+                - gerg.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: quantità di materia fluida o gassosa disposta verticalmente, che si muove dal basso verso l'alto o viceversa
+              tags:
+                - est.
+              props: null
+              examples:
+                - una colonna d'acqua, di mercurio, di fuoco
+              phrases:
+                - phrase: far colonna
+                  tags: null
+                  glosses:
+                    - gloss: detto dell'innalzarsi verticalmente in volo di un volatile
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: tubazione o insieme di tubazioni verticali usate per far passare, raccogliere o contenere materiali o fluidi vari
+              tags: null
+              props: null
+              examples:
+                - colonna idraulica
+              phrases: null
+            - gloss: elemento d'impianto fatto a torre in cui si operano distillazioni separando due o più liquidi
+              tags: null
+              props: null
+              examples:
+                - colonna di distillazione, di frazionamento
+              phrases: null
+            - gloss: la sostanza che attraversa tali tubazioni o che vi è contenuta
+              tags:
+                - est.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: ciascuno dei tronchi del circuito magnetico di un trasformatore attorno ai quali si trovano gli avvolgimenti
+              tags:
+                - elettr.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: serie di elementi disposti verticalmente, spec. ordinatamente l'uno sotto l'altro
+              tags: null
+              props: null
+              examples:
+                - colonna di numeri
+                - colonna di simboli
+                - mettere in colonna le cifre
+              phrases:
+                - phrase: colonna vertebrale
+                  tags:
+                    - anat.
+                  glosses:
+                    - gloss: asse dello scheletro costituito dall'insieme delle vertebre
+                      tags: null
+                  examples: null
+                - phrase: colonna stratigrafica
+                  tags:
+                    - geol.
+                  glosses:
+                    - gloss: schema che riproduce la successione stratigrafica, misurata o interpretata, delle rocce di una data località
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: suddivisione verticale, spec. della pagina di giornale o di un libro
+              tags: null
+              props: null
+              examples:
+                - titolo a quattro, a cinque colonne
+                - le colonne di un vocabolario
+              phrases: null
+        - glosses:
+            - gloss: insieme di cose o persone disposte l'una dietro l'altra
+              tags:
+                - est.
+              props: null
+              examples:
+                - una colonna di auto, di dimostranti
+                - mettersi, sfilare in colonna
+              phrases: null
+        - glosses:
+            - gloss: formazione di manovra di attacco, di marcia, nella quale i reparti sono disposti uno dietro l'altro
+              tags:
+                - milit.
+              props: null
+              examples:
+                - una colonna di mezzi corazzati
+                - colonna, in marcia!
+              phrases:
+                - phrase: quinta colonna
+                  tags: null
+                  glosses:
+                    - gloss: complesso di elementi che, in territorio tenuto da uno dei contendenti, operano attivamente e clandestinamente a favore dell'avversario
+                      tags: null
+                    - gloss: detto di chi, all'interno di un dato ambiente, opera segretamente a favore dell'avversario, del concorrente e sim.
+                      tags:
+                        - est.
+                  examples: null
+        - glosses:
+            - gloss: gruppo d'azione all'interno di organizzazioni terroristiche
+              tags:
+                - raro
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: nel gioco della roulette, combinazione, costituita da ognuna delle tre serie di numeri incolonnati verticalmente sul tavolo da gioco, su cui si può puntare
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: colonna sonora
+              tags:
+                - cinema
+              props: null
+              examples: null
+              phrases:
+                - phrase: colonna sonora
+                  tags: null
+                  glosses:
+                    - gloss: parte della pellicola cinematografica destinata alla registrazione dei suoni
+                      tags: null
+                    - gloss: l'insieme dei suoni stessi (dialoghi, musica, rumori)
+                      tags:
+                        - est.
+                    - gloss: i brani musicali di un film
+                      tags: null
+                  examples: null
+                - phrase: colonna visiva
+                  tags: null
+                  glosses:
+                    - gloss: parte della pellicola che contiene la successione dei fotogrammi
+                      tags: null
+                  examples: null

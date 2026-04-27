@@ -6,7 +6,8 @@
       syl: i-drán-te
       props: null
       tags: null
-      hints: null
+      hints:
+        - (per incendi) fire hydrant
       senses:
         - glosses:
             - gloss: apparecchio installato su una tubazione d'acqua, che permette l'attacco di una lancia per l'estinzione d'incendi, annaffiamento di strade e sim.

@@ -1,0 +1,131 @@
+- word: ladro
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: là-dro
+      props:
+        f: ladra
+      tags:
+        - italiano fondamentale
+        - reato e pena
+      hints:
+        - thief
+      senses:
+        - glosses:
+            - gloss: chi ruba, chi commette furti
+              props: null
+              tags: null
+              examples:
+                - ladro di professione, matricolato
+                - ladro di automobili
+              phrases:
+                - phrase: ladro di strada
+                  tags: null
+                  examples: null
+                  glosses:
+                    - gloss: brigante
+                      tags: null
+                - phrase: ladro di galline, di polli
+                  tags: null
+                  examples: null
+                  glosses:
+                    - gloss: ladruncolo
+                      tags: null
+                - phrase: ladro in guanti gialli
+                  tags: null
+                  examples: null
+                  glosses:
+                    - gloss: con aspetto e modi da persona distinta
+                      tags: null
+                - phrase: essere vestito come un ladro
+                  tags: null
+                  examples: null
+                  glosses:
+                    - gloss: molto male
+                      tags: null
+                - phrase: al ladro!
+                  tags: null
+                  examples: null
+                  glosses:
+                    - gloss: grido per richiamare l'attenzione su un ladro che scappa
+                      tags: null
+                - phrase: ladro di cuori
+                  tags: null
+                  examples: null
+                  glosses:
+                    - gloss: conquistatore, rubacuori
+                      tags: null
+                - phrase: tempo da ladri
+                  tags: null
+                  examples: null
+                  glosses:
+                    - gloss: molto brutto
+                      tags: null
+                - phrase: aceto dei sette ladri
+                  tags: null
+                  examples: null
+                  glosses:
+                    - gloss: V. aceto
+                      tags: null
+        - glosses:
+            - gloss: chi richiede prezzi o compensi eccessivi
+              props: null
+              tags:
+                - est.
+              examples:
+                - quel negoziante è un ladro!
+              phrases: null
+    - word: ''
+      pos:
+        - agg.
+      syl: là-dro
+      props: null
+      tags:
+        - italiano fondamentale
+        - reato e pena
+      hints:
+        - thieving
+      senses:
+        - glosses:
+            - gloss: che ruba
+              props: null
+              tags: null
+              examples:
+                - cassiere ladro
+                - la povertà grande fa gli uomini vili, astuti, ladri (T. Campanella)
+              phrases: null
+            - gloss: disonesto
+              props: null
+              tags: null
+              examples:
+                - esercente ladro
+              phrases:
+                - phrase: occhi ladri
+                  tags:
+                    - fig.
+                    - lett.
+                  examples: null
+                  glosses:
+                    - gloss: che incantano e innamorano
+                      tags: null
+                - phrase: l'occasione fa l'uomo ladro
+                  tags:
+                    - prov.
+                  examples: null
+        - glosses:
+            - gloss: pessimo, brutto
+              props: null
+              tags:
+                - fig.
+              examples:
+                - tempo ladro
+                - giornata ladra
+              phrases: null
+            - gloss: violento
+              props: null
+              tags:
+                - raro
+              examples:
+                - sete ladra
+              phrases: null

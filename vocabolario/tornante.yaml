@@ -1,0 +1,25 @@
+- word: tornante
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: tor-nàn-te
+      props: null
+      tags: null
+      hints:
+        - hairpin curve
+      senses:
+        - glosses:
+            - gloss: curva di raccordo fra due rettifili esterna alla poligonale d'asse, formata da un arco circolare di raggio minimo consentito e da due archi di raccordo di concavità opposte
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: curva strettissima di strada di montagna
+              tags: null
+              props:
+                sin: tourniquet
+              examples:
+                - la salita presenta dei tornanti pericolosi
+              phrases: null

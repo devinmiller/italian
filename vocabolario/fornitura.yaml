@@ -1,4 +1,4 @@
-- word: fornitùra
+- word: fornitura
   forms:
     - word: ''
       pos:
@@ -6,7 +6,8 @@
       syl: for-ni-tù-ra
       props: null
       tags: null
-      hints: null
+      hints:
+        - supply
       senses:
         - glosses:
             - gloss: il fornire

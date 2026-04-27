@@ -8,7 +8,8 @@
         pres: io dóndolo
       tags:
         - italiano fondamentale
-      hints: null
+      hints:
+        - (piedi, gambe) to swing, (culla, sedia, bambino) to rock, (corda) to dangle, (testa) to nod
       senses:
         - glosses:
             - gloss: far muovere in qua e in là una cosa sospesa, in equilibrio instabile o con un unico punto d'appoggio
@@ -27,14 +28,15 @@
     - word: ''
       pos:
         - v. intr.
-        - v. rifl.
       syl: don-do-là-re
       props:
         aus: avere
       tags:
         - italiano fondamentale
-      hints: null
-      senses:
+      hints: &dondolare_hints
+        - "(muoversi oscillando: su una sedia) to rock, (sull'altalena) to swing"
+        - fig. (oziare) to laze around
+      senses: &dondolare_senses
         - glosses:
             - gloss: muoversi oscillando o ciondolando
               tags: null
@@ -53,3 +55,13 @@
               examples:
                 - non fa che dondolarsi tutto il giorno per la casa
               phrases: null
+    - word: 'dondolarsi'
+      pos:
+        - v. rifl.
+      syl: don-do-làr-si,
+      props:
+        aus: essere
+      tags:
+        - italiano fondamentale
+      hints: *dondolare_hints
+      senses: *dondolare_senses

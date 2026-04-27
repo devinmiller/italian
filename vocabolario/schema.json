@@ -51,10 +51,15 @@
             "pl_f": { "type": "string" },
             "f": { "type": "string" },
             "aus": { 
-              "enum": [
-                "avere",
-                "essere",
-                "avere o essere"
+              "oneOf": [
+                {
+                  "type": "string",
+                  "enum": ["avere", "essere", "avere o essere"]
+                },
+                {
+                  "type": "string",
+                  "pattern": "^(avere|essere|avere o essere) nel sign\\. [0-9]+(, (avere|essere|avere o essere) nel sign\\. [0-9]+)*$"
+                }
               ]
             },
             "pres": { "type": "string" },
@@ -85,7 +90,7 @@
           "minItems": 1
         }
       },
-      "required": ["pos", "syl", "props", "tags", "hints", "senses"],
+      "required": ["word","pos", "syl", "props", "tags", "hints", "senses"],
       "additionalProperties": false
     },
     "sense": {

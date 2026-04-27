@@ -84,7 +84,8 @@
             tags:
               - fig.
             props:
-              prep: a, anche seguito da inf.
+              prep: 
+                - a, anche seguito da inf.
             examples:
               - si è già avviato alla conclusione del suo intervento
               - si avvia a diventare un ottimo chirurgo

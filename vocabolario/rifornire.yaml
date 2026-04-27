@@ -8,7 +8,8 @@
         pres: io rifornìsco, tu rifornìsci
         aus: avere
       tags: null
-      hints: null
+      hints:
+        - "[~ qlcu/qlco di qlco] to supply someone/something with something"
       senses:
         - glosses:
             - gloss: fornire di nuovo
@@ -37,7 +38,8 @@
       props:
         aus: essere
       tags: null
-      hints: null
+      hints:
+        - "[~ di qlco] to stock up on something"
       senses:
         - glosses:
             - gloss: provvedersi, fornirsi di qlco.
