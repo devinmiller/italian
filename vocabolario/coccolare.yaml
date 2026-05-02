@@ -1,0 +1,53 @@
+- word: coccolare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: coc-co-là-re
+      props:
+        pres: io còccolo
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: usare modi teneri e dolci effusioni nei confronti di qlcu.
+              props: null
+              tags: null
+              examples:
+                - coccolare un bambino
+                - le piace farsi coccolare
+              phrases: null
+            - gloss: viziare, trattare con eccessivi riguardi
+              props: null
+              tags:
+                - est.
+              examples:
+                - è stato sempre coccolato dalla mamma
+              phrases:
+                - phrase: coccolarsi qlcu.
+                  tags:
+                    - anche in forma pron. (con valore intens.)
+                    - spec.
+                  glosses:
+                    - gloss: riempirlo di coccole, di tenerezze o di gentilezze
+                      tags:
+                        - est.
+                  examples: null
+    - word: coccolarsi
+      pos:
+        - v. intr. pron.
+      syl: coc-co-làr-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: crogiolarsi
+              props: null
+              tags:
+                - raro
+              examples:
+                - coccolarsi al calduccio, tra le coperte
+              phrases: null

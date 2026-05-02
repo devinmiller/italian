@@ -1,0 +1,27 @@
+- word: intransigente
+  forms:
+    - word: ''
+      pos:
+        - agg.
+        - s. m.
+        - s. f.
+      syl: in-tran-si-gèn-te
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: che (o chi) non transige e non accetta compromessi
+              tags: null
+              props: null
+              examples:
+                - intransigente nell'adempimento del proprio dovere
+                - giudice intransigente
+              phrases: null
+        - glosses:
+            - gloss: che (o chi) è irremovibile nelle proprie idee e non concede nulla alle opinioni altrui
+              tags: null
+              props: null
+              examples:
+                - un fanatico intransigente
+              phrases: null

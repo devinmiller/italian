@@ -1,0 +1,87 @@
+- word: superare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: su-pe-rà-re
+      props:
+        pres: io sùpero
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: essere superiore ad altre persone o cose per dimensioni o quantità
+              props: null
+              tags: null
+              examples:
+                - superare qlcu. in altezza
+                - superare qlcu. di statura
+                - superare qlco. in larghezza, in peso, in volume
+                - questi alberi superano gli altri
+                - la produzione supera il fabbisogno
+              phrases: null
+        - glosses:
+            - gloss: andare oltre un dato limite
+              props: null
+              tags:
+                - anche fig.
+              examples:
+                - la scala non supera i tre metri
+                - il fiume ha superato il livello di guardia
+                - superare il traguardo, il confine
+                - ha superato il limite della sopportazione
+                - questo supera le previsioni
+                - quella donna ha superato la trentina
+              phrases: null
+            - gloss: attraversare
+              props: null
+              tags: null
+              examples:
+                - superare un fiume, un fossato, uno sbarramento
+              phrases: null
+            - gloss: percorrere
+              props: null
+              tags: null
+              examples:
+                - superare grandi distanze
+              phrases: null
+            - gloss: sorpassare
+              props: null
+              tags: null
+              examples:
+                - superare un vehicle in curva
+                - superare un avversario in corsa
+              phrases: null
+            - gloss: andare oltre, al di là
+              props: null
+              tags:
+                - fig.
+              examples:
+                - superare il vecchio storicismo
+              phrases: null
+        - glosses:
+            - gloss: essere più bravo, più valente, di altri
+              props: null
+              tags:
+                - fig.
+              examples:
+                - superare qlcu. per intelligenza, per cultura
+                - superare qlcu. in astuzia, in generosità
+                - superare qlcu. nella musica
+                - in quella gara ha superato tutti gli avversari
+              phrases:
+                - phrase: superare sé stesso
+                  tags: null
+                  glosses:
+                    - gloss: ottenere un risultato o fornire una prova superiori a quelli precedenti
+                      tags: null
+                  examples:
+                    - questa sera il violinista ha superato sé stesso
+        - glosses:
+            - gloss: sostenere con successo, uscire senza danno da una situazione difficile o pericolosa
+              props: null
+              tags: null
+              examples:
+                - superare un dolore, una difficoltà, una prova, un pericolo, un ostacolo, una crisi, una malattia, un esame, un concorso
+              phrases: null

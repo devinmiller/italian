@@ -1,0 +1,60 @@
+- word: limpido
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: lìm-pi-do
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: chiaro e trasparente
+              tags: null
+              props: null
+              examples:
+                - cristallo, vino, liquore limpido
+                - acque, fonti, sorgenti limpide
+              phrases:
+                - phrase: cielo, orizzonte limpido
+                  tags: null
+                  glosses:
+                    - gloss: non offuscato da brume, nubi e sim.
+                      tags: null
+                - phrase: occhio, sguardo limpido
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: puro e sincero
+                  examples: null
+            - gloss: chiaro e sonoro
+              tags: null
+              props: null
+              examples:
+                - voce limpida
+              phrases: null
+        - glosses:
+            - gloss: spontaneo, schietto
+              tags:
+                - fig.
+              props: null
+              examples:
+                - vena limpida di poesia
+                - scrittore, stile limpido
+              phrases: null
+        - glosses:
+            - gloss: evidente, chiaro, certo
+              tags:
+                - fig.
+              props: null
+              examples:
+                - prova limpida
+              phrases: null
+            - gloss: sereno, fiducioso
+              tags:
+                - fig.
+              props: null
+              examples:
+                - animo limpido
+              phrases: null
