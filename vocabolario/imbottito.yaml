@@ -1,0 +1,59 @@
+- word: imbottito
+  forms:
+    - word: ''
+      pos:
+        - part. pass. di imbottire
+        - agg.
+      syl: im-bot-tì-to
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: nei sign. del v.
+              tags: null
+              props:
+                prep:
+                  - con
+                  - di
+              examples:
+                - un pagliericcio imbottito con foglie secche
+                - cuscino imbottito di piume
+              phrases: null
+            - gloss: riempito, pieno
+              tags:
+                - fig.
+              props:
+                prep:
+                  - di
+              examples:
+                - panino imbottito
+                - ha la testa imbottita di idee strane
+                - traversa la via imbottita di nebbia (A. Savinio)
+              phrases: null
+    - word: ''
+      pos:
+        - s. m.
+      syl: im-bot-tì-to
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: imbottitura
+              tags:
+                - raro
+              props: null
+              examples: null
+              phrases: null
+            - gloss: parte imbottita di mobili o altro
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: il settore della produzione di mobili con imbottitura, spec. poltrone e divani
+              tags: null
+              props: null
+              examples: null
+              phrases: null

@@ -1,0 +1,44 @@
+- word: esteso
+  forms:
+    - word: ''
+      pos:
+        - part. pass. di estendere
+        - agg.
+      syl: e-sté-so
+      props: null
+      tags: null
+      hints:
+        - (terreno, superficie) extesive
+        - (testo) full
+        - "[per ~] in full"
+      senses:
+        - glosses:
+            - gloss: ampio, vasto
+              props: null
+              tags: null
+              examples:
+                - un territorio esteso
+              phrases:
+                - phrase: significato esteso
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: traslato
+                - phrase: per esteso
+                  glosses:
+                    - gloss: senza abbreviazioni
+    - word: estesaménte
+      pos:
+        - avv.
+      syl: null
+      props: null
+      tags: null
+      hints:
+        - extensively, widely
+      senses:
+        - glosses:
+            - gloss: ampiamente; per esteso
+              props: null
+              tags: null
+              examples: null
+              phrases: null

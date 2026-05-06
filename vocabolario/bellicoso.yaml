@@ -6,7 +6,9 @@
       syl: bel-li-có-so
       props: null
       tags: null
-      hints: null
+      hints:
+        - "(guerrafondaio: popolo, paese) warmongering"
+        - "(battagliero: carattere, persona) belligerent"
       senses:
         - glosses:
             - gloss: incline alla guerra

@@ -1,0 +1,27 @@
+- word: divulgatore
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+        - agg.
+      syl: di-vul-ga-tó-re
+      props:
+        f: -trice
+      tags: null
+      hints:
+        - popularizer
+      senses:
+        - glosses:
+            - gloss: chi (o che) divulga
+              tags: null
+              props: null
+              examples:
+                - un divulgatore di notizie infondate
+              phrases: null
+        - glosses:
+            - gloss: chi (o che) fa opera di divulgazione
+              tags: null
+              props: null
+              examples:
+                - divulgatore di conoscenze mediche
+              phrases: null

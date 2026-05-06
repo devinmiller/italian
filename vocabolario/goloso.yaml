@@ -1,0 +1,117 @@
+- word: goloso
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: go-ló-so
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: che ha il vizio della gola
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+            - gloss: ghiotto
+              tags: null
+              props:
+                prep:
+                  - di
+              examples:
+                - goloso di dolciumi
+                - goloso di cibi piccanti
+              phrases: null
+        - glosses:
+            - gloss: avido, voglioso
+              tags:
+                - fig.
+              props: null
+              examples:
+                - goloso di pettegolezzi
+              phrases: null
+            - gloss: che manifesta bramosia, desiderio
+              tags:
+                - fig.
+              props: null
+              examples:
+                - occhi golosi
+              phrases: null
+        - glosses:
+            - gloss: appetitoso
+              tags:
+                - fig.
+              props: null
+              examples:
+                - cibo goloso
+              phrases: null
+            - gloss: che suscita grande interesse
+              tags:
+                - fig.
+              props: null
+              examples:
+                - una notizia golosa
+              phrases: null
+    - word: golosamente
+      pos:
+        - avv.
+      syl: go-lo-sa-mén-te
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: con golosità
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+    - word: golosità
+      pos:
+        - s. f. inv.
+      syl: go-lo-si-tà
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: caratteristica di chi è goloso
+              tags: null
+              props:
+                sin: ghiottoneria
+              examples:
+                - una golosità proverbiale
+              phrases: null
+        - glosses:
+            - gloss: cosa ghiotta
+              tags: null
+              props: null
+              examples:
+                - piatto pieno di golosità
+              phrases: null
+            - gloss: ciò che suscita vivo desiderio e curiosità
+              tags:
+                - fig.
+              props:
+                sin: ghiottoneria
+              examples:
+                - questa notizia è una vera golosità
+              phrases: null
+    - word: ''
+      pos:
+        - s. m.
+      syl: go-ló-so
+      props:
+        f: -a
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: persona golosa
+              tags: null
+              props: null
+              examples: null
+              phrases: null

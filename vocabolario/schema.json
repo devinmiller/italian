@@ -29,17 +29,29 @@
         "pos": { 
           "type": "array",  
           "items": { 
-            "enum": [
-              "s. m.", 
-              "s. f.", 
-              "agg.", 
-              "avv.", 
-              "v. tr.", 
-              "v. intr.", 
-              "v. tr. pron.", 
-              "v. intr. pron.", 
-              "v. rifl."
-            ] 
+            "oneOf": [
+              {
+                "enum": [
+                  "s. m.", 
+                  "s. m. inv.",
+                  "s. f.", 
+                  "s. f. inv.",
+                  "agg.", 
+                  "avv.", 
+                  "v. tr.", 
+                  "v. intr.", 
+                  "v. tr. pron.", 
+                  "v. intr. pron.", 
+                  "v. rifl.",
+                  "part. pass.",
+                  "cong."
+                ]
+              },
+              {
+                "type": "string",
+                "pattern": "^part\\. pass\\. di .+$"
+              }
+            ]
           },
           "minItems": 1
         },
@@ -133,7 +145,8 @@
                   "di", 
                   "di, anche seguito da inf.", 
                   "tra", 
-                  "fra"
+                  "fra",
+                  "che"
                 ]
               },
               "minItems": 1

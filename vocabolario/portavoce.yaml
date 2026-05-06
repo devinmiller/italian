@@ -1,0 +1,47 @@
+- word: portavoce
+  forms:
+    - word: ''
+      pos:
+        - s. m. inv.
+      syl: por-ta-vó-ce
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: megafono
+              tags:
+                - mar.
+              props: null
+              examples: null
+              phrases: null
+            - gloss: tubo metallico con imboccatura concava alle due estremità per trasmettere la voce da un punto all'altro, dalla plancia alle macchine e sim.
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+    - word: ''
+      pos:
+        - s. m. inv.
+        - s. f. inv.
+      syl: por-ta-vó-ce
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: chi parla per conto d'altri o riferisce ciò che ha sentito
+              tags:
+                - fig.
+              props: null
+              examples:
+                - non sono il suo portavoce!
+              phrases: null
+            - gloss: chi è autorizzato a rendere noto il pensiero di altri, parlando in sua vece
+              tags: null
+              props: null
+              examples:
+                - il portavoce del governo, del ministero, della presidenza
+              phrases: null

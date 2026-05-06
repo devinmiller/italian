@@ -1,0 +1,46 @@
+- word: gerarchico
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: ge-ràr-chi-co
+      props:
+        pl_m: -ci
+      tags: null
+      hints:
+        - hierarchical
+      senses:
+        - glosses:
+            - gloss: relativo a gerarchia; che si basa su una gerarchia
+              props: null
+              tags: null
+              examples:
+                - ordinamento gerarchico
+              phrases:
+                - phrase: inoltrare una pratica per via gerarchica
+                  tags: null
+                  glosses:
+                    - gloss: farla passare da uffici di grado inferiore a uffici di grado superiore, fino a giungere a quello competente
+                      tags: null
+                  examples: null
+                - phrase: ricorso gerarchico
+                  tags: null
+                  glosses:
+                    - gloss: reclamo contro un provvedimento amministrativo rivolto all'autorità superiore a quella che ha emanato l'atto stesso
+                      tags: null
+                  examples: null
+    - word: gerarchicaménte
+      pos:
+        - avv.
+      syl: null
+      props: null
+      tags: null
+      hints:
+        - hierarchically
+      senses:
+        - glosses:
+            - gloss: in modo gerarchico, secondo un ordine gerarchico; da un punto di vista gerarchico
+              props: null
+              tags: null
+              examples: null
+              phrases: null

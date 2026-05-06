@@ -1,0 +1,110 @@
+- word: concludere
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: con-clù-de-re
+      props:
+        pass_rem: io conclùṣi, tu concludésti
+        part_pass: conclùṣo
+      tags:
+        - italiano fondamentale
+      hints:
+        - "(condurre a termine: discorso, viaggio) to end, (lavoro) to finish"
+        - (affare, trattato, vertenza, patto, pace) to conclude
+        - (dedurre) to conclude
+      senses:
+        - glosses:
+            - gloss: mandare a effetto, portare a compimento
+              tags:
+                - anche assol.
+              props: null
+              examples:
+                - concludere un patto, un affare, un'alleanza
+                - concludere la pace
+                - non abbiamo concluso nulla
+                - è una persona che non conclude
+              phrases: null
+        - glosses:
+            - gloss: finire, terminare
+              tags: null
+              props: null
+              examples:
+                - concludere un discorso, un'opera
+              phrases: null
+        - glosses:
+            - gloss: precisare le conclusioni
+              tags:
+                - dir.
+                - raro
+              props: null
+              examples:
+                - concludere una comparsa
+              phrases: null
+        - glosses:
+            - gloss: argomentare, dedurre come conclusione
+              tags:
+                - anche impers.
+              props:
+                prep:
+                  - che
+                  - di, anche seguito da inf.
+              examples:
+                - abbiamo concluso che non ne vale la pena
+                - da ciò si conclude che avevo ragione io
+              phrases: null
+    - word: ''
+      pos:
+        - v. intr.
+      syl: con-clù-de-re
+      props:
+        aus: avere
+      tags:
+        - italiano fondamentale
+      hints:
+        - to be convincing
+        - to persuade
+      senses:
+        - glosses:
+            - gloss: essere valido, utile, importante, convincente e sim.
+              tags: null
+              props:
+                sin: convincere, persuadere
+              examples:
+                - obiezioni che non concludono
+              phrases: null
+        - glosses:
+            - gloss: andare a finire, risolversi
+              tags:
+                - lett.
+              props: null
+              examples: null
+              phrases: null
+    - word: concludersi
+      pos:
+        - v. intr. pron.
+      syl: con-clù-der-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - to end
+        - to conclude
+        - to come to an end
+      senses:
+        - glosses:
+            - gloss: aver termine
+              tags: null
+              props:
+                sin: finire
+              examples:
+                - la riunione si è conclusa con un nulla di fatto
+                - lo spettacolo si concluse con successo
+              phrases: null
+        - glosses:
+            - gloss: risolversi, avere come esito
+              tags:
+                - lett.
+              props: null
+              examples: null
+              phrases: null

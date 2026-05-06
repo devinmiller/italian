@@ -1,0 +1,121 @@
+- word: mollare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: mol-là-re
+      props:
+        pres: io mòllo
+      tags:
+        - italiano fondamentale
+      hints: 
+        - (allentare) to cast off
+        - "[~ la presa] to let go"
+        - inf. (dare) to give up
+        - "[~ un pugno a qlcu.] to land a punch on someone"
+        - fig., inf. (famiglia, lavoro, partner) to leave
+      senses:
+        - glosses:
+            - gloss: allentare o lasciar andare
+              tags: null
+              props: null
+              examples:
+                - mollare la presa
+              phrases: null
+            - gloss: allentare, lasciar libera di scorrere una manovra
+              tags:
+                - mar.
+              props: null
+              examples: null
+              phrases:
+                - phrase: mollare gli ormeggi
+                  tags: null
+                  glosses:
+                    - gloss: sciogliere le cime di ormeggio o recuperare l'ancora per partire
+                  examples: null
+                - phrase: mollare le vele
+                  tags: null
+                  glosses:
+                    - gloss: scioglierle per tenerle pronte a essere bordate
+                  examples: null
+                - phrase: molla!
+                  tags: null
+                  glosses:
+                    - gloss: voce di comando di allentare, lasciar andare, liberare
+                  examples: null
+        - glosses:
+            - gloss: dare, appioppare
+              tags:
+                - fig.
+                - colloq.
+              props: null
+              examples:
+                - mollare una sberla a qlcu.
+              phrases: null
+        - glosses:
+            - gloss: abbandonare, lasciare qlco.
+              tags:
+                - colloq.
+              props: null
+              examples:
+                - ha mollato il lavoro ed è partito
+              phrases:
+                - phrase: mollare qlcu.
+                  tags: null
+                  glosses:
+                    - gloss: liberarsene, piantarlo
+                  examples:
+                    - ha mollato il fidanzato
+    - word: ''
+      pos:
+        - v. intr.
+      syl: mol-là-re
+      props:
+        aus: avere
+      tags:
+        - italiano fondamentale
+      hints:
+        - inf. (cedere) to give in
+        - fig., inf. (smettere) to stop
+      senses:
+        - glosses:
+            - gloss: cedere, desistere
+              tags: null
+              props: null
+              examples:
+                - resisti, non mollare!
+              phrases:
+                - phrase: fare a tira e molla
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: essere indeciso, non sapersi risolvere
+                  examples: null
+        - glosses:
+            - gloss: cessare, finirla
+              tags:
+                - fig.
+                - colloq.
+              props: null
+              examples:
+                - quando incomincia a telefonare, non (la) molla più
+              phrases: null
+    - word: mollarsi
+      pos:
+        - v. rifl.
+      syl: mol-làr-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - to break up
+      senses:
+        - glosses:
+            - gloss: lasciarsi, troncare una relazione amorosa
+              tags:
+                - colloq.
+              props:
+                sin: piantarsi
+              examples:
+                - si sono mollati dopo poco che stavano insieme
+              phrases: null

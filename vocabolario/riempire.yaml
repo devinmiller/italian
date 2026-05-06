@@ -1,0 +1,107 @@
+- word: riempire
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: ri-em-pì-re
+      props:
+        pres: io riémpio
+        coniug: come empire
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: rendere pieno, colmare
+              tags:
+                - anche fig.
+              props: null
+              examples:
+                - riempire la botte di vino
+                - mi ha riempito le orecchie di insinuazioni
+                - vederti mi riempie di gioia
+              phrases:
+                - phrase: riempire una lacuna
+                  glosses:
+                    - gloss: colmarla
+                - phrase: riempire un tramezzino
+                  glosses:
+                    - gloss: farcirlo, imbottirlo
+                - phrase: riempire lo stomaco
+                  glosses:
+                    - gloss: saziarlo
+                - phrase: riempire i vuoti
+                  glosses:
+                    - gloss: nominare nuovi incaricati nei posti vacanti di una pubblica amministrazione o dell'esercito
+        - glosses:
+            - gloss: compilare moduli, schede e sim. scrivendo ciò che si richiede accanto allo stampato
+              tags: null
+              props: null
+              examples:
+                - riempire una richiesta di pensione
+              phrases: null
+    - word: riempirsi
+      pos:
+        - v. intr. pron.
+      syl: null
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: diventare pieno
+              tags:
+                - anche fig.
+              props:
+                prep:
+                  - di
+              examples:
+                - il teatro si è riempito di spettatori
+                - riempirsi di tristezza
+              phrases: null
+    - word: riempirsi
+      pos:
+        - v. tr. pron.
+      syl: null
+      props:
+        aus: essere
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: riempire, colmare qlco. di proprio
+              tags: null
+              props:
+                prep:
+                  - di
+              examples:
+                - s'è riempito la stanza di poster
+                - riempirsi le tasche di caramelle
+              phrases:
+                - phrase: riempirsi la bocca di paroloni
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: parlare in modo ampolloso, reboante
+                - phrase: riempirsi la bocca di promesse, di belle parole
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: farne, dirne, in gran quantità e con enfasi compiaciuta
+    - word: riempirsi
+      pos:
+        - v. rifl.
+      syl: null
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: mangiare troppo, saziarsi
+              tags: null
+              props: null
+              examples: null
+              phrases: null

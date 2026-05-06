@@ -1,0 +1,36 @@
+- word: tracciamento
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: trac-cia-mén-to
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: operazione del tracciare
+              tags: null
+              props: null
+              examples: null
+              phrases:
+                - phrase: tracciamento dei contatti
+                  tags: null
+                  glosses:
+                    - gloss: in un'epidemia, ricostruzione dei contatti recenti di una persona contagiata da una malattia, al fine di circoscriverne la diffusione
+                  examples:
+                    - app per il tracciamento dei contatti
+            - gloss: registrazione dei vari passaggi di un ciclo produttivo, di un servizio o di un'attività
+              tags:
+                - fig.
+              props: null
+              examples:
+                - tracciamento verificato
+              phrases: null
+        - glosses:
+            - gloss: operazione mediante la quale vengono riportati in sito gli elementi principali della pianta di un edificio o di un'opera da eseguire
+              tags:
+                - ing.
+              props: null
+              examples: null
+              phrases: null

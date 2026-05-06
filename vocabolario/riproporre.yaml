@@ -1,0 +1,56 @@
+- word: riproporre
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: ri-pro-pór-re
+      props:
+        coniug: come porre
+      tags: null
+      hints:
+        - (suggerire di nuovo) to suggest again
+      senses:
+        - glosses:
+            - gloss: proporre di nuovo, ripresentare
+              props: null
+              tags: null
+              examples:
+                - riproporre una candidatura
+                - non sappiamo cosa riproporre
+              phrases: null
+    - word: riproporsi
+      pos:
+        - v. tr. pron.
+      syl: ri-pro-pór-si
+      props:
+        aus: essere
+      tags: null
+      hints:
+        - to suggest
+        - to put forward
+      senses:
+        - glosses:
+            - gloss: prefiggersi, porsi come obiettivo (qlco.; + di seguito da inf.)
+              props: null
+              tags: null
+              examples:
+                - si era riproposta di partire oggi, ma non ce l'ha fatta
+              phrases: null
+    - word: riproporsi
+      pos:
+        - v. rifl.
+        - v. intr. pron.
+      syl: ri-pro-pór-si
+      props: null
+      tags: null
+      hints:
+        - to put oneself forward
+      senses:
+        - glosses:
+            - gloss: proporsi nuovamente, ripresentarsi
+              props: null
+              tags: null
+              examples:
+                - si è riproposto come candidato
+                - un simile problema prima o poi ci si riproporrà
+              phrases: null

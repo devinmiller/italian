@@ -1,0 +1,48 @@
+- word: apprendimento
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: ap-pren-di-mén-to
+      props: null
+      tags: null
+      hints:
+        - learning
+      senses:
+        - glosses:
+            - gloss: acquisizione di nuove conoscenze
+              tags: null
+              props: null
+              examples:
+                - apprendimento di una poesia
+                - apprendimento di una notizia
+                - apprendimento di una tecnica sportiva
+              phrases:
+                - phrase: apprendimento ibrido
+                  tags: null
+                  glosses:
+                    - gloss: che avviene in parte a scuola, in parte mediante la didattica a distanza
+                  examples: null
+                - phrase: apprendimento automatico
+                  tags:
+                    - inform.
+                  glosses:
+                    - gloss: machine learning
+                  examples: null
+                - phrase: apprendimento profondo
+                  tags: null
+                  glosses:
+                    - gloss: deep learning
+                  examples: null
+                - phrase: apprendimento situato
+                  tags: null
+                  glosses:
+                    - gloss: acquisizione di competenze pratiche a contatto con un gruppo che esercita un mestiere o una professione
+                  examples: null
+        - glosses:
+            - gloss: modificazione relativamente durevole indotta in un organismo direttamente dall'esperienza
+              tags:
+                - psicol.
+              props: null
+              examples: null
+              phrases: null
