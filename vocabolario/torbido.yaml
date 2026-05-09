@@ -7,7 +7,9 @@
       props: null
       tags:
         - parola da salvare
-      hints: null
+      hints:
+        - (acqua, vino) cloudy
+        - (pensieri, intenzioni) dark
       senses:
         - glosses:
             - gloss: detto di liquido impuro, che è privo di chiarezza e limpidezza

@@ -1,0 +1,38 @@
+- word: eventuale
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: e-ven-tu-à-le
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - (possibile) possible
+      senses:
+        - glosses:
+            - gloss: che può accadere o no
+              tags: null
+              props:
+                sin: possibile
+              examples:
+                - eventuali complicazioni
+                - guadagni, debiti, diritti eventuali
+              phrases: null
+    - word: eventualmente
+      pos:
+        - avv.
+      syl: null
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - (in caso) if necessary 
+      senses:
+        - glosses:
+            - gloss: nel caso, se mai
+              tags: null
+              props: null
+              examples:
+                - eventualmente verrò domani
+              phrases: null
