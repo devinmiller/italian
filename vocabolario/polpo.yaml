@@ -1,0 +1,18 @@
+- word: polpo
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: pol-pó
+      props: null
+      tags:
+        - animali e creature
+      hints: null
+      senses:
+        - glosses:
+            - gloss: nome comune di un mollusco marino dei Cefalopodi, commestibile, con otto tentacoli muniti di due serie di ventose (Octopus)
+              tags:
+                - zool.
+              props: null
+              examples: null
+              phrases: null

@@ -1,0 +1,61 @@
+- word: sbucare
+  forms:
+    - word: ''
+      pos:
+        - v. intr.
+      syl: sbu-cà-re
+      props:
+        aus: essere
+        pres: io sbùco, tu sbùchi
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: venire fuori da una buca, da una tana, detto di animali
+              tags: null
+              props: null
+              examples:
+                - due topi sbucarono da quella crepa
+              phrases: null
+            - gloss: uscire da un luogo buio, chiuso
+              tags:
+                - est.
+              props: null
+              examples:
+                - sbucò finalmente all'aria aperta
+              phrases: null
+            - gloss: detto di strade, immettersi, andare a finire
+              tags:
+                - est.
+              props:
+                prep:
+                  - in
+                  - su
+              examples:
+                - il sentiero sbuca in una radura
+                - la pista sbucava su una strada sterrata
+              phrases: null
+        - glosses:
+            - gloss: apparire, comparire improvvisamente
+              tags: null
+              props: null
+              examples:
+                - da dove sarà sbucato?
+              phrases: null
+    - word: ''
+      pos:
+        - v. tr.
+      syl: sbu-cà-re
+      props:
+        coniug: prima
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: stanare un animale selvatico dalla sua buca
+              tags: null
+              props: null
+              examples: null
+              phrases: null

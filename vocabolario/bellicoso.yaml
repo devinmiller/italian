@@ -1,0 +1,29 @@
+- word: bellicoso
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: bel-li-có-so
+      props: null
+      tags: null
+      hints:
+        - "(guerrafondaio: popolo, paese) warmongering"
+        - "(battagliero: carattere, persona) belligerent"
+      senses:
+        - glosses:
+            - gloss: incline alla guerra
+              tags: null
+              props: null
+              examples:
+                - nazione bellicosa
+              phrases: null
+        - glosses:
+            - gloss: combattivo, battagliero
+              tags:
+                - est.
+              props: null
+              examples:
+                - individuo bellicoso
+                - atteggiamento bellicoso
+                - spirito bellicoso
+              phrases: null

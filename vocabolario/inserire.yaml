@@ -1,0 +1,133 @@
+- word: inserire
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: in-se-rì-re
+      props:
+        pres: io inserìsco, tu inserìsci
+        part_pass: inserìto
+      tags:
+        - italiano fondamentale
+      hints:
+        - (moneta, chiave, spina)  to insert, (marcia) to go into
+        - (foglio, nominativo) to put, (dati) to enter
+        - fig. (persona) to integrate
+        - "(sul giornale: annuncio) to place"
+      senses:
+        - glosses:
+            - gloss: introdurre o infilare qlco. in un'altra o tra altre
+              props: null
+              tags: null
+              examples:
+                - inserire un tubo nell'altro
+                - inserire una vite nel foro
+                - inserire un segnalibro tra le pagine
+              phrases: null
+            - gloss: ingranare
+              props: null
+              tags: null
+              examples:
+                - inserire la prima
+              phrases: null
+        - glosses:
+            - gloss: includere in un insieme già completo qlco. di accessorio o secondario
+              props: null
+              tags: null
+              examples:
+                - inserire un episodio in un racconto
+                - inserire una clausola in un contratto
+              phrases:
+                - phrase: inserire un avviso, un annuncio sul giornale
+                  tags: null
+                  glosses:
+                    - gloss: farlo pubblicare
+                      tags: null
+                  examples: null
+            - gloss: immettere
+              props: null
+              tags: null
+              examples:
+                - inserire nuovi casi in una banca dati
+              phrases: null
+        - glosses:
+            - gloss: integrare
+              props: null
+              tags:
+                - fig.
+              examples:
+                - inserire un nuovo alunno nella classe
+              phrases: null
+    - word: inserirsi
+      pos:
+        - v. intr. pron.
+      syl: in-se-rìr-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - to be inserted, be attached
+        - fig. to be part of
+      senses:
+        - glosses:
+            - gloss: essere congiunto, attaccato
+              props: null
+              tags: null
+              examples:
+                - la gamba si inserisce nell'anca
+              phrases: null
+            - gloss: innestarsi
+              props: null
+              tags: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: far parte
+              props: null
+              tags:
+                - fig.
+              examples:
+                - il provvedimento si inserisce nel piano per l'occupazione
+              phrases: null
+    - word: inserirsi
+      pos:
+        - v. rifl.
+      syl: in-se-rìr-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - (meccanismo, congegno) to fit
+        - (riforma, progetto, opera) to be part of
+        - "fig. (persona: in ambiente) to fit in"
+        - "(entrare: in una discussione) to enter"
+      senses:
+        - glosses:
+            - gloss: introdursi
+              props: null
+              tags:
+                - fig.
+              examples:
+                - si è inserito nel giro dell'alta finanza
+              phrases: null
+            - gloss: entrare a far parte
+              props: null
+              tags:
+                - fig.
+              examples:
+                - inserirsi nel mondo del lavoro
+              phrases: null
+            - gloss: intervenire, partecipare
+              props: null
+              tags:
+                - fig.
+              examples:
+                - inserirsi in una discussione, in una polemica
+              phrases: null
+            - gloss: integrarsi, adattarsi
+              props: null
+              tags:
+                - fig.
+              examples:
+                - non riesce ad inserirsi nel nuovo ambiente
+              phrases: null

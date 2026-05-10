@@ -1,4 +1,4 @@
-- word: fornìre
+- word: fornire
   forms:
     - word: ''
       pos:
@@ -9,7 +9,11 @@
         aus: avere
       tags:
         - italiano fondamentale
-      hints: null
+      hints:
+        - (provedere) to supply
+        - "[~ qlcu di qlco] to supply someone with something"
+        - "[~ qlco a qlcu] to supply something to someone"
+        - (informazione, prova) to provide
       senses:
         - glosses:
             - gloss: provvedere, dotare del necessario
@@ -50,7 +54,8 @@
         aus: essere
       tags:
         - italiano fondamentale
-      hints: null
+      hints:
+        - "[~ di qlco] to provide oneself with something"
       senses:
         - glosses:
             - gloss: effettuare il rifornimento di tutto quanto è necessario a un dato fine

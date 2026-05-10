@@ -1,4 +1,4 @@
-- word: trascinàre
+- word: trascinare
   forms:
     - word: ''
       pos:
@@ -7,7 +7,9 @@
       props:
         aus: avere
       tags: null
-      hints: null
+      hints:
+        - (tirare) to drag
+        - fig. (oratore, entusiasmo) to enthuse
       senses:
         - glosses:
             - gloss: tirare facendo strisciare per terra
@@ -82,14 +84,15 @@
               props: null
               examples: null
               phrases: null
-    - word: trascinàrsi
+    - word: trascinarsi
       pos:
         - v. tr. pron.
       syl: tra-sci-nàr-si
       props:
         aus: essere
       tags: null
-      hints: null
+      hints:
+        - (più intenso) to drag (along)
       senses:
         - glosses:
             - gloss: tirare qlco. facendola strisciare (con valore intens.)
@@ -105,14 +108,16 @@
               examples:
                 - si trascina il marito dappertutto (L. Pirandello)
               phrases: null
-    - word: trascinàrsi
+    - word: trascinarsi
       pos:
         - v. rifl.
       syl: tra-sci-nàr-si
       props:
         aus: essere
       tags: null
-      hints: null
+      hints:
+        - (persona) to drag oneself
+        - (faccenda, questione) to drag on
       senses:
         - glosses:
             - gloss: strisciare per terra
@@ -130,14 +135,15 @@
                 - trascinarsi al lavoro
                 - trascinarsi verso l'uscita
               phrases: null
-    - word: trascinàrsi
+    - word: trascinarsi
       pos:
         - v. intr. pron.
       syl: tra-sci-nàr-si
       props:
         aus: essere
       tags: null
-      hints: null
+      hints:
+        - (più intenso) to drag on (longer)
       senses:
         - glosses:
             - gloss: prolungarsi, non accennare a finire

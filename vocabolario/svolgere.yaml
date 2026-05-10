@@ -1,0 +1,118 @@
+- word: svolgere
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: ṣvòl-ge-re
+      props:
+        coniug: come volgere
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: distendere, aprire, spiegare, ciò che è avvolto o involto
+              tags: null
+              props:
+                contr: avvolgere
+              examples:
+                - svolgere un rotolo, un gomitolo, un involto, un pacco
+              phrases:
+                - phrase: svolgere un libro
+                  tags:
+                    - disus.
+                  glosses:
+                    - gloss: sfogliarlo
+                  examples: null
+        - glosses:
+            - gloss: sviluppare, trattare per esteso, spiegare in ogni parte
+              tags:
+                - fig.
+              props: null
+              examples:
+                - svolgere un argomento, un soggetto, una tesi, un tema
+              phrases: null
+        - glosses:
+            - gloss: eseguire una serie di azioni per conseguire un determinato scopo
+              tags: null
+              props: null
+              examples:
+                - svolgere un programma, un piano di lavoro
+                - tutti si congratularono per l'opera da lui svolta
+              phrases: null
+            - gloss: esplicare
+              tags: null
+              props: null
+              examples:
+                - svolgere un lavoro, un'attività
+              phrases: null
+        - glosses:
+            - gloss: volgere in altra direzione
+              tags:
+                - lett.
+              props: null
+              examples: null
+              phrases: null
+            - gloss: distogliere, dissuadere, rimuovere
+              tags:
+                - est.
+              props: null
+              examples:
+                - svolgere qlcu. da qlco.
+              phrases: null
+    - word: svolgersi
+      pos:
+        - v. rifl.
+      syl: ṣvòl-ger-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: liberarsi, sciogliersi
+              tags:
+                - lett.
+              props: null
+              examples:
+                - svolgersi da un impaccio
+              phrases: null
+            - gloss: sottrarsi
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+    - word: svolgersi
+      pos:
+        - v. intr. pron.
+      syl: ṣvòl-ger-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: distendersi, spiegarsi
+              tags:
+                - anche fig.
+              props: null
+              examples:
+                - il filo si svolge dal rocchetto
+                - una splendida vista si svolge sotto di noi
+              phrases: null
+        - glosses:
+            - gloss: accadere, avvenire, avere luogo, detto di fatto considerato nel complesso delle sue circostanze
+              tags: null
+              props: null
+              examples:
+                - la battaglia si svolse secondo i piani
+                - il traffico si svolge con regolarità
+                - qui la vita si svolge tranquilla
+                - come si sono svolti i fatti?
+              phrases: null
+            - gloss: essere ambientato
+              tags: null
+              props: null
+              examples:
+                - la scena del dramma si svolge a Londra nel 1900
+              phrases: null

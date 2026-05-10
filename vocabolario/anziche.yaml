@@ -1,0 +1,21 @@
+- word: anziché
+  forms:
+    - word: ''
+      pos:
+        - cong.
+      syl: an-zi-ché
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - (invece di) instead of
+        - (piuttosto che) rather than
+      senses:
+        - glosses:
+            - gloss: invece di, piuttosto che (introduce una prop. compar. col v. all'inf.)
+              props: null
+              tags: null
+              examples:
+                - ha preferito rimanere in casa, anziché venire al cinema
+                - è meglio andare di persona, anziché scrivere
+              phrases: null

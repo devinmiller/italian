@@ -1,0 +1,50 @@
+- word: focolaio
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: fo-co-là-io
+      props:
+        pl_m: -ai
+      tags: null
+      hints:
+        - focus
+        - (di infezione) center
+        - hotbed, breeding ground
+        - (di epidemia) outbreak
+      senses:
+        - glosses:
+            - gloss: punto di maggior intensità di un fenomeno biologico
+              tags:
+                - med.
+              props: null
+              examples: null
+              phrases:
+                - phrase: focolaio di infezione
+                  tags: null
+                  glosses:
+                    - gloss: centro di iniziale localizzazione dei germi
+                      tags: null
+                  examples: null
+                - phrase: focolaio epidemico
+                  tags: null
+                  glosses:
+                    - gloss: insieme di più casi di infezione della stessa tipologia Sin. ingl. cluster
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: centro da cui si propaga qlco.
+              tags:
+                - fig.
+              props: null
+              examples:
+                - un focolaio di vizio
+                - il focolaio della rivolta
+              phrases: null
+        - glosses:
+            - gloss: serbatoio magmatico
+              tags:
+                - geol.
+              props: null
+              examples: null
+              phrases: null

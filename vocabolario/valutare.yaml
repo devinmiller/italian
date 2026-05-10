@@ -1,0 +1,89 @@
+- word: valutare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: va-lu-tà-re
+      props:
+        pres: io vàluto o valùto
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: determinare il prezzo, il valore di un bene economico
+              tags: null
+              props:
+                sin: stimare
+              examples:
+                - valutare una casa, un gioiello
+                - il podere è valutato centomila euro
+              phrases:
+                - phrase: valutare i danni
+                  tags: null
+                  glosses:
+                    - gloss: determinarne l'ammontare
+                  examples: null                    
+        - glosses:
+            - gloss: tenere in considerazione, stimare
+              tags:
+                - fig.
+              props:
+                sin: apprezzare
+              examples:
+                - non ti valutano secondo le tue reali capacità
+                - il suo ingegno non è valutato quanto meriterebbe
+              phrases: null
+        - glosses:
+            - gloss: considerare, tener presente, calcolare
+              tags: null
+              props: null
+              examples:
+                - valutare tutte le entrate di qlcu.
+                - non ho esattamente valutato le spese
+              phrases: null
+        - glosses:
+            - gloss: stabilire in misura approssimativa
+              tags: null
+              props: null
+              examples:
+                - valutare la distanza, il peso di qlco.
+                - valutare all'incirca, grosso modo, il costo di un oggetto
+              phrases:
+                - phrase: valutare a occhio e croce
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: con larga approssimazione
+                  examples: null
+        - glosses:
+            - gloss: vagliare, considerare con attenzione
+              tags:
+                - fig.
+              props: null
+              examples:
+                - valutare bene la portata di un discorso
+                - non hai saputo valutare le conseguenze del tuo gesto
+                - sto valutando ogni indizio
+                - valutare il pro e il contro
+              phrases: null
+        - glosses:
+            - gloss: giudicare
+              tags: null
+              props: null
+              examples:
+                - come valuti le sue dichiarazioni?
+              phrases: null
+            - gloss: seguito da un compl. predicativo dell'oggetto
+              tags: null
+              props: null
+              examples:
+                - lo valuto il migliore della sua categoria
+              phrases: null
+        - glosses:
+            - gloss: dare, effettuare una valutazione
+              tags:
+                - pedagogia
+              props: null
+              examples: null
+              phrases: null

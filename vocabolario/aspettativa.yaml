@@ -1,6 +1,7 @@
 - word: aspettativa
   forms:
-    - pos:
+    - word: ''
+      pos:
         - s. f.
       syl: a-spet-ta-tì-va
       props: null

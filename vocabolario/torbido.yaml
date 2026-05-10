@@ -1,0 +1,104 @@
+- word: torbido
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: tór-bi-do
+      props: null
+      tags:
+        - parola da salvare
+      hints:
+        - (acqua, vino) cloudy
+        - (pensieri, intenzioni) dark
+      senses:
+        - glosses:
+            - gloss: detto di liquido impuro, che è privo di chiarezza e limpidezza
+              tags: null
+              props:
+                contr: limpido
+              examples:
+                - vino torbido
+                - acqua torbida
+              phrases: null
+            - gloss: fosco, cupo
+              tags:
+                - lett.
+              props: null
+              examples:
+                - sera torbida
+              phrases: null
+        - glosses:
+            - gloss: equivoco, impuro
+              tags:
+                - fig.
+              props: null
+              examples:
+                - pensieri torbidi
+              phrases:
+                - phrase: aspetto torbido
+                  tags: null
+                  glosses: 
+                    - gloss: sinistro
+                      tags: null
+                - phrase: sonno torbido
+                  tags: null
+                  glosses:
+                    - gloss: agitato, tormentato
+                      tags: null
+                - phrase: tempi torbidi
+                  tags: null
+                  glosses:
+                    - gloss: tumultuosi, inquieti politicamente o socialmente
+                      tags: null
+            - gloss: malvagio, turbolento
+              tags:
+                - lett.
+              props: null
+              examples: null
+              phrases: null
+    - word: torbidamente
+      pos:
+        - avv.
+      syl: tor-bi-da-mén-te
+      props: null
+      tags:
+        - parola da salvare
+      hints: null
+      senses:
+        - glosses:
+            - gloss: in modo torbido
+              tags:
+                - anche fig.
+              props: null
+              examples: null
+              phrases: null
+    - word: ''
+      pos:
+        - s. m.
+      syl: tór-bi-do
+      props: null
+      tags:
+        - parola da salvare
+      hints: null
+      senses:
+        - glosses:
+            - gloss: aspetto poco chiaro, situazione poco onesta
+              tags: null
+              props: null
+              examples:
+                - in quel discorso c'è del torbido
+              phrases:
+                - phrase: pescare nel torbido
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: cercare di trarre profitto da momenti di confusione o da situazioni poco chiare e oneste
+                  examples: null
+        - glosses:
+            - gloss: sommosse, tumulti
+              tags:
+                - al pl.
+                - raro
+              props: null
+              examples: null
+              phrases: null

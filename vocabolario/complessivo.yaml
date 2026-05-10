@@ -7,7 +7,9 @@
       props: null
       tags:
         - italiano fondamentale
-      hints: null
+      hints:
+        - (quadro, valutazione) overall
+        - (reddito) total
       senses:
         - glosses:
             - gloss: che riguarda qlco. considerata nel suo insieme
@@ -33,7 +35,10 @@
       props: null
       tags:
         - italiano fondamentale
-      hints: null
+      hints:
+        - altogether
+        - overall
+        - in total
       senses:
         - glosses:
             - gloss: nell'insieme, in tutto

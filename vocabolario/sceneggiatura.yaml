@@ -1,0 +1,23 @@
+- word: sceneggiatura
+  forms:
+    - word: ''
+      pos:
+        - s. f.
+      syl: sce-neg-gia-tù-ra
+      props: null
+      tags:
+        - libri e media
+      hints:
+        - screenplay
+      senses:
+        - glosses:
+            - gloss: testo definitivamente elaborato di un film o di un programma televisivo, con le annotazioni tecniche necessarie al lavoro di produzione
+              tags: null
+              props: null
+              examples: null
+              phrases:
+                - phrase: sceneggiatura di ferro
+                  tags: null
+                  glosses:
+                    - gloss: che contiene le indicazioni del regista su tutte le fasi della lavorazione del film
+                  examples: null

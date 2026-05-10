@@ -1,0 +1,44 @@
+- word: cassetto
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: cas-sét-to
+      props: null
+      tags:
+        - (di mobile) drawer
+      hints:
+        - italiano fondamentale
+      senses:
+        - glosses:
+            - gloss: dim. di cassa
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: contenitore quadrato o rettangolare fornito di maniglia e inserito in un mobile dove scorre orizzontalmente su due guide
+              tags: null
+              props:
+                sin: tiretto
+              examples: null
+              phrases:
+                - phrase: manoscritto, libro, romanzo nel cassetto
+                  tags: null
+                  glosses:
+                    - gloss: scritto e non pubblicato
+                      tags: null
+                  examples: null
+                - phrase: sogni nel cassetto
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: aspirazioni segrete, intime
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: cassetto di distribuzione, organo di forma simile a quella di un cassetto, caratteristico di un tipo di distribuzione nelle motrici a vapore alternative
+              tags: null
+              props: null
+              examples: null
+              phrases: null

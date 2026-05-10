@@ -6,7 +6,9 @@
       props: null
       tags:
         - reato e pena
-      hints: null
+      hints:
+        - (atto) pursuit
+        - (corsa) chase
       senses:
         - glosses:
             - gloss: azione dell'inseguire

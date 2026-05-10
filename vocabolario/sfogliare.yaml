@@ -1,0 +1,60 @@
+- word: sfogliare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: sfo-glià-re
+      props:
+        pres: io sfòglio
+        aus: avere
+      tags:
+        - italiano fondamentale
+      hints:
+        - (libro, rivista) to flick through
+      senses:
+        - glosses:
+            - gloss: scorrere rapidamente le pagine di un libro, un giornale, una rivista e sim., leggendo qua e là
+              tags: null
+              props: null
+              examples:
+                - sfogliò tutto il volume per trovare una frase
+              phrases: null
+        - glosses:
+            - gloss: tagliare le pagine di un libro intonso
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: contare le carte da gioco per distribuirle ai giocatori
+              tags:
+                - raro
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: stendere la pasta riducendola a una sfoglia sottile
+              tags:
+                - cucina
+              props: null
+              examples: null
+              phrases: null
+    - word: sfogliarsi
+      pos:
+        - v. intr. pron.
+      syl: sfo-gliàr-si
+      props:
+        aus: essere
+      tags:
+        - italiano fondamentale
+      hints:
+        - to flake off, away
+        - to peel off, away
+      senses:
+        - glosses:
+            - gloss: ridursi in lamine sottili
+              tags: null
+              props: null
+              examples:
+                - quel minerale si sfoglia facilmente
+              phrases: null

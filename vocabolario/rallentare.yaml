@@ -58,9 +58,9 @@
         aus: avere nel sign. 1, avere o essere nel sign. 2
       tags:
         - italiano fondamentale
-      hints:
+      hints: &rallentare_hints
         - to slow down
-      senses:
+      senses: &rallentare_senses
         - glosses:
             - gloss: diminuire la velocità
               tags: null
@@ -86,20 +86,5 @@
         aus: essere
       tags:
         - italiano fondamentale
-      hints:
-        - to slow down
-      senses:
-        - glosses:
-            - gloss: diminuire la velocità
-              tags: null
-              props: null
-              examples: null
-              phrases: null
-        - glosses:
-            - gloss: diventare più lento, più raro o meno intenso
-              tags:
-                - fig.
-              props: null
-              examples:
-                - il suo entusiasmo si è molto rallentato
-              phrases: null
+      hints: *rallentare_hints
+      senses: *rallentare_senses

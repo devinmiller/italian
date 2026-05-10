@@ -1,0 +1,32 @@
+- word: sapido
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: sà-pi-do
+      props: null
+      tags:
+        - parola da salvare
+      hints: null
+      senses:
+        - glosses:
+            - gloss: saporito, gustoso
+              tags:
+                - lett.
+              props: null
+              examples: null
+              phrases: null
+            - gloss: detto di vino che ha sapore vivo e pieno
+              tags:
+                - enol.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: arguto, spiritoso
+              tags:
+                - fig.
+              props: null
+              examples:
+                - novelle sapide
+              phrases: null

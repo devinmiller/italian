@@ -1,0 +1,31 @@
+- word: svolgimento
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: svol-gi-mén-to
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: lo svolgere, lo svolgersi
+              tags:
+                - spec. fig.
+              props: null
+              examples:
+                - riferire lo svolgimento dei fatti
+              phrases: null
+        - glosses:
+            - gloss: trattazione di un tema scolastico
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: sviluppo
+              tags:
+                - mus.
+              props: null
+              examples: null
+              phrases: null

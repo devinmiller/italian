@@ -29,18 +29,29 @@
         "pos": { 
           "type": "array",  
           "items": { 
-            "enum": [
-              "s. m.", 
-              "s. f.", 
-              "agg.", 
-              "avv.", 
-              "v. tr.", 
-              "v. intr.", 
-              "v. tr. pron.", 
-              "v. intr. pron.", 
-              "v. rifl.",
-              "cong."
-            ] 
+            "oneOf": [
+              {
+                "enum": [
+                  "s. m.", 
+                  "s. m. inv.",
+                  "s. f.", 
+                  "s. f. inv.",
+                  "agg.", 
+                  "avv.", 
+                  "v. tr.", 
+                  "v. intr.", 
+                  "v. tr. pron.", 
+                  "v. intr. pron.", 
+                  "v. rifl.",
+                  "part. pass.",
+                  "cong."
+                ]
+              },
+              {
+                "type": "string",
+                "pattern": "^part\\. pass\\. di .+$"
+              }
+            ]
           },
           "minItems": 1
         },
@@ -52,10 +63,15 @@
             "pl_f": { "type": "string" },
             "f": { "type": "string" },
             "aus": { 
-              "enum": [
-                "avere",
-                "essere",
-                "avere o essere"
+              "oneOf": [
+                {
+                  "type": "string",
+                  "enum": ["avere", "essere", "avere o essere"]
+                },
+                {
+                  "type": "string",
+                  "pattern": "^(avere|essere|avere o essere) nel sign\\. [0-9]+(, (avere|essere|avere o essere) nel sign\\. [0-9]+)*$"
+                }
               ]
             },
             "pres": { "type": "string" },
@@ -86,7 +102,7 @@
           "minItems": 1
         }
       },
-      "required": ["pos", "syl", "props", "tags", "hints", "senses"],
+      "required": ["word","pos", "syl", "props", "tags", "hints", "senses"],
       "additionalProperties": false
     },
     "sense": {
@@ -129,7 +145,8 @@
                   "di", 
                   "di, anche seguito da inf.", 
                   "tra", 
-                  "fra"
+                  "fra",
+                  "che"
                 ]
               },
               "minItems": 1

@@ -1,0 +1,39 @@
+- word: stufa
+  forms:
+    - word: ''
+      pos:
+        - s. f.
+      syl: stù-fa
+      props: null
+      tags:
+        - italiano fondamentale
+        - attrezzatura da cucina
+      hints:
+        - stove
+      senses:
+        - glosses:
+            - gloss: apparecchio di riscaldamento, spec. per usi domestici
+              tags: null
+              props: null
+              examples:
+                - stufa a legna, a carbone, a gas, a nafta
+                - stufa elettrica
+              phrases: null
+            - gloss: radiatore
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: serra calda
+              tags:
+                - raro
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: fenomeno di emissione di vapore acqueo e altri gas che si verifica in cavità sotterranee come manifestazione residua di attività vulcaniche
+              tags: null
+              props: null
+              examples: null
+              phrases: null

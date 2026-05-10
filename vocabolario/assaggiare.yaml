@@ -1,0 +1,58 @@
+- word: assaggiare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: as-sag-già-re
+      props:
+        pres: io assàggio
+        fut: io assaggerò
+      tags:
+        - italiano fondamentale
+      hints:
+        - (provare) to try
+        - (mangiare una piccola quantità di) to taste, (bere una piccola quantità di) to sip
+      senses:
+        - glosses:
+            - gloss: provare il sapore di un cibo, di una bevanda
+              tags: null
+              props: null
+              examples:
+                - assaggiare il caffè, il pranzo
+              phrases: null
+            - gloss: mangiare pochissimo
+              tags:
+                - est.
+              props: null
+              examples:
+                - non ho fame, assaggerò qlco.
+              phrases: null
+            - gloss: cominciare a bere o a mangiare
+              tags: null
+              props: null
+              examples:
+                - non gli lasciarono neppure il tempo di assaggiare la cena
+              phrases: null
+            - gloss: sperimentare
+              tags:
+                - fig.
+              props: null
+              examples: null
+              phrases: null
+            - gloss: buscare, subire
+              tags:
+                - fig.
+                - iron.
+              props: null
+              examples:
+                - assaggiare la frusta
+                - assaggiare i pugni di qlcu.
+              phrases: null
+        - glosses:
+            - gloss: saggiare
+              tags:
+                - raro
+              props: null
+              examples:
+                - assaggiare l'oro
+              phrases: null

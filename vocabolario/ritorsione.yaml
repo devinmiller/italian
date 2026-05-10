@@ -1,0 +1,50 @@
+- word: ritorsione
+  forms:
+    - word: ''
+      pos:
+        - s. f.
+      syl: ri-tor-sió-ne
+      props: null
+      tags:
+        - reato e pena
+      hints:
+        - (rivalsa) retaliation
+      senses:
+        - glosses:
+            - gloss: replica, risposta
+              tags:
+                - lett.
+              props: null
+              examples: null
+              phrases: null
+            - gloss: il ritorcere un'offesa o sim. contro l'autore
+              tags: null
+              props: null
+              examples:
+                - la ritorsione di un'ingiuria
+              phrases: null
+        - glosses:
+            - gloss: comportamento con cui ci si rivale su qlcu. di un danno ricevuto
+              tags: null
+              props: null
+              examples:
+                - la sua è stata una ritorsione perché non l'abbiamo invitato
+              phrases: null
+            - gloss: ripicca
+              tags: null
+              props: null
+              examples:
+                - per ritorsione rifiuta di incontrarlo
+              phrases: null
+        - glosses:
+            - gloss: causa speciale di esclusione della punibilità prevista per il delitto di ingiuria, nel caso di reciprocità delle offese
+              tags:
+                - dir.
+              props: null
+              examples: null
+              phrases:
+                - phrase: ritorsione fra Stati
+                  tags: null
+                  glosses:
+                    - gloss: rappresaglia
+                  examples: null

@@ -1,0 +1,20 @@
+- word: rombo
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: róm-bo
+      props: null
+      tags:
+        - parola da salvare
+      hints:
+        - mat. rhombus
+        - (rumore) rumble
+      senses:
+        - glosses:
+            - gloss: rumore grave e forte, breve rimbombo
+              props: null
+              tags: null
+              examples:
+                - il rombo del cannone, del tuono
+              phrases: null

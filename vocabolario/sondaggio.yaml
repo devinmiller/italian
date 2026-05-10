@@ -1,0 +1,37 @@
+- word: sondaggio
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: son-dàg-gio
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: esplorazione eseguita mediante una sonda
+              props: null
+              tags: null
+              examples:
+                - il sondaggio del sottosuolo
+                - sondaggio gastrico
+                - sondaggio atmosferico
+              phrases: null
+        - glosses:
+            - gloss: indagine, inchiesta, compiuta per conoscere qlco., saggiare eventuali reazioni e sim.
+              props: null
+              tags:
+                - fig.
+              examples:
+                - fare, effettuare, compiere, un sondaggio
+                - sondaggio d'opinioni
+                - sondaggio preelettorale
+              phrases: null
+        - glosses:
+            - gloss: procedimento di raccolta di dati individuali per campione
+              props: null
+              tags:
+                - statist.
+              examples: null
+              phrases: null

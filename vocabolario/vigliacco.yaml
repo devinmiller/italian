@@ -1,0 +1,72 @@
+- word: vigliacco
+  forms:
+    - word: ''
+      pos:
+        - agg.
+        - s. m.
+      syl: vi-gliàc-co
+      props:
+        f: vigliacca
+        pl_m: vigliacchi
+        superl: vigliacchissimo
+      tags:
+        - italiano fondamentale
+      hints: 
+        - (persona senza coraggio) coward
+        - (persona prepotente) bully
+      senses:
+        - glosses:
+            - gloss: 'che (o chi) fugge davanti al pericolo o accetta, senza ribellarsi o reagire, ingiustizie, umiliazioni, soperchierie e sim., imposte a lui stesso o ad altri'
+              props:
+                sin: codardo, pusillanime
+                contr: coraggioso, risoluto
+              tags: null
+              examples:
+                - gente vigliacca
+                - siete un branco di vigliacchi
+                - ti stai comportando da vigliacco
+              phrases: null
+            - gloss: che (o chi) si impone con la prepotenza a chi è indifeso, compie sopraffazioni, ingiustizie e sim.
+              props: null
+              tags: null
+              examples:
+                - un individuo spregevole e vigliacco
+                - non voglio aver nulla a che fare con un vigliacco della tua specie
+              phrases: null
+    - word: ''
+      pos:
+        - agg.
+      syl: vi-gliàc-co
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - "(senza coraggio: persona, azione) cowardly"
+        - (prepotente) [essere ~] to be a bully
+      senses:
+        - glosses:
+            - gloss: vile
+              props: null
+              tags: null
+              examples: null
+              phrases: null
+            - gloss: compiuto con vigliaccheria
+              props: null
+              tags: null
+              examples:
+                - comportamento vigliacco
+                - azione subdola e vigliacca
+              phrases: null
+        - glosses:
+            - gloss: (lett.) sfrontato, malizioso
+              props: null
+              tags: null
+              examples:
+                - mi ha risposto un sorriso vigliacco (C. Pavese)
+              phrases: null
+            - gloss: con valore di inter. per introdurre ciò che non si è fatto o non è avvenuta
+              props: null
+              tags: null
+              examples:
+                - mi dà la mano da stringere, ma vigliacco se io gliel'ho stretta (B. Fenoglio)
+              phrases: null

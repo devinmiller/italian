@@ -1,6 +1,7 @@
 - word: viziato
   forms:
-    - pos:
+    - word: ''
+      pos:
         - agg.
       syl: vi-zià-to
       props: null

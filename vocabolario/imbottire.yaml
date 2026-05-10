@@ -1,0 +1,66 @@
+- word: imbottire
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: im-bot-tì-re
+      props:
+        pres: io imbottìsco, tu imbottìsci
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: riempire di lana, crine, gommapiuma o altro materiale adatto, vari oggetti o indumenti, per renderli più soffici o più caldi, per ottenere particolari effetti estetici ecc.
+              props:
+                prep:
+                  - di
+                  - con
+              tags: null
+              examples:
+                - imbottire un divano, una poltrona, un materasso
+                - imbottire di piume una giacca a vento
+                - imbottire la spalla del cappotto
+                - imbottire un rivestimento con materiale isolante
+              phrases:
+                - phrase: imbottire un panino
+                  tags:
+                    - est.
+                  glosses:
+                    - gloss: tagliarlo a metà e mettervi carne, salume, formaggio e sim.
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: riempire, colmare, rimpinzare
+              props:
+                prep:
+                  - di
+              tags:
+                - fig.
+              examples:
+                - imbottire il cervello, la mente di qlcu. di chiacchiere
+                - gli hanno imbottito la testa di idee sbagliate
+              phrases: null
+    - word: imbottirsi
+      pos:
+        - v. rifl.
+      syl: im-bot-tìr-si
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: indossare molti indumenti o indumenti molto caldi
+              props: null
+              tags: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: riempirsi in modo eccessivo
+              props:
+                prep:
+                  - di
+              tags:
+                - fig.
+              examples:
+                - si è imbottito di dolci, di medicine
+              phrases: null

@@ -1,0 +1,143 @@
+- word: liscio
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: lì-scio
+      props:
+        pl_m: -sci
+        pl_f: -sce
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: privo di ruvidezze e scabrosità alla superficie
+              props:
+                contr: ruvido
+              tags: null
+              examples:
+                - pietra liscia
+                - liscio come la seta
+              phrases:
+                - phrase: pelle liscia
+                  glosses:
+                    - gloss: senza rughe
+                - phrase: capelli lisci
+                  glosses:
+                    - gloss: non crespi
+                - phrase: fucile a canna liscia
+                  glosses:
+                    - gloss: senza rigatura
+        - glosses:
+            - gloss: che non presenta difficoltà od ostacoli
+              props: null
+              tags:
+                - fig.
+              examples:
+                - l'affare non è liscio
+                - tutto è andato, è filato liscio
+                - le cose non sono andate del tutto lisce
+              phrases:
+                - phrase: liscio come l'olio
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: di cose che si svolgono nel modo più tranquillo e regolare possibile
+                - phrase: passarla liscia
+                  glosses:
+                    - gloss: evitare castighi, punizioni, difficoltà e sim.
+        - glosses:
+            - gloss: detto di bevanda alcolica servita senza aggiunta di seltz o di ghiaccio
+              props: null
+              tags: null
+              examples:
+                - whisky liscio
+              phrases:
+                - phrase: caffè liscio
+                  glosses:
+                    - gloss: privo di ogni aggiunta di alcol o di latte
+            - gloss: detto di acqua minerale non gasata
+              props: null
+              tags:
+                - est.
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: ballo liscio
+              props: null
+              tags: null
+              examples: null
+              phrases:
+                - phrase: ballo liscio
+                  glosses:
+                    - gloss: ballabile non sincopato (quale il valzer, la mazurca, la polka) che si esegue senza alzare troppo i piedi da terra
+        - glosses:
+            - gloss: privo di rugosità o di striature
+              props: null
+              tags:
+                - anat.
+              examples: null
+              phrases:
+                - phrase: muscolo liscio
+                  glosses:
+                    - gloss: V. muscolo
+    - word: lisciamente
+      pos:
+        - avv.
+      syl: li-scia-mén-te
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: in modo semplice e piano
+              props: null
+              tags: null
+              examples: null
+              phrases: null
+    - word: ''
+      pos:
+        - s. m.
+      syl: lì-scio
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: belletto, cosmetico
+              props: null
+              tags:
+                - lett.
+              examples: null
+              phrases: null
+            - gloss: cura eccessiva della propria persona
+              props: null
+              tags:
+                - raro
+                - est.
+              examples: null
+              phrases: null
+            - gloss: orpello, ricercatezza
+              props: null
+              tags:
+                - fig.
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: nel calcio, sfiorare il pallone sbagliando il tiro
+              props: null
+              tags: null
+              examples: null
+              phrases:
+                - phrase: fare un liscio
+                  glosses:
+                    - gloss: nel calcio, sfiorare il pallone sbagliando il tiro
+        - glosses:
+            - gloss: ballo liscio
+              props: null
+              tags: null
+              examples:
+                - una serata di liscio
+                - festival del liscio
+              phrases: null

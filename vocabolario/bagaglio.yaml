@@ -1,0 +1,58 @@
+- word: bagaglio
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: ba-gà-glio
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - (valigie) luggage
+        - "[~ a mano] carryon luggage"
+        - "[partire con armi e ~gli] to pack up and leave"
+        - fig. (formazione) background
+      senses:
+        - glosses:
+            - gloss: tutto quanto si porta con sé in viaggio
+              props: null
+              tags: null
+              examples: null
+              phrases:
+                - phrase: bagaglio presso, correntemente bagaglio appresso
+                  tags:
+                    - ferr.
+                  glosses:
+                    - gloss: l'insieme dei colli ammessi gratuitamente nella carrozza a seguito del viaggiatore
+                      tags: null
+                  examples: null
+                - phrase: bagaglio a mano
+                  tags: null
+                  glosses:
+                    - gloss: quello di piccolo ingombro che il passeggero di un aereo o di un pullman può tenere con sé
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: ciò che una persona ha appreso con lo studio, la ricerca, l'esperienza e sim.
+              props: null
+              tags:
+                - fig.
+              examples:
+                - bagaglio di nozioni tecniche
+                - bagaglio culturale
+                - bagaglio di ricordi
+              phrases: null
+        - glosses:
+            - gloss: salmeria della truppa
+              props: null
+              tags: null
+              examples: null
+              phrases:
+                - phrase: con armi e bagagli
+                  tags: null
+                  glosses:
+                    - gloss: con tutto ciò che si possiede
+                      tags:
+                        - fig.
+                  examples:
+                    - andarsene, partire con armi e bagagli

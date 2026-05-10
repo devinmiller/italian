@@ -1,0 +1,57 @@
+- word: risultare
+  forms:
+    - word: ''
+      pos:
+        - v. intr.
+      syl: ri-sul-tà-re
+      props:
+        aus: essere
+      tags:
+        - italiano fondamentale
+      hints:
+        - (derivare) to be shown
+        - (essere accertato) to be clear
+        - (rivelarsi) to prove to be
+      senses:
+        - glosses:
+            - gloss: derivare come conseguenza da una causa, un fatto o una determinata condizione
+              props: null
+              tags: null
+              examples:
+                - dal loro disaccordo risulteranno molti danni
+                - questo composto risulta dalla mescolanza di vari elementi
+              phrases: null
+        - glosses:
+            - gloss: scaturire come conclusione definitiva da indagini, ricerche e sim.
+              props: null
+              tags: null
+              examples:
+                - la sua colpevolezza risulta da tutte le testimonianze
+              phrases: null
+            - gloss: constare, essere noto, accertato (+ che seguito da congtv.)
+              props: null
+              tags:
+                - assol.
+              examples:
+                - non mi risulta che sia partito
+              phrases: null
+            - gloss: constare (+ inf.)
+              props: null
+              tags: null
+              examples:
+                - il fermato non risulta avere precedenti penali
+              phrases: null
+        - glosses:
+            - gloss: rivelarsi, dimostrarsi
+              props: null
+              tags:
+                - est.
+              examples:
+                - le vostre preoccupazioni risultano infondate
+              phrases: null
+            - gloss: riuscire
+              props: null
+              tags: null
+              examples:
+                - è risultato eletto fra molti candidati
+              phrases: null
