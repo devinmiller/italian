@@ -1,0 +1,98 @@
+- word: spostare
+  forms:
+    - pos:
+        - v. tr.
+      syl: spo-stà-re
+      props:
+        pres: io spòsto
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: trasferire altrove qlcu. o qlco. dal posto, la posizione, la condizione in cui si trovava o che gli era abituale
+              tags: null
+              props: null
+              examples:
+                - spostare una sedia, un armadio
+                - spostare un impiegato da un ufficio a un altro
+              phrases: null
+            - gloss: cambiare nel tempo
+              tags: null
+              props: null
+              examples:
+                - hanno spostato l'orario della conferenza
+              phrases: null
+        - glosses:
+            - gloss: recare danno, dissestare
+              tags:
+                - fig.
+                - disus.
+              props: null
+              examples:
+                - questo imprevisto mi sposta
+              phrases: null
+        - glosses:
+            - gloss: trasportare in altro tono
+              tags:
+                - mus.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: dislocare
+              tags:
+                - mar.
+                - disus.
+              props: null
+              examples: null
+              phrases: null
+    - word: spostarsi
+      pos:
+        - v. rifl.
+      syl: spo-stàr-si
+      props:
+        coniug: spostare
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: muoversi dal posto, dalla posizione che si occupa o che è abituale, detto di persona
+              tags: null
+              props: null
+              examples:
+                - spostati che devo passare
+                - da Roma mi sposterò a Napoli
+                - si è spostato in un altro ufficio
+              phrases:
+                - phrase: non spostarsi di un passo
+                  glosses:
+                    - gloss: restare fermo sulle posizioni prese
+                      tags:
+                        - fig.
+    - word: spostarsi
+      pos:
+        - v. intr. pron.
+      syl: spo-stàr-si
+      props:
+        coniug: spostare
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: muoversi dal luogo o dalla posizione abituale, detto di cosa
+              tags: null
+              props: null
+              examples:
+                - la lancetta si è spostata
+                - l'accento si sposta sull'ultima sillaba
+              phrases: null
+            - gloss: passare, trasferirsi
+              tags:
+                - fig.
+              props: null
+              examples:
+                - il dibattito si è spostato su un altro tema
+              phrases: null

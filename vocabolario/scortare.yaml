@@ -1,0 +1,19 @@
+- word: scortare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: scor-tà-re
+      props:
+        pres: io scòrto
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: fare la scorta, accompagnare per proteggere, difendere, onorare e sim.
+              tags: null
+              props: null
+              examples:
+                - scortare un prigioniero
+                - l'automobile del ministro è scortata da due motociclisti
+              phrases: null

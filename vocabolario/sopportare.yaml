@@ -1,0 +1,70 @@
+- word: sopportare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: sop-por-tà-re
+      props:
+        pres: io soppòrto
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: reggere, sostenere su di sé
+              tags: null
+              props: null
+              examples:
+                - i pilastri sopportano il peso delle volte
+              phrases: null
+        - glosses:
+            - gloss: subire, sostenere un disagio, un onere e sim.
+              tags:
+                - fig.
+              props: null
+              examples:
+                - sopportare una perdita, una spesa
+              phrases: null
+        - glosses:
+            - gloss: soffrire, patire
+              tags:
+                - fig.
+              props: null
+              examples:
+                - sopportare miserie, dolori
+                - la poveretta sopporta continui sacrifici
+              phrases: null
+        - glosses:
+            - gloss: resistere a situazioni più o meno disagevoli senza risentirne
+              tags:
+                - fig.
+              props: null
+              examples:
+                - sopportare il freddo, il caldo
+                - quando dormo non sopporto la luce
+                - gli agrumi non sopportano il freddo intenso
+              phrases: null
+        - glosses:
+            - gloss: tollerare, accettare, senza reagire
+              tags: null
+              props: null
+              examples:
+                - sopporto tutto ma non questo
+              phrases:
+                - phrase: non sopportare
+                  tags: null
+                  glosses:
+                    - gloss: detestare (+ che seguito da congtv., + di seguito da inf.)
+                      tags: null
+                  examples:
+                    - non sopporto i maleducati, le persone ipocrite
+                    - non sopporta che lo si prenda in giro
+                    - non sopporto di assistere a queste prepotenze!
+        - glosses:
+            - gloss: concedere, permettere
+              tags:
+                - fig.
+                - lett.
+              props: null
+              examples: null
+              phrases: null

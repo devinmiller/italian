@@ -1,0 +1,27 @@
+- word: sebbene
+  forms:
+    - word: ''
+      pos:
+        - cong.
+      syl: seb-bè-ne
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: benché, quantunque (introduce una prop. concessiva con il v. al congtv. o lett. all'indic.)
+              tags: null
+              props: null
+              examples:
+                - sebbene non sia compito mio, tuttavia lo farò
+                - sebbene fosse in ritardo, lo fecero entrare
+              phrases: null
+        - glosses:
+            - gloss: con ellissi del v.
+              tags: null
+              props: null
+              examples:
+                - sebbene indisposto, lo ricevette
+                - lo farò, sebbene malvolentieri
+              phrases: null

@@ -1,0 +1,33 @@
+- word: angoscia
+  forms:
+    - word: ''
+      pos:
+        - s. f.
+      syl: an-gò-scia
+      props:
+        pl_f: -sce
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: stato di ansia accompagnato da viva preoccupazione o paura
+              tags: null
+              props: null
+              examples:
+                - un'attesa piena di angoscia
+              phrases: null
+        - glosses:
+            - gloss: in Kierkegaard (1813-1855) e nell'esistenzialismo, senso di sgomento che prende l'uomo dinanzi alla consapevolezza delle infinite possibilità della vita e della propria individuale finitezza
+              tags:
+                - filos.
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: stato caratterizzato da paure irrazionali e accompagnato da una sensazione di malessere generico e, a volte, da vertigini, sudorazione e disturbi cardiaci
+              tags:
+                - psicol.
+              props: null
+              examples: null
+              phrases: null

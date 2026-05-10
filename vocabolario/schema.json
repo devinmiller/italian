@@ -38,7 +38,8 @@
               "v. intr.", 
               "v. tr. pron.", 
               "v. intr. pron.", 
-              "v. rifl."
+              "v. rifl.",
+              "cong."
             ] 
           },
           "minItems": 1

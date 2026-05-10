@@ -1,0 +1,34 @@
+- word: aspettativa
+  forms:
+    - pos:
+        - s. f.
+      syl: a-spet-ta-tì-va
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: attesa
+              tags: null
+              props: null
+              examples:
+                - essere, stare in aspettativa di qlco.
+              phrases: null
+            - gloss: ciò che ci si aspetta
+              tags:
+                - est.
+                - spec. al pl.
+              props:
+                sin: previsione
+              examples:
+                - essere inferiore, superiore alle aspettative
+                - deludere le aspettative
+              phrases: null
+        - glosses:
+            - gloss: condizione di un lavoratore dipendente che, dietro sua richiesta, è dispensato dal prestare servizio per un determinato periodo di tempo
+              tags: null
+              props: null
+              examples:
+                - chiedere un anno di aspettativa
+                - mettersi in aspettativa per motivi di salute, di famiglia
+              phrases: null

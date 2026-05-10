@@ -1,0 +1,65 @@
+- word: inedito
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: i-nè-di-to
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: che non è stato ancora pubblicato
+              tags: null
+              props: null
+              examples:
+                - scritto, romanzo inedito
+              phrases:
+                - phrase: autore inedito
+                  tags: null
+                  glosses:
+                    - gloss: le cui opere non sono ancora state stampate
+                      tags: null
+                  examples: null
+            - gloss: pubblicato non per volontà e iniziativa dell'autore
+              tags:
+                - raro
+              props: null
+              examples:
+                - gli scritti inediti del Tasso, del Leopardi
+              phrases: null
+            - gloss: di materiale scientifico non ancora raccolto e descritto in pubblicazioni particolari
+              tags:
+                - raro
+              props: null
+              examples:
+                - monete, piante esotiche inedite
+              phrases: null
+        - glosses:
+            - gloss: ancora sconosciuto
+              tags: null
+              props: null
+              examples:
+                - particolare inedito
+              phrases: null
+            - gloss: nuovo, insolito
+              tags: null
+              props: null
+              examples:
+                - un'inedita proposta gastronomica
+              phrases: null
+    - word: ''
+      pos:
+        - s. m.
+      syl: i-nè-di-to
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: scritto non pubblicato
+              tags: null
+              props: null
+              examples:
+                - un raro inedito del Carducci
+              phrases: null

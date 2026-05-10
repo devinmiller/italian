@@ -1,0 +1,56 @@
+- word: accertare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: ac-cer-tà-re
+      props:
+        pres: io accèrto
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: rendere certo, dare per certo
+              tags:
+                - raro
+              props:
+                sin: assicurare
+              examples:
+                - accertiamo che tutto si è svolto regolarmente
+              phrases: null
+        - glosses:
+            - gloss: appurare con certezza
+              tags: null
+              props:
+                sin: verificare
+              examples:
+                - accertare la veridicità di una situazione
+                - accertare la natura di un fatto
+              phrases: null
+        - glosses:
+            - gloss: compiere un accertamento
+              tags:
+                - dir.
+              props: null
+              examples:
+                - accertare un'entrata
+              phrases: null
+    - word: accertarsi
+      pos:
+        - v. rifl.
+      syl: ac-cer-tàr-si
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: farsi certo, assicurarsi (+ di, + che seguito da congtv.)
+              tags: null
+              props:
+                sin: sincerarsi
+                prep:
+                  - di
+              examples:
+                - mi accerterò della cosa
+                - accertatevi che non sorgano difficoltà
+              phrases: null

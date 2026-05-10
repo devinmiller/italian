@@ -1,0 +1,67 @@
+- word: spopolare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: spo-po-là-re
+      props:
+        pres: io spòpolo
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: rendere privo o povero di popolazione
+              tags: null
+              props: null
+              examples:
+                - l'epidemia spopolò il paese
+                - il fenomeno dell'urbanesimo spopola le campagne
+              phrases: null
+        - glosses:
+            - gloss: rendere meno affollato o frequentato
+              tags:
+                - est.
+              props: null
+              examples:
+                - Eran le malattie a spopolare le carceri (R. Bacchelli)
+              phrases: null
+    - word: ''
+      pos:
+        - v. intr.
+      syl: spo-po-là-re
+      props:
+        aus: avere
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: avere molto successo
+              tags:
+                - colloq.
+              props: null
+              examples:
+                - quella cantante spopola
+              phrases: null
+    - word: spopolarsi
+      pos:
+        - v. intr. pron.
+      syl: spo-po-làr-si
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+            - gloss: diventare privo o povero di popolazione
+              tags: null
+              props: null
+              examples:
+                - le campagne si spopolarono per l'industrializzazione
+              phrases: null
+        - glosses:
+            - gloss: diventare meno affollato o frequentato
+              tags:
+                - est.
+              props: null
+              examples:
+                - le spiagge in settembre si spopolano
+              phrases: null
