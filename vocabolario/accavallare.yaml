@@ -1,0 +1,60 @@
+- word: accavallare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: ac-ca-val-là-re
+      props: null
+      tags: null
+      hints:
+        - (gambe) to cross
+      senses:
+        - glosses:
+            - gloss: porre due o più cose una sull'altra
+              tags: null
+              props: null
+              examples:
+                - accavallare le gambe, le funi, le catene
+              phrases:
+                - phrase: accavallare una maglia
+                  tags: null
+                  glosses:
+                    - gloss: nel lavoro ai ferri, incrociarla
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: in legatoria, disporre una segnatura aperta a metà sopra un'altra chiusa, in modo da formare un fascicolo
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+        - glosses:
+            - gloss: lasciare in una tela uno o più fili non tessuti
+              tags: null
+              props: null
+              examples: null
+              phrases: null
+    - word: accavallarsi
+      pos:
+        - v. intr. pron.
+      syl: ac-ca-val-làr-si
+      props: null
+      tags: null
+      hints:
+        - fig. (pensieri, avvenimenti) to overlap
+      senses:
+        - glosses:
+            - gloss: sovrapporsi in modo disordinato
+              tags: null
+              props: null
+              examples:
+                - le nubi si rincorrono accavallandosi
+                - i marosi s'accavallavano
+              phrases: null
+            - gloss: affastellarsi, accumularsi
+              tags:
+                - fig.
+              props: null
+              examples:
+                - pensieri diversi le si accavallarono nella mente
+              phrases: null

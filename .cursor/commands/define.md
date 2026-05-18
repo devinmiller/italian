@@ -4,7 +4,7 @@ If there is no photo attached or text included, this should be consider an error
 
 1. If the there is not a file matching the word, create a new YAML file under the vocabulario folder, with a name that matches the word (minus any accents), and add the vocabulary entry to that file following the structure of schema.json, which is also found in the vocabulary folder.  Do not try to populate the hints section.  Do not change glosses, phrases, or examples except to fix typos.  Do not attempt to add information to the glosses, phrases, or typos.  Only use the text from the image.
 
-2.  If there is already a YAML file with a matching name, ensure the glosses, examples, and phrases match the text found in the image.  Do not try to add information not found in the image unless there is a typo.  Do not attempt to re-add any glosses, examples, or phrases that may have been deleted.  Inform the user of this missing information and allow the user to make the choice to re-add the missing information.  Do not modify or delete any existing hints.  Do not add new hints.
+2.  If there is already a YAML file with a matching name, ensure the glosses, examples, and phrases match the text found in the image or provided definition text.  Add missing information according to the rules listed out in the rest of this document.  Do not add new hints.
 
 The following are general consideration when dealing with the definitions -
 
@@ -18,8 +18,11 @@ The following are general consideration when dealing with the definitions -
 8. Leave form.word an empty string '' unless the word is different for that form from the top level word, such as mettere vs mettersi.
 9. DO NOT ADD PROPS THAT DO NOT ALREADY EXIST IN THE DEFINITION PROVIDED.  STOP FUCKING ADDING ALL THE FORMS OF ADJECTIVES UNLESS THESE FORMS ARE EXPLICITLY PRESENT IN THE DEFINITION.
 10. DO NOT ADD SINGLE OR DOUBLE QUOTES UNLESS NECESSARY TO AVOID ERRORS.  
-11.  DO NOT BREAK LINES USING >- IN THE YAML.
-12.  The ❖ symbol indicates a gloss.  If the gloss contains a colon (:), after the colon will be examples pertaining to the gloss.  Multiple examples will be seperated with a semi-colon (;).
-13.  The phrases "anche fig.", "spec. fig.", "anche assol." should generally be considered a tag and is not part of a gloss, examples, phrase, etc.
+11. DO NOT BREAK LINES USING >- IN THE YAML.
+12. The ❖ symbol indicates a gloss.  If the gloss contains a colon (:), after the colon will be examples pertaining to the gloss.  Multiple examples will be seperated with a semi-colon (;).
+13. The phrases "anche fig.", "spec. fig.", "anche assol." should generally be considered a tag and is not part of a gloss, examples, phrase, etc.
+14. DO NOT try to validate the YAML with anything other than the editor itself.  DO NOT try to validate with external system tools.
+15. YOU WILL NOT ATTEMPT TO INSTALL ANY TOOLS OR PACKAGES.
+16. Examples that end with author names in parenthesis, such as (A. Moravia), are literary citations that should not
 
 This command will be available in chat with /define

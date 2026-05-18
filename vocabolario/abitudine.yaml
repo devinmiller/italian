@@ -1,0 +1,43 @@
+- word: abitudine
+  forms:
+    - word: ''
+      pos:
+        - s. f.
+      syl: a-bi-tù-di-ne
+      props: null
+      tags:
+        - italiano fondamentale
+        - sentimenti ed emozioni
+      hints:
+        - (consuetudine) habit
+        - "[d'~] usually"
+        - (assuefazione) [fare l'~ a qlco] to get used to something
+      senses:
+        - glosses:
+            - gloss: disposizione ad agire in un determinato modo acquisita con la continua e regolare ripetizione degli stessi atti
+              tags: null
+              props:
+                prep:
+                  - di, anche seguito da inf.
+                  - a, anche seguito da inf.
+                sin: costume, consuetudine
+              examples:
+                - buona, cattiva, vecchia abitudine
+                - la forza dell'abitudine
+                - avere, prendere, perdere l'abitudine di fare qlco.
+                - avere delle brutte abitudini
+                - fare l'abitudine al rumore
+                - gli manca l'abitudine a confrontarsi con gli altri
+              phrases:
+                - phrase: d'abitudine, abitualmente
+                  tags: null
+                  examples:
+                    - festeggeremo insieme, come d'abitudine, il compleanno
+        - glosses:
+            - gloss: usanze, tradizioni
+              tags:
+                - al pl.
+              props: null
+              examples:
+                - le abitudini alimentari degli italiani
+              phrases: null

@@ -1,0 +1,50 @@
+- word: abituare
+  forms:
+    - word: ""
+      pos:
+        - v. tr.
+      syl: a-bi-tu̱-à-re
+      props:
+        pres: io abìtu̱o, noi abitu̱iàmo
+      tags:
+        - italiano fondamentale
+      hints:
+        - "[~ qlcu a qlco] to get somebody used to something"
+      senses:
+        - glosses:
+            - gloss: far prendere un'abitudine, fisica o morale
+              tags: null
+              props:
+                prep:
+                  - a, anche seguito da inf.
+                sin: assuefare, avvezzare
+              examples:
+                - abituare qlcu. al lavoro, alla fatica, a superare le difficoltà
+              phrases: null
+    - word: abituarsi
+      pos:
+        - v. rifl.
+      syl: a-bi-tu̱-àr-si
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - "[~ a qlco] to get used to something"
+      senses:
+        - glosses:
+            - gloss: prendere un'abitudine
+              tags: null
+              props:
+                prep:
+                  - a, anche seguito da inf.
+                sin: assuefarsi, avvezzarsi
+              examples:
+                - abituarsi al fumo, ai rumori, a un'idea
+                - abituarsi a tacere
+              phrases: null
+            - gloss: adattarsi
+              tags: null
+              props: null
+              examples:
+                - abituarsi a un clima
+              phrases: null

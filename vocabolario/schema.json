@@ -44,12 +44,17 @@
                   "v. intr. pron.", 
                   "v. rifl.",
                   "part. pass.",
-                  "cong."
+                  "cong.",
+                  "in funzione di inter."
                 ]
               },
               {
                 "type": "string",
                 "pattern": "^part\\. pass\\. di .+$"
+              },
+              {
+                "type": "string",
+                "pattern": "^nella loc\\. prep\\. .+$"
               }
             ]
           },
@@ -138,6 +143,7 @@
                   "a", 
                   "a, anche seguito da inf.", 
                   "in", 
+                  "in, raro",
                   "su", 
                   "per", 
                   "con", 
@@ -146,7 +152,8 @@
                   "di, anche seguito da inf.", 
                   "tra", 
                   "fra",
-                  "che"
+                  "che",
+                  "che seguito da congtv."
                 ]
               },
               "minItems": 1

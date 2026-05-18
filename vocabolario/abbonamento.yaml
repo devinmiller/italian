@@ -1,0 +1,37 @@
+- word: abbonamento
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: ab-bo-na-mén-to
+      props: null
+      tags:
+        - contratti e abbonamenti
+      hints:
+        - (a giornale) subscription, (a teatro) season ticket
+        - "[fare l'~ a qlco] (giornali) to subscribe to something, (teatro) to buy a season ticket for sth"
+        - (ferroviario, tranviario) season pass
+      senses:
+        - glosses:
+            - gloss: contratto per cui, mediante il pagamento di un importo, si ha il diritto di ricevere un servizio per un determinato periodo di tempo
+              props: null
+              tags: null
+              examples:
+                - fare, contrarre, sottoscrivere, rinnovare un abbonamento
+                - abbonamento alla televisione
+                - abbonamento mensile, annuale
+              phrases: null
+        - glosses:
+            - gloss: canone da pagarsi in base a tale contratto
+              props: null
+              tags: null
+              examples:
+                - versare l'abbonamento
+              phrases: null
+        - glosses:
+            - gloss: documento che attesta l'esistenza del contratto e il pagamento del canone
+              props: null
+              tags: null
+              examples:
+                - esibire l'abbonamento ferroviario al controllore
+              phrases: null

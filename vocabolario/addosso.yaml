@@ -1,0 +1,190 @@
+- word: addosso
+  forms:
+    - word: ''
+      pos:
+        - avv.
+      syl: ad-dòs-so
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - on
+      senses:
+        - glosses:
+            - gloss: sulle spalle, sul dorso, sulla persona
+              props: null
+              tags: null
+              examples:
+                - porta addosso tutti i gioielli che ha
+              phrases:
+                - phrase: portare, mettersi addosso qlco. di pesante
+                  tags: null
+                  glosses:
+                    - gloss: indossare un indumento pesante
+                      tags: null
+                  examples: null
+                - phrase: levati quella roba d'addosso
+                  tags: null
+                  glosses:
+                    - gloss: toglitela
+                      tags: null
+                  examples: null
+                - phrase: levarsi qlcu. d'addosso
+                  tags: null
+                  glosses:
+                    - gloss: liberarsene
+                      tags:
+                        - fig.
+                  examples: null
+                - phrase: farsela addosso
+                  tags: null
+                  glosses:
+                    - gloss: fare i propri bisogni nei vestiti
+                      tags: null
+                    - gloss: avere molta paura, essere in preda al panico
+                      tags:
+                        - fig.
+                  examples: null
+                - phrase: tirarsi addosso le disgrazie
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: procurarsele
+                      tags: null
+                  examples: null
+                - phrase: avere la maledizione addosso
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: essere molto sfortunato, non riuscire a combinare nulla
+                      tags: null
+                  examples: null
+                - phrase: avere molti anni addosso
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: essere vecchio
+                      tags: null
+                  examples: null
+                - phrase: avere una famiglia numerosa addosso
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: a carico
+                      tags: null
+                  examples: null
+                - phrase: parlarsi addosso
+                  tags:
+                    - fig.
+                  glosses:
+                    - gloss: parlare troppo e in modo compiaciuto
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: nell'animo, in corpo
+              props: null
+              tags: null
+              examples:
+                - questo tempo mette addosso malinconia
+                - mi sento i brividi addosso
+              phrases:
+                - phrase: avere il diavolo addosso
+                  tags: null
+                  glosses:
+                    - gloss: essere irrequieto, agitato, di cattivo umore
+                      tags:
+                        - fig.
+                  examples: null
+    - word: ''
+      pos:
+        - nella loc. prep. addosso a
+      syl: ad-dòs-so
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: sopra, su
+              props: null
+              tags: null
+              examples:
+                - cadere addosso a qlcu.
+              phrases:
+                - phrase: mettere le mani addosso a qlcu.
+                  tags: null
+                  glosses:
+                    - gloss: prenderlo, afferrarlo, catturarlo, percuoterlo, picchiarlo
+                      tags: null
+                  examples: null
+                - phrase: stare addosso a qlcu.
+                  tags: null
+                  glosses:
+                    - gloss: opprimerlo, esortarlo continuamente, sollecitarlo
+                      tags:
+                        - fig.
+                  examples: null
+                - phrase: piantare gli occhi addosso a qlcu.
+                  tags: null
+                  glosses:
+                    - gloss: fissarlo con insistenza
+                      tags: null
+                  examples: null
+                - phrase: mettere gli occhi addosso a qlcu., a qlco.
+                  tags: null
+                  glosses:
+                    - gloss: farne oggetto di desiderio
+                      tags: null
+                  examples: null
+                - phrase: gettare la colpa addosso a qlcu.
+                  tags: null
+                  glosses:
+                    - gloss: incolparlo
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: molto vicino
+              props: null
+              tags: null
+              examples:
+                - le nuove costruzioni vengono su una addosso all'altra
+              phrases: null
+        - glosses:
+            - gloss: contro
+              props: null
+              tags: null
+              examples: null
+              phrases:
+                - phrase: saltare addosso a qlcu.
+                  tags: null
+                  glosses:
+                    - gloss: assalirlo, aggredirlo
+                      tags: null
+                    - gloss: avvicinarsi a qlcu. tentando un approccio sessuale
+                      tags:
+                        - fig.
+                  examples: null
+                - phrase: dare addosso a qlcu.
+                  tags: null
+                  glosses:
+                    - gloss: dargli torto, essergli contro
+                      tags:
+                        - fig.
+                  examples: null
+    - word: ''
+      pos:
+        - in funzione di inter.
+      syl: ad-dòs-so
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: si usa come incitamento a gettarsi contro qlcu., ad assalirlo, aggredirlo
+              props: null
+              tags: null
+              examples:
+                - addosso all'imbroglione!
+                - dagli!, addosso!
+              phrases: null

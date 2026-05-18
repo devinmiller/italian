@@ -1,0 +1,92 @@
+- word: respirare
+  forms:
+    - word: ''
+      pos:
+        - v. intr.
+      syl: re-spi-rà-re
+      props:
+        aus: avere
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: effettuare la respirazione
+              props: null
+              tags: null
+              examples:
+                - respirare con i polmoni, le branchie
+              phrases: null
+            - gloss: inspirare ed espirare
+              props: null
+              tags: null
+              examples:
+                - respirare a pieni polmoni
+              phrases: null
+            - gloss: vivere
+              props: null
+              tags:
+                - est.
+              examples:
+                - il moribondo respira ancora
+              phrases: null
+            - gloss: sentirsi fisicamente a proprio agio
+              props: null
+              tags:
+                - est.
+              examples:
+                - in questa stanza non si respira per il caldo
+              phrases: null
+        - glosses:
+            - gloss: riprendere sollievo, avere un po' di pace, di tranquillità
+              props: null
+              tags:
+                - fig.
+              examples:
+                - cominciare a respirare dopo anni di difficoltà economiche
+                - ora che il pericolo è passato, finalmente respiro
+              phrases: null
+    - word: ''
+      pos:
+        - v. tr.
+      syl: re-spi-rà-re
+      props: null
+      tags:
+        - italiano fondamentale
+      hints: null
+      senses:
+        - glosses:
+            - gloss: immettere nei polmoni, inspirare
+              props: null
+              tags: null
+              examples:
+                - respirare l'aria resinosa di una pineta
+                - respirare vapori mefitici
+              phrases:
+                - phrase: tornare a respirare l'aria nativa
+                  tags: null
+                  glosses:
+                    - gloss: ritornare sul luogo dove si è nati
+                      tags:
+                        - fig.
+                  examples: null
+                - phrase: essere necessario come l'aria che si respira
+                  tags: null
+                  glosses:
+                    - gloss: essere indispensabile
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: percepire
+              props: null
+              tags:
+                - fig.
+              examples:
+                - la tensione si respirava ovunque
+              phrases: null
+            - gloss: assimilare, far proprio
+              props: null
+              tags: null
+              examples:
+                - in quegli anni l'autore respirava la cultura mitteleuropea
+              phrases: null

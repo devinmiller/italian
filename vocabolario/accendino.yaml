@@ -1,0 +1,19 @@
+- word: accendino
+  forms:
+    - word: ''
+      pos:
+        - s. m.
+      syl: ac-cen-dì-no
+      props: null
+      tags:
+        - dispositivi e macchine
+      hints:
+        - lighter
+      senses:
+        - glosses:
+            - gloss: piccolo apparecchio a scintilla per accendere spec. sigarette e sigari
+              tags: null
+              props:
+                sin: accendisigaro
+              examples: null
+              phrases: null

@@ -1,0 +1,67 @@
+- word: abbinare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: ab-bi-nà-re
+      props: null
+      tags:
+        - moda e abbigliamento
+      hints:
+        - (unire) to join, (colori, abiti) to match
+      senses:
+        - glosses:
+          - gloss: riunire in coppie cose particolarmente affini fra loro
+            tags: null
+            props:
+              sin: accoppiare
+              contr: sdoppiare
+            examples:
+              - abbinare due spettacoli
+            phrases: null
+          - gloss: collegare
+            tags:
+              - est.
+            props:
+              prep:
+                - a
+            examples:
+              - abbinare un biglietto della lotteria a un cavallo
+            phrases: null
+          - gloss: accostare nel modo più opportuno o armonico
+            tags: null
+            props:
+              prep:
+                - a
+                - con
+            examples:
+              - abbinare un cibo a (o con) un vino
+            phrases: null
+        - glosses:
+          - gloss: nell'industria tessile, unire due fili per sottoporli alla ritorcitura
+            tags: null
+            props:
+              sin: binare
+            examples: null
+            phrases: null
+    - word: abbinarsi
+      pos:
+        - v. intr. pron.
+        - v. rifl.
+      syl: ab-bi-nàr-si
+      props: null
+      tags: null
+      hints: null
+      senses:
+        - glosses:
+          - gloss: intonarsi, accostarsi nel modo più opportuno o armonico
+            tags:
+              - (colori, abiti) to match, go together
+            props:
+              prep:
+                - a
+                - con
+            examples:
+              - i due colori si abbinano bene
+              - questa camicia si abbina perfettamente con la (o alla) tua giacca
+            phrases: null

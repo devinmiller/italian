@@ -7,7 +7,9 @@
       props:
         pres: io accèrto
       tags: null
-      hints: null
+      hints:
+        - (verificare) to check
+        - admin. to assess
       senses:
         - glosses:
             - gloss: rendere certo, dare per certo
@@ -41,15 +43,17 @@
       syl: ac-cer-tàr-si
       props: null
       tags: null
-      hints: null
+      hints:
+        - to make sure
       senses:
         - glosses:
-            - gloss: farsi certo, assicurarsi (+ di, + che seguito da congtv.)
+            - gloss: farsi certo, assicurarsi
               tags: null
               props:
                 sin: sincerarsi
                 prep:
                   - di
+                  - che seguito da congtv.
               examples:
                 - mi accerterò della cosa
                 - accertatevi che non sorgano difficoltà

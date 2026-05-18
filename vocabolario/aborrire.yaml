@@ -1,0 +1,42 @@
+- word: aborrire
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: a-bor-rì-re
+      props:
+        pres: io aborrìsco o abòrro, tu aborrìsci o abòrri
+      tags:
+        - parola da salvare
+      hints:
+        - to abhor
+      senses:
+        - glosses:
+            - gloss: avere in orrore, in avversione
+              tags: null
+              props:
+                sin: detestare, odiare
+              examples:
+                - aborrire l'ipocrisia
+              phrases: null
+    - word: ''
+      pos:
+        - v. intr.
+      syl: a-bor-rì-re
+      props:
+        aus: avere
+      tags:
+        - parola da salvare
+      hints:
+        - to be disgusted
+        - "[~ da qlco] to be disgusted by something"
+      senses:
+        - glosses:
+            - gloss: rifuggire con orrore
+              tags: null
+              props:
+                prep:
+                  - da
+              examples:
+                - aborrire dalla menzogna, dal sangue
+              phrases: null

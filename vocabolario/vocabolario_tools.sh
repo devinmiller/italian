@@ -160,6 +160,129 @@ cmd_list_tags() {
     trap - EXIT
 }
 
+# Command: filter-csv
+# Removes lines from a CSV where the first column exactly matches a headword or word form in the vocabulary.
+cmd_filter_csv() {
+    local input_csv="${1:-}"
+    local output_csv="${2:-}"
+    local dir="${3:-}"
+    
+    if [[ -z "$input_csv" ]]; then
+        echo "Usage: $0 filter-csv <input_csv> [output_csv] [directory]" >&2
+        return 1
+    fi
+
+    if [[ -z "$output_csv" ]]; then
+        if [[ "$input_csv" == *.* ]]; then
+            output_csv="${input_csv%.*}_filtered.${input_csv##*.}"
+        else
+            output_csv="${input_csv}_filtered"
+        fi
+    fi
+    
+    dir=$(get_dir "$dir")
+    if [[ ! -d "$dir" ]]; then
+        echo "Error: Not a directory: $dir" >&2
+        return 1
+    fi
+
+    local tmp_words
+    tmp_words=$(mktemp)
+    trap 'rm -f "$tmp_words"' EXIT
+
+    echo "Extracting vocabulary words from $dir..." >&2
+    shopt -s nullglob
+    for f in "$dir"/*.yaml; do
+        yq e '.[].word, .[].forms[].word' "$f" 2>/dev/null >> "$tmp_words" || true
+    done
+
+    # Remove empty lines and sort unique
+    local tmp_unique
+    tmp_unique=$(mktemp)
+    trap 'rm -f "$tmp_words" "$tmp_unique"' EXIT
+    grep -v '^\s*$' "$tmp_words" | sort -u > "$tmp_unique"
+
+    local word_count
+    word_count=$(wc -l < "$tmp_unique")
+    echo "Loaded $word_count words from vocabulary." >&2
+
+    awk -v words_file="$tmp_unique" '
+    BEGIN {
+        while ((getline word < words_file) > 0) {
+            if (word != "") {
+                words[word] = 1
+            }
+        }
+        close(words_file)
+        removed = 0
+        kept = 0
+    }
+    {
+        first_col = ""
+        if ($0 ~ /^"/) {
+            idx = index(substr($0, 2), "\"")
+            if (idx > 0) {
+                first_col = substr($0, 2, idx - 1)
+            }
+        } else {
+            idx = index($0, ",")
+            if (idx > 0) {
+                first_col = substr($0, 1, idx - 1)
+            } else {
+                first_col = $0
+            }
+        }
+        
+        if (first_col in words) {
+            removed++
+        } else {
+            print $0
+            kept++
+        }
+    }
+    END {
+        print "Removed " removed " rows. Kept " kept " rows." > "/dev/stderr"
+    }
+    ' "$input_csv" > "$output_csv"
+
+    rm -f "$tmp_words" "$tmp_unique"
+    trap - EXIT
+}
+
+# Command: sort-csv
+# Sorts a CSV file based on the contents of the first column, preserving the header.
+cmd_sort_csv() {
+    local input_csv="${1:-}"
+    local output_csv="${2:-}"
+    
+    if [[ -z "$input_csv" ]]; then
+        echo "Usage: $0 sort-csv <input_csv> [output_csv]" >&2
+        return 1
+    fi
+
+    if [[ -z "$output_csv" ]]; then
+        if [[ "$input_csv" == *.* ]]; then
+            output_csv="${input_csv%.*}_sorted.${input_csv##*.}"
+        else
+            output_csv="${input_csv}_sorted"
+        fi
+    fi
+    
+    if [[ ! -f "$input_csv" ]]; then
+        echo "Error: File not found: $input_csv" >&2
+        return 1
+    fi
+
+    echo "Sorting $input_csv by the first column..." >&2
+    
+    # Extract header
+    head -n 1 "$input_csv" > "$output_csv"
+    # Sort the rest
+    tail -n +2 "$input_csv" | sort -t, -k1,1 >> "$output_csv"
+    
+    echo "Sorted CSV saved to $output_csv" >&2
+}
+
 # --- Main Entry Point ---
 
 usage() {
@@ -170,6 +293,8 @@ usage() {
     echo "  list-words                  List the 'word' value from all files"
     echo "  count-entries               Count total YAML files"
     echo "  list-tags [--show-files]    List unique tags and their frequency"
+    echo "  filter-csv <in> [out] [dir] Remove CSV rows matching vocab words"
+    echo "  sort-csv <in> [out]         Sort CSV by first column, keeping header"
     exit 1
 }
 
@@ -194,6 +319,12 @@ case "$command_name" in
         ;;
     list-tags)
         cmd_list_tags "$@"
+        ;;
+    filter-csv)
+        cmd_filter_csv "$@"
+        ;;
+    sort-csv)
+        cmd_sort_csv "$@"
         ;;
     *)
         echo "Error: Unknown command '$command_name'" >&2

@@ -1,0 +1,64 @@
+- word: accedere
+  forms:
+    - word: ''
+      pos:
+        - v. intr.
+      syl: ac-cè-de-re
+      props:
+        coniug: cedere
+        aus: essere nel sign. 1, avere nel sign. 2, avere nel sign. 3
+      tags: null
+      hints:
+        - "[~ a qlco] (arrivare) to get to something"
+        - fig. [~ a qlco] (university) to be admitted to something, (partitio, servizio, diplomatico) to join something
+        - (aderire a) to accede to
+      senses:
+        - glosses:
+            - gloss: avvicinarsi a un luogo
+              props:
+                prep:
+                  - a
+              tags:
+                - lett.
+              examples: null
+              phrases: null
+            - gloss: entrare
+              props: null
+              tags: null
+              examples:
+                - al forte si accede per un cunicolo
+                - accedere al domicilio di qlcu. nel corso di un'ispezione giudiziale
+              phrases: null
+        - glosses:
+            - gloss: entrare a far parte di un organismo
+              props:
+                prep:
+                  - a
+              tags:
+                - fig.
+              examples:
+                - accedere alla magistratura, a un dicastero
+              phrases: null
+            - gloss: riuscire a ottenere una carica e sim.
+              props:
+                prep:
+                  - a
+              tags: null
+              examples:
+                - accedere alla carica di presidente
+              phrases: null
+            - gloss: riuscire a utilizzare un dato servizio
+              props: null
+              tags: null
+              examples:
+                - accedere al proprio conto corrente tramite Internet
+              phrases: null
+        - glosses:
+            - gloss: acconsentire, aderire
+              props: null
+              tags:
+                - raro
+              examples:
+                - accedere ai voleri della maggioranza
+                - accedere a una richiesta
+              phrases: null

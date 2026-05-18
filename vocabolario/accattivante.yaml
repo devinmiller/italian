@@ -1,0 +1,20 @@
+- word: accattivante
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: ac-cat-ti-vàn-te
+      props: null
+      tags:
+        - sentimenti ed emozioni
+      hints:
+        - captivating
+      senses:
+        - glosses:
+            - gloss: che conquista il favore, la benevolenza, la simpatia e sim. degli altri
+              tags: null
+              props: null
+              examples:
+                - un sorriso, uno sguardo accattivante
+                - una canzoncina accattivante
+              phrases: null

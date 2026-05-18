@@ -1,0 +1,29 @@
+- word: accantonare
+  forms:
+    - word: ''
+      pos:
+        - v. tr.
+      syl: ac-can-to-nà-re
+      props:
+        pres: io accantóno
+      tags: null
+      hints:
+        - (merci) to put aside
+        - com. (utili) to to set aside
+        - mil. (truppe) to billet
+        - fig. (progetto) to shelve 
+      senses:
+        - glosses:
+            - gloss: mettere da parte
+              tags: null
+              props: null
+              examples:
+                - accantonare una somma, una difficoltà, una pratica
+              phrases: null
+        - glosses:
+            - gloss: lasciare da parte
+              tags: null
+              props: null
+              examples:
+                - accantonare questioni gravi
+              phrases: null

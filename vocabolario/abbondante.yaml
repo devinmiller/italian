@@ -1,0 +1,68 @@
+- word: abbondante
+  forms:
+    - word: ''
+      pos:
+        - agg.
+      syl: ab-bon-dàn-te
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - (pasto) generous, (vestitio) large
+      senses:
+        - glosses:
+            - gloss: che è in gran quantità
+              tags: null
+              props:
+                sin: copioso
+              examples:
+                - un raccolto abbondante
+                - abbondanti piogge
+              phrases: null
+            - gloss: che supera di un po' la giusta misura
+              tags: null
+              props:
+                contr: scarso
+              examples:
+                - un chilo abbondante
+                - ci vuole un'ora abbondante
+              phrases:
+                - phrase: una giacca abbondante
+                  tags: null
+                  glosses:
+                    - gloss: larga
+                      tags: null
+                  examples: null
+                - phrase: una donna dal seno abbondante
+                  tags: null
+                  glosses:
+                    - gloss: prosperoso
+                      tags: null
+                  examples: null
+        - glosses:
+            - gloss: che ha, che possiede in gran quantità
+              tags: null
+              props:
+                prep:
+                  - di
+                  - in, raro
+              examples:
+                - una regione abbondante d'acqua
+                - un libro abbondante d'illustrazioni
+              phrases: null
+    - word: abbondantemente
+      pos:
+        - avv.
+      syl: ab-bon-dan-te-mén-te
+      props: null
+      tags:
+        - italiano fondamentale
+      hints:
+        - profusely, copiously, abundantly
+      senses:
+        - glosses:
+            - gloss: in abbondanza, copiosamente
+              tags: null
+              props: null
+              examples: null
+              phrases: null
